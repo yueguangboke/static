@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>270_Petronas Towers.kml</name>
+	<StyleMap id="msn_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>马来西亚吉隆坡双子塔</name>
+		<LookAt>
+			<longitude>101.7115061679656</longitude>
+			<latitude>3.157844311021143</latitude>
+			<altitude>0</altitude>
+			<range>403.6233626993051</range>
+			<tilt>-7.140710563481119e-012</tilt>
+			<heading>3.832738098734731e-007</heading>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>101.7115114533679,3.157881251528954,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

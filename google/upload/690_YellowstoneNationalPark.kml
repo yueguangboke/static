@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Yellowstone National Park.kml</name>
+	<StyleMap id="default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Yellowstone National Park</name>
+		<open>1</open>
+		<description><![CDATA[This folder has major points of interest among the countless here in the nation's first national park (established in 1872), divided into general areas. Most of the information is from the park's <a href="http://www.yellowstoneparknet.com/">website</a>. Of course there are thousands of trails and backcountry areas for the more adventurous as well as the major destinations included here - 99% of the park's 3,400 square miles (2.2 million acres) remain undeveloped.
+
+Yellowstone offers an incredible variety of things to see and do with its natural beauty of mountains, rivers, canyons and lakes; fantastic geothermal activity in the form of geysers, hot springs, colorful pools and paint pots; and a vast variety of wildlife including bears, bison, elk, moose, antelope, bighorn sheep, mountain goats, wolves, coyotes, bobcats, deer, and the mythical jackelope. Unlike many wilderness areas, most visitors will see many of these creatures when visiting Yellowstone.]]></description>
+		<View>
+			<longitude>-110.3807032897736</longitude>
+			<latitude>44.54338982886499</latitude>
+			<range>132610.0960365903</range>
+			<tilt>0</tilt>
+			<heading>0.5067539834967845</heading>
+		</View>
+		<Folder>
+			<name>Park Entrances</name>
+			<View>
+				<longitude>-110.3807032897736</longitude>
+				<latitude>44.54338982886499</latitude>
+				<range>132610.0960365903</range>
+				<tilt>0</tilt>
+				<heading>0.5067539834967845</heading>
+			</View>
+			<Placemark>
+				<name>West Entrance</name>
+				<description>The West Entrance is near the town of West Yellowstone, Montana, where the Yellowstone Airport is located.</description>
+				<View>
+					<longitude>-111.0786191287162</longitude>
+					<latitude>44.66305979301782</latitude>
+					<range>9747.810012106578</range>
+					<tilt>0</tilt>
+					<heading>-0.4101482434685764</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Point>
+					<coordinates>-111.0632084592431,44.65310982377464,2045.175924392957</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Northeast Entrance</name>
+				<description>This entrance arrives into the park amid towering peaks and ridges.</description>
+				<View>
+					<longitude>-109.9969571707779</longitude>
+					<latitude>45.00879034573735</latitude>
+					<range>7867.063168943829</range>
+					<tilt>0</tilt>
+					<heading>0.7785894885387461</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Point>
+					<coordinates>-110.0015969584608,45.00329069450748,2565.76619895506</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Entrance</name>
+				<description>Near the town of Gardiner, Montana, this entrance provides a dramatic arrival to Yellowstone through the deep canyons leading into Mammoth Hot Springs area. This is the entrance with the famous brick arch and plaques reading &quot;For the benefit and enjoyment of the people&quot; and &quot;Created by act of Congress March 1, 1872&quot;.</description>
+				<View>
+					<longitude>-110.7049405849138</longitude>
+					<latitude>45.03034409540928</latitude>
+					<range>2978.968607421863</range>
+					<tilt>0</tilt>
+					<heading>0.07269915180037803</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Point>
+					<coordinates>-110.7046519698374,45.0296991469827,1611.988614414198</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>East Entrance</name>
+				<description>This entrance is the one many people use coming or going from Cody, Wyoming</description>
+				<View>
+					<longitude>-110.0006261249874</longitude>
+					<latitude>44.48919010558768</latitude>
+					<range>16612.71164534771</range>
+					<tilt>0</tilt>
+					<heading>0.7035198464441725</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Point>
+					<coordinates>-110.0095672049487,44.49280027643186,2600.662131033957</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Entrance</name>
+				<description>This entrance is at the point Lewis River branches off from the Snake River, and is the one visitors arriving from or going to Grand Tetons National Park will use.</description>
+				<View>
+					<longitude>-110.6661892714743</longitude>
+					<latitude>44.13554229946193</latitude>
+					<range>2833.330736089787</range>
+					<tilt>0</tilt>
+					<heading>0.3060100730235003</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Point>
+					<coordinates>-110.6672305497924,44.136103572954,2120.808377186392</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Yellowstone Lake</name>
+			<description>With a surface area of 136 square miles, Yellowstone Lake is the largest lake at high elevation in North America. It is a natural lake, situated at 7,733 feet above sea level. It is roughly 20 miles long and 14 miles wide with 110 miles of shoreline. It is frozen nearly half the year. Settlements around the lake offer many amenities as well as RV parks and some tent camping, along with many trails.
+
+The Yellowstone River is the last major undammed river in the lower 48 states, flowing 671 miles from its source southeast of Yellowstone into the Missouri &amp; Mississippi Rivers and eventually into the Atlantic Ocean.</description>
+			<View>
+				<longitude>-110.4134101324107</longitude>
+				<latitude>44.42456237227403</latitude>
+				<range>42669.4024863405</range>
+				<tilt>1.932404606279577e-011</tilt>
+				<heading>-0.03654008317305169</heading>
+			</View>
+			<Placemark>
+				<name>West Thumb Geyser Basin</name>
+				<description>This is one of the more striking geothermal areas as it sits on the edge of the pristine mountain lake. Features here include fumaroles, the colorful Thumb Paintpots, Fishing Cone Geyser, and Lone Pine Geyser.</description>
+				<View>
+					<longitude>-110.5718376255395</longitude>
+					<latitude>44.41670181167991</latitude>
+					<range>2793.380542981925</range>
+					<tilt>1.75529289439014e-011</tilt>
+					<heading>-0.1473888197414964</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.5719723956526,44.41700099740019,2374.586896387153</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bridge Bay</name>
+				<description>Bridge Bay has a marina, camping, and shops.</description>
+				<View>
+					<longitude>-110.4265886159141</longitude>
+					<latitude>44.53239781148953</latitude>
+					<range>5293.198535913557</range>
+					<tilt>1.361153174190672e-011</tilt>
+					<heading>-0.04574571179543639</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal3/icon44.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4333372255664,44.5311894077222,2391.070697217625</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grant Village</name>
+				<description>Grant Village offers a visitor center, post office, lodge, campground, stores and restaurants.</description>
+				<View>
+					<longitude>-110.5588037894478</longitude>
+					<latitude>44.39527007242773</latitude>
+					<range>5324.898224047416</range>
+					<tilt>4.502395319897662e-012</tilt>
+					<heading>-0.1382695989752158</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal3/icon44.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.5588025867521,44.39527053762454,2369.478904809489</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lake Village</name>
+				<description>Lake Village offers a lodge, medical center, post office, restaurants and stores.</description>
+				<View>
+					<longitude>-110.4000133923655</longitude>
+					<latitude>44.55171110464004</latitude>
+					<range>4578.144394686424</range>
+					<tilt>3.853591116040386e-011</tilt>
+					<heading>-0.02723474549132867</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal3/icon44.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4000127125384,44.55170988133831,2392.59251950825</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fishing Bridge</name>
+				<description>Fishing Bridge, where the Yellowstone River leaves Yellowstone Lake, has a visitor center, restaurants, stores, and RV park.</description>
+				<View>
+					<longitude>-110.3745335036252</longitude>
+					<latitude>44.56418681153578</latitude>
+					<range>4309.550862933699</range>
+					<tilt>3.336463400054366e-011</tilt>
+					<heading>-0.009356261629516414</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal3/icon44.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.3768343766677,44.56525345705891,2388.183441694327</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Other Campgrounds</name>
+			<description>Most campgrounds are on a first-come, first-served basis and often fill up by noon during the busy summer season. Some areas allow only RV or trailers and prohibit tent camping due to the proximity of bears. 
+
+When bears become a regular nuisance or hazard they are removed to remote areas of the park, but you could receive a visit from a black bear or grizzly at any time: this is their home, you are merely visiting. Pay attention to all instructions about food storage and bear safety - Yellowstone is bear country!</description>
+			<View>
+				<longitude>-110.3807032897736</longitude>
+				<latitude>44.54338982886499</latitude>
+				<range>132610.0960365903</range>
+				<tilt>0</tilt>
+				<heading>0.5067539834967845</heading>
+			</View>
+			<Placemark>
+				<name>Slough Creek Campground</name>
+				<View>
+					<longitude>-110.3075199752611</longitude>
+					<latitude>44.9446939806192</latitude>
+					<range>3906.320361826775</range>
+					<tilt>0</tilt>
+					<heading>0.559235205340873</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.3090990607025,44.94402803097302,1983.210619130871</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lewis Lake Campground</name>
+				<description>Tent camping at Lewis Lake near Lewis Falls and the South Entrance to the park.</description>
+				<View>
+					<longitude>-110.6356437255793</longitude>
+					<latitude>44.26853104081283</latitude>
+					<range>4385.088768374771</range>
+					<tilt>0</tilt>
+					<heading>0.3272969752032109</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.6367395791015,44.26829229590194,2374.223798732607</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pebble Creek Campground</name>
+				<View>
+					<longitude>-110.1265877413813</longitude>
+					<latitude>44.92111643768607</latitude>
+					<range>4906.918203977662</range>
+					<tilt>0</tilt>
+					<heading>0.6869854658003447</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.1251265159905,44.9194214426875,2221.268043603373</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Madison Campground</name>
+				<description>Madison area is near the West Entrance and offers RV and tent camping next to the peacefully beautiful Madison River in the shadow of National Park Mountain</description>
+				<View>
+					<longitude>-110.8605333278901</longitude>
+					<latitude>44.6446424172817</latitude>
+					<range>2856.436890284848</range>
+					<tilt>0</tilt>
+					<heading>0.1698068450890545</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8632407151897,44.64457354634092,2168.200361560135</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Indian Creek Campground</name>
+				<View>
+					<longitude>-110.7364067002191</longitude>
+					<latitude>44.8892561029455</latitude>
+					<range>4389.270401594037</range>
+					<tilt>0</tilt>
+					<heading>-7.988300550010981</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7384297434738,44.89014989377942,2242.852080540044</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Grand Canyon and Canyon Village</name>
+			<description>(You may need to &quot;nudge&quot; Keyhole between placemarks here due to elevation &amp; tilt used)
+Perhaps the most picturesque area of the Yellowstone region is the Grand Canyon of Yellowstone. The canyon is approximately 10,000 years old, 20 miles long, 1000 ft deep, and 2500 ft wide. The canyon appears painted with deeps reds oranges and coppers. With the Yellowstone River, Upper and Lower Falls, it is not surprising that canyon is used by many artist as their inspiration.
+
+Canyon Village offers some comforts of home with shopping, post office, a lodge, cabins,  and RV and tent camping.</description>
+			<Placemark>
+				<name>Artist Point</name>
+				<description>South Rim, Grand Canyon of the Yellowstone
+Some of the best views of the canyon and Lower Falls</description>
+				<View>
+					<longitude>-110.5274928657661</longitude>
+					<latitude>44.71343862719631</latitude>
+					<range>4677.44329895353</range>
+					<tilt>57.55921938971382</tilt>
+					<heading>-102.159783132792</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4809824042276,44.71963314781543,2424.105694440769</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lower Falls</name>
+				<description>Lower Falls of the Yellowstone are 308 feet tall and carry from 5,000 gallons per second in the late fall to 63,500 gallons per second at peak runoff.</description>
+				<View>
+					<longitude>-110.529232825412</longitude>
+					<latitude>44.71074611652087</latitude>
+					<range>4023.204291725567</range>
+					<tilt>51.98876914158154</tilt>
+					<heading>-106.9779162987355</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4950484540357,44.71760857452145,2420.149429935199</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Upper Falls</name>
+				<description>Upper Falls of the Yellowstone are 109 feet tall and carry 5,000 to 63,500 gallons per second of water down the Yellowstone River to Lower Falls and on to the Grand Canyon of the Yellowstone. 
+Unfortunately perspective is lost in Keyhole: they are truly magnificent.</description>
+				<View>
+					<longitude>-110.5387991821629</longitude>
+					<latitude>44.70153836768014</latitude>
+					<range>4261.720724701416</range>
+					<tilt>55.52495765030838</tilt>
+					<heading>-111.9205920167989</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4992041213073,44.71285352280056,2411.53606227911</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Visitor Center, post office, store</name>
+				<View>
+					<longitude>-110.4915040337963</longitude>
+					<latitude>44.73412349360746</latitude>
+					<range>2674.477209417127</range>
+					<tilt>0</tilt>
+					<heading>-75.55721771519103</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal3/icon44.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.491845503477,44.73391199809132,2453.64515743524</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canyon Lodge and cabins</name>
+				<View>
+					<longitude>-110.489112181723</longitude>
+					<latitude>44.73118537687837</latitude>
+					<range>3046.108300557795</range>
+					<tilt>0</tilt>
+					<heading>110.2479554705675</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4898975559221,44.73358751903226,2452.256641427848</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canyon RV Park</name>
+				<View>
+					<longitude>-110.4973945602744</longitude>
+					<latitude>44.74158176921897</latitude>
+					<range>2904.833605987901</range>
+					<tilt>0</tilt>
+					<heading>110.242126783812</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4968609419064,44.74213965716212,2497.917139648413</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canyon Village Campground</name>
+				<View>
+					<longitude>-110.4818005309978</longitude>
+					<latitude>44.73668790626815</latitude>
+					<range>3389.304219123861</range>
+					<tilt>0</tilt>
+					<heading>8.750480591550401</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4831810740011,44.73760973436778,2462.967186747054</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lookout Point</name>
+				<description>North Rim, Grand Canyon of the Yellowstone
+Use the Rotate arrows to see the views in all directions</description>
+				<View>
+					<longitude>-110.440522445821</longitude>
+					<latitude>44.7104783331637</latitude>
+					<range>4597.212573154886</range>
+					<tilt>57.46456910219474</tilt>
+					<heading>111.8738373729177</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4849853694098,44.72311742886019,2428.353261426238</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Inspiration Point</name>
+				<description>North Rim, Grand Canyon of the Yellowstone
+Use the Rotate arrows to see the views in all directions</description>
+				<View>
+					<longitude>-110.4667513410705</longitude>
+					<latitude>44.69084017895949</latitude>
+					<range>4650.243928828733</range>
+					<tilt>58.07207376903977</tilt>
+					<heading>175.6107501724715</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4702735644182,44.72545341766849,2438.86593112109</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grand Canyon of the Yellowstone</name>
+				<description><![CDATA[This fantastic view of the canyon and falls was contributed by <a href="http://bbs.keyhole.com/ubb/showthreaded.php?Cat=&Board=general&Number=26515&page=3&view=collapsed&sb=5&o=&vc=1">Hill</a>]]></description>
+				<View>
+					<longitude>-110.5175359295787</longitude>
+					<latitude>44.71545248402267</latitude>
+					<range>4879.949491410693</range>
+					<tilt>49.54746532022965</tilt>
+					<heading>-105.0812237849357</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4864273684087,44.72196126110451,2426.305414910799</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grand Canyon of the Yellowstone</name>
+				<description>The canyon proper is roughly 20 miles long. It varies from 800 to 1,200 feet deep and is 1,500 to 4,000 feet wide, ending in the spectacular Upper and Lower Falls of the Yellowstone River. 
+
+Soaring over Yellowstone or perched high in their enormous five foot nests, live the osprey. Since the 1980&apos;s six to ten osprey nests have been seen in the canyon. Meadows and forests surround the canyon and offer habitat for other wildlife such as elk, moose, and bison.</description>
+				<View>
+					<longitude>-110.3461633694599</longitude>
+					<latitude>44.84576727289254</latitude>
+					<range>6706.757777993817</range>
+					<tilt>68.76574755928789</tilt>
+					<heading>156.3595866121137</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.3710815396317,44.88609571393937,2106.487195654637</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Midway &amp; Lower Geyser Basins</name>
+			<description>Many more geysers, hot springs, and colorful pools are in these areas, most with boardwalk interpretive trails. 
+
+Rudyard Kipling immortalized Midway Basin in this basin in 1889 by calling it &quot;Hell&apos;s Half Acre&quot;. Lower Geyser Basin has a large assortment of mud pots, geysers, pools, springs, and fumaroles.</description>
+			<View>
+				<longitude>-110.8243208887083</longitude>
+				<latitude>44.54577033063958</latitude>
+				<range>7774.006382896907</range>
+				<tilt>0</tilt>
+				<heading>-24.84353336957472</heading>
+			</View>
+			<Placemark>
+				<name>Fountain Paint Pot</name>
+				<description>Mud pots are found at the highest points in a hydrothermal basin. That puts them above the water table, so they contain only water from condensed steam or the ground surface. The water becomes acidic, breaking down rocks and minerals to form mud. Over many years, a muddy spring becomes a mud pot.</description>
+				<View>
+					<longitude>-110.8059097294513</longitude>
+					<latitude>44.54982122305975</latitude>
+					<range>2496.707166152921</range>
+					<tilt>0</tilt>
+					<heading>-24.83062629485719</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8061536898104,44.55010874746802,2269.062602127885</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pocket Basin Mud Pots</name>
+				<description>The largest collection of mud pots in Yellowstone, Pocket Basin Mud Pots is an isolated group with no designated access to this very fragile and delicate area. The basin was formed by a hydrothermal explosion, a result from overheated ground water that exploded into steam, leaving a crater-like basin.</description>
+				<View>
+					<longitude>-110.8334777202668</longitude>
+					<latitude>44.56204902273374</latitude>
+					<range>3115.907935636422</range>
+					<tilt>0</tilt>
+					<heading>-24.84996963542147</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8334779322101,44.56205125470066,2208.518144703599</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Excelsior Geyser Crater</name>
+				<description>Excelsior is the third largest geyser in the world, and was once considered the park&apos;s most powerful geyser. It&apos;s now dormant since its last known major eruptions during the 1880s, although it did erupt again in 1985 for two days. Today&apos;s it&apos;s considered a hot spring, a productive thermal spring, discharging more than 4050 gallons of boiling water per minute.</description>
+				<View>
+					<longitude>-110.8365580875532</longitude>
+					<latitude>44.52655441050229</latitude>
+					<range>2544.338275781578</range>
+					<tilt>0</tilt>
+					<heading>-24.85211430573223</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8366679170963,44.52629402133499,2255.088861332332</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grand Prismatic Spring</name>
+				<description>The largest hot spring in Yellowstone and considered to be third largest in the world, named for its rainbow-like colors. It has a deep blue center followed by pale blue, green algae forms along the shallow edge, and the outside has a scalloped rim of yellow fading to orange, with a red outer border. Steam often shrouds the spring which reflects the brilliant colors. Grand Prismatic discharges an estimated 560 gallons of water per minute.</description>
+				<View>
+					<longitude>-110.838091900918</longitude>
+					<latitude>44.52474260030038</latitude>
+					<range>2624.921307552748</range>
+					<tilt>0</tilt>
+					<heading>-24.85318981759962</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8378575418569,44.52499504135463,2258.780536525048</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Great Fountain Geyser</name>
+				<description>The only predicted geyser in Lower Geyser Basin, Great Fountain Geyser, Great Fountain&apos;s eruption is grand, erupting from a large, terraced platform with massive bursts exploding up to 150 feet high. It is the only predicted geyser in Yellowstone National Park that you can drive to and watch from the car.</description>
+				<View>
+					<longitude>-110.8000322634271</longitude>
+					<latitude>44.5363867485247</latitude>
+					<range>2649.499934365968</range>
+					<tilt>0</tilt>
+					<heading>-2.135658673975283</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8000850131733,44.53654440730294,2305.367859463878</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Tower Roosevelt area</name>
+			<description>The geology of the Tower district is incredibly varied. Major landforms are the result of geologic events including volcanos, glaciers, and erosion. The variety here ranges from petrified trees to mountains to the the gorges along the Yellowstone River&apos;s Black Canyon and the Grand Canyon of the Yellowstone.
+
+The eroding power of running water has been at work in the district for many millions of years. The pinnacles of Tower Fall, the exposed rainbow colors of the Grand Canyon of the Yellowstone at Calcite Springs, and the fearsome gorge of the Black Canyon all are due, at least in part, to the forces of running water and gravity.</description>
+			<Placemark>
+				<name>Petrified Tree</name>
+				<description>The Petrified Tree, located near the Lost Lake trailhead, is an excellent example of an ancient redwood, similar to many found on nearby Specimen Ridge, that is easily accessible to park visitors. The interpretive message here also applies to those trees found on Specimen Ridge.</description>
+				<View>
+					<longitude>-110.4352459392433</longitude>
+					<latitude>44.91469766881654</latitude>
+					<range>9878.899537685886</range>
+					<tilt>0</tilt>
+					<heading>0.1983776410809529</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4458796169112,44.92067939883983,2072.875556943217</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Calcite Springs</name>
+				<description>This grouping of thermal springs along the Yellowstone River signals the downstream end of the Grand Canyon of the Yellowstone. The geothermally altered rhyolite inspired the artist Moran; his paintings of this scene were among those presented to Congress in 1872, leading to the establishment of the park. The steep, columnar basalt cliffs on the opposite side of the river from the overlook are remnants of an ancient lava flow, providing a window into the past volcanic forces that shaped much of the Yellowstone landscape. The gorge and cliffs provide habitat for numerous wildlife species including bighorn sheep, red-tailed hawks, and ospr</description>
+				<View>
+					<longitude>-110.3949915529965</longitude>
+					<latitude>44.90647804481912</latitude>
+					<range>3621.917782655806</range>
+					<tilt>0</tilt>
+					<heading>0.2267891406100634</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.3949919626477,44.90648041178034,1983.594396959218</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tower Campground</name>
+				<View>
+					<longitude>-110.3899757966727</longitude>
+					<latitude>44.8928467276051</latitude>
+					<range>3676.95516079451</range>
+					<tilt>0</tilt>
+					<heading>0.23032813030111</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.3895893486111,44.89130924344111,1976.313722220393</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tower Fall</name>
+				<description>Tower Fall is the most recognizable natural feature in this area. The 132-foot drop of Tower Creek, framed by eroded volcanic pinnacles has been documented by park visitors from the earliest trips of Europeans into the Yellowstone region. Its idyllic setting has inspired numerous artists, including Thomas Moran. His painting of Tower Fall played a crucial role in the establishment of Yellowstone National Park in 1872. The nearby Bannock Ford on the Yellowstone River was an important travel route for early Native Americans as well as for early European visitors and miners up to the late 19th century.</description>
+				<View>
+					<longitude>-110.384069807491</longitude>
+					<latitude>44.89500057466606</latitude>
+					<range>3734.779170185626</range>
+					<tilt>0</tilt>
+					<heading>0.2344986919239886</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.3841109629242,44.89479396151747,1967.864016348987</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Roosevelt Lodge</name>
+				<description>Amenities in this area include Roosevelt Lodge and cabins, food service, store, gas, and horse rentals, as well as a ranger station</description>
+				<View>
+					<longitude>-110.4152770041667</longitude>
+					<latitude>44.91304042253169</latitude>
+					<range>3779.253622997273</range>
+					<tilt>0</tilt>
+					<heading>0.2124631532124963</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal3/icon44.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.4167286275772,44.91336602524872,1964.169113924153</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Mammoth Hot Springs Area</name>
+			<description><![CDATA[Park Headquarters are located here along with historic Fort Yellowstone, a visitor center and medical center, post office, stores, amenities, and camping. Bighorn sheep are often seen in this area and on the high terraces, greeting visitors arriving from the Park's north entrance. <a href="http://www.yellowstoneparknet.com/webcams/mammoth.php">Mammoth Webcam</a>]]></description>
+			<View>
+				<longitude>-110.7011190340108</longitude>
+				<latitude>44.9722585112964</latitude>
+				<range>4141.039327506244</range>
+				<tilt>0</tilt>
+				<heading>-28.18927190766677</heading>
+			</View>
+			<Placemark>
+				<name>Mammoth Campground</name>
+				<View>
+					<longitude>-110.6942459300063</longitude>
+					<latitude>44.97810568979055</latitude>
+					<range>2486.584266518816</range>
+					<tilt>0</tilt>
+					<heading>-77.23443363556123</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.6942451282385,44.97810366813516,1801.932862792264</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Upper Terraces</name>
+				<description>Mammoth Hot Springs&apos; Upper Terraces include:
+
+Overlook - The overlook provides views of the entire Mammoth area, and the main terrace. 
+
+Canary Spring - This bacteria infested spring radiates a glorious canary yellow. 
+
+White Elephant Back Terrace - Water flowing from a rift in the earth&apos;s crust has built the mounded formation, which is thought to resemble an elephants backbone. 
+
+Angel Terrace - Angel terrace is one of Mammoths most unpredictable features. For decades it was dry and crumbling, but now some of the hot springs have been intermittently active in parts of the formation.</description>
+				<View>
+					<longitude>-110.7099037563111</longitude>
+					<latitude>44.96698297014015</latitude>
+					<range>3089.383429927429</range>
+					<tilt>0</tilt>
+					<heading>-70.57516737577244</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7099032635558,44.96698396615819,1977.612080327725</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lower Terraces</name>
+				<description>This section of Mammoth Hot Springs includes:
+
+Opal Terrace - After years of dormancy, this spring became active in 1926. Opal spring flows from the base of Capitol Hill, which is across the road form Liberty Cap. 
+
+Liberty Cap - Liberty Cap is a 37 foot hot spring cone. Its unusual formation was created through thousands of years. Its internal pressure was sufficient enough to rise the water to a height that would allow mineral deposits to build up. Hundreds of years later, a cone was formed. Today Liberty cap is dormant and a large chunk broke off in 1994. 
+
+Palette Spring - This spring resembles a painter&apos;s palette, thus the name. Water flows from flat area and then down a steep ridge. The microorganisms and bacteria create a palette of brown, green, and orange. 
+
+Minerva Terrace - Minerva Terrace is centrally located and easily accessible from various parking lots. This is a very popular terrace due to its bright colors and elaborate travertine formations.</description>
+				<View>
+					<longitude>-110.7057142159523</longitude>
+					<latitude>44.96933704141627</latitude>
+					<range>3089.383429926721</range>
+					<tilt>0</tilt>
+					<heading>-109.907764839673</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7050849432636,44.96846536978556,1930.484625560575</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Park Headquarters &amp; Fort Yellowstone</name>
+				<description>After Yellowstone was designated a national park in 1872, it was under siege from poachers, souvenir hunters, and developers. The Secretary of the Interior called upon the Secretary of War for assistance in protecting the park. The Army came to the rescue and in 1886 men from Company M, First United States Cavalry, Fort Custer, Montana Territory under Captain Moses Harris came to Yellowstone to begin what would be more than 30 years of military presence in Yellowstone. 
+
+In 1910, at the height of the Army&apos;s presence in Yellowstone, there were 324 soldiers stationed here - plus some families and numerous civilian employees. The Army also constructed backcountry and snowshoe cabins throughout the park to patrol for poachers. Four of these survive and are still used by the National Park Service for backcountry patrols.</description>
+				<View>
+					<longitude>-110.6970953706592</longitude>
+					<latitude>44.97577908841033</latitude>
+					<range>3039.181780072419</range>
+					<tilt>0</tilt>
+					<heading>-28.18642832923296</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal3/icon44.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.6969053724573,44.97688111140059,1828.043986466093</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Norris Geyser Basin</name>
+			<description>This area lies at the intersection of the Norris-Mammoth and Hebgen Lake faults, and is the hottest and most changeable thermal area in Yellowstone. Much of it has been closed in recent years as some of the foot trails were at boiling temperatures and the potential for a steam explosion was considered to be very high. But there is still much to explore here, starting with the Norris Museum.</description>
+			<View>
+				<longitude>-110.6992767946682</longitude>
+				<latitude>44.72877101635218</latitude>
+				<range>4528.292850538958</range>
+				<tilt>0</tilt>
+				<heading>-23.81201409252756</heading>
+			</View>
+			<Placemark>
+				<name>Green Dragon Spring</name>
+				<description>On a warm summer afternoon you may be able to catch a glimpse of this sulfur lines cave and boiling green water.</description>
+				<View>
+					<longitude>-110.706624148463</longitude>
+					<latitude>44.72002286463621</latitude>
+					<range>2522.15065037448</range>
+					<tilt>0</tilt>
+					<heading>15.25931632457536</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7066775977776,44.71993086051563,2350.133407054183</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Norris Campground</name>
+				<View>
+					<longitude>-110.6924982087884</longitude>
+					<latitude>44.73856773169675</latitude>
+					<range>2822.082364980247</range>
+					<tilt>0</tilt>
+					<heading>-41.15058126245609</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon60.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.6929514080471,44.73840389059971,2353.83616498337</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Porcelain Basin</name>
+				<description>Porcelain Basin has hundreds of densely packed geothermal features in contrast to more forested areas. Rainbow colors, hissing steam, and pungent odors combine to create this unique area in Yellowstone. A number of these geysers and other features have been born suddenly due to hydrothermal explosions. Some features last only a few hours, days or weeks. Some are permanent features, such as Blue Geyser.</description>
+				<View>
+					<longitude>-110.703599720842</longitude>
+					<latitude>44.72826924442511</latitude>
+					<range>2821.231708968644</range>
+					<tilt>0</tilt>
+					<heading>0.001425803812239061</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7033877693377,44.72882721164086,2341.343483244858</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Porkchop Geyser</name>
+				<description>Once a small hot spring that occasionally erupted, Porkchop Geyser became a continuous spouter in the spring of 1985. The force of the spray caused a boisterous roar that could be heard from the museum. On September 5, 1989 Porkchop exploded and propelled rocks more than 200 feet from the feature. It&apos;s now a gently boiling hot spring, and a prime example of the unpredictable features of Norris Geyser Basin.</description>
+				<View>
+					<longitude>-110.7070334020189</longitude>
+					<latitude>44.72220300551481</latitude>
+					<range>2608.809394051246</range>
+					<tilt>0</tilt>
+					<heading>-22.5205637167422</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7076006313143,44.7223344759553,2338.638124790279</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Echinus Geyser</name>
+				<description>Until 1997, Echinus erupted every 35-75 minutes and most visitors were able to witness this geyser in full action. Its pools filled gradually with water; then suddenly burst as steam and water exploded 40-60 feet upward. Echinus is the largest acid-water geyser known. Acid geysers are extremely rare, however most of the planet&apos;s acid geysers are found in the Norris Geyser Basin. Since 1999 Echinus&apos; eruptions have been weak and erratic, but it may return to full glory at any time.</description>
+				<View>
+					<longitude>-110.7020228536417</longitude>
+					<latitude>44.72196416526334</latitude>
+					<range>2494.512594234441</range>
+					<tilt>0</tilt>
+					<heading>13.63607645425888</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7021577361586,44.72202862078377,2349.973745382872</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Emerald Spring</name>
+				<description>Clear blue water combines with the yellow sulfur coated crater to create a breathtaking green color. This spring is 27 feet deep and the average temperature is 190 degrees F.</description>
+				<View>
+					<longitude>-110.7042225387407</longitude>
+					<latitude>44.72574378549218</latitude>
+					<range>2540.157464079884</range>
+					<tilt>0</tilt>
+					<heading>-82.41223160480715</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7044118735011,44.72550576240707,2339.266340958789</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Steamboat Geyser</name>
+				<description>The world&apos;s tallest active geyser, Steamboat can erupt to more than 300 feet, showering viewers with its mineral-rich waters. For hours following its rare 3 to 40 minute major eruptions, Steamboat thunders with powerful jets of steam. As befitting such an awesome event, full eruptions are entirely unpredictable. In recent years, Steamboat has had three major eruptions. More commonly, Steamboat has minor eruptions and ejects water in frequent bursts of 10 to 40 feet.</description>
+				<View>
+					<longitude>-110.7030362420715</longitude>
+					<latitude>44.72348250850941</latitude>
+					<range>2635.118857712711</range>
+					<tilt>0</tilt>
+					<heading>-24.75825935972932</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7033367279051,44.72353166505377,2341.669770875982</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Norris Museum</name>
+				<description>Built in 1929-30 and a National Historic Landmark, the museum&apos;s distinctive stone-and-log architecture became a prototype for park buildings throughout the country known as &quot;parkitecture&quot;. Exhibits include geothermal geology, Norris Geyser Basin features, and life in thermal areas.  The Museum of the National Park Ranger is nearby.</description>
+				<View>
+					<longitude>-110.7035423693427</longitude>
+					<latitude>44.72636990320128</latitude>
+					<range>2477.09820383304</range>
+					<tilt>0</tilt>
+					<heading>-4.976156008500371</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal3/icon44.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.7037395797047,44.72649015228932,2340.153632543565</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Upper Geyser Basin, Old Faithful</name>
+			<description>A few of the more famous and scenic geysers and hot spring pools are included in this folder. There are excellent boardwalk interpretive trails through the geysers and pools in this area, as well as a large visitor center, the historic Old Faithful Inn, and other amenities.</description>
+			<View>
+				<longitude>-110.8373956063619</longitude>
+				<latitude>44.46584623464283</latitude>
+				<range>5305.992048945947</range>
+				<tilt>0</tilt>
+				<heading>-24.85270499466289</heading>
+			</View>
+			<Placemark>
+				<name>Black Sand Basin</name>
+				<description>Named for obsidian fragments in the sand, this area has a small collection of jewel-like geysers and colorful hot springs. Emerald Pool is the most colorful and famous of these springs, with a deep emerald green color with yellow and orange fringes forming the outer ring of the pool. The clear water of the pool reflects the blues but asborbs the other hues of the color spectrum, and the combination produces its green color. The outer ring is a fringe of yellow and orange, where the temperatures are cooler (154.6 degrees F.) due to a change in bacteria and algae growth. 
+
+Other colorful geothermal pools here include Sunset Lake, Rainbow Pool, Opalescent, and Handkerchief - so named because people used to drop handkerchiefs in one vent and they&apos;d resurface in another, hot-water rinsed. Spouter and Cliff Geysers are also in this area.</description>
+				<View>
+					<longitude>-110.8492333918092</longitude>
+					<latitude>44.46488437215487</latitude>
+					<range>3720.43007111551</range>
+					<tilt>0</tilt>
+					<heading>-24.86099774246139</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8492331004259,44.46488432769191,2263.493859576509</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Beauty and Chromatic Pools</name>
+				<description>Beauty and Chromatic pools are connected underground. Over a period of weeks one pool gets hotter and begins to overflow as the other gets cooler and stops overflowing. Then the process reverses. Usually the pool that is overflowing is the most colorful.</description>
+				<View>
+					<longitude>-110.8392708226843</longitude>
+					<latitude>44.4693178184816</latitude>
+					<range>2690.456904032149</range>
+					<tilt>0</tilt>
+					<heading>-24.85401905454848</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8392520164793,44.46909968495692,2275.793680580694</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Daisy Geyser</name>
+				<description>Daisy eruptions are unique in that they erupt on an angle, and reach a height of 75 feet. Daisy is predictable with eruptions occurring every 90-115 minutes.</description>
+				<View>
+					<longitude>-110.8429031659088</longitude>
+					<latitude>44.47031021163469</latitude>
+					<range>2613.728943422063</range>
+					<tilt>0</tilt>
+					<heading>-24.85656378520882</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8430804056787,44.47030996400937,2268.25467513486</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Morning Glory Pool</name>
+				<description>Morning Glory was one the most glorious pool in the park, hence the name. Unfortunately most of its beauty has been destroyed through visitors throwing rocks, coins, trash, logs, and other debris which has clogged the natural plumbing of the pool. Water is unable to circulate and therefore thermal energy is lost. The drop in temperature has allowed yellow bacteria to grow in Morning glory. it has been mostly destroyed the beautiful, clear, colorful spring. The ultimate example of the impact humans have on nature.</description>
+				<View>
+					<longitude>-110.8432849141391</longitude>
+					<latitude>44.47509289900801</latitude>
+					<range>2499.76396157902</range>
+					<tilt>0</tilt>
+					<heading>-24.85683121648408</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8436829393589,44.4750275073791,2274.990242356108</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Castle Geyser</name>
+				<description>Castle may be the oldest geyser in the Upper Geyser Basin. It also has the largest cone of any geyser. Eruptions reach 90 ft and last approximately 20 minutes. The water phase is followed by steam, which can last 30-40 minutes. Castle Geyser erupts every 10-12 hours.</description>
+				<View>
+					<longitude>-110.8363744763242</longitude>
+					<latitude>44.46369450863167</latitude>
+					<range>2623.401851419966</range>
+					<tilt>0</tilt>
+					<heading>-24.85199043017182</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8365176944822,44.46358874068257,2285.037481286341</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lion Group Geysers</name>
+				<description>Four separate geysers that are all interconnected underground: the Lion, Lioness, Big Cub and Little Cub. The Lion exhibits the largest eruptions. This geyser family got its name from the deep roaring sound the geyser makes after an eruption has occurred.</description>
+				<View>
+					<longitude>-110.8295416183955</longitude>
+					<latitude>44.46356169697823</latitude>
+					<range>3227.544906634837</range>
+					<tilt>0</tilt>
+					<heading>-24.84720403479504</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8303965870503,44.46348072363205,2295.573886727772</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grand Geyser</name>
+				<description>Often overshadowed by Old Faithful, Grand Geyser is the largest, most predictable geyser in the world. Grand erupts from a large pool with powerful gusts. Eruptions occur every 7-15 hours and last 9-12 minutes.</description>
+				<View>
+					<longitude>-110.8364880167381</longitude>
+					<latitude>44.46652287855374</latitude>
+					<range>2958.984079307631</range>
+					<tilt>0</tilt>
+					<heading>-24.85206991636534</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8374232867136,44.46659575892741,2280.994398306656</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Old Faithful</name>
+				<description><![CDATA[The most famous and most popular attraction at Yellowstone, Old Faithful erupts approx. every 80 minutes, spraying water and steam up to 184 feet for 1 to 5 minutes. Notes the crowds gathered here - it was just erupting when this shot was taken (or just has or will shortly.) <a href="http://www.nps.gov/yell/oldfaithfulcam.htm">Old Faithful webcam</a>]]></description>
+				<View>
+					<longitude>-110.8282458105742</longitude>
+					<latitude>44.46019502712266</latitude>
+					<range>2619.076668787708</range>
+					<tilt>0</tilt>
+					<heading>-24.84629695717169</heading>
+				</View>
+				<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>-110.8282457687049,44.46019619887969,2301.972644111509</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

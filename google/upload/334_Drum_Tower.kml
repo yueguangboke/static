@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>334_Drum_Tower.kml</name>
+	<Style id="sh_ylw-pushpin_copy18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy28">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>銀川鼓樓</name>
+		<LookAt>
+			<longitude>106.2766586774123</longitude>
+			<latitude>38.46432511066838</latitude>
+			<altitude>0</altitude>
+			<range>133.8850628152464</range>
+			<tilt>1.941416423083247e-011</tilt>
+			<heading>0.0001125398784711408</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin_copy28</styleUrl>
+		<Point>
+			<coordinates>106.2764681141853,38.46436489962325,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

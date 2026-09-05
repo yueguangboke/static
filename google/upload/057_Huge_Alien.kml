@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>新疆的巨大异形</name>
+	<LookAt>
+		<longitude>94.09139730442905</longitude>
+		<latitude>42.6444428569357</latitude>
+		<altitude>0</altitude>
+		<range>367.4173316080197</range>
+		<tilt>-5.017654497376255e-010</tilt>
+		<heading>-0.0003107766662947285</heading>
+	</LookAt>
+	<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+	<Point>
+		<coordinates>94.09127447038564,42.6446287233186,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

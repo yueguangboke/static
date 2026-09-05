@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>madeira.kml</name>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png1242140">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>马德拉群岛</name>
+		<open>1</open>
+		<Placemark>
+			<name>地面字符 PORTO SANTO</name>
+			<LookAt>
+				<longitude>-16.35040592243689</longitude>
+				<latitude>33.06860264127885</latitude>
+				<altitude>0</altitude>
+				<range>313.4340523684058</range>
+				<tilt>4.348285225806142e-010</tilt>
+				<heading>10.40643554115528</heading>
+			</LookAt>
+			<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png0</styleUrl>
+			<Point>
+				<coordinates>-16.35012157142596,33.06871935305804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>飞机尾迹</name>
+			<LookAt>
+				<longitude>-16.33350332305638</longitude>
+				<latitude>33.05198968180934</latitude>
+				<altitude>0</altitude>
+				<range>4713.596482201464</range>
+				<tilt>2.388538120463328e-011</tilt>
+				<heading>10.41571047214761</heading>
+			</LookAt>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+			<Point>
+				<coordinates>-16.33106593191515,33.05302838575874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>马德拉岛（Madeira）</name>
+			<LookAt>
+				<longitude>-16.93233564034934</longitude>
+				<latitude>32.65984313167489</latitude>
+				<altitude>0</altitude>
+				<range>5582.386694700192</range>
+				<tilt>5.658337275202027e-011</tilt>
+				<heading>0.8009357659499505</heading>
+			</LookAt>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+			<Point>
+				<coordinates>-16.92894939789348,32.65894026146199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>波尔图.桑塔岛（Porto Santo）</name>
+			<LookAt>
+				<longitude>-16.33197894913637</longitude>
+				<latitude>33.06993529581867</latitude>
+				<altitude>0</altitude>
+				<range>1191.240546541666</range>
+				<tilt>6.628930006630417e-011</tilt>
+				<heading>1.126683263833142</heading>
+			</LookAt>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+			<Point>
+				<coordinates>-16.3301887533034,33.07002297750528,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

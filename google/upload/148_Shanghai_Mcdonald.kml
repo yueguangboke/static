@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Shanghai_Mcdonald</name>
+	<open>1</open>
+	<Style id="default_copy1">
+	</Style>
+	<Folder>
+		<name>上海麦当劳店分布图</name>
+		<open>1</open>
+		<Placemark>
+			<name>麦当劳（上海总店）</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市静安区<br />
+地址:南京西路1168号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.454222202301,31.23209165356734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(华山路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市徐汇区<br />
+地址:华山路1988号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4323782920837,31.19929368536999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(天钥桥路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市徐汇区<br />
+地址:天钥桥路1号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4362943172455,31.19543003415029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(漕溪北路店)麦当劳(漕溪北路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市徐汇区<br />
+地址:漕溪北路640号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4311122894287,31.18774814969031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(古北店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市长宁区<br />
+地址:水城南路268号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.3888943195343,31.19900919386785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(福州路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市黄浦区<br />
+地址:福州路557号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4754438400269,31.23514194220962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(沪闵路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市徐汇区<br />
+地址:沪闵路8041号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4251470565796,31.15547191847748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(桂林路店)</name>
+			<visibility>0</visibility>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4124172925949,31.17255692525811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(天山路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市长宁区<br />
+地址:天山路789号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.3970804214478,31.21301708988452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(遵义路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市长宁区<br />
+地址:遵义路103号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4022517204285,31.20918611578741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(兰溪路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市普陀区<br />
+地址:兰溪路140号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.3983088731766,31.23700417528072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(宜川路店)</name>
+			<visibility>0</visibility>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4357310533524,31.26046700058782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(武宁路店)</name>
+			<visibility>0</visibility>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4160221815109,31.24193020103954,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(梅川路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市普陀区<br />
+地址:梅川路1350号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.3762825727463,31.24581029743073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(秣陵路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市闸北区<br />
+地址:梅园路360号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.454576253891,31.24991954011338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(民立路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市闸北区<br />
+地址:天目西路290号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4526933431626,31.24753931977038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(曲阳路店)</name>
+			<visibility>0</visibility>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4865159988403,31.282291914094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(溧阳路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市虹口区<br />
+地址:溧阳路1088号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.484649181366,31.26337422379037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(中原路店)</name>
+			<visibility>0</visibility>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.5279883146286,31.31751748616365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(控江路店)</name>
+			<visibility>0</visibility>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.5093147754669,31.27562576392717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(吴中路店)</name>
+			<visibility>0</visibility>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.3766205310822,31.17813803293494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(友谊路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市宝山区<br />
+地址:友谊路158号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4774715900421,31.4061853678291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(云台路店)</name>
+			<visibility>0</visibility>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4983820915222,31.18111204149196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(金一路店)</name>
+			<visibility>0</visibility>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.3349121809006,30.71522423661642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(南京西路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市黄浦区<br />
+地址:南京西路90号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4684271812439,31.23647211243473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(广西北路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市黄浦区<br />
+地址:南京东路720号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4721232652664,31.23794903812118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(江西中路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市黄浦区<br />
+地址:南京东路161号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4814788103104,31.24130184891989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(阳光商厦店)</name>
+			<description><![CDATA[所属区域:上海市黄浦区<br />
+地址:南京东路580号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4749395847321,31.23787565105462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(瑞金南路店)</name>
+			<description><![CDATA[所属区域:上海市卢湾区<br />
+地址:瑞金南路1号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4630305767059,31.20657087068704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麦当劳(淮海中路店)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[所属区域:上海市卢湾区<br />
+地址:淮海中路590号]]></description>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>121.4566469192505,31.2200867794633,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

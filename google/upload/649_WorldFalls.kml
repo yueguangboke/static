@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>649_WorldFalls.kml</name>
+	<Style id="sn_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>世界三大瀑布</name>
+		<open>1</open>
+		<Placemark>
+			<name>尼亚加拉瀑布</name>
+			<LookAt>
+				<longitude>-79.07654943937946</longitude>
+				<latitude>43.07820078059879</latitude>
+				<altitude>0</altitude>
+				<range>419.3650580632537</range>
+				<tilt>1.079779464584703e-010</tilt>
+				<heading>161.1206302315888</heading>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-79.07525685307505,43.0776890917128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>津巴布韦维多利亚瀑布</name>
+			<LookAt>
+				<longitude>25.85756666740448</longitude>
+				<latitude>-17.92546144795421</latitude>
+				<altitude>0</altitude>
+				<range>339.8803180764269</range>
+				<tilt>0</tilt>
+				<heading>-3.806071673561147e-010</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy0</styleUrl>
+			<Point>
+				<coordinates>25.85769700900656,-17.92492995468941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>伊瓜苏瀑布</name>
+			<LookAt>
+				<longitude>-54.43754510618197</longitude>
+				<latitude>-25.69255256923753</latitude>
+				<altitude>0</altitude>
+				<range>882.4452639765285</range>
+				<tilt>0</tilt>
+				<heading>0.1313845103346347</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>-54.43818151714773,-25.69119164652841,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

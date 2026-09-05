@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>309_LangQiao.kml</name>
+	<Style id="sn_ylw-pushpin_copy17">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>成都安顺廊桥</name>
+		<LookAt>
+			<longitude>104.0834555555652</longitude>
+			<latitude>30.64404722222652</latitude>
+			<altitude>0</altitude>
+			<range>293.2275511547693</range>
+			<tilt>-1.058894638864878e-010</tilt>
+			<heading>16.39079475402829</heading>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy17</styleUrl>
+		<Point>
+			<coordinates>104.0834316707387,30.64404527579504,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Where the Bombs Are, 2006</name>
+	<description><![CDATA[Prepared by the Natural Resources Defense Council (www.nrdc.org) and the Federation of American Scientists (www.fas.org) on the basis of the article "Where the Bombs are, 2006" in the Bulletin of the Atomic Scientists (www.thebulletin.org). <i> Authors: Robert S. Norris and Hans M. Kristensen (Google Earth formatting was done by NRDC's Matthew McKinzie).</i><p>
+
+Though it is the smallest it has been since 1958, the U.S. nuclear arsenal continues to sprawl across the country, with thousands of weapons deployed from the coast of Washington State to the coast of Georgia and beyond. In total, we estimate that the United States deploys and stores nearly 10,000 nuclear weapons at 18 facilities in 12 states and six European countries<p> 
+The Pentagon developed this extensive network of installations over the past six decades in order to ensure the survivability of its nuclear arsenal. Post-Cold War base closures and arms reductions led to the consolidation of weapons at the current facilities; the number of weapons and their locations will change as the Pentagon implements the June 2004 Nuclear Weapons Stockpile Plan and the “New Triad.”<p> 
+
+Approximately 62 percent of the current stockpile belongs to the air force and is stored at seven bases in the United States and eight bases in six European countries; the navy stores its weapons at two submarine bases, one on each coast. None of the other services possesses nuclear weapons.<p> The statistics contained in this article represent our best estimates, based on many years of closely following nuclear issues. <p>A map of the US locations is available <a href="http://www.fas.org/blog/ssp/images/NotebookMap.pdf">here</a>, 
+and full text of the Bulletin article can be found <a href="http://www.thebulletin.org/article_nn.php?art_ofn=nd06norris">here</a>.]]></description>
+	<LookAt>
+		<longitude>-98.50336814100518</longitude>
+		<latitude>40.38368669594455</latitude>
+		<altitude>0</altitude>
+		<range>3467111.542454061</range>
+		<tilt>4.458525841350652e-014</tilt>
+		<heading>0.4045720586173489</heading>
+	</LookAt>
+	<Style id="khStyle914">
+	</Style>
+	<Style id="khStyle800">
+		<IconStyle id="khIconStyle801">
+			<Icon>
+				<href>C:/WINNT/Temp/TEMPOR~1/Content.IE5/OHA78TMN/images/radiation.gif</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle1085">
+		<IconStyle id="khIconStyle1086">
+			<Icon>
+				<href>C:/WINNT/Temp/TEMPOR~1/Content.IE5/OHA78TMN/images/radiation.gif</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle1094">
+		<IconStyle id="khIconStyle1095">
+			<Icon>
+				<href>C:/WINNT/Temp/TEMPOR~1/Content.IE5/OHA78TMN/images/radiation.gif</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle1101">
+		<IconStyle id="khIconStyle1102">
+			<Icon>
+				<href>C:/WINNT/Temp/TEMPOR~1/Content.IE5/OHA78TMN/images/radiation.gif</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle1085_copy3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle1085_copy0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle800_copy0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Bangor, WA (2,364 nuclear weapons)</name>
+		<description><![CDATA[<b>Weapon Systems: </b>TRIDENT SLBMs, SLCMs <b>
+<br> Nuclear Weapon Types:</b> 1100 W76s/Trident II D5 SLMBs; 850 W76s/Trident I C4 SLBMs (inactive); 264 W88s/Trident II D5 SLMBs; 150 W80-0s/SLCMs <p>The ballistic missile submarine base at Bangor, Washington, contains nearly 24 percent of the entire stockpile, or some 2,364 warheads, the largest contingent. The Bangor installation is home to a majority (nine) of the navy’s nuclear- powered ballistic missile submarines and a large number of surplus W76 warheads that will eventually be retired and disassembled. In addition, approximately
+150 nuclear sea-launched cruise missiles are stored at the base.]]></description>
+		<LookAt id="khLookAt842">
+			<longitude>-122.7175308789343</longitude>
+			<latitude>47.72104215275896</latitude>
+			<altitude>0</altitude>
+			<range>13875.90513442154</range>
+			<tilt>6.805436570612717e-012</tilt>
+			<heading>0.0003629613908001541</heading>
+		</LookAt>
+		<styleUrl>#khStyle800_copy0</styleUrl>
+		<Point id="khPoint843">
+			<coordinates>-122.7144002899824,47.72287098247197,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Barksdale AFB, LA (940 nuclear weapons)</name>
+		<description><![CDATA[<b>Weapon Systems: </b>B-52H Bombers <br>
+<b>Nuclear Weapon Types:</b> 210 B61-7 bombs; 130 B83-1, -0 bombs; 500 W80-1/ALCMs; 100 W80-1/ACMs <p> The B-52 wing at Barksdale AFB in Louisiana has more than 900 warheads.]]></description>
+		<LookAt>
+			<longitude>-93.65972300062404</longitude>
+			<latitude>32.50332727679762</latitude>
+			<altitude>0</altitude>
+			<range>8167.813371852441</range>
+			<tilt>0</tilt>
+			<heading>-0.0009104271509608721</heading>
+		</LookAt>
+		<styleUrl>#khStyle800_copy0</styleUrl>
+		<Point>
+			<coordinates>-93.670708305875,32.50068420303117,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>F. E. Warren AFB, CO, MT and WY (170 nuclear weapons)</name>
+		<description><![CDATA[<b> Weapon Systems: </b> MINUTEMAN III ICBMs <br>
+<b>Nuclear Weapon Types:</b> 150 W62s (in 150 ICBM Silos); 20 W62s (spares)]]></description>
+		<LookAt>
+			<longitude>-104.8676831793709</longitude>
+			<latitude>41.1452257487308</latitude>
+			<altitude>0</altitude>
+			<range>2600.51975279807</range>
+			<tilt>0</tilt>
+			<heading>-0.02257501022596496</heading>
+		</LookAt>
+		<styleUrl>#khStyle800_copy0</styleUrl>
+		<Point>
+			<coordinates>-104.8708843328986,41.14543318312686,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kings Bay, GA (1,364 nuclear weapons)</name>
+		<description><![CDATA[<b>Weapon Systems: </b> TRIDENT SLBMs, SLCMs <br>
+<b>Nuclear Weapon Types:</b> 612 W76s/Trident II D5; 468 W76s/Trident I C4 (inactive); 140 W88s/Trident II D5; 144 W80-0s/SLCMs <p>
+The counterpart of Bangor on the Atlantic coast, Kings Bay Submarine Base in Georgia, is the third-largest contingent, with some 1,364 warheads. In addition, the base stores approximately 150 nuclear sea-launched cruise missiles.]]></description>
+		<LookAt>
+			<longitude>-81.52589521644842</longitude>
+			<latitude>30.79183753897617</latitude>
+			<altitude>0</altitude>
+			<range>6724.480870683685</range>
+			<tilt>0</tilt>
+			<heading>0.003377109231316228</heading>
+		</LookAt>
+		<styleUrl>#khStyle800_copy0</styleUrl>
+		<Point>
+			<coordinates>-81.5187743750912,30.79367275262581,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kirtland AFB, NM (1,914 nuclear weapons)</name>
+		<description><![CDATA[<b>Weapon Systems: </b> In Storage <br>
+<b>Nuclear Weapon Types:</b> 711 W80-1/ALCMs; 250 W62s/MINUTEMAN II ICBMs; 553 W87s/MX Peacekeeper ICBMs; 400 W84/GLCMs (in reserve)<p>
+The large underground facility at Kirtland AFB in Albuquerque, New Mexico, stores more than 1,900 warheads that are either part of the inactive/ reserve stockpile or awaiting shipment across Interstate 40 to the Pantex Plant outside of Amarillo, Texas, for dismantlement.]]></description>
+		<LookAt>
+			<longitude>-106.5487193773818</longitude>
+			<latitude>35.00988812940081</latitude>
+			<altitude>0</altitude>
+			<range>1099.197263537906</range>
+			<tilt>7.514040706018408e-011</tilt>
+			<heading>0.0008844136270137872</heading>
+		</LookAt>
+		<styleUrl>#khStyle800_copy0</styleUrl>
+		<Point>
+			<coordinates>-106.5492875585091,35.00922521104233,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Malmstrom AFB, MT (535 nuclear weapons)</name>
+		<description><![CDATA[<b>Weapon Systems: </b>MINUTEMAN III ICBMs <br>
+<b>Nuclear Weapon Types:</b> 150 W62s (in 50 ICBM silos); 10 W62s (spares); 200 W78s (in 100 ICBM silos); 150 W78s (in 50 ICBM silos); 25 W78s (spares)]]></description>
+		<LookAt>
+			<longitude>-111.1887209463172</longitude>
+			<latitude>47.50789817242181</latitude>
+			<altitude>0</altitude>
+			<range>5671.283086625219</range>
+			<tilt>0</tilt>
+			<heading>-0.4056919781848701</heading>
+		</LookAt>
+		<styleUrl>#khStyle800_copy0</styleUrl>
+		<Point>
+			<coordinates>-111.1887209463172,47.50789817242181,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MInot AFB, ND (1,254 nuclear weapons)</name>
+		<description><![CDATA[<b>Weapon Systems: </b> B-52H Bombers, MINUTEMAN III ICBMs, ACMs, ALCMs <br>
+<b>Nuclear Weapon Types:</b>194 B61-7 bombs; 130 B83-1 -0 bombs; 200 W80-1/ALCMs; 300 W80-1/ACMs; 400 W78s (in 150 ICMB silos); 30 W78s (spares)<p>
+Minot Air Force Base (AFB) in North Dakota, with more than 800 bombs and cruise missiles for its B-52 bombers and more than 400 warheads for its Minuteman III intercontinental
+ballistic missile wing, has the largest number of active air force weapons.]]></description>
+		<LookAt>
+			<longitude>-101.3471150609382</longitude>
+			<latitude>48.4156904807755</latitude>
+			<altitude>0</altitude>
+			<range>8911.002986795369</range>
+			<tilt>0</tilt>
+			<heading>0.1036112383484497</heading>
+		</LookAt>
+		<styleUrl>#khStyle800_copy0</styleUrl>
+		<Point>
+			<coordinates>-101.3502211211798,48.4172245745103,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Nellis AFB, NV (902 nuclear weapons)</name>
+		<description><![CDATA[<b>Weapon Systems: </b> In Storage <br>
+<b>Nuclear Weapon Types:</b> 306 B83-1, -0 bombs; 186 B61-3 bombs; 204 B61-4 bombs; 206 B61-10 bombs<p>
+The 970-acre facility at Nellis AFB, Nevada, northeast stores approximately 900 warheads in 75 igloos—“one of the largest stockpiles in the free world,” according to the air force.]]></description>
+		<LookAt>
+			<longitude>-114.9973655091577</longitude>
+			<latitude>36.23925765684959</latitude>
+			<altitude>0</altitude>
+			<range>11750.1590245821</range>
+			<tilt>1.363401619855042e-011</tilt>
+			<heading>0.02318932726667384</heading>
+		</LookAt>
+		<styleUrl>#khStyle800_copy0</styleUrl>
+		<Point>
+			<coordinates>-115.0379680147889,36.23360082035319,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Pantex Plant, TX</name>
+		<description><![CDATA[<b> Several types of nuclear warheads await dismantlement </b> at the Pantex Plant outside of Amarillo, Texas.]]></description>
+		<LookAt>
+			<longitude>-101.5529063944318</longitude>
+			<latitude>35.31436424007602</latitude>
+			<altitude>0</altitude>
+			<range>6155.875477939251</range>
+			<tilt>4.468156967756576e-012</tilt>
+			<heading>-0.007228401006170488</heading>
+		</LookAt>
+		<styleUrl>#khStyle914</styleUrl>
+		<Point>
+			<coordinates>-101.5586863737601,35.30962416877241,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Whiteman AFB, MO (136 nuclear weapons)</name>
+		<description><![CDATA[<b>Weapon Systems: </b> B-2 Bombers <br>
+<b>Nuclear Weapon Types:</b> 35 B61-7 bombs; 41 B61-11 bombs; 60 B83-1, -0 bombs
+Whiteman AFB in Missouri has more than 130 bombs for its B-2 bombers.]]></description>
+		<LookAt>
+			<longitude>-93.55219467207624</longitude>
+			<latitude>38.73035338074592</latitude>
+			<altitude>0</altitude>
+			<range>7288.744935657594</range>
+			<tilt>1.305243875513078e-011</tilt>
+			<heading>0.008968825450203126</heading>
+		</LookAt>
+		<styleUrl>#khStyle800_copy0</styleUrl>
+		<Point>
+			<coordinates>-93.55786701245405,38.72997548655756,0</coordinates>
+		</Point>
+	</Placemark>
+	<Folder>
+		<name>U.S. Nuclear Weapons in Europe (400 nuclear weapons)</name>
+		<open>1</open>
+		<description><![CDATA[During the Cold War, the United States deployed a large percentage (up to one-third) of its nuclear weapons in other countries and at sea. At its peak arsenal size in the late 1960s, the United States stored weapons in 17 different countries. The peak number of US nuclear weapons in Europe was 7,300 in 1971. <p>
+The United States terminated many nuclear missions after the end of the Cold War and retired the weapons. Today, perhaps as many as 400 bombs remain at eight facilities in six European countries, the last remnant of a bygone era.
+<p>
+For further information on US nuclear weapons in Europe, see: http://www.nukestrat.com/us/afn/nato.htm]]></description>
+		<Placemark>
+			<name>Aviano Air Base, Italy (50 nuclear weapons)</name>
+			<description><![CDATA[<b>Nuclear Weapon Types:</b> 50 B61-3]]></description>
+			<LookAt id="khLookAt686">
+				<longitude>12.59981283625917</longitude>
+				<latitude>46.03061628951573</latitude>
+				<altitude>0</altitude>
+				<range>6013.628326603344</range>
+				<tilt>3.928112947620205e-011</tilt>
+				<heading>0.002221719086378387</heading>
+			</LookAt>
+			<styleUrl>#khStyle1085_copy3</styleUrl>
+			<Point id="khPoint687">
+				<coordinates>12.59677696228029,46.03127670288088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buchel Air Base, Germany (20 nuclear weapons)</name>
+			<description><![CDATA[<b>Nuclear Weapon Types:</b> 10 B61-3; 10 B61-4]]></description>
+			<LookAt id="khLookAt671">
+				<longitude>7.059800564817913</longitude>
+				<latitude>50.17327429327428</latitude>
+				<altitude>0</altitude>
+				<range>5326.07141484517</range>
+				<tilt>0</tilt>
+				<heading>0.002406704720284861</heading>
+			</LookAt>
+			<styleUrl>#khStyle1085_copy3</styleUrl>
+			<Point id="khPoint672">
+				<coordinates>7.063657410332908,50.17426601975136,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ghedi-Torre Air Base, Italy (40 nuclear weapons)</name>
+			<description><![CDATA[<b>Nuclear Weapon Types:</b> 40 B61-4]]></description>
+			<LookAt id="khLookAt695">
+				<longitude>10.27171814696659</longitude>
+				<latitude>45.4340262208424</latitude>
+				<altitude>0</altitude>
+				<range>7356.491459851533</range>
+				<tilt>4.768105791838581e-012</tilt>
+				<heading>0.002411288305796745</heading>
+			</LookAt>
+			<styleUrl>#khStyle1085_copy3</styleUrl>
+			<Point id="khPoint696">
+				<coordinates>10.26702865274986,45.43188137090736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Incirlik Air Base, Turkey (90 nuclear weapons)</name>
+			<description><![CDATA[<b>Nuclear Weapon Types:</b> 50 B61-3; 40 B61-4]]></description>
+			<LookAt>
+				<longitude>35.42485196450667</longitude>
+				<latitude>37.00477461492016</latitude>
+				<altitude>0</altitude>
+				<range>6936.792445116352</range>
+				<tilt>7.216181996791597e-011</tilt>
+				<heading>0.000394259820252869</heading>
+			</LookAt>
+			<styleUrl>#khStyle1085_copy3</styleUrl>
+			<Point>
+				<coordinates>35.42672534025009,37.00247501109657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kleine-Brogel Air Base, Belgium (20 nuclear weapons)</name>
+			<description><![CDATA[<b>Nuclear Weapon Types:</b> 10 B61-3; 10 B61-4]]></description>
+			<LookAt id="khLookAt710">
+				<longitude>5.469050675129727</longitude>
+				<latitude>51.16857772666628</latitude>
+				<altitude>0</altitude>
+				<range>4743.07835287587</range>
+				<tilt>0</tilt>
+				<heading>-0.0004799880080271348</heading>
+			</LookAt>
+			<styleUrl>#khStyle1085_copy3</styleUrl>
+			<Point id="khPoint711">
+				<coordinates>5.468933414760016,51.16795074003801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RAF Lakenheath, United Kingdom (110 nuclear weapons)</name>
+			<description><![CDATA[<b>Nuclear Weapon Types:</b> 70 B61-3; 40 B61-4]]></description>
+			<LookAt id="khLookAt740">
+				<longitude>0.5563399365579427</longitude>
+				<latitude>52.40337252143645</latitude>
+				<altitude>0</altitude>
+				<range>5407.368178972035</range>
+				<tilt>7.071419860557778e-012</tilt>
+				<heading>-0.004424426070381331</heading>
+			</LookAt>
+			<styleUrl>#khStyle1085_copy3</styleUrl>
+			<Point id="khPoint741">
+				<coordinates>0.5584342232386206,52.40838763917523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramstein Air Base, Germany (50 nuclear weapons)</name>
+			<description><![CDATA[<b>Nuclear Weapon Types:</b> 50 B61-4]]></description>
+			<LookAt>
+				<longitude>7.598378508412581</longitude>
+				<latitude>49.44257427779976</latitude>
+				<altitude>0</altitude>
+				<range>8540.136674045081</range>
+				<tilt>0</tilt>
+				<heading>0.004108314305505414</heading>
+			</LookAt>
+			<styleUrl>#khStyle1085_copy3</styleUrl>
+			<Point>
+				<coordinates>7.599318444371805,49.43703905554963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Volkel Air Base, Netherlands (20 nuclear weapons)</name>
+			<description><![CDATA[<b>Nuclear Weapon Types:</b> 10 B61-3; 10 B61-4
+<p>The satellite image of Volkel AB has been pixeled
+out, but a detailed map is available <a href="http://www.nukestrat.com/us/afn/Volkel_finaltxt.pdf">here</a></p>]]></description>
+			<LookAt id="khLookAt701_copy0">
+				<longitude>5.701569698384623</longitude>
+				<latitude>51.65772622140437</latitude>
+				<altitude>0</altitude>
+				<range>4091.166070824601</range>
+				<tilt>0</tilt>
+				<heading>-0.005375795969559043</heading>
+			</LookAt>
+			<styleUrl>#khStyle1085_copy3</styleUrl>
+			<Point id="khPoint702_copy0">
+				<coordinates>5.701569698384598,51.65772622140436,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

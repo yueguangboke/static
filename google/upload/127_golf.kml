@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>127_golf.kml</name>
+	<Style id="khStyle1008">
+		<IconStyle id="khIconStyle1009">
+			<Icon>
+				<href>root://icons/palette-2.png</href>
+				<x>160</x>
+				<y>192</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default">
+		<IconStyle>
+			<Icon>
+				<href>root://icons/palette-2.png</href>
+				<x>160</x>
+				<y>192</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>深圳觀瀾湖高爾夫球會</name>
+		<open>1</open>
+		<Placemark>
+			<name>傑克尼高斯世界杯球場</name>
+			<LookAt>
+				<longitude>114.0714838478856</longitude>
+				<latitude>22.74001823346083</latitude>
+				<altitude>0</altitude>
+				<range>6329.698471818923</range>
+				<tilt>6.014181778461157e-012</tilt>
+				<heading>0.00320696608535378</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>114.0660921570685,22.73966323649489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>尼克費度龍島球場</name>
+			<LookAt>
+				<longitude>114.0390505602281</longitude>
+				<latitude>22.76026216829004</latitude>
+				<altitude>0</altitude>
+				<range>1548.994665694609</range>
+				<tilt>7.029152169764351e-010</tilt>
+				<heading>-0.04158077847933681</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>114.0391132088732,22.76319722222223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>維埃聖爾新翠谷球場</name>
+			<LookAt>
+				<longitude>114.0714838478856</longitude>
+				<latitude>22.74001823346083</latitude>
+				<altitude>0</altitude>
+				<range>6329.698471818923</range>
+				<tilt>6.014181778461157e-012</tilt>
+				<heading>0.00320696608535378</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>114.0549715305908,22.74669736313524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>恩尼艾斯好望角球場</name>
+			<LookAt>
+				<longitude>114.0714838478856</longitude>
+				<latitude>22.74001823346083</latitude>
+				<altitude>0</altitude>
+				<range>6329.698471818923</range>
+				<tilt>6.014181778461157e-012</tilt>
+				<heading>0.00320696608535378</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>114.0814263737289,22.74437942664341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>尾崎將司俊嶺球場</name>
+			<LookAt id="khLookAt1433_copy0">
+				<longitude>114.0714838478856</longitude>
+				<latitude>22.74001823346083</latitude>
+				<altitude>0</altitude>
+				<range>6329.698471818923</range>
+				<tilt>6.014181778461157e-012</tilt>
+				<heading>0.00320696608535378</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point id="khPoint1441_copy0">
+				<coordinates>114.0697496041032,22.75041766153452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1464_copy0">
+			<name>利百特球場</name>
+			<LookAt id="khLookAt1465_copy0">
+				<longitude>114.0107576045658</longitude>
+				<latitude>22.76947650182687</latitude>
+				<altitude>0</altitude>
+				<range>2099.769556985013</range>
+				<tilt>4.131858237788334e-011</tilt>
+				<heading>-0.1853437616351075</heading>
+			</LookAt>
+			<styleUrl>#khStyle1008</styleUrl>
+			<Point id="khPoint1466_copy0">
+				<coordinates>114.0096877118196,22.76778542948173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1455_copy0">
+			<name>格諾曼球場</name>
+			<LookAt id="khLookAt1456_copy0">
+				<longitude>114.0021938522078</longitude>
+				<latitude>22.77391801790244</latitude>
+				<altitude>0</altitude>
+				<range>2074.689039774116</range>
+				<tilt>4.303267169610206e-012</tilt>
+				<heading>-0.1886604487313651</heading>
+			</LookAt>
+			<styleUrl>#khStyle1008</styleUrl>
+			<Point id="khPoint1457_copy0">
+				<coordinates>113.9996464232675,22.77595426978628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1485_copy0">
+			<name>杜瓦爾球場</name>
+			<LookAt id="khLookAt1486_copy0">
+				<longitude>113.9976742672683</longitude>
+				<latitude>22.79860897256409</latitude>
+				<altitude>0</altitude>
+				<range>2096.806621783785</range>
+				<tilt>0</tilt>
+				<heading>0.0003821474976133637</heading>
+			</LookAt>
+			<styleUrl>#khStyle1008</styleUrl>
+			<Point id="khPoint1487_copy0">
+				<coordinates>113.9957692811168,22.79585134720258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1473_copy0">
+			<name>安妮卡球場</name>
+			<LookAt id="khLookAt1474_copy0">
+				<longitude>113.9976742672683</longitude>
+				<latitude>22.79860897256409</latitude>
+				<altitude>0</altitude>
+				<range>2096.806621783785</range>
+				<tilt>0</tilt>
+				<heading>0.0003821474976133637</heading>
+			</LookAt>
+			<styleUrl>#khStyle1008</styleUrl>
+			<Point id="khPoint1475_copy0">
+				<coordinates>114.0007211690534,22.7980206787512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>奧拉沙寶球場</name>
+			<LookAt>
+				<longitude>114.0098861859841</longitude>
+				<latitude>22.78018464355707</latitude>
+				<altitude>0</altitude>
+				<range>3930.821281173382</range>
+				<tilt>6.929614912928669e-012</tilt>
+				<heading>-0.1856847450346343</heading>
+			</LookAt>
+			<styleUrl>#khStyle1008</styleUrl>
+			<Point>
+				<coordinates>114.0027031565995,22.79041880745962,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

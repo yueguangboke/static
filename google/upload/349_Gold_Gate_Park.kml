@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>349_Gold_Gate_Park.kml</name>
+	<Style id="sn_icon63">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>美国旧金山金门公园</name>
+		<LookAt>
+			<longitude>-122.4768155262813</longitude>
+			<latitude>37.76797677618504</latitude>
+			<altitude>0</altitude>
+			<range>501.9031151795235</range>
+			<tilt>-4.864315953667478e-011</tilt>
+			<heading>-33.22615811626034</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_icon63</styleUrl>
+		<Point>
+			<coordinates>-122.4762620435318,37.76807746799737,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

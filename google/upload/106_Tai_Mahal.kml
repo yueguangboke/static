@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Tai_Mahal.kml</name>
+	<Style id="khStyle741">
+		<IconStyle id="khIconStyle742">
+			<color>997faaaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-5.png</href>
+				<x>128</x>
+				<y>64</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle744">
+			<color>de7f55ff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>41.泰姬陵 Tai Mahal</name>
+		<description><![CDATA[<table width="350">
+  <tr>
+    <td>
+<img src="http://image2.sina.com.cn/book/longbook/1073011201_50places/U15P112T3D34807F48DT20040102161032.gif" border="0" width="350" height="250"><br><br>
+
+有人说，不看泰姬陵就不算到过印度。的确，在世人眼中，泰姬陵就是印度的代名词。无论国际政要还是普通游客，但凡来了印度，哪怕日程再忙，都要挤出时间去瞻仰一下这座举世闻名的爱情丰碑。
+
+<h3><a href="http://book.sina.com.cn/nzt/1073011201_50places/index.shtml" title="Jump to World Wind">
+       http://book.sina.com.cn/nzt/1073011201_50places/index.shtml</a><br></h3>]]></description>
+		<LookAt id="khLookAt1172">
+			<longitude>78.04238569901406</longitude>
+			<latitude>27.17494679046562</latitude>
+			<altitude>0</altitude>
+			<range>136.3386265072199</range>
+			<tilt>-5.017720160661081e-010</tilt>
+			<heading>27.53246364982677</heading>
+		</LookAt>
+		<Style>
+			<IconStyle id="khIconStyle742_copy0">
+				<color>997faaaa</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>root://icons/palette-3.png</href>
+					<x>224</x>
+					<w>32</w>
+					<h>32</h>
+				</Icon>
+			</IconStyle>
+			<LabelStyle id="khLabelStyle744_copy0">
+				<color>de7f55ff</color>
+			</LabelStyle>
+		</Style>
+		<Point id="khPoint1173">
+			<coordinates>78.0422491380362,27.17505981185288,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

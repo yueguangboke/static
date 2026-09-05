@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>zao.kml</name>
+	<StyleMap id="m_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>天下第一？</name>
+		<LookAt>
+			<longitude>113.6129725755461</longitude>
+			<latitude>22.24642519131528</latitude>
+			<altitude>0</altitude>
+			<range>71.97934461048151</range>
+			<tilt>-1.198273576316213e-008</tilt>
+			<heading>177.8283227093629</heading>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>113.6130030482245,22.24632734300256,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

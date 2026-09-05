@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>444_Top_History.kml</name>
+	<Style id="style">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default4_copy5">
+	</Style>
+	<Style id="sn_palette-3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_palette-30">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default4_copy8">
+	</Style>
+	<Style id="sn_palette-31">
+		<IconStyle id="khIconStyle742_copy6">
+			<color>997faaaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle744_copy6">
+			<color>de7f55ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy0">
+	</Style>
+	<Style id="sn_ylw-pushpin_copy10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_palette-3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_palette-3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_palette-3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_palette-3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin_copy10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>世界十大历史标志</name>
+		<description>世界十大历史标志
+
+Google Earth观察  http://www.williamlong.info/google</description>
+		<Placemark>
+			<name>自由女神</name>
+			<LookAt>
+				<longitude>-74.0445208125967</longitude>
+				<latitude>40.6890094831668</latitude>
+				<altitude>0</altitude>
+				<range>158.2764448973559</range>
+				<tilt>6.752899920795304e-010</tilt>
+				<heading>1.357343345803299</heading>
+			</LookAt>
+			<styleUrl>#msn_palette-3</styleUrl>
+			<Point>
+				<coordinates>-74.04482963504245,40.68912626799289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>埃菲尔铁塔</name>
+			<LookAt>
+				<longitude>2.29449722222268</longitude>
+				<latitude>48.85820555555061</latitude>
+				<altitude>0</altitude>
+				<range>439.1283413138849</range>
+				<tilt>1.259163961603258e-010</tilt>
+				<heading>-1.17035782198336e-013</heading>
+			</LookAt>
+			<styleUrl>#default_copy0</styleUrl>
+			<Point>
+				<coordinates>2.294497222222681,48.85820555555062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>雅典卫城</name>
+			<LookAt id="khLookAt1135">
+				<longitude>23.72648032614077</longitude>
+				<latitude>37.9713803204229</latitude>
+				<altitude>0</altitude>
+				<range>189.7856121535571</range>
+				<tilt>0</tilt>
+				<heading>0.0004106418629510623</heading>
+			</LookAt>
+			<styleUrl>#sn_palette-31</styleUrl>
+			<Point id="khPoint1136">
+				<coordinates>23.72613018617591,37.9714843301929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>莫斯科红场</name>
+			<LookAt>
+				<longitude>37.6202985761169</longitude>
+				<latitude>55.75413614175561</latitude>
+				<altitude>0</altitude>
+				<range>200.2072544199219</range>
+				<tilt>0.5708203322779736</tilt>
+				<heading>-37.14672075940933</heading>
+			</LookAt>
+			<styleUrl>#default4_copy5</styleUrl>
+			<Point>
+				<coordinates>37.62009594138446,55.75381446423254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>耶路撒冷圣殿山</name>
+			<LookAt>
+				<longitude>35.23469776713556</longitude>
+				<latitude>31.77793058369302</latitude>
+				<altitude>0</altitude>
+				<range>377.5811176508168</range>
+				<tilt>2.876426053113785e-010</tilt>
+				<heading>-2.004823862095072</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy10</styleUrl>
+			<Point>
+				<coordinates>35.23452614828295,31.7786147202724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>德国勃兰登堡门</name>
+			<LookAt>
+				<longitude>13.37781308731831</longitude>
+				<latitude>52.51631473239637</latitude>
+				<altitude>0</altitude>
+				<range>127.5925301892857</range>
+				<tilt>0</tilt>
+				<heading>-5.044555545062617e-006</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy0</styleUrl>
+			<Point>
+				<coordinates>13.37770153828127,52.51625286551762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>大本钟</name>
+			<LookAt>
+				<longitude>-0.1243116187100064</longitude>
+				<latitude>51.50056382959372</latitude>
+				<altitude>0</altitude>
+				<range>79.51841422869133</range>
+				<tilt>9.740665636006121e-011</tilt>
+				<heading>-86.31918657482575</heading>
+			</LookAt>
+			<styleUrl>#default4_copy8</styleUrl>
+			<Point>
+				<coordinates>-0.1246379965045321,51.50059765869018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>比萨斜塔</name>
+			<LookAt>
+				<longitude>10.39641080867412</longitude>
+				<latitude>43.72290713371332</latitude>
+				<altitude>0</altitude>
+				<range>102.7530203628031</range>
+				<tilt>8.857495155568272e-010</tilt>
+				<heading>2.090994663907761e-005</heading>
+			</LookAt>
+			<styleUrl>#style</styleUrl>
+			<Point>
+				<coordinates>10.39640894914447,43.72291519721895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>巴西救世主耶稣雕像</name>
+			<LookAt>
+				<longitude>-43.21047037850354</longitude>
+				<latitude>-22.95188285748086</latitude>
+				<altitude>0</altitude>
+				<range>115.7551802757937</range>
+				<tilt>0</tilt>
+				<heading>1.028504809667908e-005</heading>
+			</LookAt>
+			<styleUrl>#sn_palette-30</styleUrl>
+			<Point>
+				<coordinates>-43.21049775827911,-22.95159982912684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>美国国会大厦</name>
+			<LookAt>
+				<longitude>-77.00924696547358</longitude>
+				<latitude>38.89004673564108</latitude>
+				<altitude>0</altitude>
+				<range>276.8739836312566</range>
+				<tilt>0</tilt>
+				<heading>9.054594564671459e-005</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy1</styleUrl>
+			<Point>
+				<coordinates>-77.00902830679222,38.88994172191778,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

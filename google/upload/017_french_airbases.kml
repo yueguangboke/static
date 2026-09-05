@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <name>french_airbases.kml</name>
+  <Folder>
+    <name>Armee de l&apos;air</name>
+    <Placemark>
+      <name>Avord, BA702, LFOA</name>
+      <Point id="khPoint632">
+        <coordinates>2.6325,47.05333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bordeaux - Merignac, BA106, LFBD</name>
+      <Point>
+        <coordinates>0.7155555555555555,44.82833611111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambrai - Epinoy, BA103, LFQI</name>
+      <Point>
+        <coordinates>3.153611111111111,50.21916666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cazaux, BA120, LFBC</name>
+      <Point>
+        <coordinates>-1.125,44.53333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chateaudun, BA279, LFOC</name>
+      <Point>
+        <coordinates>1.376388888888889,48.05805555555557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cognac - Chateaubernard, BA709, LFBG</name>
+      <Point>
+        <coordinates>-0.3175,45.65833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colmar - Meyenheim, BA132, LFSC</name>
+      <Point>
+        <coordinates>7.399669444444445,47.92197777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Creil-Senlis, BA110, LFPC</name>
+      <Point>
+        <coordinates>2.519138888888889,49.25354722222223,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dijon - Longvic, DA102, LFSD</name>
+      <Point>
+        <coordinates>5.0861,47.27,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evreux - Fauville, DA105, LFOE</name>
+      <Point>
+        <coordinates>1.22,49.02861111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Istres - Le Tube, BA125, LFMI</name>
+      <Point>
+        <coordinates>4.923844444444445,43.52273611111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luxeuil - St.Sauveur, BA116, LFSX</name>
+      <Point>
+        <coordinates>6.364055555555556,47.78313055555557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Metz, LFSF</name>
+      <Point>
+        <coordinates>6.131666666666668,49.07166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mont-de-Marsan, LFBM</name>
+      <Point>
+        <coordinates>-0.5075,43.91166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nancy - Ochey, BA133, LFSO</name>
+      <Point>
+        <coordinates>5.955,48.58305555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orange - Caritat, BA115, LFMO</name>
+      <Point>
+        <coordinates>4.866716666666667,44.14048055555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orleans - Bricy, BA123, LFOJ</name>
+      <Point>
+        <coordinates>1.760555555555556,47.98777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paris - Roissy, LFPG</name>
+      <Point>
+        <coordinates>2.55,49.01277777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reims - Champagne, BA112, LFSR</name>
+      <Point>
+        <coordinates>4.05,49.31000000000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rochefort - St.Agnant, BA721</name>
+      <Point>
+        <coordinates>-0.9825000000000002,45.88944444444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salon de Provence, BA701, LFMY</name>
+      <Point>
+        <coordinates>5.10925,43.60641388888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint Dizier-Robinson, BA113, LFSI</name>
+      <Point>
+        <coordinates>4.899416666666666,48.63600833333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solenzara, BA126, LFKS</name>
+      <Point>
+        <coordinates>9.406000000000001,41.92441666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toulouse-Francazal, BA101, LFBF</name>
+      <Point>
+        <coordinates>1.3675,43.54555555555555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tours-St.Symphorien, BA705, LFOT</name>
+      <Point>
+        <coordinates>0.7276055555555556,47.43222222222223,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Villacoublay-Velizy, LFPV</name>
+      <Point>
+        <coordinates>2.201536111111111,48.77440555555555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amberieu en Bugey, BA278, LFXA</name>
+      <Point>
+        <coordinates>5.328444444444444,45.98733611111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grenoble-Le Versoud, BA749, LFLG</name>
+      <Point>
+        <coordinates>5.8492,45.21920000000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Romorantin-Pruniers, BA273, LFYR</name>
+      <Point>
+        <coordinates>1.6833,47.3167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saintes-Thenac, BA722, LFXB</name>
+      <Point>
+        <coordinates>-0.63,45.697,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cayenne - Rochambeau, Guyana, SOCA</name>
+      <Point>
+        <coordinates>-52.36044444444445,4.819805555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dakar-Yof, Senegal, DA160, GOOY</name>
+      <Point>
+        <coordinates>-17.490225,14.73970833333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Djibouti - Ambouli, Djibouti, DA188, HFFF</name>
+      <Point>
+        <coordinates>43.15949722222223,11.54749722222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort de France, Martinique, BA365, TFFF</name>
+      <Point>
+        <coordinates>-61.00317500000001,14.59103333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BAN Noumea - Tontouta, Nouvelle Caledonie, NWWW</name>
+      <Point>
+        <coordinates>166.4728055555556,-22.25827777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faaa, Papeete, Tahiti, BA190, NTAA</name>
+      <Point>
+        <coordinates>-149.6070944444444,-17.553775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint Denis-Gillot, Reunion, BA181, FMEE</name>
+      <Point>
+        <coordinates>55.51030833333333,-20.8871,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>ALAT</name>
+    <Placemark>
+      <name>Rennes-Saint Jacques, LFRN</name>
+      <Point id="khPoint634">
+        <coordinates>-1.735,48.07277777777779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Compiegne-Margny, LFAD</name>
+      <Point>
+        <coordinates>2.805555555555556,49.43416666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Etain-Rouvres, LFQE</name>
+      <Point>
+        <coordinates>5.676111111111111,49.22611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phalsbourg-Bourscheid, LFQP</name>
+      <Point>
+        <coordinates>7.20027777777778,48.76305555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bourges, LFLD</name>
+      <Point>
+        <coordinates>2.370277777777778,47.05805555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dax-Seyresse, LFBY</name>
+      <Point>
+        <coordinates>-1.066666666666667,43.68305555555557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pau, LFBP</name>
+      <Point>
+        <coordinates>-0.4197222222222222,43.38333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montauban, LFDB</name>
+      <Point>
+        <coordinates>1.3775,44.02638888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valence-Chabeuil, LFLU</name>
+      <Point>
+        <coordinates>4.968055555555556,44.92111111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gap-Tallard, LFNA</name>
+      <Point>
+        <coordinates>6.083055555555555,44.56666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Luc-Le Cannet, LFMC</name>
+      <Point>
+        <coordinates>6.389166666666667,43.38416666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Djibouti-Ambouli, HDAM</name>
+      <Point>
+        <coordinates>43.15944444444446,11.54722222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Libreville-Leon M Ba, Gabon, FOOL</name>
+      <Point>
+        <coordinates>9.412222222222223,0.4583333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>&apos;Djamena, Chad, FTTJ</name>
+      <Point>
+        <coordinates>15.03388888888889,12.13361111111111,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Aeronavale</name>
+    <Placemark>
+      <name>Landivisiau, LFRJ</name>
+      <Point>
+        <coordinates>-4.151666666666667,48.53027777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lanveoc-Poulmic, LFRL</name>
+      <Point>
+        <coordinates>-4.445,48.28166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorient / Lann-Bihoue, LFRH</name>
+      <Point>
+        <coordinates>-3.44,47.76055555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Rochelle, LFBH</name>
+      <Point>
+        <coordinates>-1.195277777777778,46.17916666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nimes-Garons, LFTW</name>
+      <Point>
+        <coordinates>4.416111111111111,43.75722222222223,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hyeres-La Palyvestre, LFTH</name>
+      <Point>
+        <coordinates>6.145833333333333,43.09722222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cuers-Pierrefeu</name>
+      <Point>
+        <coordinates>6.126666666666667,43.24777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cherbourg, LFRC</name>
+      <Point>
+        <coordinates>-1.470277777777778,49.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tontouta, New Caledonia, NWWW</name>
+      <Point>
+        <coordinates>166.2127777777778,-22.01444444444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faaa, Papeete, Tahiti, NTAA</name>
+      <Point>
+        <coordinates>-149.6069444444445,-17.55361111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort-de-France, Martinique, TFFF</name>
+      <Point>
+        <coordinates>-61.00313888888889,14.59102805555556,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

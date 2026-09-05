@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>shenzhen_city_park.kml</name>
+	<Style id="default">
+	</Style>
+	<StyleMap id="default_copy2+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy2+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy2+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default_copy1">
+	</Style>
+	<Style id="default_copy0">
+	</Style>
+	<Style id="default_copy2+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default_copy2+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder id="khFolder631">
+		<name>深圳免费公园</name>
+		<description>深圳免费公园
+
+Collect the free city park in ShenZhen(China) with beautiful scenery . enjoy .
+
+制作人：William Long
+地址：http://www.williamlong.info/google</description>
+		<Placemark>
+			<name>四海公园盖世神牛</name>
+			<description><![CDATA[四海公园由于位居蛇口中心地带，因此四海公园成为蛇口的大众娱乐中心。每年的中秋之夜，草坪上聚满了&ldquo;举杯邀明月，低头思故乡&rdquo;的人们。
+<p align="center"><img alt="蛇口四海公园" src="http://static.flickr.com/79/281034727_425dc1bad2_o.jpg" /></p>]]></description>
+			<LookAt>
+				<longitude>113.9224649340122</longitude>
+				<latitude>22.49935985480677</latitude>
+				<altitude>0</altitude>
+				<range>80.22930651808503</range>
+				<tilt>0</tilt>
+				<heading>-0.055238616440043</heading>
+			</LookAt>
+			<styleUrl>#default_copy1</styleUrl>
+			<Point>
+				<coordinates>113.9223059057645,22.49937772495036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>蛇口海上世界女娲补天</name>
+			<description><![CDATA[海上世界附近的女娲补天雕像则是纳凉休闲的好去处。海上世界的酒吧很有特色，老外很多，晚上去那里泡吧是个不错的选择。
+<p align="center"><img alt="蛇口海上世界" src="http://static.flickr.com/121/280720256_32a34e8911_o.jpg" /></p>]]></description>
+			<LookAt>
+				<longitude>113.9126662173065</longitude>
+				<latitude>22.48407270673069</latitude>
+				<altitude>0</altitude>
+				<range>237.127340853259</range>
+				<tilt>1.008931644117678e-009</tilt>
+				<heading>-0.05898770237579521</heading>
+			</LookAt>
+			<styleUrl>#default_copy0</styleUrl>
+			<Point>
+				<coordinates>113.912561682234,22.48389043911023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>大南山公园</name>
+			<description><![CDATA[大南山位于深圳南头半岛上，周围是蛇口工业区，主峰高336米。山上树林茂密，景色宜人，登高望远，整个深圳湾畔景物尽收眼底：远可观深圳市中心区楼群、香港流浮山脉，元朗景色，近可俯视南山半岛、宝安新城。<a target="_blank" href="http://www.williamlong.info/archives/631.html">这里是我爬大南山的游记（多图）</a>。
+<p align="center"><img alt="大南山公园" src="http://static.flickr.com/95/280720121_26288cd533_o.jpg" /></p>]]></description>
+			<LookAt>
+				<longitude>113.9017865922221</longitude>
+				<latitude>22.49934555470492</latitude>
+				<altitude>0</altitude>
+				<range>418.3415107365671</range>
+				<tilt>0</tilt>
+				<heading>-0.06315064911832929</heading>
+			</LookAt>
+			<styleUrl>#default_copy2+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+			<Point>
+				<coordinates>113.9016165510982,22.49996513814662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中山公园</name>
+			<description><![CDATA[中山公园位于深圳市区西部－－南山区，占49万平方米，是深圳市唯一以孙中山名字命名的公园，也是深圳市历史最悠久的公园。 
+<a href="http://www.flickr.com/photos/williamlong/282250975/" title="Photo Sharing"><img src="http://static.flickr.com/79/282250975_4328bb35d5_o.jpg" width="640" height="480" alt="zhongshan park" /></a>]]></description>
+			<LookAt>
+				<longitude>113.9175231725969</longitude>
+				<latitude>22.5519994011684</latitude>
+				<altitude>0</altitude>
+				<range>258.3171030304081</range>
+				<tilt>-1.531294853438849e-010</tilt>
+				<heading>-0.0222673661864348</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>113.9176694274775,22.55241698483763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>塘朗山郊野公园</name>
+			<description><![CDATA[塘朗山公园总面积约9.93平方公里，海拔430米，塘朗山郊野公园将以自然山水为骨架，以山水林泉和动植物形成的自然景观和自然生态环境为特色，让游人在游憩中了解自然、享受自然，并自觉保护自然。</p><p>　　目前塘朗山郊野公园有一条机动车道直通山顶，但为了游人的安全，此车道禁止私家车进入。<a target="_blank" href="http://www.williamlong.info/archives/651.html">这里是我爬塘朗山郊野公园的游记（多图）</a>
+<a href="http://www.flickr.com/photos/williamlong/282280935/" title="Photo Sharing"><img src="http://static.flickr.com/96/282280935_d2e4b018ec_o.jpg" width="640" height="480" alt="TangLangShan" /></a>]]></description>
+			<LookAt>
+				<longitude>113.9806444249898</longitude>
+				<latitude>22.57313310586594</latitude>
+				<altitude>0</altitude>
+				<range>906.9317656319438</range>
+				<tilt>-1.116581284948447e-010</tilt>
+				<heading>0.001962428915444602</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>113.9809676894841,22.57371283151508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>莲花山公园风筝广场</name>
+			<description><![CDATA[莲花山公园位于深圳市中心区的最北端，与新建的市民中心遥相呼应。全园占地面积194公顷，是一座风景环境清新的休闲胜地，每逢周末会吸引大批游人前来观光、娱乐，茵茵绿草是放风筝的绝佳地点。山顶广场上有一尊邓小平的铜像，在顶峰还可以将中心区美景尽收于眼底。
+<p align="center"><img alt="莲花山公园风筝广场" src="http://static.flickr.com/94/281063187_af03d5917a_o.jpg" /></p>]]></description>
+			<LookAt>
+				<longitude>114.0549582836911</longitude>
+				<latitude>22.55215776243798</latitude>
+				<altitude>0</altitude>
+				<range>259.6786734068268</range>
+				<tilt>4.323103524961062e-011</tilt>
+				<heading>-0.01107414252667716</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>114.0551934251351,22.55220160277489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>深圳儿童公园</name>
+			<description><![CDATA[深圳市儿童公园是我市惟一以少年儿童为主要服务对象的市政公园，位于罗湖区童乐路12号，面积5.9公顷，是深圳面积最小的市政公园。1984年12月，老一辈无产阶级革命家邓颖超亲笔题词&ldquo;深圳市儿童公园&rdquo;。有适合各年龄段少儿游乐项目13项，主要景点有人工湖、童话故事、雕塑群。<a target="_blank" href="http://www.williamlong.info/archives/341.html">这里是我去儿童公园的游记（多图）</a>。
+<p align="center"><img alt="儿童公园" src="http://static.flickr.com/79/280720579_ad9a7571d5_o.jpg" /></p>]]></description>
+			<LookAt>
+				<longitude>114.1189951249148</longitude>
+				<latitude>22.55816601490302</latitude>
+				<altitude>0</altitude>
+				<range>235.4008640937813</range>
+				<tilt>3.910053284280657e-011</tilt>
+				<heading>0.01361207191453395</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>114.1188937438181,22.55776131327233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>深圳洪湖公园</name>
+			<description><![CDATA[洪湖公园位于深圳市区笋岗立交桥东北侧，占地面积约0.7平方千米，南北长1800米，最宽500米，最窄300米。其中陆地面积32.46公顷，水体面积26.69公顷，是一个以荷花为主题，以水上活动为特色的综合性公园。公园游乐项目现有划船、游泳、大家乐舞场、垂钓区、摄影和健身活动等，能满足广大游客的不同需求。由于根据深圳市防洪工程规划，在洪湖以北有一个滞洪区，因此，贮水量达250万立方米的这个湖就称为洪湖。每逢盛夏，洪湖公园的主题就是荷花，百亩池塘，荷花怒放，蔚为壮观。
+<p align="center"><img alt="梅林水库" src="http://static.flickr.com/107/281034805_2199855e8c_o.jpg" /></p>]]></description>
+			<LookAt>
+				<longitude>114.1162140921542</longitude>
+				<latitude>22.57080184306147</latitude>
+				<altitude>0</altitude>
+				<range>360.3947457522616</range>
+				<tilt>0</tilt>
+				<heading>0.01254217147958159</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>114.1169259119194,22.57024475397903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>梅林水库</name>
+			<description><![CDATA[梅林水库位于福田区大型住宅区梅林一村以北，塘朗山以西，正常蓄水位58.60米，保护区面积4.34平方公里。这是一条户外爱好者喜欢的徒步线路，空气非常好，人也不算多，一路沿着水库而行，在都市里呆久了，到这里会让你觉得远离闹市，和自然无比贴近。<a target="_blank" href="http://www.williamlong.info/archives/458.html">这里是我去梅林水库的游记（多图）</a>。
+<p align="center"><img alt="梅林水库" src="http://static.flickr.com/99/280720493_24f724cc81_o.jpg" /></p><p>]]></description>
+			<LookAt>
+				<longitude>114.0305328730802</longitude>
+				<latitude>22.57527917130306</latitude>
+				<altitude>0</altitude>
+				<range>661.5245369337304</range>
+				<tilt>0</tilt>
+				<heading>-0.02032545470861507</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>114.0304583895807,22.57532146117874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>红树林公园</name>
+			<description><![CDATA[深圳红树林海滨生态公园位于滨河大道旁，占地21公顷，福田红树林保护区是国家级自然保护区，也是国家级鸟类自然保护区，面积368公顷。每当候鸟南迁过冬之时，红树林就成为了观潮、赏鸟、游林的好地方。
+<p align="center"><img alt="红树林公园" src="http://static.flickr.com/103/280720454_c5c7a62fa5_o.jpg" /></p>]]></description>
+			<LookAt>
+				<longitude>113.9971047198426</longitude>
+				<latitude>22.52769540704099</latitude>
+				<altitude>0</altitude>
+				<range>603.6885083062186</range>
+				<tilt>6.764300462340538e-013</tilt>
+				<heading>-0.03315216710405476</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>113.9970264360367,22.52744418490251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中心公园</name>
+			<description><![CDATA[深圳中心公园位于深圳市中部，占地面积147公顷，呈南北长条形分布，北接笔架山，南临皇岗口岸，长约2.5公里，东西最宽处约800米，故习惯称之为‘800米绿化带’。公园外围是以棕榈科植物为主干树种培植的疏林草坪。在华强北商圈这片闹市和高楼林立的市区中给了人们独享的一片安静空间。让崇尚自然的人们可以和热带丛林融为一体。
+<p align="center"><img alt="中心公园" src="http://static.flickr.com/96/280720334_a66e1467ea_o.jpg" /></p>]]></description>
+			<LookAt>
+				<longitude>114.075470670305</longitude>
+				<latitude>22.54475792193547</latitude>
+				<altitude>0</altitude>
+				<range>325.8237877930372</range>
+				<tilt>4.72080796336049</tilt>
+				<heading>0.004303704019547714</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>114.0757803274413,22.54435451646868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark647">
+			<name>荔枝公园</name>
+			<description><![CDATA[荔枝公园位于福田区红岭中路（市政府旁），是1982年在原有的589棵老荔枝林和一片低洼稻田的基础上，挖湖、筑亭造桥、铺路构筑成园而得名。全园占地面积28.8公顷，其中湖、塘、池等水面占11公顷；可供漫步畅游的石径小道6363米；建有亭、台、楼、阁、水榭、小桥流水、花廊竹径、古树名木、奇石怪桩等二十多处游览景点。每逢周末，英语角、自发的民间团体、个人文艺演出等让人们参与其中，使这里成为文化交流的好场所，也成为中心区域又一休闲的好去处。走出公园不远，在深南路上还可以看到邓小平的画像，让外地游人不虚此行。
+<p align="center"><img alt="荔枝公园" src="http://static.flickr.com/99/280720424_98f3905263_o.jpg" /></p>]]></description>
+			<LookAt id="khLookAt648">
+				<longitude>114.0978782171401</longitude>
+				<latitude>22.54556828145095</latitude>
+				<altitude>0</altitude>
+				<range>552.885360481268</range>
+				<tilt>1.027136850692518e-011</tilt>
+				<heading>0.005458704689123053</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point id="khPoint649">
+				<coordinates>114.0976330888975,22.54617217255656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark665">
+			<name>笔架山公园</name>
+			<description><![CDATA[笔架山公园位于市中心公园北侧，面积146公顷，笔架山公园是一片有十余座小山峰的丘陵起伏地，其中三座主峰东西鼎立，形同笔架，因而得名，主峰海拔178米。笔架山公园内已建成草坪40多万平方米，人工湖两个，草地滚球场二个，开发了钓鱼区，茶苑等服务设施。园内的“艺术家画廊”，还经常有书画名家的作品荟萃。在峰顶吹着山风，俯瞰深圳市容，远眺海景，很是惬意。
+<p align="center"><img alt="笔架山公园" src="http://static.flickr.com/84/280720374_5bed29190f_o.jpg" /></p>]]></description>
+			<LookAt id="khLookAt666">
+				<longitude>114.0798695880614</longitude>
+				<latitude>22.56710807454482</latitude>
+				<altitude>0</altitude>
+				<range>235.2272319447629</range>
+				<tilt>4.720718188206925</tilt>
+				<heading>0.005988857212861786</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point id="khPoint667">
+				<coordinates>114.0803360641127,22.56728483976923,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

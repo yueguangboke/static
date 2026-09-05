@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Angkor.kml</name>
+	<Style id="default+icon=0x307_copy3">
+		<IconStyle>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>160</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>柬埔寨吴哥窟</name>
+		<LookAt>
+			<longitude>103.8587130837491</longitude>
+			<latitude>13.44122155176434</latitude>
+			<altitude>0</altitude>
+			<range>91.5569378459562</range>
+			<tilt>-3.089719145184711e-010</tilt>
+			<heading>0.005910821072368638</heading>
+		</LookAt>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>root://icons/palette-3.png</href>
+					<x>224</x>
+					<w>32</w>
+					<h>32</h>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>103.8587600467113,13.44125628426294,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

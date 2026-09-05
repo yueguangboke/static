@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>wtc911.kml</name>
+	<Style id="14270:6 (site) (highlight)">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://kh.google.com:80/flatfile?lf-0-icons/information_new_nh.png</href>
+				<y>32</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="14282:6 (site) (normal)">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://kh.google.com:80/flatfile?lf-0-icons/information_new_nh.png</href>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="14282">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>flatfile://kh.google.com:80/styles/#14282:6 (site) (normal)</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>flatfile://kh.google.com:80/styles/#14282:6 (site) (highlight)</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="14270:6 (site) (normal)">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://kh.google.com:80/flatfile?lf-0-icons/information_new_nh.png</href>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="khStyle7921244260">
+		<IconStyle id="khIconStyle793">
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="14270">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>flatfile://kh.google.com:80/styles/#14270:6 (site) (normal)</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>flatfile://kh.google.com:80/styles/#14270:6 (site) (highlight)</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="14282:6 (site) (highlight)">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://kh.google.com:80/flatfile?lf-0-icons/information_new_nh.png</href>
+				<y>32</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>世界贸易中心遗址</name>
+		<open>1</open>
+		<Placemark>
+			<name>世界贸易中心遗址</name>
+			<LookAt>
+				<longitude>-74.01176900767686</longitude>
+				<latitude>40.71163260845987</latitude>
+				<altitude>0</altitude>
+				<range>464.7112522507382</range>
+				<tilt>0</tilt>
+				<heading>-0.0007382034519334861</heading>
+			</LookAt>
+			<Style>
+				<IconStyle id="khIconStyle793_copy1">
+					<Icon>
+						<href>root://icons/palette-3.png</href>
+						<x>96</x>
+						<y>64</y>
+						<w>32</w>
+						<h>32</h>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-74.01176900767686,40.71163260845987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世贸遗址的脚印和签名</name>
+			<styleUrl>#14282</styleUrl>
+			<Point>
+				<coordinates>-74.01239790859998,40.71196147170002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>一面美国国旗</name>
+			<styleUrl>#14270</styleUrl>
+			<Point>
+				<coordinates>-74.01099274800001,40.7104667195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界贸易中心7号楼</name>
+			<styleUrl>#14270</styleUrl>
+			<Point>
+				<coordinates>-74.0119041195,40.7133017221,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

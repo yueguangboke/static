@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>China_Millennium.kml</name>
+	<Style id="khStyle658_copy1">
+		<IconStyle id="khIconStyle660_copy0">
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon29.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle662_copy1">
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>中华世纪坛</name>
+		<LookAt>
+			<longitude>116.3157343059553</longitude>
+			<latitude>39.91027651927196</latitude>
+			<altitude>0</altitude>
+			<range>190.9655170869997</range>
+			<tilt>-5.062527991555689e-010</tilt>
+			<heading>-3.773510264148748e-005</heading>
+		</LookAt>
+		<styleUrl>#khStyle658_copy1</styleUrl>
+		<Point>
+			<coordinates>116.3153521958961,39.91027917107153,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

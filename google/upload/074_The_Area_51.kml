@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>The Area 51</name>
+	<description>www.williamlong.info/google</description>
+	<LookAt>
+		<longitude>-115.8181314856239</longitude>
+		<latitude>37.23944391434596</latitude>
+		<altitude>0</altitude>
+		<range>362.1673674608874</range>
+		<tilt>-4.996599061709262e-010</tilt>
+		<heading>-0.2240562593986119</heading>
+	</LookAt>
+	<styleUrl>#khStyle680</styleUrl>
+	<Point>
+		<coordinates>-115.8179221801857,37.23912903303926,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

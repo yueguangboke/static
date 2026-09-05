@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>nanjing.kml</name>
+	<StyleMap id="m_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>南京长江大桥</name>
+		<LookAt>
+			<longitude>118.7369582689369</longitude>
+			<latitude>32.11572871526731</latitude>
+			<altitude>0</altitude>
+			<range>850.6373929285849</range>
+			<tilt>-1.443987147724081e-010</tilt>
+			<heading>-0.001351771030584412</heading>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>118.7378383786786,32.11577323290974,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>TopMountains.kml</name>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default">
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="default0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="default1">
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>中国十大名山</name>
+		<open>1</open>
+		<Placemark>
+			<name>山东泰山</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>117.0920259742996</longitude>
+				<latitude>36.30627961685931</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2388177179328069</heading>
+				<tilt>0</tilt>
+				<range>4923.827090021023</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>117.0853607080918,36.30335389297439,560.9392327410116</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>安徽黄山</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>118.1653580688196</longitude>
+				<latitude>30.13300115316326</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3043632525082995</heading>
+				<tilt>0</tilt>
+				<range>15235.11426333424</range>
+			</LookAt>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>118.3115040099454,29.75378913384871,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>江西庐山</name>
+			<LookAt>
+				<longitude>115.9943988946996</longitude>
+				<latitude>29.57264000083319</latitude>
+				<altitude>0</altitude>
+				<heading>0.474485385834323</heading>
+				<tilt>0</tilt>
+				<range>3183.33481519296</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>115.9964577718148,29.57216793508308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>陕西华山</name>
+			<LookAt>
+				<longitude>110.078672036303</longitude>
+				<latitude>34.48396369152493</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006923311346813808</heading>
+				<tilt>0</tilt>
+				<range>7889.562622122605</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>110.0766494855302,34.49249091126329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>山西五台山</name>
+			<LookAt>
+				<longitude>113.5959685946717</longitude>
+				<latitude>38.94750019749321</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0007547198677911967</heading>
+				<tilt>0</tilt>
+				<range>38464.93130441009</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>113.5676225198711,38.98335261199161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>四川峨眉山</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>103.2898021130406</longitude>
+				<latitude>29.48308296555342</latitude>
+				<altitude>0</altitude>
+				<heading>-19.75124068974866</heading>
+				<tilt>25.16108263517834</tilt>
+				<range>20873.76817020983</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>103.3001439204264,29.50593172580873,1940.523297152844</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>西藏珠穆朗玛峰</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>86.92670759501729</longitude>
+				<latitude>27.98800004377051</latitude>
+				<altitude>0</altitude>
+				<heading>0.5161075599763462</heading>
+				<tilt>0</tilt>
+				<range>4712.991003362337</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>86.92506313295684,27.98794559787052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>台湾玉山</name>
+			<open>1</open>
+			<Camera>
+				<longitude>120.9581311138442</longitude>
+				<latitude>23.46785071012005</latitude>
+				<altitude>474.2960985598369</altitude>
+				<heading>7.220381672305902</heading>
+				<tilt>21.29389239082728</tilt>
+				<roll>1.055027444194621</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>120.9575393008908,23.46919935919911,3869.071007287536</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>长白山</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>128.039460659637</longitude>
+				<latitude>41.98272135567417</latitude>
+				<altitude>0</altitude>
+				<heading>-178.0026280038645</heading>
+				<tilt>57.13199649039031</tilt>
+				<range>10376.29620174671</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>128.0641485363639,42.00370502452276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>福建武夷山</name>
+			<LookAt>
+				<longitude>117.8853672650456</longitude>
+				<latitude>27.78911740424913</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1100086010771353</heading>
+				<tilt>0.03900577074640094</tilt>
+				<range>46198.02689662894</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>117.9708287468609,27.83001020189932,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>英国艾姆斯伯里的巨石柱群</name>
+	<LookAt>
+		<longitude>-1.826336434152745</longitude>
+		<latitude>51.17882020047283</latitude>
+		<altitude>0</altitude>
+		<range>87.025167999224</range>
+		<tilt>-4.484188566142553e-010</tilt>
+		<heading>-0.03352831515865845</heading>
+	</LookAt>
+	<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+	<Point>
+		<coordinates>-1.82640571742401,51.178855638644,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

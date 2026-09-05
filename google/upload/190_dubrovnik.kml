@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>dubrovnik.kml</name>
+	<Style id="s_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>克罗埃西亚中古城</name>
+		<LookAt>
+			<longitude>18.10986356308868</longitude>
+			<latitude>42.64079773102301</latitude>
+			<altitude>0</altitude>
+			<range>557.0362572381191</range>
+			<tilt>2.970485494577422e-011</tilt>
+			<heading>0.05103861483308351</heading>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>18.10864441528987,42.6406074323808,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

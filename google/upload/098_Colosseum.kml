@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Colosseum.kml</name>
+	<Style id="khStyle792">
+		<IconStyle id="khIconStyle793">
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>罗马斗兽场</name>
+		<LookAt>
+			<longitude>12.49251104840808</longitude>
+			<latitude>41.89030094873566</latitude>
+			<altitude>0</altitude>
+			<range>258.8887594954479</range>
+			<tilt>0</tilt>
+			<heading>9.337704765711677e-006</heading>
+		</LookAt>
+		<styleUrl>#khStyle792</styleUrl>
+		<Point>
+			<coordinates>12.49251104840808,41.89030094873566,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

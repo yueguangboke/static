@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>澳大利亚国会大厦</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>149.124813</longitude>
+		<latitude>-35.307784</latitude>
+		<altitude>0</altitude>
+		<range>958.7817091220167</range>
+		<tilt>1.134698572002426e-010</tilt>
+		<heading>-3.85637406965246e-014</heading>
+	</LookAt>
+	<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+	<Point>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>149.1245075703064,-35.30803998393053,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

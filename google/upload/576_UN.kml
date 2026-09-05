@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>576_UN.kml</name>
+	<Style id="sn_ylw-pushpin_copy0">
+	</Style>
+	<Placemark>
+		<name>联合国总部大厦</name>
+		<LookAt>
+			<longitude>-73.96809313704618</longitude>
+			<latitude>40.74892163099784</latitude>
+			<altitude>0</altitude>
+			<range>315.4358255296834</range>
+			<tilt>1.114735243053917e-010</tilt>
+			<heading>0.01398529114266667</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>-73.96820408734179,40.74869675161803,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

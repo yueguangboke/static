@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>sydney_harbour_bridge.kml</name>
+	<Style id="s_ylw-pushpin_hl_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>悉尼大桥</name>
+		<LookAt>
+			<longitude>151.2109011701183</longitude>
+			<latitude>-33.85233481959362</latitude>
+			<altitude>0</altitude>
+			<range>559.6045876958971</range>
+			<tilt>6.770974930973397e-010</tilt>
+			<heading>1.108870034285167</heading>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>151.210605084888,-33.85217999457758,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>358_BaiYun.kml</name>
+	<Style id="sn_icon48">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>广州新白云机场</name>
+		<LookAt>
+			<longitude>113.30031614814</longitude>
+			<latitude>23.39106393094383</latitude>
+			<altitude>0</altitude>
+			<range>2876.692783299686</range>
+			<tilt>8.237857570724005e-011</tilt>
+			<heading>3.031979427886407</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_icon48</styleUrl>
+		<Point>
+			<coordinates>113.2964700230386,23.38498537347885,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

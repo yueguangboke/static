@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>465_TopBuilding.kml</name>
+	<StyleMap id="msn_ylw-pushpin_copy13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default_copy:0_copy11">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin_copy11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+	</Style>
+	<Style id="sh_ylw-pushpin_copy10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin_copy010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_palette-3">
+		<IconStyle id="khIconStyle793_copy2">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin02">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_palette-30">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>世界十大顶级建筑</name>
+		<open>1</open>
+		<Placemark>
+			<name>埃及胡夫金字塔</name>
+			<LookAt>
+				<longitude>31.13109108423517</longitude>
+				<latitude>29.97616663151542</latitude>
+				<altitude>0</altitude>
+				<range>263.3761672390733</range>
+				<tilt>7.707393065295539e-010</tilt>
+				<heading>-0.003187113491738273</heading>
+			</LookAt>
+			<styleUrl>#sn_palette-3</styleUrl>
+			<Point>
+				<coordinates>31.13193064301058,29.97595571315068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>万里长城</name>
+			<open>1</open>
+			<styleUrl>#sn_palette-30</styleUrl>
+			<Point>
+				<coordinates>116.0068431834344,40.35425708676997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上海浦东</name>
+			<LookAt>
+				<longitude>121.4956248676828</longitude>
+				<latitude>31.24169405638376</latitude>
+				<altitude>0</altitude>
+				<range>230.5393734586598</range>
+				<tilt>0.7276975987378985</tilt>
+				<heading>17.68988004650172</heading>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>121.4949851906,31.24182165627668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北京故宫</name>
+			<LookAt>
+				<longitude>116.391304621394</longitude>
+				<latitude>39.91658550955969</latitude>
+				<altitude>0</altitude>
+				<range>1001.367830992949</range>
+				<tilt>3.231764282782887</tilt>
+				<heading>0.0003148920460669309</heading>
+			</LookAt>
+			<styleUrl>#default_copy:0_copy11</styleUrl>
+			<Point>
+				<coordinates>116.3909772606547,39.91621980007153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北京人民大会堂</name>
+			<LookAt>
+				<longitude>116.3881004080923</longitude>
+				<latitude>39.90376199953375</latitude>
+				<altitude>0</altitude>
+				<range>301.2018581864022</range>
+				<tilt>3.231764282530532</tilt>
+				<heading>-0.001741337369126786</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin21</styleUrl>
+			<Point>
+				<coordinates>116.3879798128579,39.90341952200639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>美国五角大楼</name>
+			<LookAt>
+				<longitude>-77.05578914043734</longitude>
+				<latitude>38.8704392942152</latitude>
+				<altitude>0</altitude>
+				<range>495.0932893291534</range>
+				<tilt>0.4156586419340803</tilt>
+				<heading>-0.07063056829995856</heading>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>-77.0559726341866,38.87106289002368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>瑞典冰旅馆</name>
+			<LookAt>
+				<longitude>20.59483182152026</longitude>
+				<latitude>67.85015363638128</latitude>
+				<altitude>0</altitude>
+				<range>159.5191490939338</range>
+				<tilt>6.848449190094228e-011</tilt>
+				<heading>-26.55529153539516</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy00</styleUrl>
+			<Point>
+				<coordinates>20.59462314593015,67.85021986276868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>三峡大坝</name>
+			<LookAt>
+				<longitude>111.0049086854956</longitude>
+				<latitude>30.82649066863298</latitude>
+				<altitude>0</altitude>
+				<range>5270.690239856163</range>
+				<tilt>3.881067782059413e-012</tilt>
+				<heading>-0.06988172242021135</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>111.0037163357183,30.82299353303625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>伦敦巴比肯中心</name>
+			<LookAt>
+				<longitude>-0.09371357010188515</longitude>
+				<latitude>51.51938656610557</latitude>
+				<altitude>0</altitude>
+				<range>350.1478489062859</range>
+				<tilt>0</tilt>
+				<heading>0.003169790822881853</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy13</styleUrl>
+			<Point>
+				<coordinates>-0.09412845394419378,51.51970008046058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>法国巴黎圣但尼的法兰西体育场</name>
+			<LookAt>
+				<longitude>2.360497895042089</longitude>
+				<latitude>48.92441379637297</latitude>
+				<altitude>0</altitude>
+				<range>517.326474336641</range>
+				<tilt>1.004163372957983</tilt>
+				<heading>0.002883140498262856</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>2.360120511699407,48.92437937977385,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

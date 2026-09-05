@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>239_HongKong.kml</name>
+	<Style id="default_copy:0_copy:0_copy:0_copy:0_copy:0_copy9+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="khStyle601">
+		<IconStyle id="khIconStyle605">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle607">
+		</LabelStyle>
+		<LineStyle id="khLineStyle604">
+		</LineStyle>
+		<PolyStyle id="khPolyStyle603">
+		</PolyStyle>
+	</Style>
+	<Style id="khStyle648">
+		<IconStyle id="khIconStyle652">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle654">
+		</LabelStyle>
+		<LineStyle id="khLineStyle651">
+		</LineStyle>
+		<PolyStyle id="khPolyStyle650">
+		</PolyStyle>
+	</Style>
+	<Style id="khStyle685">
+		<IconStyle id="khIconStyle689">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon38.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle691">
+		</LabelStyle>
+		<LineStyle id="khLineStyle688">
+		</LineStyle>
+		<PolyStyle id="khPolyStyle687">
+		</PolyStyle>
+	</Style>
+	<Style id="khStyle692">
+		<IconStyle id="khIconStyle696">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle698">
+		</LabelStyle>
+		<LineStyle id="khLineStyle695">
+		</LineStyle>
+		<PolyStyle id="khPolyStyle694">
+		</PolyStyle>
+	</Style>
+	<Style id="khStyle621">
+		<IconStyle id="khIconStyle625">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle627">
+		</LabelStyle>
+		<LineStyle id="khLineStyle624">
+		</LineStyle>
+		<PolyStyle id="khPolyStyle623">
+		</PolyStyle>
+	</Style>
+	<StyleMap id="default_copy:0_copy:0_copy:0_copy:0_copy:0_copy9+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy:0_copy:0_copy:0_copy:0_copy:0_copy9+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy:0_copy:0_copy:0_copy:0_copy:0_copy9+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="khStyle655">
+		<IconStyle id="khIconStyle659">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle661">
+		</LabelStyle>
+		<LineStyle id="khLineStyle658">
+		</LineStyle>
+		<PolyStyle id="khPolyStyle657">
+		</PolyStyle>
+	</Style>
+	<Style id="khStyle554">
+		<IconStyle id="khIconStyle558">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle560">
+		</LabelStyle>
+		<LineStyle id="khLineStyle557">
+		</LineStyle>
+		<PolyStyle id="khPolyStyle556">
+		</PolyStyle>
+	</Style>
+	<Style id="default_copy:0_copy:0_copy:0_copy:0_copy:0_copy9+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Places in Hong Kong</name>
+		<open>1</open>
+		<description>General View of Hong Kong</description>
+		<Placemark>
+			<name>Wong Tai Sin Temple</name>
+			<description>A famous tample for the chinese Goddess - Wong Tai Sin. Every 2nd day of the Lunar new year, people are here for the wish of the coming year.</description>
+			<LookAt>
+				<longitude>114.1933870369799</longitude>
+				<latitude>22.34237338610132</latitude>
+				<altitude>0</altitude>
+				<range>819.8001128436467</range>
+				<tilt>0</tilt>
+				<heading>0.008531965638681718</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal4/icon38.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>114.1936106262937,22.34225845580803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sam Mun Tsai</name>
+			<description>Ride a bike or take a bus from TaiPo (DaiPo in this map), you can reach this good place for BBQ. With a great view of Tolo Harbour, and Hong Kong&apos;s most important water supply - man-made fresh water lake. You can walk on the dam and enjoy the fresh air.</description>
+			<LookAt>
+				<longitude>114.2192906456873</longitude>
+				<latitude>22.45393064102116</latitude>
+				<altitude>0</altitude>
+				<range>11397.52085868393</range>
+				<tilt>55.72755424691089</tilt>
+				<heading>-161.3340400070195</heading>
+			</LookAt>
+			<styleUrl>#khStyle692</styleUrl>
+			<Point>
+				<coordinates>114.2331174515439,22.47133472308851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tolo Harbour</name>
+			<description>Beautiful environment protected harbour. Excellent for bike riders to travel along.</description>
+			<LookAt>
+				<longitude>114.2157022246158</longitude>
+				<latitude>22.4298867657277</latitude>
+				<altitude>0</altitude>
+				<range>10106.51424747262</range>
+				<tilt>0</tilt>
+				<heading>2.785577186443982</heading>
+			</LookAt>
+			<styleUrl>#khStyle692</styleUrl>
+			<Point>
+				<coordinates>114.2061674153571,22.43498755388659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shing Mun River</name>
+			<description>It was not a river, it was the coastal area of shatin. Being reclaimed so much, it becomes a river. You can hire a bicycle at the riverside and ride to Tai Po on the cycling track along Tolo harbour. It is a 1.5-2 hour ride.</description>
+			<LookAt>
+				<longitude>114.1950478488919</longitude>
+				<latitude>22.38453151392201</latitude>
+				<altitude>0</altitude>
+				<range>2598.681142809943</range>
+				<tilt>46.81114551091061</tilt>
+				<heading>4.861428082853264</heading>
+			</LookAt>
+			<styleUrl>#khStyle692</styleUrl>
+			<Point>
+				<coordinates>114.1948988584816,22.38446498989933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shatin Racecourse</name>
+			<description>Another place for you to put your bet on the horses. And also the Penfold Park is located inside the Racecourse.</description>
+			<LookAt>
+				<longitude>114.2087068329382</longitude>
+				<latitude>22.39788006120477</latitude>
+				<altitude>0</altitude>
+				<range>1471.34446021698</range>
+				<tilt>0</tilt>
+				<heading>0.0148775665435671</heading>
+			</LookAt>
+			<styleUrl>#khStyle692</styleUrl>
+			<Point>
+				<coordinates>114.2065664272905,22.3998393562489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tai Wai</name>
+			<description>Famous with it&apos;s roasted piegon!</description>
+			<LookAt>
+				<longitude>114.1797065598316</longitude>
+				<latitude>22.37440277118522</latitude>
+				<altitude>0</altitude>
+				<range>1471.365071139301</range>
+				<tilt>0</tilt>
+				<heading>0.003833459512722701</heading>
+			</LookAt>
+			<styleUrl>#khStyle692</styleUrl>
+			<Point>
+				<coordinates>114.1797065598317,22.37440277118522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cheung Chau</name>
+			<description>Small outlying island with good seafood and tradition of itself. Every year at the Buddha&apos;s birthday, there are parades and bun-catching competition holding on the island. Be there early!</description>
+			<LookAt>
+				<longitude>114.0299754676693</longitude>
+				<latitude>22.2083031396508</latitude>
+				<altitude>0</altitude>
+				<range>2355.821212899583</range>
+				<tilt>0</tilt>
+				<heading>-0.05364414019160917</heading>
+			</LookAt>
+			<styleUrl>#khStyle692</styleUrl>
+			<Point>
+				<coordinates>114.0299754676693,22.2083031396508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hong Kong Polytechnic University</name>
+			<description>It is located just outside the Cross Harbour Tunnel. It&apos;s red brick is it&apos;s signature!</description>
+			<LookAt>
+				<longitude>114.1791425237161</longitude>
+				<latitude>22.3034511314888</latitude>
+				<altitude>0</altitude>
+				<range>803.6974051323433</range>
+				<tilt>0</tilt>
+				<heading>0.00311293138828791</heading>
+			</LookAt>
+			<styleUrl>#khStyle685</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>114.1791425237161,22.3034511314888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wong Tai Sin</name>
+			<description>Wong Tai Sin is an urban living area. However, it has a famous tample - Wong Tai Sin Tample in the heart of this area.</description>
+			<LookAt>
+				<longitude>114.1933870369799</longitude>
+				<latitude>22.34237338610132</latitude>
+				<altitude>0</altitude>
+				<range>819.8001128436467</range>
+				<tilt>0</tilt>
+				<heading>0.008531965638681718</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1938057927417,22.34069764079976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kwun Tong</name>
+			<description>The City&apos;s old industrial area. Now with the city&apos;s first 24 hour shopping arcade, Kwun Tong has stepped into a new era.</description>
+			<LookAt>
+				<longitude>114.2250756059698</longitude>
+				<latitude>22.31106146773819</latitude>
+				<altitude>0</altitude>
+				<range>1728.234144336582</range>
+				<tilt>0</tilt>
+				<heading>0.02056726697675702</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.2267587798913,22.31188798188919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hong Kong Coliseum</name>
+			<description>A place for concert, sports, and meetings. This is a place where asia singers are dreaming of!</description>
+			<LookAt>
+				<longitude>114.1804478746868</longitude>
+				<latitude>22.30221017874863</latitude>
+				<altitude>0</altitude>
+				<range>1285.195199329624</range>
+				<tilt>45.69656784611598</tilt>
+				<heading>-118.2399894368047</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1816588503054,22.30083017550009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shum Cheng</name>
+			<description>The very special roasted goose can be tasted here!</description>
+			<LookAt>
+				<longitude>113.9939530176914</longitude>
+				<latitude>22.36992684737951</latitude>
+				<altitude>0</altitude>
+				<range>1197.549916499341</range>
+				<tilt>43.46750443705306</tilt>
+				<heading>-0.5005146196440238</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>113.9939530176914,22.36992684737951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yuen Long</name>
+			<description>Famous about it&apos;s traditional Chinese Style Cake. It is located in the only plain in Hong Kong - Yuen Long Plain.</description>
+			<LookAt>
+				<longitude>114.0225797836793</longitude>
+				<latitude>22.4379616233297</latitude>
+				<altitude>0</altitude>
+				<range>2413.541282698371</range>
+				<tilt>36.49322911239603</tilt>
+				<heading>38.83095347429286</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.0308357823493,22.44386515510989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tuen Mun</name>
+			<description>Living Area in Hong Kong. You can experience the modern Tram -LRT from here to Yuen-Long</description>
+			<LookAt>
+				<longitude>113.9748049491065</longitude>
+				<latitude>22.39175395455613</latitude>
+				<altitude>0</altitude>
+				<range>2675.81552863572</range>
+				<tilt>52.38378129953234</tilt>
+				<heading>25.41264171811094</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>113.9756423197052,22.39672323757486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Plaza</name>
+			<description>The tallest building in Hong Kong, 5th in the world.</description>
+			<LookAt>
+				<longitude>114.1729183903269</longitude>
+				<latitude>22.27973126801684</latitude>
+				<altitude>0</altitude>
+				<range>555.3251625532228</range>
+				<tilt>0.1117891373258599</tilt>
+				<heading>8.751232653780379</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1731795840882,22.27986751071442,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wan Chai</name>
+			<description>10 Minutes walk from Central or Causeway Bay you can reach this bar and grill area in Lockhart Road, Wan Chai</description>
+			<LookAt>
+				<longitude>114.173694373188</longitude>
+				<latitude>22.27909518735558</latitude>
+				<altitude>0</altitude>
+				<range>2496.525880034586</range>
+				<tilt>0.111789224559252</tilt>
+				<heading>8.751527243684341</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1731823696632,22.2785340310612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>So Kwu Wan</name>
+			<description>Looking for more local seafood? Here it is!</description>
+			<LookAt>
+				<longitude>114.1330098589568</longitude>
+				<latitude>22.20519892639093</latitude>
+				<altitude>0</altitude>
+				<range>2184.544811505342</range>
+				<tilt>0.1117886235952338</tilt>
+				<heading>8.736128810988729</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1307356853578,22.20612488775015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Peak</name>
+			<description>To view the best of the Eastern Pearl. Here it is!</description>
+			<LookAt>
+				<longitude>114.1479158224793</longitude>
+				<latitude>22.27162754239506</latitude>
+				<altitude>0</altitude>
+				<range>2187.513527803178</range>
+				<tilt>47.8421284449953</tilt>
+				<heading>-123.4698879799653</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1493030651709,22.27136151166897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kowloon Park</name>
+			<description>Good place to relax after shopping.</description>
+			<LookAt>
+				<longitude>114.1698064029437</longitude>
+				<latitude>22.29926475682742</latitude>
+				<altitude>0</altitude>
+				<range>731.699882693356</range>
+				<tilt>5.841807459638894e-010</tilt>
+				<heading>-0.004594025247782724</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.170623602543,22.29939764284553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Hong Kong University of Science and Technology</name>
+			<description>Located Near Sai Kung.</description>
+			<LookAt>
+				<longitude>114.2632990572031</longitude>
+				<latitude>22.33556423847571</latitude>
+				<altitude>0</altitude>
+				<range>2564.770774533823</range>
+				<tilt>6.571552153005237e-010</tilt>
+				<heading>0.03080790982070271</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.2619822003685,22.33624576910139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tsing-Ma Bridge</name>
+			<description>A spectacular bridge connecting Tsing-Yi and Ma Wan.</description>
+			<LookAt>
+				<longitude>114.0744068208315</longitude>
+				<latitude>22.342127966725</latitude>
+				<altitude>0</altitude>
+				<range>5496.598083701824</range>
+				<tilt>6.484950559991104e-010</tilt>
+				<heading>-0.04099107190757639</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.0733198308075,22.34951224010782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kwai Chung Seaport</name>
+			<description>One of the busiest seaport in the world!</description>
+			<LookAt>
+				<longitude>114.1338710089638</longitude>
+				<latitude>22.33790570162273</latitude>
+				<altitude>0</altitude>
+				<range>5483.301648106297</range>
+				<tilt>6.558699044440089e-010</tilt>
+				<heading>-0.01848035685654099</heading>
+			</LookAt>
+			<styleUrl>#khStyle655</styleUrl>
+			<Point>
+				<coordinates>114.1256737158798,22.3444108758008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Long Beach</name>
+			<description>Beautiful quiet beach in remote area of Lantau Island.</description>
+			<LookAt>
+				<longitude>113.9474645737904</longitude>
+				<latitude>22.23021723899823</latitude>
+				<altitude>0</altitude>
+				<range>2815.630099309091</range>
+				<tilt>6.715572878533186e-010</tilt>
+				<heading>-0.08893922717729987</heading>
+			</LookAt>
+			<styleUrl>#khStyle655</styleUrl>
+			<Point>
+				<coordinates>113.9476754395412,22.23139970203464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tai O</name>
+			<description>Small fishing village where you can experience the rural area of Hong Kong and buy top-class shrimp paste! Excellent for cooking!</description>
+			<LookAt>
+				<longitude>113.8731264979827</longitude>
+				<latitude>22.25118969807739</latitude>
+				<altitude>0</altitude>
+				<range>6142.960557821605</range>
+				<tilt>6.582658763831481e-010</tilt>
+				<heading>-0.1171684602829577</heading>
+			</LookAt>
+			<styleUrl>#khStyle655</styleUrl>
+			<Point>
+				<coordinates>113.8608452312581,22.2486976480388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Hong Kong Disneyland</name>
+			<description>Will be opened in 12th of September 2005.</description>
+			<LookAt>
+				<longitude>114.0461796212274</longitude>
+				<latitude>22.32050202305166</latitude>
+				<altitude>0</altitude>
+				<range>6264.166121959574</range>
+				<tilt>6.454438265772234e-010</tilt>
+				<heading>-0.05155836449651319</heading>
+			</LookAt>
+			<styleUrl>#khStyle655</styleUrl>
+			<Point>
+				<coordinates>114.0435118697879,22.31165698064728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tsing Yi</name>
+			<description>Living area.</description>
+			<LookAt>
+				<longitude>114.0940338640778</longitude>
+				<latitude>22.35178121251383</latitude>
+				<altitude>0</altitude>
+				<range>6228.0449371113</range>
+				<tilt>6.518573953110022e-010</tilt>
+				<heading>-0.0333646973252057</heading>
+			</LookAt>
+			<styleUrl>#khStyle655</styleUrl>
+			<Point>
+				<coordinates>114.1034541905018,22.35213804317718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Golden Shopping Arcade</name>
+			<description>OK, this is not so obvious. Here is where you can buy any computer related thing. The legendary Golden Shopping Arcade.</description>
+			<LookAt>
+				<longitude>114.1614451606018</longitude>
+				<latitude>22.33144235712184</latitude>
+				<altitude>0</altitude>
+				<range>590.3022821738966</range>
+				<tilt>8.301854206157841e-010</tilt>
+				<heading>-0.007755313988306056</heading>
+			</LookAt>
+			<styleUrl>#khStyle655</styleUrl>
+			<Point>
+				<coordinates>114.1607986250625,22.33229764303243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mongkok</name>
+			<description>If you are looking for something cheaper, if you are looking for some latest cell phone, electronic appliances. This is where you must go!</description>
+			<LookAt>
+				<longitude>114.1727723325469</longitude>
+				<latitude>22.31791733179011</latitude>
+				<altitude>0</altitude>
+				<range>2674.49347618455</range>
+				<tilt>6.614283889271822e-010</tilt>
+				<heading>-0.003453354372743781</heading>
+			</LookAt>
+			<styleUrl>#khStyle655</styleUrl>
+			<Point>
+				<coordinates>114.1692851627718,22.31727940126735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tsim Sha Tsui</name>
+			<description>Famous for shopping eating and walking around. Some world known place just like Chungking Mansion, The Peninsula Hotel, Harbour City shopping arcade, Marina&apos;s Club.... are all around! This is also the beautiful Hong Kong Stage of Gran Turismo 4 in Playstation 2  :P</description>
+			<LookAt>
+				<longitude>114.171379799645</longitude>
+				<latitude>22.29665090761119</latitude>
+				<altitude>0</altitude>
+				<range>614.2399812908734</range>
+				<tilt>6.773134030973817e-010</tilt>
+				<heading>-0.003983284867038824</heading>
+			</LookAt>
+			<styleUrl>#khStyle648</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>114.1710143730091,22.29672890667178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kowloon City</name>
+			<description>If you are looking for local food and South-East Asia style food! Here is your choice for no doubt!</description>
+			<LookAt>
+				<longitude>114.187956741369</longitude>
+				<latitude>22.3288635154581</latitude>
+				<altitude>0</altitude>
+				<range>1220.483336562778</range>
+				<tilt>6.36484394452441e-010</tilt>
+				<heading>0.002312021267635208</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1869054360509,22.3293242050804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Whampoa Boat</name>
+			<description>This is true! A ship-shaped shopping arcade!</description>
+			<LookAt>
+				<longitude>114.1900813774153</longitude>
+				<latitude>22.30383178994726</latitude>
+				<altitude>0</altitude>
+				<range>313.7508159753253</range>
+				<tilt>8.046898771792713e-010</tilt>
+				<heading>0.003120214999935096</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1900861316893,22.30443422583928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shek O Beach</name>
+			<description>Excellent place for BBQ and swimming!</description>
+			<LookAt>
+				<longitude>114.2509444169716</longitude>
+				<latitude>22.22899263405551</latitude>
+				<altitude>0</altitude>
+				<range>1746.034574195634</range>
+				<tilt>6.478676055256337e-010</tilt>
+				<heading>-99.43728705183685</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.2509530029494,22.22879581652678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Victoria Park</name>
+			<description>We have Victoria Peak, Victoria Harbour... and this! Victoria park is said the be the city&apos;s lung.</description>
+			<LookAt>
+				<longitude>114.1898261562354</longitude>
+				<latitude>22.28046000136687</latitude>
+				<altitude>0</altitude>
+				<range>841.4825178339669</range>
+				<tilt>7.429840131096855e-010</tilt>
+				<heading>-99.46042286591738</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1885698304813,22.28291136848539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chief Executives House</name>
+			<description>Former Governor&apos;s House. Now the Chief executive moves in.</description>
+			<LookAt>
+				<longitude>114.1573654775402</longitude>
+				<latitude>22.27841697370888</latitude>
+				<altitude>0</altitude>
+				<range>394.1767548646564</range>
+				<tilt>0</tilt>
+				<heading>17.93967018851616</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1579133149497,22.27809409747608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Space Museum of Hong Kong</name>
+			<description>This hemisphere shaped building contains a special theatre ehich shows documentary films about natural wonders and space mysteries!</description>
+			<LookAt>
+				<longitude>114.1727339358845</longitude>
+				<latitude>22.2945770725839</latitude>
+				<altitude>0</altitude>
+				<range>888.6071238358588</range>
+				<tilt>3.680704930646207e-005</tilt>
+				<heading>-0.005985942280248273</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1724512397956,22.29400396291393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kai Tak</name>
+			<description>The old airport of Hong Kong.</description>
+			<LookAt>
+				<longitude>114.1993748100675</longitude>
+				<latitude>22.32636327382303</latitude>
+				<altitude>0</altitude>
+				<range>1569.306494795431</range>
+				<tilt>3.680718100560971e-005</tilt>
+				<heading>0.004131827024899488</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1993748100675,22.32636327382303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Repulse Bay</name>
+			<description>Beautiful beach for all people!</description>
+			<LookAt>
+				<longitude>114.1965795820211</longitude>
+				<latitude>22.23660564374532</latitude>
+				<altitude>0</altitude>
+				<range>1304.964065588202</range>
+				<tilt>3.680695845955921e-005</tilt>
+				<heading>-165.6731483545368</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1960354239027,22.23559768497101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stanley</name>
+			<description>A white sand beach with flea market. Also bars and restaurants are available.</description>
+			<LookAt>
+				<longitude>114.2071049805735</longitude>
+				<latitude>22.21898100157071</latitude>
+				<altitude>0</altitude>
+				<range>5094.472796383042</range>
+				<tilt>3.680699457587062e-005</tilt>
+				<heading>-165.6691632803132</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.2171135341216,22.21928131743312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hong Kong Stadium</name>
+			<description>BIggest Stadium in Hong Kong. The Hong Kong Rugby Sevens is here every year!</description>
+			<LookAt>
+				<longitude>114.186373571819</longitude>
+				<latitude>22.27255665752505</latitude>
+				<altitude>0</altitude>
+				<range>1883.745262185865</range>
+				<tilt>0</tilt>
+				<heading>-155.4883783504033</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1900529844415,22.27392870552344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lan Kwai Fong</name>
+			<description>Feel thirsty? Come and join the party! This is the one and only Lan Kwai Fong!</description>
+			<LookAt>
+				<longitude>114.1552898087695</longitude>
+				<latitude>22.28140939939422</latitude>
+				<altitude>0</altitude>
+				<range>2007.852377575818</range>
+				<tilt>41.23816744717779</tilt>
+				<heading>-132.6970898542154</heading>
+			</LookAt>
+			<styleUrl>#khStyle621</styleUrl>
+			<Point>
+				<coordinates>114.1556669224179,22.28124069986803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hong Kong Convention and Exhibition Centre</name>
+			<description>A specially designed building for many huge functions in town. It also holds international congress and meetings.</description>
+			<LookAt>
+				<longitude>114.1733674792533</longitude>
+				<latitude>22.28348134795292</latitude>
+				<altitude>0</altitude>
+				<range>1144.278328540575</range>
+				<tilt>32.87918059702162</tilt>
+				<heading>-24.24764869853805</heading>
+			</LookAt>
+			<styleUrl>#khStyle601</styleUrl>
+			<Point>
+				<coordinates>114.1712700102749,22.28408878455554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central</name>
+			<description>One of the busiest CBD (Central Business District) in the world!</description>
+			<LookAt>
+				<longitude>114.1565148089165</longitude>
+				<latitude>22.28189240278633</latitude>
+				<altitude>0</altitude>
+				<range>1689.359166037793</range>
+				<tilt>3.343624512313328</tilt>
+				<heading>-0.584053526302219</heading>
+			</LookAt>
+			<styleUrl>#khStyle601</styleUrl>
+			<Point>
+				<coordinates>114.1544081827379,22.28359464667328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sai Kung</name>
+			<description>Small seafood heaven with a rural feeling!</description>
+			<LookAt>
+				<longitude>114.2712554094048</longitude>
+				<latitude>22.38219415212126</latitude>
+				<altitude>0</altitude>
+				<range>1484.824280199127</range>
+				<tilt>3.343646500591904</tilt>
+				<heading>-0.5403493390783088</heading>
+			</LookAt>
+			<styleUrl>#khStyle601</styleUrl>
+			<Point>
+				<coordinates>114.2712554094048,22.38219415212126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HSBC</name>
+			<description>Specially environmental friendly designed building.</description>
+			<LookAt>
+				<longitude>114.1592749940798</longitude>
+				<latitude>22.28038282201647</latitude>
+				<altitude>0</altitude>
+				<range>1057.121246127754</range>
+				<tilt>19.82437728108321</tilt>
+				<heading>154.5171080024558</heading>
+			</LookAt>
+			<styleUrl>#default_copy:0_copy:0_copy:0_copy:0_copy:0_copy9+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>114.1592575059694,22.28037739922756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Queen Mary&apos;s Hospital</name>
+			<description>Arguably the best hospital in town.</description>
+			<LookAt>
+				<longitude>114.1317917508738</longitude>
+				<latitude>22.26990361718503</latitude>
+				<altitude>0</altitude>
+				<range>598.8601610797153</range>
+				<tilt>0</tilt>
+				<heading>-0.00187839916682236</heading>
+			</LookAt>
+			<styleUrl>#khStyle554</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal3/icon46.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>114.1310586015965,22.26991998200381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aberdeen</name>
+			<description>Well known about it&apos;s seafood! Especially the Jumbo Seafood Palace!</description>
+			<LookAt>
+				<longitude>114.1629417853942</longitude>
+				<latitude>22.24766087253146</latitude>
+				<altitude>0</altitude>
+				<range>3027.070110986219</range>
+				<tilt>0</tilt>
+				<heading>0.01021226004259548</heading>
+			</LookAt>
+			<styleUrl>#khStyle554</styleUrl>
+			<Point>
+				<coordinates>114.1661998621033,22.24693788769579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ap Lei Chau</name>
+			<LookAt>
+				<longitude>114.15561481292</longitude>
+				<latitude>22.24107813644904</latitude>
+				<altitude>0</altitude>
+				<range>2975.734520565208</range>
+				<tilt>0</tilt>
+				<heading>0.007440301208635885</heading>
+			</LookAt>
+			<styleUrl>#khStyle554</styleUrl>
+			<Point>
+				<coordinates>114.15561481292,22.24107813644904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The University of Hong Kong</name>
+			<description>Top level educational institue in Hong Kong.</description>
+			<LookAt>
+				<longitude>114.1361282624571</longitude>
+				<latitude>22.2828888302205</latitude>
+				<altitude>0</altitude>
+				<range>567.3165199925077</range>
+				<tilt>65.17656134865915</tilt>
+				<heading>-132.1090303197818</heading>
+			</LookAt>
+			<styleUrl>#khStyle554</styleUrl>
+			<Point>
+				<coordinates>114.1368232780861,22.28334909029138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Causeway Bay</name>
+			<description>Great for shopping, eating, getting around within a walking distance to everything you need.</description>
+			<LookAt>
+				<longitude>114.1837831650291</longitude>
+				<latitude>22.28118276414974</latitude>
+				<altitude>0</altitude>
+				<range>1589.643653121922</range>
+				<tilt>0.1514745963105707</tilt>
+				<heading>22.52190321314006</heading>
+			</LookAt>
+			<styleUrl>#khStyle554</styleUrl>
+			<Point>
+				<coordinates>114.1826138020786,22.28002170534941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Happy Valley Racecourse</name>
+			<description>Where the horses chases the final furlong in Hong Kong.</description>
+			<LookAt>
+				<longitude>114.1834918046494</longitude>
+				<latitude>22.27295359744613</latitude>
+				<altitude>0</altitude>
+				<range>1274.598143744555</range>
+				<tilt>0.8957666503087574</tilt>
+				<heading>22.42326383925273</heading>
+			</LookAt>
+			<styleUrl>#khStyle554</styleUrl>
+			<Point>
+				<coordinates>114.1820077357024,22.27313185249338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Victoria Harbour</name>
+			<description>The beautiful harbour located in the middle of Hong Kong. World known night view and fireworks can be found here.</description>
+			<LookAt>
+				<longitude>114.1734379613281</longitude>
+				<latitude>22.28918065839278</latitude>
+				<altitude>0</altitude>
+				<range>1287.851651041</range>
+				<tilt>0</tilt>
+				<heading>22.53834423898693</heading>
+			</LookAt>
+			<styleUrl>#khStyle554</styleUrl>
+			<Point>
+				<coordinates>114.1731858864134,22.28796268683417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hong Kong Cultural Centre</name>
+			<description>Located in Tsim Sha Tsui. This is one of the major performing and exhibition centre in Hong Kong.</description>
+			<LookAt>
+				<longitude>114.1695182120016</longitude>
+				<latitude>22.29322496802272</latitude>
+				<altitude>0</altitude>
+				<range>910.5752252554071</range>
+				<tilt>61.3003299805824</tilt>
+				<heading>18.41293064499407</heading>
+			</LookAt>
+			<styleUrl>#default_copy:0_copy:0_copy:0_copy:0_copy:0_copy9+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>114.1695182115934,22.29322496802116,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>643_TopPark.kml</name>
+	<Style id="s_ylw-pushpin_copy5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl_copy6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_copy1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl_copy1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin_copy1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl_copy3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_copy4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_copy3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl_copy5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl_copy10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin_copy3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl_copy4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_copy10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_copy6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>世界十大主题公园</name>
+		<open>1</open>
+		<Placemark>
+			<name>奥兰多迪斯尼乐园</name>
+			<View>
+				<longitude>-81.54955898602913</longitude>
+				<latitude>28.374367890495</latitude>
+				<range>302.4672737436536</range>
+				<tilt>7.129945535239453e-011</tilt>
+				<heading>-0.08100716271064347</heading>
+			</View>
+			<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+			<Point>
+				<coordinates>-81.54940061466034,28.37400149660168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>英国黑池欢乐海滩</name>
+			<LookAt>
+				<longitude>-3.057626746795286</longitude>
+				<latitude>53.78974407916375</latitude>
+				<altitude>0</altitude>
+				<range>146.7355279118072</range>
+				<tilt>0</tilt>
+				<heading>-0.002192955653183406</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>-3.057665995555008,53.78982269932639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>韩国龙仁爱宝乐园</name>
+			<LookAt>
+				<longitude>127.2019254983236</longitude>
+				<latitude>37.29267933947791</latitude>
+				<altitude>0</altitude>
+				<range>812.0006537224522</range>
+				<tilt>0</tilt>
+				<heading>-0.00351784542960474</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>127.1996968451885,37.29166929238433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>东京迪斯尼乐园</name>
+			<LookAt>
+				<longitude>139.8812828185064</longitude>
+				<latitude>35.63233269762225</latitude>
+				<altitude>0</altitude>
+				<range>226.722905062041</range>
+				<tilt>7.669672739048036e-011</tilt>
+				<heading>-0.0007416775782733639</heading>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy0</styleUrl>
+			<Point>
+				<coordinates>139.8806148161466,35.63251663216676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>巴黎迪斯尼乐园</name>
+			<LookAt>
+				<longitude>2.776943134460077</longitude>
+				<latitude>48.87246984415901</latitude>
+				<altitude>0</altitude>
+				<range>77.42101092778198</range>
+				<tilt>9.75937202537317e-010</tilt>
+				<heading>0.0003759454155405132</heading>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy10</styleUrl>
+			<Point>
+				<coordinates>2.776746468548168,48.8725966735041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>蒂沃利公园</name>
+			<LookAt>
+				<longitude>12.56838899999996</longitude>
+				<latitude>55.67388874893202</latitude>
+				<altitude>0</altitude>
+				<range>181.82447256367</range>
+				<tilt>0</tilt>
+				<heading>-9.173267319333025e-016</heading>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy3</styleUrl>
+			<Point>
+				<coordinates>12.56832161774827,55.67381750429315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>香港海洋公园</name>
+			<LookAt>
+				<longitude>114.1724663984212</longitude>
+				<latitude>22.2324518925867</latitude>
+				<altitude>0</altitude>
+				<range>268.0348986293271</range>
+				<tilt>5.482059677680148e-011</tilt>
+				<heading>-0.002643055252824347</heading>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+			<Point>
+				<coordinates>114.1721636803314,22.23238883076609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>加拿大的奇幻乐园</name>
+			<LookAt>
+				<longitude>-79.54197019952375</longitude>
+				<latitude>43.84171252463349</latitude>
+				<altitude>0</altitude>
+				<range>317.1664069784133</range>
+				<tilt>0</tilt>
+				<heading>0.0005976307243733419</heading>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy5</styleUrl>
+			<Point>
+				<coordinates>-79.54237958437047,43.84205322686556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>德国鲁斯特的欧洲主题公园</name>
+			<LookAt>
+				<longitude>7.720594497218236</longitude>
+				<latitude>48.26711230593627</latitude>
+				<altitude>0</altitude>
+				<range>351.6882110473862</range>
+				<tilt>0</tilt>
+				<heading>-0.0002198078383357778</heading>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy4</styleUrl>
+			<Point>
+				<coordinates>7.719270393645942,48.2670330155264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>西班牙萨鲁的冒险家乐园</name>
+			<LookAt>
+				<longitude>1.158622735381048</longitude>
+				<latitude>41.08813111149308</latitude>
+				<altitude>0</altitude>
+				<range>417.5301397166944</range>
+				<tilt>0</tilt>
+				<heading>0.001613869728443733</heading>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy6</styleUrl>
+			<Point>
+				<coordinates>1.157480502265699,41.08812838861777,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

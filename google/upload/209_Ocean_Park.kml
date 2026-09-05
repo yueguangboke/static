@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Ocean_Park.kml</name>
+	<Style id="s_ylw-pushpin_hl_copy1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_copy1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>香港海洋公园</name>
+		<LookAt>
+			<longitude>114.1724663984212</longitude>
+			<latitude>22.2324518925867</latitude>
+			<altitude>0</altitude>
+			<range>268.0348986293271</range>
+			<tilt>5.482059677680148e-011</tilt>
+			<heading>-0.002643055252824347</heading>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+		<Point>
+			<coordinates>114.1721636803314,22.23238883076609,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

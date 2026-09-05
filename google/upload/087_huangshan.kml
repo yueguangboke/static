@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>黄山</name>
+	<LookAt>
+		<longitude>118.1653580688196</longitude>
+		<latitude>30.13300115316326</latitude>
+		<altitude>0</altitude>
+		<range>15235.11426333424</range>
+		<tilt>0</tilt>
+		<heading>-0.3043632525082995</heading>
+	</LookAt>
+	<styleUrl>root://styles#default+icon=0x307</styleUrl>
+	<Point>
+		<coordinates>118.3115040099454,29.75378913384871,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

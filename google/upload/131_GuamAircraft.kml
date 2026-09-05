@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>GuamAircraft</name>
+	<open>1</open>
+	<Style id="khStyle640">
+		<IconStyle id="khIconStyle6416">
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon24.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Guam Aircraft</name>
+		<open>1</open>
+		<Placemark>
+			<name>B-52</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/nuke/guide/usa/bomber/b-52.htm">FAS information page</a></center>
+
+<center><img width=300 src="http://www.fas.org/nuke/guide/usa/bomber/b52sc002.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9197859310165</longitude>
+				<latitude>13.57351166507527</latitude>
+				<altitude>0</altitude>
+				<range>299.4203569721826</range>
+				<tilt>0</tilt>
+				<heading>-0.00122560135075174</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9193261242496,13.57346145246345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>three SH-60 Seahawks</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/man/dod-101/sys/ac/sh-60.htm">FAS information page</a></center>
+
+<center><img width=300 src="http://www.fas.org/man/dod-101/sys/ac/sh-60b-dvic331.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9200040943311</longitude>
+				<latitude>13.58693939043194</latitude>
+				<altitude>0</altitude>
+				<range>215.0236212076368</range>
+				<tilt>8.680282651790426e-011</tilt>
+				<heading>-0.0008171779080883646</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9198007001543,13.58672423758735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>F-18 Hornet</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/man/dod-101/sys/ac/f-18.htm">FAS information page</a></center>
+
+<center><img width=300 src="http://www.fas.org/man/dod-101/sys/ac/f1cvntrp.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9325663532302</longitude>
+				<latitude>13.58490904604536</latitude>
+				<altitude>0</altitude>
+				<range>238.2071898090865</range>
+				<tilt>0</tilt>
+				<heading>0.001773076971960025</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9324735742601,13.58497733202838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 F-18 Hornets</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/man/dod-101/sys/ac/f-18.htm">FAS information page</a></center>
+
+<center><img width=300 src="http://www.fas.org/man/dod-101/sys/ac/f1cvntrp.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9295637645717</longitude>
+				<latitude>13.58356952289444</latitude>
+				<altitude>0</altitude>
+				<range>420.2952433511111</range>
+				<tilt>4.114029867848117e-011</tilt>
+				<heading>0.001067933349405712</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9293860327155,13.58372637686934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 F-18 Hornets</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/man/dod-101/sys/ac/f-18.htm">FAS information page</a></center>
+
+<center><img width=300 src="http://www.fas.org/man/dod-101/sys/ac/f1cvntrp.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9243827334937</longitude>
+				<latitude>13.58130887751198</latitude>
+				<altitude>0</altitude>
+				<range>393.2020362519921</range>
+				<tilt>1.120769060728359e-009</tilt>
+				<heading>0.04520447758259069</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9243742013386,13.58157897054435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C-9 Nightingale</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/man/dod-101/sys/ac/c-9.htm">FAS information page</a></center>
+
+<center><img width=300 src="http://www.fas.org/man/dod-101/sys/ac/c-9-dvic177.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9318462131644</longitude>
+				<latitude>13.57985671632152</latitude>
+				<altitude>0</altitude>
+				<range>98.92751698460955</range>
+				<tilt>1.051938965583666e-009</tilt>
+				<heading>0.04672451385783005</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9317767533522,13.57973317307633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C-130 Hercules</name>
+			<LookAt>
+				<longitude>144.9327823987129</longitude>
+				<latitude>13.58017273206398</latitude>
+				<altitude>0</altitude>
+				<range>317.4051839170766</range>
+				<tilt>1.260623537442807e-009</tilt>
+				<heading>0.04694433798575768</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9327970035179,13.58073751908181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KC-10 Exender</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/nuke/guide/usa/bomber/kc-10.htm">FAS information page</a></center>
+
+<center><img width=300 src="http://www.fas.org/nuke/guide/usa/bomber/kc10_2.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9414090357055</longitude>
+				<latitude>13.582660708413</latitude>
+				<altitude>0</altitude>
+				<range>111.3743030029957</range>
+				<tilt>1.042385436276823e-009</tilt>
+				<heading>0.04907390186426403</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9413617632616,13.58246256568616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C-130 Hercules</name>
+			<LookAt>
+				<longitude>144.9409083048003</longitude>
+				<latitude>13.58407735499111</latitude>
+				<altitude>0</altitude>
+				<range>203.5402466651619</range>
+				<tilt>1.117265639182771e-009</tilt>
+				<heading>0.04895627892159365</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9409107585937,13.58429202145661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>E-2C Hawkeye</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/man/dod-101/sys/ac/e-2.htm">FAS information page</a></center>
+
+<center><img width=300 src="http://www.fas.org/man/dod-101/sys/ac/e-2c-tr-hawkeye.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9346737651832</longitude>
+				<latitude>13.58153089002878</latitude>
+				<altitude>0</altitude>
+				<range>157.8401517235877</range>
+				<tilt>9.883131465013873e-010</tilt>
+				<heading>0.04738844640074025</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9346476275921,13.58177762789131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>E-2C Hawkeye</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/man/dod-101/sys/ac/e-2.htm">FAS information page</a></center>
+
+<center><img width=300 src="http://www.fas.org/man/dod-101/sys/ac/e-2c-tr-hawkeye.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9197911766884</longitude>
+				<latitude>13.5766840213051</latitude>
+				<altitude>0</altitude>
+				<range>145.7115237401758</range>
+				<tilt>1.237350455594772e-009</tilt>
+				<heading>0.04417481632974513</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9196435001348,13.576532030041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KC-135</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/nuke/guide/usa/bomber/kc-135r.htm">FAS information page</a></center>
+<center><img width=300 src="http://www.fas.org/nuke/guide/usa/bomber/kc-135r-22-1.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9189328588316</longitude>
+				<latitude>13.57131754069998</latitude>
+				<altitude>0</altitude>
+				<range>175.0527520393632</range>
+				<tilt>9.779154145849076e-010</tilt>
+				<heading>0.0437303666760347</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9188374123777,13.57132234543096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>two KC-135</name>
+			<description><![CDATA[<center><a href="http://www.fas.org/nuke/guide/usa/bomber/kc-135r.htm">FAS information page</a></center>
+<center><img width=300 src="http://www.fas.org/nuke/guide/usa/bomber/kc-135r-22-1.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9236763209485</longitude>
+				<latitude>13.57335607288637</latitude>
+				<altitude>0</altitude>
+				<range>365.6326596157593</range>
+				<tilt>1.102197106086134e-009</tilt>
+				<heading>0.04484352218172089</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9235176224231,13.57333444048338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>two C5 Galaxies</name>
+			<description><![CDATA[http://www.fas.org/man/dod-101/sys/ac/c-5.htm<p>
+
+<center><img width=300 src="http://www.fas.org/man/dod-101/sys/ac/c-5.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9433824783432</longitude>
+				<latitude>13.58379598484885</latitude>
+				<altitude>0</altitude>
+				<range>393.2427670658731</range>
+				<tilt>1.118249040713827e-009</tilt>
+				<heading>0.04953738490103991</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9432688129845,13.5839258203616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>B-1B Lancer</name>
+			<description><![CDATA[Guam is used as a stage for ferrying aircraft. There is a report from May 9, 2006 about a B-1 having to make a wheels-up landing at Diego Garcia. It was the end of a ferry mission from Texas, which included a stop at Guam apparently. That's not THIS aircraft, but it demonstates the path they use. In 2003 the US Government stationed B1 and B52 bombers at Guam to 'make a point' to North Korea, but as there are no active B-52 bombers visible, I suspect those have all returned to their original bases by the time this image was taken in 2005.<p>
+
+http://www.fas.org/nuke/guide/usa/bomber/b-1b_gallery.htm<br>
+<center><img width=300 src="http://www.fas.org/nuke/guide/usa/bomber/b-1b-0702b1b.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9236830135058</longitude>
+				<latitude>13.57508985499345</latitude>
+				<altitude>0</altitude>
+				<range>195.9224506856731</range>
+				<tilt>1.167759142479322e-009</tilt>
+				<heading>0.04518258861363409</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9235784184899,13.57538962019938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3 B-1B Lancers</name>
+			<description><![CDATA[Guam is used as a stage for ferrying aircraft. There is a report from May 9, 2006 about a B-1 having to make a wheels-up landing at Diego Garcia. It was the end of a ferry mission from Texas, which included a stop at Guam apparently. That's not THIS aircraft, but it demonstates the path they use. In 2003 the US Government stationed B1 and B52 bombers at Guam to 'make a point' to North Korea, but as there are no active B-52 bombers visible, I suspect those have all returned to their original bases by the time this image was taken in 2005.<p>
+
+http://www.fas.org/nuke/guide/usa/bomber/b-1b_gallery.htm<br>
+<center><img width=300 src="http://www.fas.org/nuke/guide/usa/bomber/b-1b-0702b1b.jpg"></center>]]></description>
+			<LookAt>
+				<longitude>144.9207371202207</longitude>
+				<latitude>13.57423008928378</latitude>
+				<altitude>0</altitude>
+				<range>576.9692012499186</range>
+				<tilt>6.077319032477457e-011</tilt>
+				<heading>-0.001002352259207049</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9211287671336,13.57450782766756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>B-52 display</name>
+			<description><![CDATA[This isn't a flyable aircraft.<p>
+
+Here's a link to some B-52 memorial images. The Guam memorial is down the page a short ways.<br>
+http://www.306thbw.org/306thscrpbk/scpbkMmrls.htm<p>
+<center><img width=300 src="http://www.306thbw.org/306thscrpbk/images/GUAMMEMORIALB52.JPG"></center>]]></description>
+			<LookAt>
+				<longitude>144.919946271367</longitude>
+				<latitude>13.56901738139428</latitude>
+				<altitude>0</altitude>
+				<range>125.7141293043687</range>
+				<tilt>0</tilt>
+				<heading>0.05983901645481957</heading>
+			</LookAt>
+			<styleUrl>C:\WINNT\Temp\Temporary Internet Files\Content.IE5\0DK345UJ\441516-GuamAircraft[1].kmz#khStyle640_copy0</styleUrl>
+			<Point>
+				<coordinates>144.9198105556744,13.56927847670419,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

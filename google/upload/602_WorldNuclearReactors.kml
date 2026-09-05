@@ -1,0 +1,5588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>World Nuclear Reactors.kmz</name>
+	<open>1</open>
+	<Folder>
+		<name>World Nuclear Reactors</name>
+		<open>1</open>
+		<Folder>
+			<name>Argentina</name>
+			<Placemark>
+				<name>Argentina - 1</name>
+				<description>Atucha
+
+1 x PHWR (operable)
+1 x PHWR (under construction)</description>
+				<LookAt>
+					<longitude>-59.20567378576335</longitude>
+					<latitude>-33.96629808256159</latitude>
+					<altitude>0</altitude>
+					<range>1764.092835137285</range>
+					<tilt>0</tilt>
+					<heading>-0.0239674058413629</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin12</styleUrl>
+				<Point>
+					<coordinates>-59.20619010057651,-33.96733139665107,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Argentina - 2</name>
+				<description>Embalse
+
+1 x PHWR</description>
+				<LookAt>
+					<longitude>-64.44372628245931</longitude>
+					<latitude>-32.23273293937383</latitude>
+					<altitude>0</altitude>
+					<range>1135.064209471327</range>
+					<tilt>0</tilt>
+					<heading>0.005963607847762865</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin24</styleUrl>
+				<Point>
+					<coordinates>-64.44397685845476,-32.23188472039106,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Armenia</name>
+			<Placemark>
+				<name>Armenia - 1</name>
+				<description>Armenia
+
+1 x PWR (operable)
+1 x PWR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>44.14905713148465</longitude>
+					<latitude>40.18106626858168</latitude>
+					<altitude>0</altitude>
+					<range>1641.532216509706</range>
+					<tilt>0</tilt>
+					<heading>0.01250879800591597</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin40</styleUrl>
+				<Point>
+					<coordinates>44.14752818609802,40.17969377487403,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Belgium</name>
+			<Placemark>
+				<name>Belgium - 1</name>
+				<description>Tihange
+
+3 x PWR</description>
+				<LookAt>
+					<longitude>5.276044295764814</longitude>
+					<latitude>50.53396933154875</latitude>
+					<altitude>0</altitude>
+					<range>2824.188890741622</range>
+					<tilt>3.496353148387588e-012</tilt>
+					<heading>-15.70220404968922</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy18010</styleUrl>
+				<Point>
+					<coordinates>5.273872383930197,50.53425795867533,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Belgium - 2</name>
+				<description>Doel
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>4.260830617176901</longitude>
+					<latitude>51.32464076521706</latitude>
+					<altitude>0</altitude>
+					<range>1488.938558171948</range>
+					<tilt>0</tilt>
+					<heading>-16.48692766403613</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy2120</styleUrl>
+				<Point>
+					<coordinates>4.259518050648197,51.32340907412166,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Brazil</name>
+			<Placemark>
+				<name>Brazil - 1</name>
+				<description>Angra
+
+1 x PWR (operable)
+1 x PWR (under construction)
+1 x PWR (suspended)</description>
+				<LookAt>
+					<longitude>-44.4649963235362</longitude>
+					<latitude>-23.00906072935123</latitude>
+					<altitude>0</altitude>
+					<range>2340.838092133961</range>
+					<tilt>0</tilt>
+					<heading>-1.503643109396226</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin30</styleUrl>
+				<Point>
+					<coordinates>-44.46235144344848,-23.00800610906653,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Bulgaria</name>
+			<Placemark>
+				<name>Bulgaria - 1</name>
+				<description>Kozloduy
+
+6 x PWR</description>
+				<LookAt>
+					<longitude>23.77389361967514</longitude>
+					<latitude>43.74292078758518</latitude>
+					<altitude>0</altitude>
+					<range>2247.118790459942</range>
+					<tilt>0</tilt>
+					<heading>-2.85419239452568</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy22000</styleUrl>
+				<Point>
+					<coordinates>23.7727250173512,43.74294089660648,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Canada</name>
+			<Placemark>
+				<name>Canada - 1</name>
+				<description>Douglas Point
+
+1 x PHWR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>-81.59098777292118</longitude>
+					<latitude>44.32909626418146</latitude>
+					<altitude>0</altitude>
+					<range>1758.332947906795</range>
+					<tilt>0</tilt>
+					<heading>-0.01932315488400563</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<Point>
+					<coordinates>-81.5929935879991,44.33008128322194,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canada - 2</name>
+				<description>Bruce
+
+4 x PHWR to the north (suspended)
+4 x PHWR to the southwest (operable)</description>
+				<LookAt>
+					<longitude>-81.59098777249263</longitude>
+					<latitude>44.3290962638054</latitude>
+					<altitude>0</altitude>
+					<range>5791.924155895902</range>
+					<tilt>0</tilt>
+					<heading>-0.01932315458454923</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>-81.58439186675153,44.32618070404349,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canada - 3</name>
+				<description>Pickering
+
+4 x PHWR (operable)
+4 x PHWR (suspended)</description>
+				<LookAt>
+					<longitude>-79.06614728518339</longitude>
+					<latitude>43.80838784935563</latitude>
+					<altitude>0</altitude>
+					<range>1334.889653254395</range>
+					<tilt>0</tilt>
+					<heading>-0.000779272563870468</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>-79.06697512342687,43.80910139899353,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canada - 4</name>
+				<description>Darlington
+
+4 x PHWR</description>
+				<LookAt>
+					<longitude>-78.72481785716462</longitude>
+					<latitude>43.86942119669801</latitude>
+					<altitude>0</altitude>
+					<range>1091.418412500523</range>
+					<tilt>0</tilt>
+					<heading>0.02167978336200404</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin15</styleUrl>
+				<Point>
+					<coordinates>-78.72479901570807,43.86944155500652,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canada - 5</name>
+				<description>Rolphton
+
+Otherwise known as the Nuclear Power Demonstration, the site contained a small heavywater moderated reactor of limited sophistication, which has since been decommissioned.</description>
+				<LookAt>
+					<longitude>-77.70452049522494</longitude>
+					<latitude>46.20117924844921</latitude>
+					<altitude>0</altitude>
+					<range>3842.630878392398</range>
+					<tilt>0</tilt>
+					<heading>-0.001811860959417292</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin16</styleUrl>
+				<Point>
+					<coordinates>-77.70514181466746,46.20134646527184,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canada - 6</name>
+				<description>Gentilly
+
+1 x PHWR (operable)
+1 x PHWR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>-72.35658593438518</longitude>
+					<latitude>46.39491361705133</latitude>
+					<altitude>0</altitude>
+					<range>1310.795832083941</range>
+					<tilt>0</tilt>
+					<heading>-0.1139221365761056</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<Point>
+					<coordinates>-72.35679983753693,46.3953127589316,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canada - 7</name>
+				<description>Point Lepreau
+
+1 x PHWR</description>
+				<LookAt>
+					<longitude>-66.45432528198599</longitude>
+					<latitude>45.06814266797444</latitude>
+					<altitude>0</altitude>
+					<range>1337.974526280862</range>
+					<tilt>0</tilt>
+					<heading>0.1971594660592923</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin18</styleUrl>
+				<Point>
+					<coordinates>-66.45425276054039,45.06850073273589,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>China</name>
+			<Placemark>
+				<name>China - 1</name>
+				<description>Lianyungang
+
+No additional information.</description>
+				<LookAt>
+					<longitude>119.4589688526701</longitude>
+					<latitude>34.68820239833799</latitude>
+					<altitude>0</altitude>
+					<range>2289.510229726845</range>
+					<tilt>0</tilt>
+					<heading>-6.459551216459208</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy15000</styleUrl>
+				<Point>
+					<coordinates>119.4597838303965,34.68672316803273,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>China - 2</name>
+				<description>Qinshan
+
+3 x PWR (operable)
+2 x PWR (under construction)
+2 x PHWR (operable)
+3 x PHWR (under construction)</description>
+				<LookAt>
+					<longitude>120.9504244552941</longitude>
+					<latitude>30.42682375500614</latitude>
+					<altitude>0</altitude>
+					<range>4684.192123318348</range>
+					<tilt>0</tilt>
+					<heading>25.08730277682153</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin000</styleUrl>
+				<Point>
+					<coordinates>120.9519551791043,30.43335988938949,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>China - 3</name>
+				<description>Guangdong Daya Bay
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>114.5456116644863</longitude>
+					<latitude>22.59694817768558</latitude>
+					<altitude>0</altitude>
+					<range>2775.746019480333</range>
+					<tilt>0</tilt>
+					<heading>22.03017397600446</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin112</styleUrl>
+				<Point>
+					<coordinates>114.5428948306353,22.59697422835687,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>China - 4</name>
+				<description>Lingao
+
+2 x PWR (operable)
+2 x PWR (under construction)</description>
+				<LookAt>
+					<longitude>114.5544595563433</longitude>
+					<latitude>22.60269536669076</latitude>
+					<altitude>0</altitude>
+					<range>2777.613714845919</range>
+					<tilt>0</tilt>
+					<heading>22.03357426851908</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin91</styleUrl>
+				<Point>
+					<coordinates>114.5527531234895,22.60610061402544,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Czech Republic</name>
+			<Placemark>
+				<name>Czech Republic - 1</name>
+				<description>Dukovany
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>16.14888899974389</longitude>
+					<latitude>49.0850000000295</latitude>
+					<altitude>0</altitude>
+					<range>3778.026664471008</range>
+					<tilt>0</tilt>
+					<heading>-1.936560231676098e-010</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin121</styleUrl>
+				<Point>
+					<coordinates>16.14748416631446,49.08489174652466,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Czech Republic - 2</name>
+				<description>Temelin
+
+2 x PWR (listed under construction, but apparently operable)</description>
+				<LookAt>
+					<longitude>14.3759998123405</longitude>
+					<latitude>49.17957273189017</latitude>
+					<altitude>0</altitude>
+					<range>2114.775448423401</range>
+					<tilt>0</tilt>
+					<heading>7.938608825226011e-009</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin33</styleUrl>
+				<Point>
+					<coordinates>14.3759998123405,49.17957273189018,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Finland</name>
+			<Placemark>
+				<name>Finland - 1</name>
+				<description>2 x PWR</description>
+				<LookAt>
+					<longitude>26.34488221094363</longitude>
+					<latitude>60.3712756236687</latitude>
+					<altitude>0</altitude>
+					<range>1904.133969941095</range>
+					<tilt>0</tilt>
+					<heading>1.120063514498633</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1600</styleUrl>
+				<Point>
+					<coordinates>26.34650812583338,60.37059673987818,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Finland - 2</name>
+				<description>2 x BWR</description>
+				<LookAt>
+					<longitude>21.44328938926446</longitude>
+					<latitude>61.23615058185143</latitude>
+					<altitude>0</altitude>
+					<range>1770.274895235397</range>
+					<tilt>0</tilt>
+					<heading>1.122866399250231</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin180</styleUrl>
+				<Point>
+					<coordinates>21.44328938926446,61.23615058185143,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>France</name>
+			<Placemark>
+				<name>France - 1</name>
+				<description>COGEMA Reprocessing Plant
+
+No Details Released</description>
+				<LookAt>
+					<longitude>-1.874486536509223</longitude>
+					<latitude>49.67729157299254</latitude>
+					<altitude>0</altitude>
+					<range>2429.491558854895</range>
+					<tilt>4.647324042857567e-011</tilt>
+					<heading>-0.09077920852278475</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy42000</styleUrl>
+				<Point>
+					<coordinates>-1.877658333333333,49.67788888888889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 2</name>
+				<description>Flamanville
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-1.882689771963924</longitude>
+					<latitude>49.53690804524521</latitude>
+					<altitude>0</altitude>
+					<range>1720.14894594113</range>
+					<tilt>3.834713694902022e-011</tilt>
+					<heading>-0.09697062534248689</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy4101</styleUrl>
+				<Point>
+					<coordinates>-1.883410234038934,49.53676568356849,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 3</name>
+				<description>Monts d`Arree
+
+1 x GCHWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-3.871801485100066</longitude>
+					<latitude>48.35357126683052</latitude>
+					<altitude>0</altitude>
+					<range>1105.930930574444</range>
+					<tilt>1.858320402278866e-011</tilt>
+					<heading>-0.05325365013677692</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy4400</styleUrl>
+				<Point>
+					<coordinates>-3.87205790245126,48.35255471450203,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 4</name>
+				<description>Paluel
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>0.6358189532015234</longitude>
+					<latitude>49.85831321777253</latitude>
+					<altitude>0</altitude>
+					<range>1608.407735313128</range>
+					<tilt>1.346021525737877e-011</tilt>
+					<heading>3.314685175742874</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy4300</styleUrl>
+				<Point>
+					<coordinates>0.6351567349044842,49.85810180587791,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 5</name>
+				<description>Penly
+
+2 x PWR (operable)
+
+2 x PWR (under construction)</description>
+				<LookAt>
+					<longitude>1.211742144278349</longitude>
+					<latitude>49.97751199884966</latitude>
+					<altitude>0</altitude>
+					<range>1284.463043345699</range>
+					<tilt>4.188379663181365e-011</tilt>
+					<heading>3.755251205313813</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy4600</styleUrl>
+				<Point>
+					<coordinates>1.212851522195521,49.97713767928855,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 6</name>
+				<description>Gravelines
+
+6 x PWR</description>
+				<LookAt>
+					<longitude>2.136280180697093</longitude>
+					<latitude>51.01616966420949</latitude>
+					<altitude>0</altitude>
+					<range>1949.880162938428</range>
+					<tilt>9.815204241451745e-012</tilt>
+					<heading>4.465982974690085</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy450</styleUrl>
+				<Point>
+					<coordinates>2.135743114961358,51.01363810681188,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 7</name>
+				<description>Nogent
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>3.518987844334829</longitude>
+					<latitude>48.51750075450298</latitude>
+					<altitude>0</altitude>
+					<range>2750.349491131866</range>
+					<tilt>1.017804060957338e-011</tilt>
+					<heading>5.44592086703697</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy48000</styleUrl>
+				<Point>
+					<coordinates>3.517693953517592,48.51577251538143,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 8</name>
+				<description>Chooz
+
+2 x PWR
+
+1 x PWR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>4.791564566742016</longitude>
+					<latitude>50.09028221838747</latitude>
+					<altitude>0</altitude>
+					<range>2135.221503267282</range>
+					<tilt>0</tilt>
+					<heading>6.39445506186543</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy47000</styleUrl>
+				<Point>
+					<coordinates>4.790319795906711,50.08894327721902,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 9</name>
+				<description>Cattenom
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>6.217117808597206</longitude>
+					<latitude>49.41699348825107</latitude>
+					<altitude>0</altitude>
+					<range>3750.416224741185</range>
+					<tilt>1.033646358691333e-011</tilt>
+					<heading>7.47841487129063</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy500</styleUrl>
+				<Point>
+					<coordinates>6.217088730982455,49.41581737295879,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 10</name>
+				<description>Fessenheim
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>7.563716456658996</longitude>
+					<latitude>47.90333241509727</latitude>
+					<altitude>0</altitude>
+					<range>1026.099929491576</range>
+					<tilt>2.399165571490122e-011</tilt>
+					<heading>8.412378516030138</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy49000</styleUrl>
+				<Point>
+					<coordinates>7.563064661733819,47.90304369028328,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 11</name>
+				<description>Chinon
+
+4 x PWR (operable)
+
+3 x GCR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>0.168126004042607</longitude>
+					<latitude>47.22693500589126</latitude>
+					<altitude>0</altitude>
+					<range>2534.625567180997</range>
+					<tilt>0</tilt>
+					<heading>3.015569809108319</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5210</styleUrl>
+				<Point>
+					<coordinates>0.1657127697557712,47.22545152776317,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 12</name>
+				<description>Saint-Laurent
+
+2 x PWR (operable)
+
+2 x GCR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>1.583371485928412</longitude>
+					<latitude>47.72194920936622</latitude>
+					<altitude>0</altitude>
+					<range>2742.952286800276</range>
+					<tilt>0</tilt>
+					<heading>4.04047626625306</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy511</styleUrl>
+				<Point>
+					<coordinates>1.579334690295937,47.72134495668679,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 13</name>
+				<description>Dampierre
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>2.520918402287445</longitude>
+					<latitude>47.7299818770832</latitude>
+					<altitude>0</altitude>
+					<range>3697.728417386234</range>
+					<tilt>0</tilt>
+					<heading>4.733262280884373</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5400</styleUrl>
+				<Point>
+					<coordinates>2.516435530762109,47.73358459157976,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 14</name>
+				<description>Belleville
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>2.877349512950978</longitude>
+					<latitude>47.51128304413609</latitude>
+					<altitude>0</altitude>
+					<range>3678.482909487698</range>
+					<tilt>2.644329493263801e-012</tilt>
+					<heading>4.996646008718005</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5310</styleUrl>
+				<Point>
+					<coordinates>2.874286069925887,47.50997156691071,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 15</name>
+				<description>Civaux
+
+1 x PWR (operable)
+
+1 x PWR (under construction)</description>
+				<LookAt>
+					<longitude>0.6596692019130439</longitude>
+					<latitude>46.45709545407281</latitude>
+					<altitude>0</altitude>
+					<range>4005.592190585822</range>
+					<tilt>0</tilt>
+					<heading>3.373928833671394</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5610</styleUrl>
+				<Point>
+					<coordinates>0.6519606102602751,46.45536211066612,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 16</name>
+				<description>Blayais
+
+4 x PWR
+
+Offshore cooling, west.</description>
+				<LookAt>
+					<longitude>-0.6900951661561708</longitude>
+					<latitude>45.25646346065219</latitude>
+					<altitude>0</altitude>
+					<range>1499.328037709816</range>
+					<tilt>0</tilt>
+					<heading>2.395870307052066</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5501</styleUrl>
+				<Point>
+					<coordinates>-0.6924836661568179,45.25585105875819,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 17</name>
+				<description>Golfech
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>0.8469371887215306</longitude>
+					<latitude>44.10600913257694</latitude>
+					<altitude>0</altitude>
+					<range>2067.671583928306</range>
+					<tilt>0</tilt>
+					<heading>3.504529215732432</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5810</styleUrl>
+				<Point>
+					<coordinates>0.845359430206841,44.1066497332369,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 18</name>
+				<description>Marcoule
+
+2 x GCR (operable)
+1 x GCR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>4.71297212760831</longitude>
+					<latitude>44.14391624041622</latitude>
+					<altitude>0</altitude>
+					<range>4385.376095898895</range>
+					<tilt>0</tilt>
+					<heading>6.10787306896405</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin352</styleUrl>
+				<Point>
+					<coordinates>4.710950488964102,44.14445541407262,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 19</name>
+				<description>Tricastin
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>4.727047545314012</longitude>
+					<latitude>44.327885673619</latitude>
+					<altitude>0</altitude>
+					<range>2047.15253347452</range>
+					<tilt>1.518594976597594e-011</tilt>
+					<heading>6.147058867949449</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy600000</styleUrl>
+				<Point>
+					<coordinates>4.730449025471714,44.33080845322461,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 20</name>
+				<description>Cruas
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>4.761001390559943</longitude>
+					<latitude>44.63045172487961</latitude>
+					<altitude>0</altitude>
+					<range>2530.076823436145</range>
+					<tilt>1.514809214405556e-011</tilt>
+					<heading>6.170957642329685</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy570</styleUrl>
+				<Point>
+					<coordinates>4.756377216911702,44.6326832096409,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 21</name>
+				<description>Saint-Alban
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>4.756080551120582</longitude>
+					<latitude>45.40562601584535</latitude>
+					<altitude>0</altitude>
+					<range>2014.619553426204</range>
+					<tilt>0</tilt>
+					<heading>0.03595030509361922</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy620</styleUrl>
+				<Point>
+					<coordinates>4.755586690197461,45.40417806242771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 22</name>
+				<description>Bugey
+
+4 x PWR (operable)
+
+1 x GCR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>5.272212570938248</longitude>
+					<latitude>45.79861009101223</latitude>
+					<altitude>0</altitude>
+					<range>1892.75689669324</range>
+					<tilt>4.480070418226811e-012</tilt>
+					<heading>0.4054671529866767</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy6110</styleUrl>
+				<Point>
+					<coordinates>5.27078888888889,45.79815,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 23</name>
+				<description>Super Phénix
+
+1 x LMFBR (suspended)</description>
+				<LookAt>
+					<longitude>5.472171340631677</longitude>
+					<latitude>45.75794217166281</latitude>
+					<altitude>0</altitude>
+					<range>2081.483325285656</range>
+					<tilt>1.037593000962651e-011</tilt>
+					<heading>0.5530928710663565</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy6401</styleUrl>
+				<Point>
+					<coordinates>5.4729,45.75951111111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>France - 24</name>
+				<description>Phénix
+
+1 x LMFBR (operable)
+1 x LMFBR (suspended)</description>
+				<LookAt>
+					<longitude>4.71297212760831</longitude>
+					<latitude>44.14391624041622</latitude>
+					<altitude>0</altitude>
+					<range>4385.376095898895</range>
+					<tilt>0</tilt>
+					<heading>6.10787306896405</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin71</styleUrl>
+				<Point>
+					<coordinates>4.707339862010073,44.13946621543825,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Germany</name>
+			<Placemark>
+				<name>Germany - 1</name>
+				<description>Brunsbuettel
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>9.207891472398856</longitude>
+					<latitude>53.91198750296837</latitude>
+					<altitude>0</altitude>
+					<range>1339.597595994682</range>
+					<tilt>0</tilt>
+					<heading>-0.7832044901289617</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1010</styleUrl>
+				<Point>
+					<coordinates>9.207555577360424,53.91102057226608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 2</name>
+				<description>Brokdorf
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>9.345920102603079</longitude>
+					<latitude>53.85125507063454</latitude>
+					<altitude>0</altitude>
+					<range>1090.662911785967</range>
+					<tilt>3.473572973047651e-011</tilt>
+					<heading>-0.6717947434067021</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy1130</styleUrl>
+				<Point>
+					<coordinates>9.345722222222221,53.85048333333334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 3</name>
+				<description>Stade
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>9.531503474756489</longitude>
+					<latitude>53.62023993318147</latitude>
+					<altitude>0</altitude>
+					<range>764.2673619967</range>
+					<tilt>8.969600257233225e-012</tilt>
+					<heading>-0.5227762224558448</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy00000</styleUrl>
+				<Point>
+					<coordinates>9.530950000000003,53.62026111111112,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 4</name>
+				<description>Kruemmel
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>10.41149429229745</longitude>
+					<latitude>53.41079537571628</latitude>
+					<altitude>0</altitude>
+					<range>1102.807406859647</range>
+					<tilt>3.57376190465608e-011</tilt>
+					<heading>0.1847159565058084</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy31001</styleUrl>
+				<Point>
+					<coordinates>10.40903250709154,53.41037611028397,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 5</name>
+				<description>Greifswald
+
+5 x PWR (permanently shutdown)
+
+2 x PWR (cancelled)</description>
+				<LookAt>
+					<longitude>13.66887441992666</longitude>
+					<latitude>54.14249072406555</latitude>
+					<altitude>0</altitude>
+					<range>3211.49356210916</range>
+					<tilt>0</tilt>
+					<heading>2.811565792579969</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy2110</styleUrl>
+				<Point>
+					<coordinates>13.66492101779561,54.14086400596544,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 6</name>
+				<description>Rheinsberg
+
+1 x PWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>12.98969126976306</longitude>
+					<latitude>53.14774338776194</latitude>
+					<altitude>0</altitude>
+					<range>952.986642147148</range>
+					<tilt>1.920667243820988e-011</tilt>
+					<heading>2.201568045582776</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5010</styleUrl>
+				<Point>
+					<coordinates>12.99016153440778,53.14690214864721,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 7</name>
+				<description>Emsland
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>7.315505064544732</longitude>
+					<latitude>52.47267649204785</latitude>
+					<altitude>0</altitude>
+					<range>3103.097613677705</range>
+					<tilt>1.054995319045571e-011</tilt>
+					<heading>-2.325555485830135</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy7010</styleUrl>
+				<Point>
+					<coordinates>7.320368026640823,52.4713208683587,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 8</name>
+				<description>Lingen
+
+1 x BWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>7.309514490210131</longitude>
+					<latitude>52.48132788997129</latitude>
+					<altitude>0</altitude>
+					<range>3098.513660729153</range>
+					<tilt>4.327701489739315e-013</tilt>
+					<heading>-2.330305243329775</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy42010</styleUrl>
+				<Point>
+					<coordinates>7.305166772774285,52.48092030718382,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 9</name>
+				<description>Grohnde
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>9.414329635877786</longitude>
+					<latitude>52.03532845208782</latitude>
+					<altitude>0</altitude>
+					<range>1877.501262305898</range>
+					<tilt>2.275004108307515e-012</tilt>
+					<heading>-0.6628483834243814</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy6001</styleUrl>
+				<Point>
+					<coordinates>9.412914693594644,52.03511020441702,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 10</name>
+				<description>Wuergassen KWW
+
+1 x BWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>9.391473275438965</longitude>
+					<latitude>51.63894186043074</latitude>
+					<altitude>0</altitude>
+					<range>1193.097684108348</range>
+					<tilt>3.853269827352411e-011</tilt>
+					<heading>-0.681064276341825</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy9110</styleUrl>
+				<Point>
+					<coordinates>9.391458448618479,51.63899727949663,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 11</name>
+				<description>THTR-300
+
+1 x HTGR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>7.977394709525898</longitude>
+					<latitude>51.68384601814589</latitude>
+					<altitude>0</altitude>
+					<range>774.2230322559742</range>
+					<tilt>6.380034163572999e-011</tilt>
+					<heading>-1.779622123553227</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy8001</styleUrl>
+				<Point>
+					<coordinates>7.976737675980702,51.68395236248189,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 12</name>
+				<description>Muelheim-Kaerlich
+
+1 x PWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>7.490782287753931</longitude>
+					<latitude>50.41070576704567</latitude>
+					<altitude>0</altitude>
+					<range>2341.879001312626</range>
+					<tilt>0</tilt>
+					<heading>-2.164439598313936</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy112</styleUrl>
+				<Point>
+					<coordinates>7.484943091492781,50.40797324353277,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 13</name>
+				<description>Kahl
+
+More Information Pending...</description>
+				<LookAt>
+					<longitude>8.952733005346067</longitude>
+					<latitude>50.08426801280522</latitude>
+					<altitude>0</altitude>
+					<range>2797.585108656209</range>
+					<tilt>7.65956536416675e-012</tilt>
+					<heading>-1.046970381246543</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy10000</styleUrl>
+				<Point>
+					<coordinates>8.950513859483692,50.08782869497984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 14</name>
+				<description>Grafenrheinfeld KKG
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>10.1825563714313</longitude>
+					<latitude>49.9845008609714</latitude>
+					<altitude>0</altitude>
+					<range>1383.97437211151</range>
+					<tilt>0</tilt>
+					<heading>-0.106735996738384</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy1300</styleUrl>
+				<Point>
+					<coordinates>10.18321996714305,49.98402139244246,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 15</name>
+				<description>Biblis
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>8.419007109233192</longitude>
+					<latitude>49.71190776821958</latitude>
+					<altitude>0</altitude>
+					<range>2287.594064000688</range>
+					<tilt>6.129529450474683e-012</tilt>
+					<heading>-1.450694824850977</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy12100</styleUrl>
+				<Point>
+					<coordinates>8.414066650699311,49.70936180997467,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 16</name>
+				<description>Obrigheim
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>9.210997962574826</longitude>
+					<latitude>49.17831398156979</latitude>
+					<altitude>0</altitude>
+					<range>2523.177969518514</range>
+					<tilt>0</tilt>
+					<heading>-0.8496604741228759</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy15010</styleUrl>
+				<Point>
+					<coordinates>9.206049703183879,49.17798537785663,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 17</name>
+				<description>Philippsburg
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>8.439345500108356</longitude>
+					<latitude>49.25313549705891</latitude>
+					<altitude>0</altitude>
+					<range>2745.874972276251</range>
+					<tilt>4.698384443937163e-012</tilt>
+					<heading>-1.431870266322687</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy14000</styleUrl>
+				<Point>
+					<coordinates>8.437393146392324,49.25378185553651,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 18</name>
+				<description>Neckar
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>9.176523825671211</longitude>
+					<latitude>49.0413856331551</latitude>
+					<altitude>0</altitude>
+					<range>1484.715987761021</range>
+					<tilt>1.397197828091597e-010</tilt>
+					<heading>4.031678913293916</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy170000</styleUrl>
+				<Point>
+					<coordinates>9.175491288516326,49.04036657094689,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 19</name>
+				<description>Gundremmingen
+
+2 x BWR (operable)
+
+1 x BWR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>10.40078269051931</longitude>
+					<latitude>48.51531909375839</latitude>
+					<altitude>0</altitude>
+					<range>2849.979728038753</range>
+					<tilt>1.994927563711361e-010</tilt>
+					<heading>4.950103536984916</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy160000</styleUrl>
+				<Point>
+					<coordinates>10.40204109623102,48.51501134181774,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 20</name>
+				<description>Isar
+
+2 x BWR (operable)</description>
+				<LookAt>
+					<longitude>12.29612610919904</longitude>
+					<latitude>48.6048453816043</latitude>
+					<altitude>0</altitude>
+					<range>1932.68811095036</range>
+					<tilt>0</tilt>
+					<heading>-0.1315500347675613</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin02</styleUrl>
+				<Point>
+					<coordinates>12.29260907038918,48.60485203923002,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 21</name>
+				<description>Unterweser
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>8.477303379213623</longitude>
+					<latitude>53.4292717607708</latitude>
+					<altitude>0</altitude>
+					<range>1796.966189734297</range>
+					<tilt>0</tilt>
+					<heading>32.42499998738528</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Point>
+					<coordinates>8.477307858298488,53.42915091570237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germany - 22</name>
+				<description>Niederaichbach
+
+1 x GCHWR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>12.29592571483174</longitude>
+					<latitude>48.60490524821237</latitude>
+					<altitude>0</altitude>
+					<range>1933.340614262478</range>
+					<tilt>0</tilt>
+					<heading>-0.1317003636052806</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin5</styleUrl>
+				<Point>
+					<coordinates>12.29824827368567,48.60397417138432,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Hungary</name>
+			<Placemark>
+				<name>Hungary - 1</name>
+				<description>Paks
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>18.85330393422107</longitude>
+					<latitude>46.57373033960953</latitude>
+					<altitude>0</altitude>
+					<range>1407.787725558897</range>
+					<tilt>0</tilt>
+					<heading>-4.835947957307101</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin36</styleUrl>
+				<Point>
+					<coordinates>18.85285078694264,46.57392763336622,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>India</name>
+			<Placemark>
+				<name>India - 1</name>
+				<description>Madras
+
+2 x PHWR</description>
+				<LookAt>
+					<longitude>80.17602788005662</longitude>
+					<latitude>12.55723852093338</latitude>
+					<altitude>0</altitude>
+					<range>865.572499426065</range>
+					<tilt>6.67878084766315e-011</tilt>
+					<heading>0.4644651823165208</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy18000</styleUrl>
+				<Point>
+					<coordinates>80.17554601671847,12.55737787987581,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>India - 2</name>
+				<description>Tarapur
+
+2 x BWR
+
+2 x PHWR (Under Construction)
+
+More Information Pending...</description>
+				<LookAt>
+					<longitude>72.66143177638786</longitude>
+					<latitude>19.82852859880559</latitude>
+					<altitude>0</altitude>
+					<range>1887.746810292401</range>
+					<tilt>5.109603287961475e-011</tilt>
+					<heading>0.2041035411578769</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy20100</styleUrl>
+				<Point>
+					<coordinates>72.66080359135128,19.82874938416612,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>India - 3</name>
+				<description>Kakrapar
+
+2 x PHWR</description>
+				<LookAt>
+					<longitude>73.350179791106</longitude>
+					<latitude>21.23641246083417</latitude>
+					<altitude>0</altitude>
+					<range>815.4188668885911</range>
+					<tilt>6.154359542006452e-011</tilt>
+					<heading>0.4670417449691836</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy1700</styleUrl>
+				<Point>
+					<coordinates>73.34991684313434,21.23635330607194,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>India - 4</name>
+				<description>Rajasthan
+
+2 x PHWR (operable)
+2 x PHWR (under construction)</description>
+				<LookAt>
+					<longitude>75.81738588810575</longitude>
+					<latitude>25.17184409583387</latitude>
+					<altitude>0</altitude>
+					<range>877.7641359172493</range>
+					<tilt>0</tilt>
+					<heading>-0.00633996021168417</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin29</styleUrl>
+				<Point>
+					<coordinates>75.81669827000965,25.17189315557968,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>India - 5</name>
+				<description>Kaiga
+
+2 x PHWR (operable)
+2 x PHWR (under construction)</description>
+				<LookAt>
+					<longitude>74.43792894846972</longitude>
+					<latitude>14.86492485859537</latitude>
+					<altitude>0</altitude>
+					<range>971.6910852757792</range>
+					<tilt>0</tilt>
+					<heading>0.001177253285536294</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin34</styleUrl>
+				<Point>
+					<coordinates>74.43882366031585,14.86495507570879,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>India - 6</name>
+				<description>Naora
+
+2 x PHWR</description>
+				<LookAt>
+					<longitude>78.4084651535447</longitude>
+					<latitude>28.15925008579722</latitude>
+					<altitude>0</altitude>
+					<range>1478.39128080642</range>
+					<tilt>0</tilt>
+					<heading>-0.0007887493703539907</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin03</styleUrl>
+				<Point>
+					<coordinates>78.40981301579461,28.15760118158578,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Iran</name>
+			<Placemark>
+				<name>Iran - 1</name>
+				<description>Bushehr
+
+No additional information.</description>
+				<LookAt>
+					<longitude>50.88725345595146</longitude>
+					<latitude>28.82710857817711</latitude>
+					<altitude>0</altitude>
+					<range>1545.944955953945</range>
+					<tilt>8.793942929995706e-011</tilt>
+					<heading>0.7942247209262144</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy71</styleUrl>
+				<Point>
+					<coordinates>50.88679877458009,28.82874556649021,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Italy</name>
+			<Placemark>
+				<name>Italy - 1</name>
+				<description>Trino Vercellese
+
+1 x PWR Permanently Shutdown</description>
+				<LookAt>
+					<longitude>8.191902997489322</longitude>
+					<latitude>45.25298690424904</latitude>
+					<altitude>0</altitude>
+					<range>2302.900044298761</range>
+					<tilt>2.317623179305871e-012</tilt>
+					<heading>-0.07485270365384653</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy1302</styleUrl>
+				<Point>
+					<coordinates>8.193735600092936,45.25179203817856,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Italy - 2</name>
+				<description>Caorso
+
+1 x BWR Permanently Shutdown</description>
+				<LookAt>
+					<longitude>9.87120036953333</longitude>
+					<latitude>45.07216435520171</latitude>
+					<altitude>0</altitude>
+					<range>965.5563041741128</range>
+					<tilt>1.747770587469673e-011</tilt>
+					<heading>-0.0006959869623758041</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy122</styleUrl>
+				<Point>
+					<coordinates>9.871956013678485,45.07203094696408,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Italy - 3</name>
+				<description>Latina
+
+1 x GCR Permanently Shutdown</description>
+				<LookAt>
+					<longitude>12.80724740036979</longitude>
+					<latitude>41.42580349381117</latitude>
+					<altitude>0</altitude>
+					<range>647.147331367079</range>
+					<tilt>7.741206838980413e-011</tilt>
+					<heading>-0.008787107307579806</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy151</styleUrl>
+				<Point>
+					<coordinates>12.80690698077028,41.42525088666513,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Italy - 4</name>
+				<description>Garigliano
+
+1 x BWR Permanently Shutdown</description>
+				<LookAt>
+					<longitude>13.83472652830284</longitude>
+					<latitude>41.25834141762028</latitude>
+					<altitude>0</altitude>
+					<range>290.9818245716314</range>
+					<tilt>0</tilt>
+					<heading>-0.06535483634495506</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy142</styleUrl>
+				<Point>
+					<coordinates>13.83475033350941,41.25832802797444,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Japan</name>
+			<Placemark>
+				<name>Japan - 1</name>
+				<description>Fukushima Daichi
+
+6 x BWR</description>
+				<LookAt>
+					<longitude>141.0326724616126</longitude>
+					<latitude>37.42358210762997</latitude>
+					<altitude>0</altitude>
+					<range>3092.375420040622</range>
+					<tilt>0</tilt>
+					<heading>0.9429379632909957</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin04</styleUrl>
+				<Point>
+					<coordinates>141.0324641462823,37.42404636514902,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 2</name>
+				<description>Fukushima Daini
+
+4 x BWR</description>
+				<LookAt>
+					<longitude>141.0339527678108</longitude>
+					<latitude>37.32036878104011</latitude>
+					<altitude>0</altitude>
+					<range>7184.464693560134</range>
+					<tilt>1.98932432999683e-010</tilt>
+					<heading>8.519692583254612</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1000</styleUrl>
+				<Point>
+					<coordinates>141.0245549233727,37.31600232504552,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 3</name>
+				<description>Onagawa
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>141.5017590894441</longitude>
+					<latitude>38.39999224186519</latitude>
+					<altitude>0</altitude>
+					<range>1848.676121695707</range>
+					<tilt>0</tilt>
+					<heading>1.259683738931124</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin13</styleUrl>
+				<Point>
+					<coordinates>141.5008415821655,38.39974333524038,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 4</name>
+				<description>Genkai
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>129.8355504786321</longitude>
+					<latitude>33.51751006801762</latitude>
+					<altitude>0</altitude>
+					<range>3793.025708342523</range>
+					<tilt>0</tilt>
+					<heading>0.04274302317825991</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin211</styleUrl>
+				<Point>
+					<coordinates>129.8355504786321,33.51751006801762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 5</name>
+				<description>Tokai
+
+1 x GCR
+
+1 x BWR
+
+1 x BWR (Decommissioned)
+
+Power for JPARC, South</description>
+				<LookAt>
+					<longitude>140.6070711237396</longitude>
+					<latitude>36.46545988746122</latitude>
+					<altitude>0</altitude>
+					<range>1147.247101883311</range>
+					<tilt>2.038633672763085e-010</tilt>
+					<heading>8.26367256614501</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy12000</styleUrl>
+				<Point>
+					<coordinates>140.6065712654369,36.4659523218856,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 6</name>
+				<description>Hamaoka
+
+4 x BWR
+
+Offshore cooling, south.</description>
+				<LookAt>
+					<longitude>138.1431505182431</longitude>
+					<latitude>34.62229566356537</latitude>
+					<altitude>0</altitude>
+					<range>881.6045493831524</range>
+					<tilt>1.828877032862943e-010</tilt>
+					<heading>6.907328002103654</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy4020</styleUrl>
+				<Point>
+					<coordinates>138.14242280278,34.62348937714931,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 7</name>
+				<description>Ikata
+
+3 x PWR</description>
+				<LookAt>
+					<longitude>132.3089993101639</longitude>
+					<latitude>33.49069112214993</latitude>
+					<altitude>0</altitude>
+					<range>574.0399080507688</range>
+					<tilt>1.437705711874601e-010</tilt>
+					<heading>3.769788546238054</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy612</styleUrl>
+				<Point>
+					<coordinates>132.308673129953,33.4908543641962,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 8</name>
+				<description>Sendai
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>130.1885727870882</longitude>
+					<latitude>31.83267634089438</latitude>
+					<altitude>0</altitude>
+					<range>1052.65493884476</range>
+					<tilt>0</tilt>
+					<heading>-1.052650403176612</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy510</styleUrl>
+				<Point>
+					<coordinates>130.1902278120891,31.83339749753536,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 9</name>
+				<description>Shimane
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>133.000634688939</longitude>
+					<latitude>35.53990380486426</latitude>
+					<altitude>0</altitude>
+					<range>1895.650161945238</range>
+					<tilt>1.507686444704886e-011</tilt>
+					<heading>0.4975339798850729</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy85</styleUrl>
+				<Point>
+					<coordinates>132.9988134089256,35.53820484178971,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 10</name>
+				<description>Mihama
+
+3 x PWR</description>
+				<LookAt>
+					<longitude>135.9639820886731</longitude>
+					<latitude>35.70311802608368</latitude>
+					<altitude>0</altitude>
+					<range>914.7329428830018</range>
+					<tilt>0</tilt>
+					<heading>2.215373817462855</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin11</styleUrl>
+				<Point>
+					<coordinates>135.9632371103847,35.70263618892955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 11</name>
+				<description>Kashiwazaki Kariwa
+
+7 x BWR</description>
+				<LookAt>
+					<longitude>138.5981108302881</longitude>
+					<latitude>37.43063569015441</latitude>
+					<altitude>0</altitude>
+					<range>1972.743773770816</range>
+					<tilt>6.905982511005574e-011</tilt>
+					<heading>0.01392812142258339</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy10001</styleUrl>
+				<Point>
+					<coordinates>138.5980777777778,37.43168888888889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 12</name>
+				<description>Tomari
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>140.5118208074102</longitude>
+					<latitude>43.03635241106147</latitude>
+					<altitude>0</altitude>
+					<range>1457.399170376915</range>
+					<tilt>2.0153743932877e-011</tilt>
+					<heading>1.007846777708757</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy9000</styleUrl>
+				<Point>
+					<coordinates>140.513072983648,43.03676071974563,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 13</name>
+				<description>Takahama
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>135.4953414394317</longitude>
+					<latitude>35.52152812342814</latitude>
+					<altitude>0</altitude>
+					<range>2414.470225792092</range>
+					<tilt>0</tilt>
+					<heading>-0.02953333338963331</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin72</styleUrl>
+				<Point>
+					<coordinates>135.5033941039033,35.52181554752043,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 14</name>
+				<description>Ohi
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>135.6537365978646</longitude>
+					<latitude>35.54065398384056</latitude>
+					<altitude>0</altitude>
+					<range>1462.852867415855</range>
+					<tilt>0</tilt>
+					<heading>0.06247797891043042</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin8</styleUrl>
+				<Point>
+					<coordinates>135.6533230501001,35.54104591753658,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 15</name>
+				<description>Fugen ATR
+
+1 x HWLWR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>136.0220355238183</longitude>
+					<latitude>35.75182742532974</latitude>
+					<altitude>0</altitude>
+					<range>2325.103297570286</range>
+					<tilt>0</tilt>
+					<heading>0.2653266828908992</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<Point>
+					<coordinates>136.0207889547941,35.75062477805825,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 16</name>
+				<description>Tsuruga
+
+1 x BWR (operable)
+1 x PWR (operable)
+2 x APWR (planned)
+
+Note:  Shares site with two coal-fired plants.</description>
+				<LookAt>
+					<longitude>136.0765291185186</longitude>
+					<latitude>35.67052460902352</latitude>
+					<altitude>0</altitude>
+					<range>2210.383856578692</range>
+					<tilt>0</tilt>
+					<heading>0.2649266547776933</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin22</styleUrl>
+				<Point>
+					<coordinates>136.0776338804348,35.67146852894901,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 17</name>
+				<description>Monju FBR
+
+1 x LMFBR</description>
+				<LookAt>
+					<longitude>135.98879063603</longitude>
+					<latitude>35.74015257992287</latitude>
+					<altitude>0</altitude>
+					<range>1361.574331149761</range>
+					<tilt>0</tilt>
+					<heading>0.1011281327718186</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin38</styleUrl>
+				<Point>
+					<coordinates>135.9877689626293,35.73994894853893,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Japan - 18</name>
+				<description>Shika
+
+1 x BWR
+1 x ABWR</description>
+				<LookAt>
+					<longitude>136.7255517646024</longitude>
+					<latitude>37.06060268717192</latitude>
+					<altitude>0</altitude>
+					<range>1165.199613378223</range>
+					<tilt>0</tilt>
+					<heading>0.03415245630528837</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin122</styleUrl>
+				<Point>
+					<coordinates>136.7260238932385,37.06095004552745,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Kazakhstan</name>
+			<Placemark>
+				<name>Kazakhstan - 1</name>
+				<description>Aktau
+
+1 x LMFBR</description>
+				<LookAt>
+					<longitude>51.28840343407274</longitude>
+					<latitude>43.59746697800946</latitude>
+					<altitude>0</altitude>
+					<range>1165.072368051712</range>
+					<tilt>0</tilt>
+					<heading>0.04207464633066373</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<Point>
+					<coordinates>51.28913499621626,43.59695819781566,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Lithuania</name>
+			<Placemark>
+				<name>Lithuania - 1</name>
+				<description>Ignalina
+
+2 x LGR</description>
+				<LookAt>
+					<longitude>26.56250558577672</longitude>
+					<latitude>55.60618309724596</latitude>
+					<altitude>0</altitude>
+					<range>2202.361225144509</range>
+					<tilt>0</tilt>
+					<heading>1.139635331106556</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin2300</styleUrl>
+				<Point>
+					<coordinates>26.56238437699401,55.60481156736586,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Netherlands</name>
+			<Placemark>
+				<name>Netherlands - 1</name>
+				<description>Borssele
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>3.717792983161501</longitude>
+					<latitude>51.43103500668834</latitude>
+					<altitude>0</altitude>
+					<range>987.595023694772</range>
+					<tilt>0</tilt>
+					<heading>6.393075484102918</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin9</styleUrl>
+				<Point>
+					<coordinates>3.717060264315649,51.43137046945311,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Netherlands - 2</name>
+				<description>Dodewaard
+
+1 x BWR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>5.68648724387934</longitude>
+					<latitude>51.89909429129094</latitude>
+					<altitude>0</altitude>
+					<range>595.2067312011857</range>
+					<tilt>0</tilt>
+					<heading>0.02530548180791688</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<Point>
+					<coordinates>5.685913352473264,51.89965182565076,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Pakistan</name>
+			<Placemark>
+				<name>Pakistan - 1</name>
+				<description>Kanupp
+
+1 x PHWR</description>
+				<LookAt>
+					<longitude>66.78997698062807</longitude>
+					<latitude>24.84457529602991</latitude>
+					<altitude>0</altitude>
+					<range>504.8164463557447</range>
+					<tilt>1.007710610943781e-010</tilt>
+					<heading>-1.165720035637425</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy6501</styleUrl>
+				<Point>
+					<coordinates>66.78882181015445,24.8448932277046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pakistan - 2</name>
+				<description>Chasnupp
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>71.46312807327028</longitude>
+					<latitude>32.39224087644874</latitude>
+					<altitude>0</altitude>
+					<range>903.4779897975553</range>
+					<tilt>6.165742056063839e-011</tilt>
+					<heading>1.268881977139216</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy66000</styleUrl>
+				<Point>
+					<coordinates>71.46154405348054,32.39182158866655,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Philippines</name>
+			<Placemark>
+				<name>Philippines - 1</name>
+				<description>BNPP
+
+1 x PWR
+
+Project Cancelled</description>
+				<LookAt>
+					<longitude>120.2081450120598</longitude>
+					<latitude>14.81865913380993</latitude>
+					<altitude>0</altitude>
+					<range>1018.504851203302</range>
+					<tilt>1.834692686377013e-010</tilt>
+					<heading>-1.10297012849195</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy16001</styleUrl>
+				<Point>
+					<coordinates>120.2083907731629,14.81857349612969,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Romania</name>
+			<Placemark>
+				<name>Romania - 1</name>
+				<description>Cernavoda
+
+1 x PHWR Operable
+
+1 x PHWR Under Construction
+
+3 x PHWR Suspended</description>
+				<LookAt>
+					<longitude>28.05471526762388</longitude>
+					<latitude>44.32040380218443</latitude>
+					<altitude>0</altitude>
+					<range>4230.092461932838</range>
+					<tilt>2.390596708163992e-012</tilt>
+					<heading>-0.02040735098633675</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy162</styleUrl>
+				<Point>
+					<coordinates>28.05620304943588,44.32130010116548,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Russia</name>
+			<Placemark>
+				<name>Russia - 1</name>
+				<description>4 x LGR
+
+Other operations unknown</description>
+				<LookAt>
+					<longitude>29.05772592885178</longitude>
+					<latitude>59.84154017245699</latitude>
+					<altitude>0</altitude>
+					<range>11329.68280557978</range>
+					<tilt>0</tilt>
+					<heading>0.5301119255865798</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin120</styleUrl>
+				<Point>
+					<coordinates>29.05772592885178,59.84154017245699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 2</name>
+				<description>Kalinin
+
+2 x PWR (operable)
+1 x PWR (suspended)
+1 x PWR (under construction)</description>
+				<LookAt>
+					<longitude>35.05785541486601</longitude>
+					<latitude>57.90391349679776</latitude>
+					<altitude>0</altitude>
+					<range>1431.806078127954</range>
+					<tilt>0</tilt>
+					<heading>1.048409772511006</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin220</styleUrl>
+				<Point>
+					<coordinates>35.05657439477186,57.9036502726735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 3</name>
+				<description>Smolensk
+
+3 x LGR</description>
+				<LookAt>
+					<longitude>33.2395045179976</longitude>
+					<latitude>54.16613957884477</latitude>
+					<altitude>0</altitude>
+					<range>2030.585354554877</range>
+					<tilt>0</tilt>
+					<heading>2.376523921300223</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1700</styleUrl>
+				<Point>
+					<coordinates>33.2395045179976,54.16613957884477,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 4</name>
+				<description>Kursk
+
+4 x LGR (operable)
+1 x LGR (under construction)</description>
+				<LookAt>
+					<longitude>35.60734321072616</longitude>
+					<latitude>51.67624517903011</latitude>
+					<altitude>0</altitude>
+					<range>2302.163327272867</range>
+					<tilt>0</tilt>
+					<heading>0.008798315493303132</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin37</styleUrl>
+				<Point>
+					<coordinates>35.60722751309939,51.67544301751799,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 5</name>
+				<description>Novovoronezhskiy
+
+3 x PWR (operable)
+2 x PWR (permanently shutdown)
+2 x PWR (planned)</description>
+				<LookAt>
+					<longitude>39.20245217200045</longitude>
+					<latitude>51.2740028286802</latitude>
+					<altitude>0</altitude>
+					<range>2622.295402418816</range>
+					<tilt>0</tilt>
+					<heading>2.776322935042231</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin28</styleUrl>
+				<Point>
+					<coordinates>39.20208017401481,51.27628789272052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 6</name>
+				<description>VK-50
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>49.47629704987545</longitude>
+					<latitude>54.1889590296943</latitude>
+					<altitude>0</altitude>
+					<range>2825.363904971378</range>
+					<tilt>0</tilt>
+					<heading>-0.1123273537166784</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin25</styleUrl>
+				<Point>
+					<coordinates>49.4749766561288,54.18871152979531,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 7</name>
+				<description>Balakovo
+
+4 x PWR (operable)
+2 x PWR (listed as planned, but obviously cancelled soon after 			beginning construction)</description>
+				<LookAt>
+					<longitude>47.95637201792101</longitude>
+					<latitude>52.0929402545749</latitude>
+					<altitude>0</altitude>
+					<range>1740.068893318419</range>
+					<tilt>0</tilt>
+					<heading>0.1186683254334543</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin151</styleUrl>
+				<Point>
+					<coordinates>47.95630349332649,52.09346949293029,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 8</name>
+				<description>Rostov
+
+1 x PWR (under construction)
+1 x PWR (not listed but aparently operable)</description>
+				<LookAt>
+					<longitude>42.37353446386044</longitude>
+					<latitude>47.60206271870133</latitude>
+					<altitude>0</altitude>
+					<range>2627.875859087596</range>
+					<tilt>0</tilt>
+					<heading>0.1717153403148151</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin320</styleUrl>
+				<Point>
+					<coordinates>42.37207247328118,47.59957083651423,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 9</name>
+				<description>Beloyarskiy
+
+1 x LMFBR (operable)
+1 x LMFBR (planned)
+2 x LGR (decommissioned)</description>
+				<LookAt>
+					<longitude>61.32206458709496</longitude>
+					<latitude>56.84173625936673</latitude>
+					<altitude>0</altitude>
+					<range>867.9192331239995</range>
+					<tilt>0</tilt>
+					<heading>-0.007642962942687217</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin160</styleUrl>
+				<Point>
+					<coordinates>61.32121196467924,56.84148673386532,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 10</name>
+				<description>South Urals
+
+2 x LMFBR (planned)
+
+Note:  This site has been notoriously underfunded because of local resistance to anymore nuclear construction in what is labeled as the most polluted and radioactive area on earth; therefore construction at the site happens only a few months out of the year</description>
+				<LookAt>
+					<longitude>60.90435470238948</longitude>
+					<latitude>55.75086423753939</latitude>
+					<altitude>0</altitude>
+					<range>7062.482210836392</range>
+					<tilt>0</tilt>
+					<heading>0.1599928851534556</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin290</styleUrl>
+				<Point>
+					<coordinates>60.89753330192739,55.74424258176512,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 11</name>
+				<description>Chelyabinsk
+
+6 x LGR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>61.57366251854941</longitude>
+					<latitude>54.06830498795739</latitude>
+					<altitude>0</altitude>
+					<range>2704.302207083773</range>
+					<tilt>0</tilt>
+					<heading>0.7096552847911155</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin310</styleUrl>
+				<Point>
+					<coordinates>61.57227966302239,54.06797859293922,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 12</name>
+				<description>Siberia
+
+5 x LGR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>84.90758776672152</longitude>
+					<latitude>56.62605330715213</latitude>
+					<altitude>0</altitude>
+					<range>3480.22075979704</range>
+					<tilt>0</tilt>
+					<heading>-0.04576646761284166</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin2400</styleUrl>
+				<Point>
+					<coordinates>84.90510924735096,56.62657143412035,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 13</name>
+				<description>Unknown operable reactor(s), part of the highly secretive Seversk nuclear facility.  As per an accord with the U.S. to halt production of weapons-grade plutonium, Russia has shutdown the site to the south, yet this site is still believed to produce plutonium and uranium warheads.</description>
+				<LookAt>
+					<longitude>84.91410820361887</longitude>
+					<latitude>56.6478551161825</latitude>
+					<altitude>0</altitude>
+					<range>3478.09267267616</range>
+					<tilt>0</tilt>
+					<heading>-0.04032021469352647</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin270</styleUrl>
+				<Point>
+					<coordinates>84.91285064310296,56.64575426113941,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 14</name>
+				<description>Bilibino
+
+1 x LGR</description>
+				<LookAt>
+					<longitude>166.4424495325099</longitude>
+					<latitude>68.05703999303709</latitude>
+					<altitude>0</altitude>
+					<range>1664.710390980663</range>
+					<tilt>0</tilt>
+					<heading>0.004591021816048224</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin300</styleUrl>
+				<Point>
+					<coordinates>166.4542928356807,68.05685177316194,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Russia - 15</name>
+				<description>Primorskaya
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>136.9579188971067</longitude>
+					<latitude>50.60567815945485</latitude>
+					<altitude>0</altitude>
+					<range>3248.114286369166</range>
+					<tilt>0</tilt>
+					<heading>-0.09912020999540273</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin020</styleUrl>
+				<Point>
+					<coordinates>136.9558781612232,50.60466266151271,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>South Africa</name>
+			<Placemark>
+				<name>South Africa - 1</name>
+				<description>Koeberg
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>18.42980785177987</longitude>
+					<latitude>-33.67655621499876</latitude>
+					<altitude>0</altitude>
+					<range>1054.206755991334</range>
+					<tilt>9.672036106587534e-011</tilt>
+					<heading>1.191292057804452</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy23000</styleUrl>
+				<Point>
+					<coordinates>18.43108349937361,-33.67717277576417,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Slovakia</name>
+			<Placemark>
+				<name>Slovakia - 1</name>
+				<description>Mochovce
+
+2 x PWR (under construction)
+2 x PWR (suspended)</description>
+				<LookAt>
+					<longitude>18.45657991084232</longitude>
+					<latitude>48.26098152470922</latitude>
+					<altitude>0</altitude>
+					<range>2669.820597598058</range>
+					<tilt>0</tilt>
+					<heading>-0.01908490413205522</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin19</styleUrl>
+				<Point>
+					<coordinates>18.45763839387868,48.26022020835877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Slovakia - 2</name>
+				<description>Bohunice
+
+4 x PWR (operable)
+1 x GCHWR (decommissioned)</description>
+				<LookAt>
+					<longitude>17.67882952001644</longitude>
+					<latitude>48.49508053993287</latitude>
+					<altitude>0</altitude>
+					<range>2211.51975069409</range>
+					<tilt>0</tilt>
+					<heading>0.06632159736964419</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin231</styleUrl>
+				<Point>
+					<coordinates>17.68342486103242,48.4963134500736,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Slovenia</name>
+			<Placemark>
+				<name>Slovenia - 1</name>
+				<description>Krsko
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>15.51025717638273</longitude>
+					<latitude>45.93328337693567</latitude>
+					<altitude>0</altitude>
+					<range>6410.078391355638</range>
+					<tilt>1.931291099536443e-012</tilt>
+					<heading>0.7248543810672623</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy17020</styleUrl>
+				<Point>
+					<coordinates>15.51525464009218,45.93700268079538,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Spain</name>
+			<Placemark>
+				<name>Spain - 1</name>
+				<description>Santa Maria de Garona
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-3.206885069514811</longitude>
+					<latitude>42.77364500377814</latitude>
+					<altitude>0</altitude>
+					<range>1300.247907180993</range>
+					<tilt>0</tilt>
+					<heading>0.01286402588046121</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy281</styleUrl>
+				<Point>
+					<coordinates>-3.207005555555556,42.77482222222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spain - 2</name>
+				<description>Trillo
+
+1 x PWR Operable
+
+1 x PWR Suspended</description>
+				<LookAt>
+					<longitude>-2.62370714121949</longitude>
+					<latitude>40.69933629588088</latitude>
+					<altitude>0</altitude>
+					<range>1541.776958064282</range>
+					<tilt>1.317376338996386e-011</tilt>
+					<heading>0.1206227913515997</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy512</styleUrl>
+				<Point>
+					<coordinates>-2.622880555555556,40.70124722222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spain - 3</name>
+				<description>Jose Cabrera
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-2.885306312673669</longitude>
+					<latitude>40.34869173932039</latitude>
+					<altitude>0</altitude>
+					<range>1403.135653819893</range>
+					<tilt>4.780231638726447e-012</tilt>
+					<heading>-0.04825702241086792</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy411</styleUrl>
+				<Point>
+					<coordinates>-2.885689303068816,40.3477402512883,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spain - 4</name>
+				<description>Almaraz
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-5.697279061161964</longitude>
+					<latitude>39.80675554350552</latitude>
+					<altitude>0</altitude>
+					<range>1871.680965501936</range>
+					<tilt>0</tilt>
+					<heading>-0.0133472393225748</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy711</styleUrl>
+				<Point>
+					<coordinates>-5.698598785543113,39.80684170371414,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spain - 5</name>
+				<description>Valdecaballeros
+
+2 x BWR Cancelled</description>
+				<LookAt>
+					<longitude>-5.180605069383183</longitude>
+					<latitude>39.29236802232315</latitude>
+					<altitude>0</altitude>
+					<range>3130.581026890181</range>
+					<tilt>5.408868634250009e-013</tilt>
+					<heading>0.007176596458001754</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy6101</styleUrl>
+				<Point>
+					<coordinates>-5.179588457360439,39.29001621409605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spain - 6</name>
+				<description>Cofrentes
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-1.052316390391026</longitude>
+					<latitude>39.21528011131117</latitude>
+					<altitude>0</altitude>
+					<range>1866.057973918797</range>
+					<tilt>0</tilt>
+					<heading>0.006110631189273305</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy91</styleUrl>
+				<Point>
+					<coordinates>-1.05110566341655,39.21296281310758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spain - 7</name>
+				<description>Asco
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>0.5697428882263973</longitude>
+					<latitude>41.20110426347801</latitude>
+					<altitude>0</altitude>
+					<range>1789.391246367549</range>
+					<tilt>0</tilt>
+					<heading>0.001698103746548334</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy8002</styleUrl>
+				<Point>
+					<coordinates>0.5676722428554228,41.20085743187216,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spain - 8</name>
+				<description>Vandellos
+
+1 x GCR Decommissioned
+
+1 x PWR Operable</description>
+				<LookAt>
+					<longitude>0.8720067137237372</longitude>
+					<latitude>40.95231076185885</latitude>
+					<altitude>0</altitude>
+					<range>1888.869105692653</range>
+					<tilt>0</tilt>
+					<heading>0.02567588147849029</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy11010</styleUrl>
+				<Point>
+					<coordinates>0.871377350950965,40.95340766436193,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spain - 9</name>
+				<description>Lemoniz
+
+2 x PWR Suspended</description>
+				<LookAt>
+					<longitude>-2.872446282038199</longitude>
+					<latitude>43.43218501986528</latitude>
+					<altitude>0</altitude>
+					<range>2265.759255991831</range>
+					<tilt>0</tilt>
+					<heading>0.02154759103014279</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy1020</styleUrl>
+				<Point>
+					<coordinates>-2.872599620289023,43.43287565487916,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>South Korea</name>
+			<Placemark>
+				<name>South Korea - 1</name>
+				<description>Yonggwang
+
+6 x PWR</description>
+				<LookAt>
+					<longitude>126.4177802866972</longitude>
+					<latitude>35.4103211900276</latitude>
+					<altitude>0</altitude>
+					<range>5957.908089979159</range>
+					<tilt>0</tilt>
+					<heading>-0.04650618076117941</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin61</styleUrl>
+				<Point>
+					<coordinates>126.4166896542259,35.40943084104845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Korea - 2</name>
+				<description>Kori
+
+4 x PWR</description>
+				<LookAt>
+					<longitude>129.2930601251274</longitude>
+					<latitude>35.32150199459321</latitude>
+					<altitude>0</altitude>
+					<range>2567.662716717747</range>
+					<tilt>0</tilt>
+					<heading>-0.01985165660157966</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin32</styleUrl>
+				<Point>
+					<coordinates>129.2938840876224,35.31985488547392,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Korea - 3</name>
+				<description>Wolsong
+
+4 x PHWR</description>
+				<LookAt>
+					<longitude>129.4751306391361</longitude>
+					<latitude>35.7109656715318</latitude>
+					<altitude>0</altitude>
+					<range>1559.397230796292</range>
+					<tilt>0</tilt>
+					<heading>0.01753557475351984</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin110</styleUrl>
+				<Point>
+					<coordinates>129.4747968121627,35.71114972481762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Korea - 4</name>
+				<description>Ulchin
+
+5 x PWR</description>
+				<LookAt>
+					<longitude>129.3865928713869</longitude>
+					<latitude>37.09245557528736</latitude>
+					<altitude>0</altitude>
+					<range>2764.232360430997</range>
+					<tilt>0</tilt>
+					<heading>-0.006582660559118076</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin17</styleUrl>
+				<Point>
+					<coordinates>129.3835286573702,37.09236979326735,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sweden</name>
+			<Placemark>
+				<name>Sweden - 1</name>
+				<description>Forsmark
+
+3 x BWR</description>
+				<LookAt>
+					<longitude>18.16571996412573</longitude>
+					<latitude>60.40269509483505</latitude>
+					<altitude>0</altitude>
+					<range>3263.129061323878</range>
+					<tilt>0</tilt>
+					<heading>1.122867152868477</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin190</styleUrl>
+				<Point>
+					<coordinates>18.16571996412573,60.40269509483505,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sweden - 2</name>
+				<description>Oskarshamn
+
+3 x BWR</description>
+				<LookAt>
+					<longitude>16.6668575798452</longitude>
+					<latitude>57.41588527957439</latitude>
+					<altitude>0</altitude>
+					<range>2044.689384457099</range>
+					<tilt>0</tilt>
+					<heading>1.122863654932989</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin150</styleUrl>
+				<Point>
+					<coordinates>16.67097553193675,57.4147728741288,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sweden - 3</name>
+				<description>Barsebaeck
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>12.92188514966489</longitude>
+					<latitude>55.74353872527101</latitude>
+					<altitude>0</altitude>
+					<range>1523.911517886476</range>
+					<tilt>0</tilt>
+					<heading>1.094729219418792</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin111</styleUrl>
+				<Point>
+					<coordinates>12.9209928345823,55.74404124006492,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sweden - 4</name>
+				<description>Ringhals
+
+1 x BWR
+3 x PWR</description>
+				<LookAt>
+					<longitude>12.1115454510485</longitude>
+					<latitude>57.26049388916525</latitude>
+					<altitude>0</altitude>
+					<range>1985.729444976927</range>
+					<tilt>0</tilt>
+					<heading>1.182067486905395</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin14</styleUrl>
+				<Point>
+					<coordinates>12.11028092547457,57.25970439416295,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Switzerland</name>
+			<Placemark>
+				<name>Switzerland - 1</name>
+				<description>Leibstadt
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>8.182967751779767</longitude>
+					<latitude>47.60072910009502</latitude>
+					<altitude>0</altitude>
+					<range>1112.049347070514</range>
+					<tilt>0</tilt>
+					<heading>0.16621932938411</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin102</styleUrl>
+				<Point>
+					<coordinates>8.182555555555556,47.60148333333334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Switzerland - 2</name>
+				<description>Beznau
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>8.228381184414282</longitude>
+					<latitude>47.55164926882779</latitude>
+					<altitude>0</altitude>
+					<range>1467.17105876653</range>
+					<tilt>0</tilt>
+					<heading>0.1997397874158907</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy10010</styleUrl>
+				<Point>
+					<coordinates>8.228315776940349,47.5519153490508,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Switzerland - 3</name>
+				<description>Goesgen
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>7.967632579916613</longitude>
+					<latitude>47.36553187983236</latitude>
+					<altitude>0</altitude>
+					<range>1488.241147007944</range>
+					<tilt>0</tilt>
+					<heading>0.008739736071723811</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy002</styleUrl>
+				<Point>
+					<coordinates>7.966512070297243,47.36577431370557,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Switzerland - 4</name>
+				<description>Muehleberg
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>7.268554133910017</longitude>
+					<latitude>46.96909204560401</latitude>
+					<altitude>0</altitude>
+					<range>517.4271532522861</range>
+					<tilt>0</tilt>
+					<heading>-0.5022199455894757</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy3410</styleUrl>
+				<Point>
+					<coordinates>7.26796006982174,46.96887050614886,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Taiwan</name>
+			<Placemark>
+				<name>Taiwan - 1</name>
+				<description>Kuosheng
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>121.6658069160694</longitude>
+					<latitude>25.20232895213515</latitude>
+					<altitude>0</altitude>
+					<range>1241.514262122769</range>
+					<tilt>2.273681117816626e-010</tilt>
+					<heading>-1.812248617263943</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy13100</styleUrl>
+				<Point>
+					<coordinates>121.6623966802103,25.20254253366949,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Taiwan - 3</name>
+				<description>Maanshan
+
+2 x PWR
+
+Location not proven.</description>
+				<LookAt>
+					<longitude>120.7439120402482</longitude>
+					<latitude>21.94666694496662</latitude>
+					<altitude>0</altitude>
+					<range>1815.219653174406</range>
+					<tilt>2.031396900001382e-010</tilt>
+					<heading>-2.186414693134534</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy141</styleUrl>
+				<Point>
+					<coordinates>120.7429777777778,21.94538333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Taiwan - 2</name>
+				<description>Chinshan
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>121.587499784779</longitude>
+					<latitude>25.28624281673016</latitude>
+					<altitude>0</altitude>
+					<range>795.3809941037331</range>
+					<tilt>2.157083939067191e-010</tilt>
+					<heading>-1.845454838919868</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy14001</styleUrl>
+				<Point>
+					<coordinates>121.5872042736951,25.28610931767679,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ukraine</name>
+			<Placemark>
+				<name>Ukraine - 1</name>
+				<description>Chernobyl
+
+2 x LGR (operable)
+2 x LGR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>30.11013042417621</longitude>
+					<latitude>51.38676063488077</latitude>
+					<altitude>0</altitude>
+					<range>3426.792693308477</range>
+					<tilt>0</tilt>
+					<heading>2.385103301510191</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1300</styleUrl>
+				<Point>
+					<coordinates>30.10555047047218,51.38913448642041,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ukraine - 2</name>
+				<description>Khmelnitskiy
+
+1 x PWR (operable)
+3 x PWR (under construction)</description>
+				<LookAt>
+					<longitude>26.64463358728132</longitude>
+					<latitude>50.30286212587486</latitude>
+					<altitude>0</altitude>
+					<range>5636.555231111423</range>
+					<tilt>0</tilt>
+					<heading>1.406002800737829</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin341</styleUrl>
+				<Point>
+					<coordinates>26.6465467701036,50.30153708751387,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ukraine - 3</name>
+				<description>Rovno
+
+3 x PWR (operable)
+1 x PWR (under construction)</description>
+				<LookAt>
+					<longitude>25.89574576282164</longitude>
+					<latitude>51.32475269951087</latitude>
+					<altitude>0</altitude>
+					<range>2942.279686376936</range>
+					<tilt>0</tilt>
+					<heading>1.592334172762446</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin26</styleUrl>
+				<Point>
+					<coordinates>25.89574576282165,51.32475269951086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ukraine - 4</name>
+				<description>South Ukraine
+
+3 x PWR (operable)
+1 x PWR (under construction)</description>
+				<LookAt>
+					<longitude>31.2244540844978</longitude>
+					<latitude>47.8120068584803</latitude>
+					<altitude>0</altitude>
+					<range>2379.504373298088</range>
+					<tilt>0</tilt>
+					<heading>0.702710167518472</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin132</styleUrl>
+				<Point>
+					<coordinates>31.22053470854822,47.8119365587183,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ukraine - 5</name>
+				<description>Zaporozhye
+
+6 x PWR</description>
+				<LookAt>
+					<longitude>34.58572723569218</longitude>
+					<latitude>47.51167503804998</latitude>
+					<altitude>0</altitude>
+					<range>1986.513808286087</range>
+					<tilt>0</tilt>
+					<heading>0.7027111128770098</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin351</styleUrl>
+				<Point>
+					<coordinates>34.58624981504646,47.51150025131444,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>United Kingdom</name>
+			<Placemark>
+				<name>UK - 1</name>
+				<description>Torness
+
+2 x AGR</description>
+				<LookAt>
+					<longitude>-2.409216871727839</longitude>
+					<latitude>55.96866912557719</latitude>
+					<altitude>0</altitude>
+					<range>1915.892908139628</range>
+					<tilt>4.339135737591421e-011</tilt>
+					<heading>2.689530364186764</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy25000</styleUrl>
+				<Point>
+					<coordinates>-2.409252975862543,55.9682389957799,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 2</name>
+				<description>Hartlepool
+
+2 x AGR</description>
+				<LookAt>
+					<longitude>-1.18051053252981</longitude>
+					<latitude>54.63475888289408</latitude>
+					<altitude>0</altitude>
+					<range>796.8523445700809</range>
+					<tilt>9.964961117909872e-011</tilt>
+					<heading>3.68462461307774</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy24000</styleUrl>
+				<Point>
+					<coordinates>-1.181136888988874,54.6348747227064,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 3</name>
+				<description>Dounreay PFR
+
+1 x LMFBR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-3.745204279990067</longitude>
+					<latitude>58.57851611949652</latitude>
+					<altitude>0</altitude>
+					<range>2218.529356751683</range>
+					<tilt>3.810258994452668e-011</tilt>
+					<heading>1.686608712710129</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy2700</styleUrl>
+				<Point>
+					<coordinates>-3.746189481284091,58.57957542142128,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 4</name>
+				<description>Chapelcross
+
+4 x GCR</description>
+				<LookAt>
+					<longitude>-3.230639730057666</longitude>
+					<latitude>55.0194410051705</latitude>
+					<altitude>0</altitude>
+					<range>4199.70448193361</range>
+					<tilt>6.429537588741475e-011</tilt>
+					<heading>2.075444463841436</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy26000</styleUrl>
+				<Point>
+					<coordinates>-3.227029352246774,55.01486553056677,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 5</name>
+				<description>Windscale 
+
+1 x AGR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-3.502091091803525</longitude>
+					<latitude>54.42533005630455</latitude>
+					<altitude>0</altitude>
+					<range>984.0787480416362</range>
+					<tilt>0</tilt>
+					<heading>0.9568309591353689</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy2800</styleUrl>
+				<Point>
+					<coordinates>-3.503138260646353,54.42580304884249,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 6</name>
+				<description>Hunterston
+
+2 x AGR (operable)
+
+2 x GCR (permanently shutdown)
+
+Exact Locations Unclear</description>
+				<LookAt>
+					<longitude>-3.495978402215858</longitude>
+					<latitude>54.41563530338104</latitude>
+					<altitude>0</altitude>
+					<range>985.3859949339334</range>
+					<tilt>0</tilt>
+					<heading>0.9618023924704051</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy29001</styleUrl>
+				<Point>
+					<coordinates>-3.495299233053459,54.41277428926086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 7</name>
+				<description>Calder Hall
+
+4 x GCR
+
+Exact Locations Unclear</description>
+				<LookAt>
+					<longitude>-3.49425139861319</longitude>
+					<latitude>54.41934811460594</latitude>
+					<altitude>0</altitude>
+					<range>985.4702963210185</range>
+					<tilt>0</tilt>
+					<heading>0.9632069364802934</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy300001</styleUrl>
+				<Point>
+					<coordinates>-3.492517594807311,54.41961902566246,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 8</name>
+				<description>Heysham
+
+4 x AGR</description>
+				<LookAt>
+					<longitude>-2.916288614585025</longitude>
+					<latitude>54.02834939423179</latitude>
+					<altitude>0</altitude>
+					<range>736.7414783092061</range>
+					<tilt>0</tilt>
+					<heading>1.431205811269852</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy32000</styleUrl>
+				<Point>
+					<coordinates>-2.916883598397249,54.02887692982364,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 9</name>
+				<description>Wylfa
+
+2 x GCR</description>
+				<LookAt>
+					<longitude>-4.479608680517275</longitude>
+					<latitude>53.41692930108054</latitude>
+					<altitude>0</altitude>
+					<range>1152.209846736726</range>
+					<tilt>4.038638090817332e-011</tilt>
+					<heading>0.1708352159641071</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy310000</styleUrl>
+				<Point>
+					<coordinates>-4.482687657855536,53.4162631322508,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 10</name>
+				<description>Trawsfynydd
+
+2 x GCR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-3.948502884349687</longitude>
+					<latitude>52.92673907133712</latitude>
+					<altitude>0</altitude>
+					<range>1402.532870247091</range>
+					<tilt>0</tilt>
+					<heading>0.5917045321283923</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy34000</styleUrl>
+				<Point>
+					<coordinates>-3.948948012927844,52.92474984833364,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 11</name>
+				<description>Berkeley
+
+2 x GCR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-2.493238540133334</longitude>
+					<latitude>51.69258382839502</latitude>
+					<altitude>0</altitude>
+					<range>630.1014209338384</range>
+					<tilt>7.466507283393398e-011</tilt>
+					<heading>1.727659439197727</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy33000</styleUrl>
+				<Point>
+					<coordinates>-2.493688755844346,51.69244196259584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 12</name>
+				<description>Oldbury
+
+2 x GCR</description>
+				<LookAt>
+					<longitude>-2.571127511432302</longitude>
+					<latitude>51.64908404075831</latitude>
+					<altitude>0</altitude>
+					<range>711.7822212951945</range>
+					<tilt>0</tilt>
+					<heading>0.004687598725589742</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy36000</styleUrl>
+				<Point>
+					<coordinates>-2.570831115446908,51.64850795205018,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 13</name>
+				<description>Hinkley Point
+
+2 x AGR
+
+2 x GCR</description>
+				<LookAt>
+					<longitude>-3.130422779781546</longitude>
+					<latitude>51.2080701151588</latitude>
+					<altitude>0</altitude>
+					<range>1031.462178946066</range>
+					<tilt>4.951271334719063e-012</tilt>
+					<heading>-0.4334853158659033</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy350000</styleUrl>
+				<Point>
+					<coordinates>-3.13054128934165,51.20858319979199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 14</name>
+				<description>Winfrith SGHWR
+
+1 x HWLWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-2.494543157917666</longitude>
+					<latitude>50.59572611243098</latitude>
+					<altitude>0</altitude>
+					<range>610.753139952432</range>
+					<tilt>3.01880849950102e-011</tilt>
+					<heading>0.05708262206740866</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy380</styleUrl>
+				<Point>
+					<coordinates>-2.495539581727925,50.59583911319349,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 15</name>
+				<description>Bradwell
+
+2 x GCR</description>
+				<LookAt>
+					<longitude>0.8985134702641188</longitude>
+					<latitude>51.74180626487328</latitude>
+					<altitude>0</altitude>
+					<range>756.0767781945492</range>
+					<tilt>0</tilt>
+					<heading>2.161654034649289</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy371</styleUrl>
+				<Point>
+					<coordinates>0.8979357212552942,51.74214394506301,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 16</name>
+				<description>Sizewell
+
+1 x PWR
+
+2 x GCR
+
+Offshore cooling tower, southeast.</description>
+				<LookAt>
+					<longitude>1.619545207738502</longitude>
+					<latitude>52.21371468368375</latitude>
+					<altitude>0</altitude>
+					<range>1419.889416144692</range>
+					<tilt>3.358424617444824e-011</tilt>
+					<heading>2.72815779437107</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy390000</styleUrl>
+				<Point>
+					<coordinates>1.619602981272877,52.21283173934641,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UK - 17</name>
+				<description>Dungeness
+
+2 x GCR
+2 x AGR</description>
+				<LookAt>
+					<longitude>0.9622111462601309</longitude>
+					<latitude>50.91307719711708</latitude>
+					<altitude>0</altitude>
+					<range>1268.928282825292</range>
+					<tilt>0</tilt>
+					<heading>-13.24856166245969</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin21</styleUrl>
+				<Point>
+					<coordinates>0.9617933292730072,50.9131286698363,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>United States</name>
+			<Placemark>
+				<name>US - 1</name>
+				<description>Trojan
+
+1 x PWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-122.8868891215401</longitude>
+					<latitude>46.03936065616671</latitude>
+					<altitude>0</altitude>
+					<range>887.3512667500003</range>
+					<tilt>0</tilt>
+					<heading>68.82524659614224</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy111</styleUrl>
+				<Point>
+					<coordinates>-122.885144718519,46.04014723268109,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 2</name>
+				<description>Columbia
+
+1 x BWR Operable
+
+2 x PWR Cancelled</description>
+				<LookAt>
+					<longitude>-119.3219766246223</longitude>
+					<latitude>46.4715738234592</latitude>
+					<altitude>0</altitude>
+					<range>3554.407269202809</range>
+					<tilt>9.383927500482989e-012</tilt>
+					<heading>-0.03313844253756161</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy29000</styleUrl>
+				<Point>
+					<coordinates>-119.3340555555556,46.47112777777778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder>
+				<name>US - 3</name>
+				<description>Hanford Site
+
+Nuclear Testing and Storage Facilities
+Original Nuclear Reactor Site
+First Plutonium Production</description>
+				<LookAt>
+					<longitude>-119.4685525819651</longitude>
+					<latitude>46.56383286481567</latitude>
+					<altitude>0</altitude>
+					<range>82645.29064247164</range>
+					<tilt>1.714846613395523e-012</tilt>
+					<heading>-0.003500942526014838</heading>
+				</LookAt>
+				<Placemark>
+					<name>Hanford - 30</name>
+					<description>Nike Missile Placement for Hanford Protection
+
+Missiles were fitted with nuclear warheads from Hanford</description>
+					<LookAt>
+						<longitude>-119.5335762249552</longitude>
+						<latitude>46.39293987065481</latitude>
+						<altitude>0</altitude>
+						<range>988.7084758877012</range>
+						<tilt>4.445131346491674e-011</tilt>
+						<heading>-20.50380249082165</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy:0_copy5</styleUrl>
+					<Point>
+						<coordinates>-119.5345720503724,46.39170145762456,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 29</name>
+					<description>Nike Missile Placement for Hanford Protection
+
+Missiles were fitted with nuclear warheads from Hanford</description>
+					<LookAt>
+						<longitude>-119.4036097984668</longitude>
+						<latitude>46.71497551365501</latitude>
+						<altitude>0</altitude>
+						<range>2137.702573557395</range>
+						<tilt>0</tilt>
+						<heading>0.01645366297323</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy:0_copy6</styleUrl>
+					<Point>
+						<coordinates>-119.404053073161,46.71481539786265,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 28</name>
+					<description>Nike Missile Placement for Hanford Protection
+
+Missiles were fitted with nuclear warheads from Hanford</description>
+					<LookAt>
+						<longitude>-119.4102101503608</longitude>
+						<latitude>46.76220803233263</latitude>
+						<altitude>0</altitude>
+						<range>1835.735607932497</range>
+						<tilt>1.03972227502928e-011</tilt>
+						<heading>0.02886437793083616</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy:0_copy0</styleUrl>
+					<Point>
+						<coordinates>-119.4102487291224,46.7615737556899,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 27</name>
+					<description>Nike Missile Placement for Hanford Protection
+
+Missiles were fitted with nuclear warheads from Hanford</description>
+					<LookAt>
+						<longitude>-119.585445908189</longitude>
+						<latitude>46.75275732667821</latitude>
+						<altitude>0</altitude>
+						<range>754.3507959486919</range>
+						<tilt>5.02200716687765e-011</tilt>
+						<heading>-0.09875424890711368</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy:0_copy4</styleUrl>
+					<Point>
+						<coordinates>-119.585652892218,46.7522172440246,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 26</name>
+					<description>100 Area
+
+F Reactor</description>
+					<LookAt>
+						<longitude>-119.448933593041</longitude>
+						<latitude>46.65652107299378</latitude>
+						<altitude>0</altitude>
+						<range>218.7131846578985</range>
+						<tilt>8.792691877915701e-011</tilt>
+						<heading>0.05241950819851771</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy251</styleUrl>
+					<Point>
+						<coordinates>-119.4490722169646,46.65634191534345,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 25</name>
+					<description>100 Area
+
+H Reactor</description>
+					<LookAt>
+						<longitude>-119.482611851183</longitude>
+						<latitude>46.70111846808726</latitude>
+						<altitude>0</altitude>
+						<range>342.4287584703072</range>
+						<tilt>0</tilt>
+						<heading>0.02793193051686661</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy270000</styleUrl>
+					<Point>
+						<coordinates>-119.4828519700338,46.70092135390922,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 24</name>
+					<description>100 Area
+
+Reactors D North and D South</description>
+					<LookAt>
+						<longitude>-119.5410039595713</longitude>
+						<latitude>46.69191104622095</latitude>
+						<altitude>0</altitude>
+						<range>1208.740030672062</range>
+						<tilt>3.022789213712935e-011</tilt>
+						<heading>-0.01456306535379827</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy:0_copy1</styleUrl>
+					<Point>
+						<coordinates>-119.5387687198199,46.69211900375957,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 23</name>
+					<description>100 Area
+
+N Reactor
+
+Permanently Shutdown</description>
+					<LookAt>
+						<longitude>-119.5685382517966</longitude>
+						<latitude>46.67328584964191</latitude>
+						<altitude>0</altitude>
+						<range>1243.735774651478</range>
+						<tilt>0</tilt>
+						<heading>22.65683214690731</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy261</styleUrl>
+					<Point>
+						<coordinates>-119.5694888888889,46.674575,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 22</name>
+					<description>100 Area
+
+K East and K West Reactor
+
+Permanently Shutdown</description>
+					<LookAt>
+						<longitude>-119.5992557919261</longitude>
+						<latitude>46.64853035281521</latitude>
+						<altitude>0</altitude>
+						<range>1744.90035693545</range>
+						<tilt>0</tilt>
+						<heading>-26.09061569132993</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy241</styleUrl>
+					<Point>
+						<coordinates>-119.5988969767222,46.64718070940373,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 21</name>
+					<description>100 Area
+
+Burial ground for many radioactive pieces of the original reactor B&apos;s core.</description>
+					<LookAt>
+						<longitude>-119.659140113994</longitude>
+						<latitude>46.62520631196944</latitude>
+						<altitude>0</altitude>
+						<range>1172.109170292923</range>
+						<tilt>0</tilt>
+						<heading>-1.502670727893763</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy:0_copy70</styleUrl>
+					<Point>
+						<coordinates>-119.6595416666667,46.62497222222222,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 20</name>
+					<description>100 Area
+
+C Reactor</description>
+					<LookAt>
+						<longitude>-119.6464126350579</longitude>
+						<latitude>46.62589368216542</latitude>
+						<altitude>0</altitude>
+						<range>651.1695147844363</range>
+						<tilt>0</tilt>
+						<heading>-1.493419300300504</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy181</styleUrl>
+					<Point>
+						<coordinates>-119.6470611111111,46.62588888888889,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 19</name>
+					<description>100 Area
+
+B Reactor
+
+The first full-sized reactor in the world, produced uranium and plutonium mix that was refined at Hanford, and shipped for the use of the Manhattan Project.  Original site of plutonium producton for the Nagasaki and Hiroshima nuclear bombs.</description>
+					<LookAt>
+						<longitude>-119.64713862028</longitude>
+						<latitude>46.63036511198658</latitude>
+						<altitude>0</altitude>
+						<range>215.0211157235471</range>
+						<tilt>0</tilt>
+						<heading>-1.493947024854889</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy:0_copy140</styleUrl>
+					<Point>
+						<coordinates>-119.6472613434607,46.63017962215107,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 18</name>
+					<description>200 West Area
+
+Receives and packages refined and filtered unusable nuclear waste to be shipped to the long-term storage facility in New Mexico.</description>
+					<LookAt>
+						<longitude>-119.6411878919544</longitude>
+						<latitude>46.55653719031747</latitude>
+						<altitude>0</altitude>
+						<range>1477.94100911276</range>
+						<tilt>1.460234789797364e-010</tilt>
+						<heading>-90.81162752026887</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy1701</styleUrl>
+					<Point>
+						<coordinates>-119.641213140416,46.55615912502866,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 17</name>
+					<description>TX Tank Farm</description>
+					<LookAt>
+						<longitude>-119.6288729421929</longitude>
+						<latitude>46.55533190357718</latitude>
+						<altitude>0</altitude>
+						<range>472.3699102256626</range>
+						<tilt>0</tilt>
+						<heading>-0.07852362329750412</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy19010</styleUrl>
+					<Point>
+						<coordinates>-119.629519843322,46.55498374778473,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 16</name>
+					<description>TY Tank Farm</description>
+					<LookAt>
+						<longitude>-119.6290205552161</longitude>
+						<latitude>46.55726585021183</latitude>
+						<altitude>0</altitude>
+						<range>359.1553108015864</range>
+						<tilt>7.140471965728234e-011</tilt>
+						<heading>-0.07863080063158401</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy161</styleUrl>
+					<Point>
+						<coordinates>-119.6293339404758,46.55717337905776,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 15</name>
+					<description>T Tank Farm</description>
+					<LookAt>
+						<longitude>-119.6283864334485</longitude>
+						<latitude>46.56008052880856</latitude>
+						<altitude>0</altitude>
+						<range>365.1606949319202</range>
+						<tilt>7.03340468115318e-011</tilt>
+						<heading>-0.07817036950675697</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy2000</styleUrl>
+					<Point>
+						<coordinates>-119.6288489383793,46.5597642012233,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 14</name>
+					<description>Plutonium Nitrate Finishing Plant
+
+Takes refined plutonium nitrate from the extractors and chemically solidifies it into pure, solid metal form plutonium</description>
+					<LookAt>
+						<longitude>-119.6327475459033</longitude>
+						<latitude>46.55040156794793</latitude>
+						<altitude>0</altitude>
+						<range>407.9809939374188</range>
+						<tilt>4.204130785669564e-010</tilt>
+						<heading>0.2283063232898861</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy1420</styleUrl>
+					<Point>
+						<coordinates>-119.633094753237,46.55048526567503,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 13</name>
+					<description>U-241 Tank Farm</description>
+					<LookAt>
+						<longitude>-119.6287470526459</longitude>
+						<latitude>46.54514585630036</latitude>
+						<altitude>0</altitude>
+						<range>353.0881593146986</range>
+						<tilt>5.337703803072424e-010</tilt>
+						<heading>0.209789114383709</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy1502</styleUrl>
+					<Point>
+						<coordinates>-119.6288796366746,46.54497462114378,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 12</name>
+					<description>Recovery Plant
+
+Originaly designed to extract plutonium from used nuclear fuel, but instead was and still is used to extract useable uranium fuel from nuclear waste canisters.</description>
+					<LookAt>
+						<longitude>-119.6186263681833</longitude>
+						<latitude>46.54595037486707</latitude>
+						<altitude>0</altitude>
+						<range>446.8131025876485</range>
+						<tilt>0</tilt>
+						<heading>-49.81648481150572</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy1211</styleUrl>
+					<Point>
+						<coordinates>-119.6188954042644,46.54615263112648,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 11</name>
+					<description>S Tank Farm</description>
+					<LookAt>
+						<longitude>-119.6285978406031</longitude>
+						<latitude>46.53998703802962</latitude>
+						<altitude>0</altitude>
+						<range>389.0415092856259</range>
+						<tilt>3.861354386871845e-010</tilt>
+						<heading>0.2098975461037338</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy13010</styleUrl>
+					<Point>
+						<coordinates>-119.628957976921,46.53973718990143,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 10</name>
+					<description>SX Tank Farm</description>
+					<LookAt>
+						<longitude>-119.6290505577522</longitude>
+						<latitude>46.53768808814539</latitude>
+						<altitude>0</altitude>
+						<range>390.6211908877255</range>
+						<tilt>3.861355296993054e-010</tilt>
+						<heading>0.2095689431490737</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy10100</styleUrl>
+					<Point>
+						<coordinates>-119.6291496659729,46.53778887923542,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 9</name>
+					<description>Reduction Oxidation Facility</description>
+					<LookAt>
+						<longitude>-119.6215559086695</longitude>
+						<latitude>46.53486357861477</latitude>
+						<altitude>0</altitude>
+						<range>520.6269885245072</range>
+						<tilt>3.790859408781815e-010</tilt>
+						<heading>0.2150086496351839</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy1110</styleUrl>
+					<Point>
+						<coordinates>-119.6213843598979,46.53435998178158,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 8</name>
+					<description>Nuclear Submarine Reactor Storage</description>
+					<LookAt>
+						<longitude>-119.5193242769154</longitude>
+						<latitude>46.56565373424764</latitude>
+						<altitude>0</altitude>
+						<range>474.7459530980252</range>
+						<tilt>0</tilt>
+						<heading>0.001291685327219481</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy531</styleUrl>
+					<Point>
+						<coordinates>-119.5195266665399,46.56553333333335,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 7</name>
+					<description>Radioactive Canister Storage Building</description>
+					<LookAt>
+						<longitude>-119.5499082702375</longitude>
+						<latitude>46.55570354293338</latitude>
+						<altitude>0</altitude>
+						<range>466.2998803723431</range>
+						<tilt>8.775899242186327e-011</tilt>
+						<heading>-0.02121156677638944</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy910</styleUrl>
+					<Point>
+						<coordinates>-119.5495203023202,46.55538036063223,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 6</name>
+					<description>Plutonium and Uranium Extraction Plant B</description>
+					<LookAt>
+						<longitude>-119.5413758253266</longitude>
+						<latitude>46.55694579129716</latitude>
+						<altitude>0</altitude>
+						<range>465.4355988310979</range>
+						<tilt>0</tilt>
+						<heading>-0.0150166961966234</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy001</styleUrl>
+					<Point>
+						<coordinates>-119.541578518943,46.55664323104624,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 5</name>
+					<description>Plutonium and Uranium Extraction Plant A</description>
+					<LookAt>
+						<longitude>-119.5204242795037</longitude>
+						<latitude>46.54952726883824</latitude>
+						<altitude>0</altitude>
+						<range>433.6219264330654</range>
+						<tilt>4.554258581981645e-011</tilt>
+						<heading>-0.0981579716871339</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy801</styleUrl>
+					<Point>
+						<coordinates>-119.5206080965574,46.54931649166188,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 4</name>
+					<description>200 Area
+
+Evaporator</description>
+					<LookAt>
+						<longitude>-119.5055376414487</longitude>
+						<latitude>46.55051748177972</latitude>
+						<altitude>0</altitude>
+						<range>604.2413287375937</range>
+						<tilt>2.437809315059489e-011</tilt>
+						<heading>-0.08790694859741706</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy611</styleUrl>
+					<Point>
+						<coordinates>-119.5058980395972,46.55126595001894,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 3</name>
+					<description>1 x BWR
+
+Permanently Shutdown</description>
+					<LookAt>
+						<longitude>-119.2753931172957</longitude>
+						<latitude>46.36880596350169</latitude>
+						<altitude>0</altitude>
+						<range>1717.594821408369</range>
+						<tilt>0</tilt>
+						<heading>-88.97433362961795</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy700</styleUrl>
+					<Point>
+						<coordinates>-119.2766398273928,46.36716875195209,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 2</name>
+					<description>LIGO Project
+
+2x 4km Inferometers
+
+Gravitational Wave Measurement System</description>
+					<LookAt>
+						<longitude>-119.4073944585658</longitude>
+						<latitude>46.45524935278895</latitude>
+						<altitude>0</altitude>
+						<range>772.8013056875826</range>
+						<tilt>0</tilt>
+						<heading>0.001913819975129676</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy3001</styleUrl>
+					<Point>
+						<coordinates>-119.4078,46.4546,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Hanford - 1</name>
+					<description>400 Area
+
+Interimm Storage Facility and Fast Flux Test Facility</description>
+					<LookAt>
+						<longitude>-119.3607876657983</longitude>
+						<latitude>46.43537956575931</latitude>
+						<altitude>0</altitude>
+						<range>1469.42749967894</range>
+						<tilt>0</tilt>
+						<heading>-0.06352935428774767</heading>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy4210</styleUrl>
+					<Point>
+						<coordinates>-119.3598416666667,46.43501388888889,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Placemark>
+				<name>US - 4</name>
+				<description>Humbolt Bay 3
+
+1 x BWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-124.2101485202102</longitude>
+					<latitude>40.74103073430298</latitude>
+					<altitude>0</altitude>
+					<range>569.217764019463</range>
+					<tilt>2.365341241687744e-010</tilt>
+					<heading>-35.37528328515731</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy213</styleUrl>
+				<Point>
+					<coordinates>-124.2101529477758,40.74108132095509,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 5</name>
+				<description>Rancho Seco
+
+1 x PWR
+
+Decommissioned</description>
+				<LookAt>
+					<longitude>-121.1211965844741</longitude>
+					<latitude>38.34240001054495</latitude>
+					<altitude>0</altitude>
+					<range>2004.762608792889</range>
+					<tilt>0</tilt>
+					<heading>2.091535260435526</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy3000</styleUrl>
+				<Point>
+					<coordinates>-121.1206129799618,38.34457474131482,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 6</name>
+				<description>Diablo Canyon
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-120.8540092714131</longitude>
+					<latitude>35.20844320247586</latitude>
+					<altitude>0</altitude>
+					<range>1274.381757007224</range>
+					<tilt>1.218020790866701e-011</tilt>
+					<heading>65.72929135464139</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy28100</styleUrl>
+				<Point>
+					<coordinates>-120.8551458199447,35.21151313077255,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 7</name>
+				<description>San Onfore
+
+2 x PWR Operational
+
+1 x PWR Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-117.5561799610649</longitude>
+					<latitude>33.36919279133803</latitude>
+					<altitude>0</altitude>
+					<range>901.8189747854528</range>
+					<tilt>0</tilt>
+					<heading>33.17256360994035</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy3500</styleUrl>
+				<Point>
+					<coordinates>-117.5548460687924,33.36868814467142,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 8</name>
+				<description>Palo Verde
+
+3 x PWR</description>
+				<LookAt>
+					<longitude>-112.8605975406978</longitude>
+					<latitude>33.38927137178975</latitude>
+					<altitude>0</altitude>
+					<range>3564.34359283027</range>
+					<tilt>3.077457254967959e-011</tilt>
+					<heading>0.003652458961935129</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy34001</styleUrl>
+				<Point>
+					<coordinates>-112.8649987637247,33.38753744635788,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 9</name>
+				<description>Fort St. Vrain
+
+1 x HGTR
+
+Decommissioned</description>
+				<LookAt>
+					<longitude>-104.8749096651523</longitude>
+					<latitude>40.24439888303335</latitude>
+					<altitude>0</altitude>
+					<range>986.3219705553306</range>
+					<tilt>1.378428226334176e-010</tilt>
+					<heading>-90.44665730367771</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy37000</styleUrl>
+				<Point>
+					<coordinates>-104.8746912232198,40.24398288037995,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 10</name>
+				<description>Pathfinder
+
+1 x BWR
+
+Decommissioned</description>
+				<LookAt>
+					<longitude>-96.63706139138907</longitude>
+					<latitude>43.60360510699758</latitude>
+					<altitude>0</altitude>
+					<range>501.838821843486</range>
+					<tilt>0</tilt>
+					<heading>-12.87605343848832</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy39001</styleUrl>
+				<Point>
+					<coordinates>-96.63749014077219,43.60311878786241,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 11</name>
+				<description>Monticello
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-93.84629489042776</longitude>
+					<latitude>45.33414803260862</latitude>
+					<altitude>0</altitude>
+					<range>710.3524467127445</range>
+					<tilt>2.539250775212995e-010</tilt>
+					<heading>-25.14480131577945</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy3610</styleUrl>
+				<Point>
+					<coordinates>-93.84934651088567,45.33360169136175,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 12</name>
+				<description>Prairie Island
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-92.63482675686223</longitude>
+					<latitude>44.62210416913107</latitude>
+					<altitude>0</altitude>
+					<range>963.7591587902779</range>
+					<tilt>2.146949487665279e-011</tilt>
+					<heading>-0.07053507777710436</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy400</styleUrl>
+				<Point>
+					<coordinates>-92.63340299056418,44.62131387060001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 13</name>
+				<description>LaCrosse
+
+1 x BWR
+
+Decommissioned</description>
+				<LookAt>
+					<longitude>-91.23099921407875</longitude>
+					<latitude>43.55983543817896</latitude>
+					<altitude>0</altitude>
+					<range>889.4413073296552</range>
+					<tilt>5.858792845314628e-011</tilt>
+					<heading>-0.003660989830283719</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy3810</styleUrl>
+				<Point>
+					<coordinates>-91.23135833333333,43.55982500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 14</name>
+				<description>Fort Calhoun
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-96.07754978674102</longitude>
+					<latitude>41.52093154873027</latitude>
+					<altitude>0</altitude>
+					<range>480.422835113798</range>
+					<tilt>0</tilt>
+					<heading>32.62446212768554</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy42101</styleUrl>
+				<Point>
+					<coordinates>-96.07748434381392,41.52023238469452,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 15</name>
+				<description>Cooper
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-95.6426814230115</longitude>
+					<latitude>40.36151332044936</latitude>
+					<altitude>0</altitude>
+					<range>846.736131447821</range>
+					<tilt>0</tilt>
+					<heading>-34.21357908627442</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy41000</styleUrl>
+				<Point>
+					<coordinates>-95.64138105442596,40.36192746020388,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 16</name>
+				<description>Duane Arnold
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-91.7762696037197</longitude>
+					<latitude>42.10009190592854</latitude>
+					<altitude>0</altitude>
+					<range>1034.290084501738</range>
+					<tilt>1.879758108547179e-010</tilt>
+					<heading>0.007618747195024616</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy441</styleUrl>
+				<Point>
+					<coordinates>-91.77744541348605,42.10046450412605,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 17</name>
+				<description>Quad Cities
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>-90.30719445547226</longitude>
+					<latitude>41.7261479459548</latitude>
+					<altitude>0</altitude>
+					<range>2014.678860872909</range>
+					<tilt>0</tilt>
+					<heading>-93.33777752852843</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy4310</styleUrl>
+				<Point>
+					<coordinates>-90.30915201138159,41.72520071418138,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 18</name>
+				<description>Wolf Creek
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-95.68770088414443</longitude>
+					<latitude>38.2386953325621</latitude>
+					<altitude>0</altitude>
+					<range>1254.438630530676</range>
+					<tilt>0</tilt>
+					<heading>1.901486957440264</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy4610</styleUrl>
+				<Point>
+					<coordinates>-95.68945057674733,38.2394818363758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 19</name>
+				<description>Callaway
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-91.78223123143206</longitude>
+					<latitude>38.76075369169614</latitude>
+					<altitude>0</altitude>
+					<range>1413.183239824769</range>
+					<tilt>0</tilt>
+					<heading>46.72767414687316</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy4510</styleUrl>
+				<Point>
+					<coordinates>-91.78094444444444,38.76085277777778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 20</name>
+				<description>Arkansas Nuclear One
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-93.23172375903066</longitude>
+					<latitude>35.31018301492265</latitude>
+					<altitude>0</altitude>
+					<range>1638.486712723152</range>
+					<tilt>0</tilt>
+					<heading>-0.05588488512994085</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy480</styleUrl>
+				<Point>
+					<coordinates>-93.2317,35.30998333333334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 21</name>
+				<description>Comanche Peak
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-97.78570638286762</longitude>
+					<latitude>32.2980470712569</latitude>
+					<altitude>0</altitude>
+					<range>1734.636171745216</range>
+					<tilt>0</tilt>
+					<heading>5.730518865105719</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy470</styleUrl>
+				<Point>
+					<coordinates>-97.78566537043274,32.29756089522103,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 22</name>
+				<description>South Texas Project
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-96.05157083624174</longitude>
+					<latitude>28.79653090267407</latitude>
+					<altitude>0</altitude>
+					<range>2032.500850606011</range>
+					<tilt>0</tilt>
+					<heading>1.268956501874926</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy50101</styleUrl>
+				<Point>
+					<coordinates>-96.04915167408549,28.79476673899108,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 23</name>
+				<description>Grand Gulf
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-91.04870607428686</longitude>
+					<latitude>32.00729481334546</latitude>
+					<altitude>0</altitude>
+					<range>985.7443885802355</range>
+					<tilt>0</tilt>
+					<heading>-60.63800510209793</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy490</styleUrl>
+				<Point>
+					<coordinates>-91.04841199094585,32.00694543819176,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 24</name>
+				<description>River Bend
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-91.33250273489813</longitude>
+					<latitude>30.7569109864416</latitude>
+					<altitude>0</altitude>
+					<range>1991.005338811016</range>
+					<tilt>2.44489008782715e-011</tilt>
+					<heading>56.97790145874024</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5100</styleUrl>
+				<Point>
+					<coordinates>-91.3333288575665,30.75638542186667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 25</name>
+				<description>Waterford 3
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-90.47177930772301</longitude>
+					<latitude>29.99281376425492</latitude>
+					<altitude>0</altitude>
+					<range>1261.793409483338</range>
+					<tilt>0</tilt>
+					<heading>-56.84937380783561</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5300</styleUrl>
+				<Point>
+					<coordinates>-90.47216694370135,29.99223022058046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 26</name>
+				<description>Byron
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-89.28230444658293</longitude>
+					<latitude>42.07444901415583</latitude>
+					<altitude>0</altitude>
+					<range>1690.468408564248</range>
+					<tilt>3.434615002002071e-011</tilt>
+					<heading>0.9569512540428404</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5200</styleUrl>
+				<Point>
+					<coordinates>-89.28285757191709,42.07394933105364,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 27</name>
+				<description>Dresden
+
+2 x BWR Operable
+
+1 x BWR Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-88.35164795299198</longitude>
+					<latitude>41.35302868877898</latitude>
+					<altitude>0</altitude>
+					<range>2480.935049129893</range>
+					<tilt>2.316384914895005e-011</tilt>
+					<heading>0.04855907550331327</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5500</styleUrl>
+				<Point>
+					<coordinates>-88.35178815228156,41.35189001412368,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 28</name>
+				<description>LaSalle County
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>-88.56454458881794</longitude>
+					<latitude>41.30609280556832</latitude>
+					<altitude>0</altitude>
+					<range>1997.403677163347</range>
+					<tilt>1.947487593338392e-011</tilt>
+					<heading>-0.09226420443079171</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy541</styleUrl>
+				<Point>
+					<coordinates>-88.56055150555383,41.30460579977373,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 29</name>
+				<description>Braidwood
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-88.22821815592582</longitude>
+					<latitude>41.24209396418157</latitude>
+					<altitude>0</altitude>
+					<range>1559.170257082129</range>
+					<tilt>0</tilt>
+					<heading>-0.009206977827774977</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy571</styleUrl>
+				<Point>
+					<coordinates>-88.22921027090526,41.24338582192684,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 30</name>
+				<description>Clinton
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-88.83255783022644</longitude>
+					<latitude>40.17062854324283</latitude>
+					<altitude>0</altitude>
+					<range>1687.4503696888</range>
+					<tilt>1.445271638629683e-010</tilt>
+					<heading>-45.45779197441522</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5600</styleUrl>
+				<Point>
+					<coordinates>-88.83537413979161,40.17197302244095,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 31</name>
+				<description>Zion
+
+2 x PWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-87.80330539938937</longitude>
+					<latitude>42.44641845887999</latitude>
+					<altitude>0</altitude>
+					<range>927.1783332171273</range>
+					<tilt>0</tilt>
+					<heading>-76.25710600182222</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5901</styleUrl>
+				<Point>
+					<coordinates>-87.80322147385643,42.44607704483165,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 32</name>
+				<description>Point Beach
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-87.53709242692415</longitude>
+					<latitude>44.28094979523294</latitude>
+					<altitude>0</altitude>
+					<range>791.7435228430547</range>
+					<tilt>1.276904285645006e-010</tilt>
+					<heading>65.24664610985001</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy5800</styleUrl>
+				<Point>
+					<coordinates>-87.53673653943227,44.28041756503444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 33</name>
+				<description>Kewaunee
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-87.53656898041231</longitude>
+					<latitude>44.34259896350316</latitude>
+					<altitude>0</altitude>
+					<range>820.3480935101519</range>
+					<tilt>1.234669243313081e-010</tilt>
+					<heading>0.02544780896112951</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy6100</styleUrl>
+				<Point>
+					<coordinates>-87.53735538462978,44.34250071172986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 34</name>
+				<description>Palisades
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-86.31216097742949</longitude>
+					<latitude>42.32334036836931</latitude>
+					<altitude>0</altitude>
+					<range>1307.300391897066</range>
+					<tilt>0</tilt>
+					<heading>-67.63342709685375</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy60001</styleUrl>
+				<Point>
+					<coordinates>-86.31381855357061,42.32268962718062,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 35</name>
+				<description>Donald C. Cook
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-86.56516037965974</longitude>
+					<latitude>41.97558995763873</latitude>
+					<altitude>0</altitude>
+					<range>762.6889397494088</range>
+					<tilt>0</tilt>
+					<heading>-73.55448633314958</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy630</styleUrl>
+				<Point>
+					<coordinates>-86.56537285006669,41.97523715245784,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 36</name>
+				<description>Fermi
+
+1 x LMFBR Decmmissioned
+
+1 x BWR Operable</description>
+				<LookAt>
+					<longitude>-83.25796931220931</longitude>
+					<latitude>41.96357864629044</latitude>
+					<altitude>0</altitude>
+					<range>1504.13996236684</range>
+					<tilt>0</tilt>
+					<heading>-71.64086536889276</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy62000</styleUrl>
+				<Point>
+					<coordinates>-83.25789903476378,41.9612907407529,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 37</name>
+				<description>Davis-Besse
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-83.21525385837548</longitude>
+					<latitude>41.48911981789095</latitude>
+					<altitude>0</altitude>
+					<range>1376.235615489294</range>
+					<tilt>2.131959295096809e-011</tilt>
+					<heading>-0.04650586505277848</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy65000</styleUrl>
+				<Point>
+					<coordinates>-83.21491790262935,41.48902259138901,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 38</name>
+				<description>Watts Bar
+
+1 x PWR Operational
+
+1 x PWR Suspended</description>
+				<LookAt>
+					<longitude>-84.78803485958157</longitude>
+					<latitude>35.60287583449082</latitude>
+					<altitude>0</altitude>
+					<range>2451.054356288923</range>
+					<tilt>1.174625323176054e-010</tilt>
+					<heading>-9.751848031076586</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy6400</styleUrl>
+				<Point>
+					<coordinates>-84.78975744388249,35.60268133823517,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 39</name>
+				<description>Seqouyah
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-85.09094068345775</longitude>
+					<latitude>35.22596424048512</latitude>
+					<altitude>0</altitude>
+					<range>1678.766835489789</range>
+					<tilt>1.566181367022995e-010</tilt>
+					<heading>-64.62327891781277</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy670</styleUrl>
+				<Point>
+					<coordinates>-85.0915495527956,35.22597498156337,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 40</name>
+				<description>Bellefonte
+
+2 x PWR
+
+Suspended</description>
+				<LookAt>
+					<longitude>-85.92872703536365</longitude>
+					<latitude>34.70899490533943</latitude>
+					<altitude>0</altitude>
+					<range>1355.322714005639</range>
+					<tilt>0</tilt>
+					<heading>-51.22268152418702</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy660</styleUrl>
+				<Point>
+					<coordinates>-85.92703249797808,34.70850240378873,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 41</name>
+				<description>Browns Ferry
+
+3 x BWR</description>
+				<LookAt>
+					<longitude>-87.11759801649895</longitude>
+					<latitude>34.70747729536225</latitude>
+					<altitude>0</altitude>
+					<range>2427.409406560184</range>
+					<tilt>0</tilt>
+					<heading>38.31912659977628</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy6900</styleUrl>
+				<Point>
+					<coordinates>-87.11864916129595,34.70390363448428,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 42</name>
+				<description>Joseph M. Farley
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-85.11012200350028</longitude>
+					<latitude>31.22295288524684</latitude>
+					<altitude>0</altitude>
+					<range>1581.049824491813</range>
+					<tilt>2.81331619801407e-013</tilt>
+					<heading>0.1464399778782825</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy710</styleUrl>
+				<Point>
+					<coordinates>-85.11189007909755,31.2226942367393,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 43</name>
+				<description>Turkey Point
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-80.33068213460282</longitude>
+					<latitude>25.43426913941008</latitude>
+					<altitude>0</altitude>
+					<range>1557.96431492514</range>
+					<tilt>0</tilt>
+					<heading>-0.9484752477635526</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy70001</styleUrl>
+				<Point>
+					<coordinates>-80.33155834788835,25.43404132261854,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 44</name>
+				<description>St. Lucie
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-80.24262233053376</longitude>
+					<latitude>27.34776521753425</latitude>
+					<altitude>0</altitude>
+					<range>1927.195117623529</range>
+					<tilt>0</tilt>
+					<heading>61.61598890911206</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy72</styleUrl>
+				<Point>
+					<coordinates>-80.24668331608524,27.34830576848008,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 45</name>
+				<description>Crystal River 3
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-82.70131299540545</longitude>
+					<latitude>28.96159653441919</latitude>
+					<altitude>0</altitude>
+					<range>3065.081764409558</range>
+					<tilt>0</tilt>
+					<heading>-0.03198810019598678</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy74</styleUrl>
+				<Point>
+					<coordinates>-82.69850369572197,28.95702651945875,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 46</name>
+				<description>Edwin I. Hatch
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>-82.34266595416507</longitude>
+					<latitude>31.93505788632353</latitude>
+					<altitude>0</altitude>
+					<range>1001.951926480735</range>
+					<tilt>0</tilt>
+					<heading>0.0009986895590310563</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy730</styleUrl>
+				<Point>
+					<coordinates>-82.3437201574254,31.93415394785193,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 47</name>
+				<description>Alvin W. Vogtle
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-81.75983838855538</longitude>
+					<latitude>33.14295723277093</latitude>
+					<altitude>0</altitude>
+					<range>1572.840610798238</range>
+					<tilt>2.898097012698802e-011</tilt>
+					<heading>0.1389478421101189</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy76</styleUrl>
+				<Point>
+					<coordinates>-81.76288172955547,33.14154475267713,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 48</name>
+				<description>Virgil C. Summer
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-81.31348390551604</longitude>
+					<latitude>34.29725236323988</latitude>
+					<altitude>0</altitude>
+					<range>1601.065723444611</range>
+					<tilt>0</tilt>
+					<heading>-0.01409851673246988</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy750</styleUrl>
+				<Point>
+					<coordinates>-81.31501107470277,34.29830727702322,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 49</name>
+				<description>Robinson 2
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-80.15800258889929</longitude>
+					<latitude>34.40251376697223</latitude>
+					<altitude>0</altitude>
+					<range>1062.523414086485</range>
+					<tilt>0</tilt>
+					<heading>-1.931494672133949</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy780</styleUrl>
+				<Point>
+					<coordinates>-80.15838951430467,34.40288553437584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 50</name>
+				<description>Oconee
+
+3 x PWR
+
+--One of only eight of my mapped reactors that are blurred.</description>
+				<LookAt>
+					<longitude>-82.89464852957585</longitude>
+					<latitude>34.79398538492358</latitude>
+					<altitude>0</altitude>
+					<range>2977.555451705196</range>
+					<tilt>0</tilt>
+					<heading>-26.18554182813395</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:0_copy2</styleUrl>
+				<Point>
+					<coordinates>-82.89866545932833,34.79377693070938,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 51</name>
+				<description>Catawba
+
+2 x PWR
+
+--One of only eight of my mapped reactors that are blurred.</description>
+				<LookAt>
+					<longitude>-81.0702047124263</longitude>
+					<latitude>35.05169357805029</latitude>
+					<altitude>0</altitude>
+					<range>1716.615304567677</range>
+					<tilt>0</tilt>
+					<heading>-1.069196980740587</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy97</styleUrl>
+				<Point>
+					<coordinates>-81.06932748490173,35.05122055426774,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 52</name>
+				<description>McGuire
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-80.94758251215623</longitude>
+					<latitude>35.43354585270279</latitude>
+					<altitude>0</altitude>
+					<range>1501.200532905286</range>
+					<tilt>0</tilt>
+					<heading>10.24638713822989</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy77</styleUrl>
+				<Point>
+					<coordinates>-80.94844018927327,35.43292633517992,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 53</name>
+				<description>Shearon Harris
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-78.95491298275807</longitude>
+					<latitude>35.6333288777673</latitude>
+					<altitude>0</altitude>
+					<range>2196.848274623882</range>
+					<tilt>0</tilt>
+					<heading>-25.98169255994193</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy820</styleUrl>
+				<Point>
+					<coordinates>-78.9562987791748,35.63326626391377,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 54</name>
+				<description>Brunswick
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>-78.01004016252578</longitude>
+					<latitude>33.95750821100278</latitude>
+					<altitude>0</altitude>
+					<range>1385.467589691839</range>
+					<tilt>0</tilt>
+					<heading>-44.50300223984773</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy79</styleUrl>
+				<Point>
+					<coordinates>-78.00976841690265,33.95811204729015,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 55</name>
+				<description>Perry
+
+1 x BWR Operable
+
+1 x BWR Cancelled
+
+--One of only eight of my mapped reactors that are blurred, although this one is blurred the most.</description>
+				<LookAt>
+					<longitude>-81.14311516301807</longitude>
+					<latitude>41.79997163395866</latitude>
+					<altitude>0</altitude>
+					<range>1763.356503511697</range>
+					<tilt>2.084358955952535e-010</tilt>
+					<heading>-17.16387638877253</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy840</styleUrl>
+				<Point>
+					<coordinates>-81.14371606502593,41.80022973406403,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 56</name>
+				<description>Beaver Valley
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-80.43223207051243</longitude>
+					<latitude>40.62270426963003</latitude>
+					<altitude>0</altitude>
+					<range>862.9951625059794</range>
+					<tilt>0</tilt>
+					<heading>-40.21671265895234</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy80000</styleUrl>
+				<Point>
+					<coordinates>-80.43281507456906,40.62224915876433,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 57</name>
+				<description>Shippingport
+
+1 x PLWBR
+
+Decommissioned</description>
+				<LookAt>
+					<longitude>-80.41756039543672</longitude>
+					<latitude>40.63480922782468</latitude>
+					<altitude>0</altitude>
+					<range>1074.480081623121</range>
+					<tilt>6.613839855300194e-011</tilt>
+					<heading>-51.56922476748925</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy86</styleUrl>
+				<Point>
+					<coordinates>-80.41694114231979,40.6340019370218,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 58</name>
+				<description>Surry
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-76.68727009074637</longitude>
+					<latitude>37.16259005640563</latitude>
+					<altitude>0</altitude>
+					<range>3815.782112095495</range>
+					<tilt>0</tilt>
+					<heading>25.59118958606056</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy810</styleUrl>
+				<Point>
+					<coordinates>-76.69762655050445,37.16504440419107,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 59</name>
+				<description>North Anna
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-77.78893463994837</longitude>
+					<latitude>38.05851840748895</latitude>
+					<altitude>0</altitude>
+					<range>3407.3225325029</range>
+					<tilt>0</tilt>
+					<heading>70.79058643676616</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy880</styleUrl>
+				<Point>
+					<coordinates>-77.79495804094613,38.06061003730845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 60</name>
+				<description>Calvert Cliffs
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-76.44162500892377</longitude>
+					<latitude>38.43291183423147</latitude>
+					<altitude>0</altitude>
+					<range>1030.714707423321</range>
+					<tilt>0</tilt>
+					<heading>46.02277235794024</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy87</styleUrl>
+				<Point>
+					<coordinates>-76.4419972250445,38.43421673446264,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 61</name>
+				<description>Salem
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-75.53494979208402</longitude>
+					<latitude>39.46588550491079</latitude>
+					<altitude>0</altitude>
+					<range>1591.963431277506</range>
+					<tilt>1.612945980870538e-010</tilt>
+					<heading>-96.38761432577078</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy90001</styleUrl>
+				<Point>
+					<coordinates>-75.53588535713941,39.46248444770345,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 62</name>
+				<description>Hope Creek
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-75.53494979208402</longitude>
+					<latitude>39.46588550491079</latitude>
+					<altitude>0</altitude>
+					<range>1591.963431277506</range>
+					<tilt>1.612945980870538e-010</tilt>
+					<heading>-96.38761432577078</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy89</styleUrl>
+				<Point>
+					<coordinates>-75.53769456867084,39.46626135935932,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 63</name>
+				<description>Peach Bottom
+
+2 x BWR Operable
+
+1 x HTGR Decommissioned</description>
+				<LookAt>
+					<longitude>-76.26520535066484</longitude>
+					<latitude>39.75737266083702</latitude>
+					<altitude>0</altitude>
+					<range>2270.246380527536</range>
+					<tilt>1.549285221570731e-010</tilt>
+					<heading>60.59527111806409</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy920</styleUrl>
+				<Point>
+					<coordinates>-76.26874650069235,39.76001753473213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 64</name>
+				<description>Three Mile Island
+
+1 x PWR Operable
+
+1 x PWR Decommissioned</description>
+				<LookAt>
+					<longitude>-76.72419057367</longitude>
+					<latitude>40.1543210643537</latitude>
+					<altitude>0</altitude>
+					<range>1035.508328768479</range>
+					<tilt>1.002717558547378e-010</tilt>
+					<heading>91.2214697056797</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy91000</styleUrl>
+				<Point>
+					<coordinates>-76.72533343215082,40.15360076340959,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 65</name>
+				<description>Limerick
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>-75.58701433213065</longitude>
+					<latitude>40.22653213023821</latitude>
+					<altitude>0</altitude>
+					<range>1337.949338836271</range>
+					<tilt>2.252783339144251e-010</tilt>
+					<heading>0.9202792457939192</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy940</styleUrl>
+				<Point>
+					<coordinates>-75.58724194530458,40.22409392639137,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 66</name>
+				<description>Oyster Creek
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-74.20874028035675</longitude>
+					<latitude>39.81393660726783</latitude>
+					<altitude>0</altitude>
+					<range>2208.372295465032</range>
+					<tilt>4.538903165184865e-012</tilt>
+					<heading>-14.04665206100381</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy93</styleUrl>
+				<Point>
+					<coordinates>-74.20658432702717,39.8144500602824,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 67</name>
+				<description>Susquehanna
+
+2 x BWR</description>
+				<LookAt>
+					<longitude>-76.14736192335001</longitude>
+					<latitude>41.09161055281966</latitude>
+					<altitude>0</altitude>
+					<range>1989.941172044127</range>
+					<tilt>2.085457831146639e-011</tilt>
+					<heading>0.05595459598484644</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy96</styleUrl>
+				<Point>
+					<coordinates>-76.14742030583395,41.0914047550121,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 68</name>
+				<description>Shoreham
+
+1 x BWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-72.86649981977567</longitude>
+					<latitude>40.96167451643845</latitude>
+					<altitude>0</altitude>
+					<range>1036.562471938214</range>
+					<tilt>5.350936681620771e-010</tilt>
+					<heading>-104.2356284380808</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy95</styleUrl>
+				<Point>
+					<coordinates>-72.86514480531686,40.96092652090046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 69</name>
+				<description>Indian Point
+
+2 x PWR Operable
+
+1 x PWR Permanently Shutdown
+
+--One of only eight of my mapped reactors that are blurred.</description>
+				<LookAt>
+					<longitude>-73.95232798045919</longitude>
+					<latitude>41.26938987266721</latitude>
+					<altitude>0</altitude>
+					<range>732.7895251116969</range>
+					<tilt>3.099429267590801e-010</tilt>
+					<heading>-51.65593471969508</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:0_copy100</styleUrl>
+				<Point>
+					<coordinates>-73.95183357589724,41.26947558894597,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 70</name>
+				<description>Mlilstone
+
+1 x BWR
+
+2 x PWR</description>
+				<LookAt>
+					<longitude>-72.16745690075921</longitude>
+					<latitude>41.30915852114018</latitude>
+					<altitude>0</altitude>
+					<range>1389.555779441705</range>
+					<tilt>0</tilt>
+					<heading>75.49603162802067</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy83</styleUrl>
+				<Point>
+					<coordinates>-72.1684827645387,41.31068693659643,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 71</name>
+				<description>Haddam Neck
+
+1 x PWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-72.50007499805405</longitude>
+					<latitude>41.48299838627486</latitude>
+					<altitude>0</altitude>
+					<range>713.0496068137371</range>
+					<tilt>0</tilt>
+					<heading>37.97901823863991</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:00</styleUrl>
+				<Point>
+					<coordinates>-72.4989850456389,41.4823453277603,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 72</name>
+				<description>Pilgrim
+
+1 x BWR
+
+--One of only eight of my mapped reactors that are blurred.</description>
+				<LookAt>
+					<longitude>-70.57859533311515</longitude>
+					<latitude>41.94458324792363</latitude>
+					<altitude>0</altitude>
+					<range>1133.08004433632</range>
+					<tilt>0</tilt>
+					<heading>28.27965545654298</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy980</styleUrl>
+				<Point>
+					<coordinates>-70.57937516890556,41.94453986743392,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 73</name>
+				<description>Seabrook
+
+1 x PWR
+
+--One of only eight of my mapped reactors that are blurred.</description>
+				<LookAt>
+					<longitude>-70.85099326005479</longitude>
+					<latitude>42.89862635060241</latitude>
+					<altitude>0</altitude>
+					<range>778.223375577678</range>
+					<tilt>4.29159599253421e-010</tilt>
+					<heading>-33.39363479614255</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:0_copy121</styleUrl>
+				<Point>
+					<coordinates>-70.85078741360967,42.89797317628927,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 74</name>
+				<description>Vermont Yankee
+
+1 x BWR</description>
+				<LookAt>
+					<longitude>-72.51408495855523</longitude>
+					<latitude>42.77883587096932</latitude>
+					<altitude>0</altitude>
+					<range>949.0261740132189</range>
+					<tilt>1.149663967831405e-009</tilt>
+					<heading>69.39605712890625</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy99</styleUrl>
+				<Point>
+					<coordinates>-72.51322827481795,42.77875165276735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 75</name>
+				<description>Yankee Rowe
+
+1 x PWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-72.92830685623605</longitude>
+					<latitude>42.72788552835977</latitude>
+					<altitude>0</altitude>
+					<range>352.9338384942899</range>
+					<tilt>2.383662241729616e-009</tilt>
+					<heading>52.48292138093103</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:0_copy30</styleUrl>
+				<Point>
+					<coordinates>-72.92848092298763,42.72789365408598,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 76</name>
+				<description>R. E. Ginna
+
+1 x PWR</description>
+				<LookAt>
+					<longitude>-77.30945434342189</longitude>
+					<latitude>43.27727414091709</latitude>
+					<altitude>0</altitude>
+					<range>873.3083147541433</range>
+					<tilt>0</tilt>
+					<heading>0.001617644301667159</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:0_copy8</styleUrl>
+				<Point>
+					<coordinates>-77.31022981860949,43.27710514541933,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 77</name>
+				<description>Nine Mile Point
+
+2 x BWR
+
+--One of only eight of my mapped reactors that are blurred.</description>
+				<LookAt>
+					<longitude>-76.40443811673158</longitude>
+					<latitude>43.52068613620672</latitude>
+					<altitude>0</altitude>
+					<range>1819.418954446647</range>
+					<tilt>0</tilt>
+					<heading>-0.000135883627020201</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:0_copy11</styleUrl>
+				<Point>
+					<coordinates>-76.40938888888888,43.52126666666667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 78</name>
+				<description>James A. FitzPatrick
+
+1 x BWR
+
+--One of only eight of my mapped reactors that are blurred.</description>
+				<LookAt>
+					<longitude>-76.40443811673158</longitude>
+					<latitude>43.52068613620672</latitude>
+					<altitude>0</altitude>
+					<range>1819.418954446647</range>
+					<tilt>0</tilt>
+					<heading>-0.000135883627020201</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:0_copy90</styleUrl>
+				<Point>
+					<coordinates>-76.39785786822681,43.52250415038451,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 79</name>
+				<description>Maine Yankee
+
+1 x PWR
+
+Permanently Shutdown</description>
+				<LookAt>
+					<longitude>-69.69533982280206</longitude>
+					<latitude>43.95041022931838</latitude>
+					<altitude>0</altitude>
+					<range>1154.094603257698</range>
+					<tilt>0</tilt>
+					<heading>-76.62399291992188</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy8501</styleUrl>
+				<Point>
+					<coordinates>-69.69604642500048,43.95059963169803,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 80</name>
+				<description>Vallecitos Nuclear Research Facility
+
+2 x BWR (permanently shutdown)
+1 x Research reactor of unknown type (operable)</description>
+				<LookAt>
+					<longitude>-121.8367914591353</longitude>
+					<latitude>37.61101121117471</latitude>
+					<altitude>0</altitude>
+					<range>1414.998952117941</range>
+					<tilt>0</tilt>
+					<heading>-2.931237791428293</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<Point>
+					<coordinates>-121.8367914591353,37.61101121117471,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 81</name>
+				<description>Big Rock Point
+
+1 x BWR (permanently shutdown)</description>
+				<LookAt>
+					<longitude>-85.29545141759012</longitude>
+					<latitude>45.31649930255065</latitude>
+					<altitude>0</altitude>
+					<range>4784.953759615768</range>
+					<tilt>0</tilt>
+					<heading>0.001604913999790982</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin01</styleUrl>
+				<Point>
+					<coordinates>-85.29883433688011,45.31697508264034,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 82</name>
+				<description>Elk River
+
+1 x BWR (decommissioned)
+
+Note:  This site was originally an incinerator, then became a reactor-fed incinerator, then returned to being a coal-fed incinerator after about 10 years.</description>
+				<LookAt>
+					<longitude>-93.55719657827729</longitude>
+					<latitude>45.2970177481397</latitude>
+					<altitude>0</altitude>
+					<range>724.3665474883867</range>
+					<tilt>0</tilt>
+					<heading>0.02084981019831267</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>-93.55815423207991,45.29682812192907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 83</name>
+				<description>Hallam
+
+1 x LMGMR (decommissioned)</description>
+				<LookAt>
+					<longitude>-96.7841412746414</longitude>
+					<latitude>40.55951975537462</latitude>
+					<altitude>0</altitude>
+					<range>1251.327949185258</range>
+					<tilt>0</tilt>
+					<heading>0.001289923424881087</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin6</styleUrl>
+				<Point>
+					<coordinates>-96.78455102518042,40.55916955603976,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 84</name>
+				<description>Piqua
+
+This site contained the only organically-cooled and moderated nuclear reactor, which was constructed and tested under tight secrecy for only three years before it was dismantled entirely.</description>
+				<LookAt>
+					<longitude>-84.23145676186438</longitude>
+					<latitude>40.12482118598412</latitude>
+					<altitude>0</altitude>
+					<range>1233.750763924792</range>
+					<tilt>0</tilt>
+					<heading>0.006900686104059116</heading>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin35</styleUrl>
+				<Point>
+					<coordinates>-84.23145676186438,40.12482118598412,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>US - 85</name>
+				<description>WNP
+
+1 x BWR (operable)
+2 x PWR (cancelled)</description>
+				<LookAt>
+					<longitude>-119.3231958159559</longitude>
+					<latitude>46.47137437857488</latitude>
+					<altitude>0</altitude>
+					<range>3555.915098110319</range>
+					<tilt>0</tilt>
+					<heading>-0.03402237497766954</heading>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin7</styleUrl>
+				<Point>
+					<coordinates>-119.3174580052248,46.4697653261351,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

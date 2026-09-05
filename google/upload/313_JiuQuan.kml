@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>312_JiuQuan.kml</name>
+	<Style id="sn_ylw-pushpin_copy25">
+	</Style>
+	<Placemark>
+		<name>酒泉卫星发射中心</name>
+		<description>酒泉卫星发射中心</description>
+		<LookAt>
+			<longitude>100.2868715480114</longitude>
+			<latitude>40.96204487528231</latitude>
+			<altitude>0</altitude>
+			<range>1231.857994294513</range>
+			<tilt>-6.667456317018682e-011</tilt>
+			<heading>-0.008276347204155604</heading>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy25</styleUrl>
+		<Point>
+			<coordinates>100.2905177283728,40.95843389931012,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Folder>
+	<name>好莱坞10大电影制作/发行公司</name>
+	<description>包括环球、派拉蒙、20世纪福克斯、迪斯尼、梅高梅、米拉麦克斯、新线、索尼、梦工厂、华纳，另外还有妇孺皆知的好莱坞册顶“HOLLYWOOD”字母标志，以及奥斯卡颁奖晚会现场柯达剧院。</description>
+	<Placemark>
+		<name>Hollywood Sign</name>
+		<description>好莱坞山顶字牌</description>
+		<View>
+			<longitude>-118.3216480275889</longitude>
+			<latitude>34.13409639141934</latitude>
+			<range>316.3007944630676</range>
+			<tilt>4.193356291925189e-010</tilt>
+			<heading>-0.7114569949075761</heading>
+		</View>
+		<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+		<Point>
+			<coordinates>-118.3216708158617,34.13408187514233,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>OSCAR-Kodak Theater</name>
+		<description>奥斯卡颁奖晚会现场</description>
+		<View>
+			<longitude>-118.3402819722846</longitude>
+			<latitude>34.10247905626267</latitude>
+			<range>384.2023098952145</range>
+			<tilt>2.4476362900963e-010</tilt>
+			<heading>-0.7219068345520402</heading>
+		</View>
+		<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+		<Point>
+			<coordinates>-118.3403776943342,34.10264614684178,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Miramax</name>
+		<description>米拉麦克斯
+
+详情 : http://en.wikipedia.org/wiki/Miramax
+网站 : http://www.miramax.com/</description>
+		<LookAt>
+			<longitude>-74.00994873046875</longitude>
+			<latitude>40.72017669677734</latitude>
+			<altitude>0</altitude>
+			<range>1000.000000001552</range>
+			<tilt>0</tilt>
+			<heading>-1.402885723056667e-014</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>-74.00994873046875,40.72017669677734,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>New Line Cinema</name>
+		<description>新线
+
+详情 : http://en.wikipedia.org/wiki/New_Line_Cinema
+网站 : http://www.newline.com/</description>
+		<LookAt>
+			<longitude>-118.3836212158203</longitude>
+			<latitude>34.07578277587894</latitude>
+			<altitude>0</altitude>
+			<range>1000.000000000845</range>
+			<tilt>8.105961661171073e-011</tilt>
+			<heading>-1.210932753135823e-014</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>-118.3836212158203,34.07578277587894,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sony Picture (Columbia)</name>
+		<description>索尼影业(原哥伦比亚影业)
+
+详情 : http://en.wikipedia.org/wiki/Sony_Pictures
+网站 : http://www.sonypictures.com/movies/index.html</description>
+		<LookAt>
+			<longitude>-118.4004821777343</longitude>
+			<latitude>34.01969528198244</latitude>
+			<altitude>0</altitude>
+			<range>1000.000000000137</range>
+			<tilt>0</tilt>
+			<heading>-1.402926628237715e-014</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>-118.4004821777343,34.01969528198244,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Warner Bros.</name>
+		<description>华纳兄弟
+
+详情 : http://en.wikipedia.org/wiki/Warner_Bros.
+网站 : http://www.warnerbros.com/</description>
+		<LookAt>
+			<longitude>-118.340576171875</longitude>
+			<latitude>34.14984893798829</latitude>
+			<altitude>0</altitude>
+			<range>999.9999999973079</range>
+			<tilt>4.052980830594136e-011</tilt>
+			<heading>-1.787249404550666e-014</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>-118.340576171875,34.14984893798829,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Walt Disney Pictures</name>
+		<description>迪斯尼影业
+
+详情 : http://en.wikipedia.org/wiki/Walt_Disney_Pictures
+网站 : http://disney.go.com/disneypictures/index.html</description>
+		<LookAt>
+			<longitude>-118.3262405395508</longitude>
+			<latitude>34.15454483032227</latitude>
+			<altitude>0</altitude>
+			<range>1000.000000001552</range>
+			<tilt>0</tilt>
+			<heading>-1.018580998214193e-014</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>-118.3262405395508,34.15454483032228,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Universal Pictures</name>
+		<description>环球
+
+详情 : http://en.wikipedia.org/wiki/Universal_Pictures
+网站 : http://www.universalpictures.com/</description>
+		<LookAt>
+			<longitude>-118.353759765625</longitude>
+			<latitude>34.13608169555667</latitude>
+			<altitude>0</altitude>
+			<range>1000.000000000137</range>
+			<tilt>8.105961661176806e-011</tilt>
+			<heading>-1.402925976155197e-014</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>-118.353759765625,34.13608169555667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Paramount Pictures</name>
+		<description>派拉蒙
+
+详情 : http://en.wikipedia.org/wiki/Paramount_Pictures
+网站 :http://www.paramount.com/</description>
+		<LookAt>
+			<longitude>-118.3218231201172</longitude>
+			<latitude>34.08363342285158</latitude>
+			<altitude>0</altitude>
+			<range>1000.000000000137</range>
+			<tilt>4.052980830594136e-011</tilt>
+			<heading>-1.59493762965596e-014</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>-118.3218231201172,34.08363342285158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MGM</name>
+		<description>梅高梅/米高米/美高美(Metro-Goldwyn-Mayer)
+
+详情 : http://en.wikipedia.org/wiki/MGM
+网站 : http://www.mgm.com</description>
+		<LookAt>
+			<longitude>-118.4739151000976</longitude>
+			<latitude>34.03076934814453</latitude>
+			<altitude>0</altitude>
+			<range>1000.000000001552</range>
+			<tilt>4.05298083058267e-011</tilt>
+			<heading>-1.402926566269704e-014</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>-118.4739151000976,34.03076934814453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>20th Fox</name>
+		<description>20世纪福克斯
+
+详情 : http://en.wikipedia.org/wiki/20th_Century_Fox
+网站 : http://www.foxmovies.com/</description>
+		<LookAt>
+			<longitude>-118.4108352661133</longitude>
+			<latitude>34.05000686645509</latitude>
+			<altitude>0</altitude>
+			<range>999.9999999987226</range>
+			<tilt>0</tilt>
+			<heading>-1.594861631163596e-014</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>-118.4108352661133,34.05000686645509,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Dreamworks</name>
+		<description>梦工厂
+
+详情 : http://en.wikipedia.org/wiki/Dreamworks
+网站 : http://www.dreamworks.com/dreamworks_home.html</description>
+		<LookAt>
+			<longitude>-118.2844390869141</longitude>
+			<latitude>34.15764999389651</latitude>
+			<altitude>0</altitude>
+			<range>435.9106787143829</range>
+			<tilt>0</tilt>
+			<heading>-2.224485181610359e-014</heading>
+		</LookAt>
+		<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+		<Point>
+			<coordinates>-118.2844390869141,34.15764999389651,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

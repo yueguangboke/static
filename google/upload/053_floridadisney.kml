@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>奥兰多迪斯尼乐园</name>
+	<View>
+		<longitude>-81.54955898602913</longitude>
+		<latitude>28.374367890495</latitude>
+		<range>302.4672737436536</range>
+		<tilt>7.129945535239453e-011</tilt>
+		<heading>-0.08100716271064347</heading>
+	</View>
+	<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+	<Point>
+		<coordinates>-81.54940061466034,28.37400149660168,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

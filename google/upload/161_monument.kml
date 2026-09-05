@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>里斯本大发现纪念碑</name>
+	<LookAt>
+		<longitude>-9.205625807293068</longitude>
+		<latitude>38.69361918327202</latitude>
+		<altitude>0</altitude>
+		<range>128.0644326435468</range>
+		<tilt>1.915455948884898e-010</tilt>
+		<heading>1.574801356975671</heading>
+	</LookAt>
+	<styleUrl>default_copy:0_copy:0_copy:0_copy:0_copy:0_copy8+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+	<Point>
+		<coordinates>-9.205618200289507,38.6933475815305,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

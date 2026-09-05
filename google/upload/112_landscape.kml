@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Folder>
+	<name>landscape</name>
+	<open>1</open>
+	<Placemark>
+		<name>中国银川巨型军事沙盘</name>
+		<LookAt>
+			<longitude>105.9509795829142</longitude>
+			<latitude>38.26534689271362</latitude>
+			<altitude>0</altitude>
+			<range>303.0749818907781</range>
+			<tilt>2.471118922596921e-010</tilt>
+			<heading>-0.01906158268220392</heading>
+		</LookAt>
+		<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+		<Point>
+			<coordinates>105.9514323965804,38.26560679877301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>中印边界实际地形</name>
+		<LookAt>
+			<longitude>79.62609194403504</longitude>
+			<latitude>34.13712536084832</latitude>
+			<altitude>0</altitude>
+			<range>146127.6189252917</range>
+			<tilt>-1.336422217731466e-012</tilt>
+			<heading>0.09342947318567879</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point>
+			<coordinates>79.7067519101129,34.1472574339909,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

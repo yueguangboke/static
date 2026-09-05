@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>102_Petra.kml</name>
+	<Style id="style">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>约旦佩特拉城</name>
+		<description>约旦佩特拉城</description>
+		<LookAt>
+			<longitude>35.44236722206367</longitude>
+			<latitude>30.32842644422562</latitude>
+			<altitude>0</altitude>
+			<range>248.5698188192724</range>
+			<tilt>5.611639599535302e-011</tilt>
+			<heading>-0.1102443957441943</heading>
+		</LookAt>
+		<styleUrl>#style</styleUrl>
+		<Point>
+			<coordinates>35.44187096707452,30.3286631381743,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

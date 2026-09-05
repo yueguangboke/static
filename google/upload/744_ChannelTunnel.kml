@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ChannelTunnel.kml</name>
+	<StyleMap id="default">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default0">
+	</Style>
+	<Style id="default1">
+	</Style>
+	<Folder>
+		<name>英法海底隧道</name>
+		<open>1</open>
+		<description>英吉利海底隧道</description>
+		<Placemark>
+			<name>Channel Tunnel Entrance</name>
+			<LookAt>
+				<longitude>1.153040025557936</longitude>
+				<latitude>51.09666348706917</latitude>
+				<altitude>0</altitude>
+				<heading>2.234747958923082</heading>
+				<tilt>0</tilt>
+				<range>2261.216637746979</range>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>1.153040025557936,51.09666348706917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Channel Tunnel Exit</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>1.785804909261991</longitude>
+				<latitude>50.92177080933239</latitude>
+				<altitude>0</altitude>
+				<heading>2.725920045968368</heading>
+				<tilt>0</tilt>
+				<range>5019.193153377652</range>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>1.785804909261991,50.92177080933239,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

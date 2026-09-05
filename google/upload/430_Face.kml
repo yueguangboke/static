@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Google Earth下的鬼脸灵异</name>
+	<open>1</open>
+	<StyleMap id="ggssStyleMap">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normalPlacemark</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#highlightPlacemark</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="highlightPlacemark">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pinover.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+	</Style>
+	<Style id="normalPlacemark">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_pinover_copy0">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pinover.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+	</Style>
+	<Style id="sh_pinover">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pinover.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_pin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pinover</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_pin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pinover_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_pinover_copy2">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pinover.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_pin_copy0">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_pin_copy2">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_pin">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_pin_copy2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pin_copy2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pinover_copy2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>可怕的头盖骨</name>
+		<LookAt>
+			<longitude>-111.8172649998484</longitude>
+			<latitude>40.11674299988627</latitude>
+			<altitude>0</altitude>
+			<range>330.3707201218093</range>
+			<tilt>0</tilt>
+			<heading>9.768437593178901e-011</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>-111.8172649998484,40.11674299988627,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>肯尼亚的人脸</name>
+		<LookAt>
+			<longitude>39.76982099883281</longitude>
+			<latitude>1.98838399963124</latitude>
+			<altitude>0</altitude>
+			<range>2815.212460469597</range>
+			<tilt>0</tilt>
+			<heading>-4.05131103938119e-011</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>39.77007553453468,1.988383999982212,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>内华达的人脸</name>
+		<LookAt>
+			<longitude>-116.6244681609169</longitude>
+			<latitude>37.36886336407686</latitude>
+			<altitude>0</altitude>
+			<range>812.0962849685258</range>
+			<tilt>0</tilt>
+			<heading>-8.595135007310932e-006</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>-116.6244469867293,37.36841461158672,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

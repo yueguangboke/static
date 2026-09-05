@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>Statue of Liberty(自由女神)</name>
+	<description>美国，自由女神像  http://www.williamlong.info/google/
+
+　　自由女神像，作为美国象征，位于美国纽约市曼哈顿以西的一个小岛--自由岛上，她手持火炬，矗立在纽约港入口处，日夜守望着这座大都会，迎来了自19世纪末以来到美国定居的千百万移民。1984年，它被列入世界遗产名录。</description>
+	<LookAt>
+		<longitude>-74.0445208125967</longitude>
+		<latitude>40.6890094831668</latitude>
+		<altitude>0</altitude>
+		<range>158.2764448973559</range>
+		<tilt>6.752899920795304e-010</tilt>
+		<heading>1.357343345803299</heading>
+	</LookAt>
+	<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+	<Point>
+		<coordinates>-74.04482963504245,40.68912626799288,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

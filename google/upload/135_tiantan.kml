@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>香港天坛大佛</name>
+	<LookAt>
+		<longitude>113.904801507246</longitude>
+		<latitude>22.25397976713203</latitude>
+		<altitude>0</altitude>
+		<range>87.00218623034827</range>
+		<tilt>-1.513075648292669e-010</tilt>
+		<heading>7.84080671546432</heading>
+	</LookAt>
+	<styleUrl>root://styles#default+icon=0x307</styleUrl>
+	<Point>
+		<coordinates>113.904782134118,22.25398840377045,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

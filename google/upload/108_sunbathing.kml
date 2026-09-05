@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>108_sunbathing.kml</name>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>sunbathing</name>
+		<open>1</open>
+		<Placemark>
+			<name>裸体日光裕</name>
+			<open>1</open>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>4.332778322615909,52.07872116675535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>又一个裸体日光浴</name>
+			<LookAt>
+				<longitude>4.316149976820752</longitude>
+				<latitude>52.07367268856091</latitude>
+				<altitude>0</altitude>
+				<range>18.81297216223699</range>
+				<tilt>0</tilt>
+				<heading>-0.00201480451643924</heading>
+			</LookAt>
+			<styleUrl>#style_copy0</styleUrl>
+			<Point>
+				<coordinates>4.316102449215208,52.07369621565395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>另一个裸体日光浴</name>
+			<LookAt>
+				<longitude>4.296804865164017</longitude>
+				<latitude>52.07694110490755</latitude>
+				<altitude>0</altitude>
+				<range>9.851497831038669</range>
+				<tilt>2.238373343810185e-009</tilt>
+				<heading>-0.0004414939081209494</heading>
+			</LookAt>
+			<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+			<Point>
+				<coordinates>4.296797124299545,52.07692747488159,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

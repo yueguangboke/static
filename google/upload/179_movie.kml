@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>镇北堡西部影城</name>
+	<LookAt>
+		<longitude>106.066209141627</longitude>
+		<latitude>38.6144232892479</latitude>
+		<altitude>0</altitude>
+		<range>586.4218693340124</range>
+		<tilt>0</tilt>
+		<heading>-49.24127922161144</heading>
+	</LookAt>
+	<Style>
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon29.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Point>
+		<coordinates>106.0656674095652,38.6141887058521,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

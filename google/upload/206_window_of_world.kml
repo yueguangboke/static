@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>206_window_of_world.kml</name>
+	<Folder>
+		<name>世界之窗</name>
+		<open>1</open>
+		<Placemark>
+			<name>世界之窗仿造法国卢浮宫玻璃金字塔</name>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'></td></tr>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/700658'><img src='http://www.panoramio.com/photos/medium/700658.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td ><font color='#aaaaaa'>这个建筑在世界之窗的门口，仿造<a target="_blank" href="http://www.williamlong.info/google/archives/201.html">法国卢浮宫</a>玻璃金字塔建造，外地人恐怕很难猜到这个其实是世界之窗地铁站的出入口。</font></td>
+							</tr>
+			</table>
+		</div>]]></description>
+			<LookAt>
+				<longitude>113.9703666666821</longitude>
+				<latitude>22.53899722224689</latitude>
+				<altitude>0</altitude>
+				<range>40.56325599243378</range>
+				<tilt>0</tilt>
+				<heading>4.629297338870149e-012</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>113.9703452648789,22.53905509105491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗入口处的喷泉</name>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'></td></tr>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/700689'><img src='http://www.panoramio.com/photos/medium/700689.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td ><font color='#aaaaaa'>世界之窗入口处有喷泉和浮雕墙。</font></td>
+					<td><p align=right></p></td>				</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_700689</styleUrl>
+			<Point>
+				<coordinates>113.97021388889,22.538538888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗正门的环形舞台</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'></td></tr>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/700917'><img src='http://www.panoramio.com/photos/medium/700917.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >进入世界之窗正门后，可以看到一个环形的舞台，舞台中间一个大铁球，后面是仿制<a target="_blank" href="http://www.williamlong.info/google/archives/84.html">法国巴黎的艾菲尔铁塔</a>。</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_700917_copy1</styleUrl>
+			<Point>
+				<coordinates>113.96976111111,22.537525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的柬埔寨的佛教古迹吴哥窟</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'></td></tr>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/700990'><img src='http://www.panoramio.com/photos/medium/700990.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >柬埔寨的佛教古迹<a target="_blank" href="http://www.williamlong.info/google/archives/96.html">吴哥窟</a>，是柬埔寨人最大的骄傲，吴哥窟是世界上最大的宗教建筑物。世界之窗以1：15的比例重现了柬埔寨吴哥窟。</td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_700990</styleUrl>
+			<Point>
+				<coordinates>113.97131388889,22.537325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的泰国的泰王宫</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'></td></tr>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/701063'><img src='http://www.panoramio.com/photos/medium/701063.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >泰王宫是泰国最壮观雄伟的皇宫，世界之窗仿造的也很精致。</td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_701063</styleUrl>
+			<Point>
+				<coordinates>113.97119166667,22.537794444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的日本富士山</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/701101'><img src='http://www.panoramio.com/photos/medium/701101.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >日本富士山是日本第一高峰，是日本民族的象征，富士山里面有个四维电影院，可以去看四维电影。</td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_701101</styleUrl>
+			<Point>
+				<coordinates>113.97239722222,22.536919444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的印度摩多哈拉圣井</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/701121'><img src='http://www.panoramio.com/photos/medium/701121.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的印度摩多哈拉圣井</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_701121</styleUrl>
+			<Point>
+				<coordinates>113.97123055556,22.536172222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的印度孟买巴哈加支提窑</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/701835'><img src='http://www.panoramio.com/photos/medium/701835.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的印度孟买巴哈加支提窑<font color='#aaaaaa'></td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_701835</styleUrl>
+			<Point>
+				<coordinates>113.97123333333,22.536694444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的印度亚格拉的泰姬陵</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/701871'><img src='http://www.panoramio.com/photos/medium/701871.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的印度亚格拉的<a target="_blank" href="http://www.williamlong.info/google/archives/106.html">泰姬陵</a>。</td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_701871_copy1</styleUrl>
+			<Point>
+				<coordinates>113.97195555556,22.536519444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的澳大利亚悉尼歌剧院和悉尼铁桥</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/701885'><img src='http://www.panoramio.com/photos/medium/701885.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的<a target="_blank" href="http://www.williamlong.info/google/archives/105.html">澳大利亚悉尼歌剧院</a>和悉尼铁桥。</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_701885</styleUrl>
+			<Point>
+				<coordinates>113.97077222222,22.534119444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的意大利威尼斯</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702050'><img src='http://www.panoramio.com/photos/medium/702050.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的意大利威尼斯</td>
+					</tr>
+			</table>
+	</div>]]></description>
+			<styleUrl>#msn_702050</styleUrl>
+			<Point>
+				<coordinates>113.97026111111,22.534797222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的威尼斯圣马可广场</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702108'><img src='http://www.panoramio.com/photos/medium/702108.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的威尼斯著名的圣马可广场。</td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_702108_copy1</styleUrl>
+			<Point>
+				<coordinates>113.97003611111,22.534930555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的西班牙阿卡沙堡</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">4 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702117'><img src='http://www.panoramio.com/photos/medium/702117.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的西班牙阿卡沙堡</td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_702117</styleUrl>
+			<Point>
+				<coordinates>113.97050833333,22.535222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的丹麦美人鱼</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702125'><img src='http://www.panoramio.com/photos/medium/702125.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的丹麦美人鱼，似乎需要进行一下清洁工作。</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_702125</styleUrl>
+			<Point>
+				<coordinates>113.96976111111,22.534538888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的德国科隆大教堂</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702136'><img src='http://www.panoramio.com/photos/medium/702136.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的德国科隆大教堂</td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_702136</styleUrl>
+			<Point>
+				<coordinates>113.97008611111,22.535444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的意大利图拉真纪功柱</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702147'><img src='http://www.panoramio.com/photos/medium/702147.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的意大利图拉真纪功柱</td>
+</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_702147_copy1</styleUrl>
+			<Point>
+				<coordinates>113.96992222222,22.535416666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的意大利比萨斜塔</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702155'><img src='http://www.panoramio.com/photos/medium/702155.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的意大利比萨斜塔</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_702155</styleUrl>
+			<Point>
+				<coordinates>113.96984166667,22.535516666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的希腊雅典卫城</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702174'><img src='http://www.panoramio.com/photos/medium/702174.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的希腊雅典卫城</td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_702174</styleUrl>
+			<Point>
+				<coordinates>113.96816666667,22.536127777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的法国圣米歇尔山修道院</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702185'><img src='http://www.panoramio.com/photos/medium/702185.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的法国圣米歇尔山修道院</td>
+					</tr>
+			</table>
+	</div>]]></description>
+			<styleUrl>#msn_702185</styleUrl>
+			<Point>
+				<coordinates>113.96847777778,22.534627777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的埃及阿布辛伯勒神庙</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702200'><img src='http://www.panoramio.com/photos/medium/702200.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的埃及阿布辛伯勒神庙</td>
+					</tr>
+			</table>
+	</div>]]></description>
+			<styleUrl>#msn_702200</styleUrl>
+			<Point>
+				<coordinates>113.96724722222,22.535302777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的埃及金字塔和狮身人面像</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702224'><img src='http://www.panoramio.com/photos/medium/702224.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的埃及金字塔和狮身人面像</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_702224</styleUrl>
+			<Point>
+				<coordinates>113.96715833333,22.536105555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的非洲民居</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><a href='http://www.panoramio.com/'><img src='http://www.panoramio.com/img/panoramio.v1.png' alt='panoramio'></a></td></tr>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702229'><img src='http://www.panoramio.com/photos/medium/702229.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td ><h1><font color='#d02010'>世界之窗的非洲民居</font></h1><font color='#aaaaaa'>3 Km from Jiujie, Guangdong (China)</font></td>
+					<td><p align=right>Photograph by <a href='http://www.panoramio.com/user/144849'>williamlong</a></p></td>				</tr>
+			</table>
+			<b><a href='http://www.panoramio.com/upload/'>Upload your photos to Panoramio.com »</a></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+				 href='http://www.panoramio.com/photo/702229#comment'>Comment it</a>
+		</div>]]></description>
+			<styleUrl>#style_702229</styleUrl>
+			<Point>
+				<coordinates>113.96677222222,22.5359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的美国的尼亚加拉大瀑布</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702232'><img src='http://www.panoramio.com/photos/medium/702232.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的美国的尼亚加拉大瀑布</td>				</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_702232</styleUrl>
+			<Point>
+				<coordinates>113.96621944444,22.536933333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的美国总统山</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702246'><img src='http://www.panoramio.com/photos/medium/702246.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的美国总统山</td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_702246</styleUrl>
+			<Point>
+				<coordinates>113.96593888889,22.537597222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的美国纽约曼哈顿岛</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702255'><img src='http://www.panoramio.com/photos/medium/702255.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的美国纽约曼哈顿岛</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_702255</styleUrl>
+			<Point>
+				<coordinates>113.96495833333,22.537891666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的美国林肯纪念堂</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702266'><img src='http://www.panoramio.com/photos/medium/702266.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的美国<a target="_blank" href="http://www.williamlong.info/google/archives/241.html">林肯纪念堂</a></td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_702266</styleUrl>
+			<Point>
+				<coordinates>113.96506944444,22.537677777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的美国白宫</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702274'><img src='http://www.panoramio.com/photos/medium/702274.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的美国<a target="_blank" href="http://www.williamlong.info/google/archives/244.html">白宫</a>。</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_702274</styleUrl>
+			<Point>
+				<coordinates>113.96530277778,22.53783611111101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的巴西议会大厦</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702284'><img src='http://www.panoramio.com/photos/medium/702284.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的巴西议会大厦</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_702284</styleUrl>
+			<Point>
+				<coordinates>113.96529722222,22.53823888888901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的巴西耶稣山</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702296'><img src='http://www.panoramio.com/photos/medium/702296.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的<a target="_blank" href="http://www.williamlong.info/google/archives/97.html">巴西耶稣山</a></td>
+					</tr>
+			</table>
+
+		</div>]]></description>
+			<styleUrl>#msn_702296</styleUrl>
+			<Point>
+				<coordinates>113.963925,22.53845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的智利复活节岛巨人石像</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702304'><img src='http://www.panoramio.com/photos/medium/702304.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的智利复活节岛巨人石像</td>
+					</tr>
+			</table>
+	</div>]]></description>
+			<styleUrl>#msn_702304</styleUrl>
+			<Point>
+				<coordinates>113.96456944444,22.538416666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的秘鲁纳斯卡线图</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702315'><img src='http://www.panoramio.com/photos/medium/702315.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的秘鲁纳斯卡线图</td>
+					</tr>
+			</table>
+	</div>]]></description>
+			<styleUrl>#msn_702315</styleUrl>
+			<Point>
+				<coordinates>113.96445555556,22.538994444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的美国自由女神像</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702322'><img src='http://www.panoramio.com/photos/medium/702322.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的美国<a target="_blank" href="http://www.williamlong.info/google/archives/81.html">自由女神像</a></td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_702322</styleUrl>
+			<Point>
+				<coordinates>113.96500555556,22.538294444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的墨西哥凝神武士像</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702331'><img src='http://www.panoramio.com/photos/medium/702331.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的墨西哥凝神武士像</td>
+					</tr>
+			</table>
+	</div>]]></description>
+			<styleUrl>#msn_702331</styleUrl>
+			<Point>
+				<coordinates>113.96453333333,22.538011111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世界之窗的墨西哥金字塔</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="2">3 Km from Jiujie, Guangdong (China)</Snippet>
+			<description><![CDATA[<div align='center'>
+			<table width='500'>
+				<tr><td colspan='2'><center><a href='http://www.panoramio.com/photo/702342'><img src='http://www.panoramio.com/photos/medium/702342.jpg' width='500' height='375'></a></center></td></tr>
+				<tr>
+					<td >世界之窗的墨西哥金字塔</td>
+					</tr>
+			</table>
+		</div>]]></description>
+			<styleUrl>#msn_702342</styleUrl>
+			<Point>
+				<coordinates>113.96448055556,22.538241666667,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

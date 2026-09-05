@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>tulip.kml</name>
+	<Style id="s_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>荷兰的郁金香园</name>
+		<LookAt>
+			<longitude>4.476134931365571</longitude>
+			<latitude>52.26821218113074</latitude>
+			<altitude>0</altitude>
+			<range>212.8946886829601</range>
+			<tilt>6.124656192394827e-010</tilt>
+			<heading>0.1612579978647077</heading>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>4.47593114613359,52.26842136167662,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

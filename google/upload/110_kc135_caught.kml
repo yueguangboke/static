@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>空中加油机上的蓝色鬼魂</name>
+	<description><![CDATA[KC-135R refuels a C-5
+My First unmarked In-flight spotting! A KC-135R StratoTanker refuels a C-5 Galaxy over Northern California. I found this while looking for landmarks I visited Recently. Can't believe no one marked it before! Very Cool clear shot with ghosts!<br>
+http://bbs.keyhole.com/ubb/showthreaded.php/Cat/0/Number/476176<br>
+Helomech]]></description>
+	<LookAt>
+		<longitude>-121.4791402700386</longitude>
+		<latitude>41.85218739678257</latitude>
+		<altitude>0</altitude>
+		<range>193.6817409414964</range>
+		<tilt>0</tilt>
+		<heading>-89.66441328195265</heading>
+	</LookAt>
+	<styleUrl>root://styles#default+icon=0x307</styleUrl>
+	<Point>
+		<coordinates>-121.4785876976913,41.85207477844357,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

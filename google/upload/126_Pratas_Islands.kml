@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Folder>
+	<name>东沙群岛</name>
+	<open>1</open>
+	<Placemark>
+		<name>东沙岛</name>
+		<description>自明朝起开始有中国人开发和经营东沙群岛，中国清朝雍正十一年（1730年）时，东沙群岛已被正式纳入中国版图，属广东省惠州管辖。而中国南部的渔民更是经年往来捕渔作业不辍。清朝宣统元年（1909年），中国广东省水师提督李准先生曾巡海至这里，但所有地面历史建筑、碑记，旧「大王庙」等，先遭20世纪初年侵入之日本人捣毁，后又再重创于第二次世界大战中，早已片瓦只字不存。现存早期中国先民遗物仅潟湖东北侧沙下之「东沙遗址」及数口古中国式水井而已。第二次世界大战期间，由日本所佔领，为新南群岛的一部分，划归高雄州管辖。 
+
+第二次世界大战结束后，中华民国政府将此地在1945年划归广东省管辖。1949年初，划归海南特别行政区管辖。1949年10月中华民国中央政府退居台湾，并将此地连同南沙群岛划归高雄市管辖。而中华人民共和国则将此地划归广东省（1988年海南建省，东沙群岛划归海南省管辖）。 
+
+截止2005年，东沙群岛为中华民国政府实际控制，并由中华民国海岸巡防署所管理，中华人民共和国政府仍声称拥有东沙群岛的主权。</description>
+		<LookAt>
+			<longitude>116.7286128186769</longitude>
+			<latitude>20.70390006396913</latitude>
+			<altitude>0</altitude>
+			<range>591.8404183621626</range>
+			<tilt>-2.119580278590129e-010</tilt>
+			<heading>-0.01761907556994926</heading>
+		</LookAt>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>root://icons/palette-4.png</href>
+					<x>160</x>
+					<y>128</y>
+					<w>32</w>
+					<h>32</h>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>116.7275863470453,20.70266890738395,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>东沙环礁</name>
+		<LookAt>
+			<longitude>116.793872006861</longitude>
+			<latitude>20.71718067281572</latitude>
+			<altitude>0</altitude>
+			<range>75305.38077233515</range>
+			<tilt>1.028130243681992e-012</tilt>
+			<heading>1.118357935706255</heading>
+		</LookAt>
+		<styleUrl>root://styles#default</styleUrl>
+		<Point>
+			<coordinates>116.8255746034376,20.69119677649905,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

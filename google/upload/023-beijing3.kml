@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Placemark>
+  <name>地坛</name>
+  <LookAt>
+    <longitude>116.4099477330151</longitude>
+    <latitude>39.95108110658598</latitude>
+    <range>458.204876175126</range>
+    <tilt>2.01125887650349e-010</tilt>
+    <heading>-5.332690739281241</heading>
+  </LookAt>
+  <visibility>0</visibility>
+  <styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+  <Point>
+    <coordinates>116.4100386261512,39.95143862135017,0</coordinates>
+  </Point>
+</Placemark>
+</kml>

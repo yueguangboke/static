@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>188_Miran_Mysterious.kml</name>
+	<Style id="style0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon42.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style_copy2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon24.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon42.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>China &gt; Miran &gt; Mysterious arrays</name>
+		<visibility>0</visibility>
+		<description>25 km WSW of Miran. Unclear whether it&apos;s military or scientific.</description>
+		<Placemark>
+			<name>China - Miran 1 - Underground power cables?</name>
+			<visibility>0</visibility>
+			<description>There are no aboveground power lines leadin to this array. I suspect that this thin line (the one that makes a 90 degree turn here and heads southwest) is a buried power (and data?) cable.
+
+Not bookmarked, because it&apos;s too far away from this location: In one of the photos, which obviously has a different date than the others, there is a freshly dug line, though not aways perfectly straight, parallel to the road from Ronqiang (soutwest of here). I suspect that&apos;s where the powerline comes from. It turns north to follow the road to the Miran 3 array but disappears in the Miran 3 photo.</description>
+			<LookAt>
+				<longitude>88.65096982465202</longitude>
+				<latitude>39.16643487656466</latitude>
+				<altitude>0</altitude>
+				<range>383.6425298078181</range>
+				<tilt>0</tilt>
+				<heading>0.1426346861779806</heading>
+			</LookAt>
+			<Style>
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal4/icon24.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<scale>1.1</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>88.65117327146842,39.1668016451377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>China - Miran 3 - Dump trucks leaving</name>
+			<visibility>0</visibility>
+			<description>They&apos;re empty, so they must have brough materials. More vehicles further south (heading towards this site).</description>
+			<LookAt>
+				<longitude>88.61770557984131</longitude>
+				<latitude>39.14724278892769</latitude>
+				<altitude>0</altitude>
+				<range>666.1058914276458</range>
+				<tilt>0</tilt>
+				<heading>0.121649520190607</heading>
+			</LookAt>
+			<styleUrl>#style_copy0</styleUrl>
+			<Point>
+				<coordinates>88.61770557984131,39.14724278892769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>China &gt; Miran 1 &gt; Array of some sort</name>
+			<visibility>0</visibility>
+			<description>Look like antennae. For sending or for receiving?</description>
+			<LookAt>
+				<longitude>88.64839422898807</longitude>
+				<latitude>39.16708732961373</latitude>
+				<altitude>0</altitude>
+				<range>714.5775228892757</range>
+				<tilt>0</tilt>
+				<heading>0.1410720826832685</heading>
+			</LookAt>
+			<Style>
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal3/icon42.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<scale>1.1</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>88.64818120027567,39.16786510425938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>China &gt; Miran 2 &gt; Array (under construction)</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>88.63335698694283</longitude>
+				<latitude>39.15696205248635</latitude>
+				<altitude>0</altitude>
+				<range>716.9660551691295</range>
+				<tilt>0</tilt>
+				<heading>0.1315761506684544</heading>
+			</LookAt>
+			<styleUrl>#style0</styleUrl>
+			<Point>
+				<coordinates>88.63244026160027,39.15801491465728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>China &gt; Miran 2 &gt; Underground cables (under construction)</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>88.62295857978235</longitude>
+				<latitude>39.15592254776107</latitude>
+				<altitude>0</altitude>
+				<range>6027.4370265379</range>
+				<tilt>0</tilt>
+				<heading>0.1250097789392029</heading>
+			</LookAt>
+			<Style>
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal4/icon24.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<scale>1.1</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>88.61983227777151,39.15723918946495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>China &gt; Miran 2 &gt; Outbuilding</name>
+			<visibility>0</visibility>
+			<description>Permanent or temporary?</description>
+			<LookAt>
+				<longitude>88.60998717316855</longitude>
+				<latitude>39.15671532749184</latitude>
+				<altitude>0</altitude>
+				<range>297.0285051522179</range>
+				<tilt>0</tilt>
+				<heading>0.1167892159624865</heading>
+			</LookAt>
+			<styleUrl>#style_copy2</styleUrl>
+			<Point>
+				<coordinates>88.60989616639445,39.15693910285998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>China &gt; Miran 3 &gt; Just started</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>88.61621758360002</longitude>
+				<latitude>39.15042733296573</latitude>
+				<altitude>0</altitude>
+				<range>507.4506074300007</range>
+				<tilt>0</tilt>
+				<heading>0.1207226328264375</heading>
+			</LookAt>
+			<Style>
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal3/icon42.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<scale>1.1</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>88.61622608894186,39.15043225791034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>China &gt; Miran 2 &gt; End of cabling</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>88.60713064812434</longitude>
+				<latitude>39.15645605270397</latitude>
+				<altitude>0</altitude>
+				<range>300.6400295017775</range>
+				<tilt>0</tilt>
+				<heading>0.1149854901266342</heading>
+			</LookAt>
+			<styleUrl>#style_copy2</styleUrl>
+			<Point>
+				<coordinates>88.60675828285156,39.15643614936276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>China &gt; Miran 3 &gt; Army tents, or just storage buildings?</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>88.61769386454394</longitude>
+				<latitude>39.15061975668296</latitude>
+				<altitude>0</altitude>
+				<range>307.9526203456277</range>
+				<tilt>0</tilt>
+				<heading>0.1216546893747935</heading>
+			</LookAt>
+			<Style>
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal4/icon24.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<scale>1.1</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>88.61782921512976,39.15091149287851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>China &gt; Miran 1 &gt; Array of some sort - Underground entrance?</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>88.65054400675817</longitude>
+				<latitude>39.16672091009084</latitude>
+				<altitude>0</altitude>
+				<range>709.9172690822688</range>
+				<tilt>0</tilt>
+				<heading>0.1424298793557248</heading>
+			</LookAt>
+			<styleUrl>#style_copy0</styleUrl>
+			<Point>
+				<coordinates>88.6507120888682,39.16717046997158,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

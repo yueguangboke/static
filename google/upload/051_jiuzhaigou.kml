@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <name>Step1.cn.kml</name>
+  <Style id="khStyle660">
+    <IconStyle id="khIconStyle662">
+      <scale>0.4000000059604645</scale>
+      <Icon>
+        <href>root://icons/palette-3.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+      </Icon>
+    </IconStyle>
+    <LabelStyle id="khLabelStyle664">
+      <scale>0.699999988079071</scale>
+    </LabelStyle>
+  </Style>
+  <Folder id="khFolder11305">
+    <name>九寨沟旅游</name>
+    <open>1</open>
+    <LookAt id="khLookAt11306">
+      <longitude>103.9386836405385</longitude>
+      <latitude>33.1646919027507</latitude>
+      <range>50261.20449782875</range>
+      <tilt>2.745511627651124e-012</tilt>
+      <heading>0.003934650664042476</heading>
+    </LookAt>
+    <Placemark id="khPlacemark11307">
+      <name>w030_成都天使宾馆？</name>
+      <LookAt id="khLookAt11308">
+        <longitude>104.0557327270508</longitude>
+        <latitude>30.64016914367676</latitude>
+        <range>999.9999999999999</range>
+        <tilt>0</tilt>
+        <heading>0</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11316">
+        <coordinates>104.05573,30.64017,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11317">
+      <name>w069_九寨沟中旅大酒店</name>
+      <LookAt id="khLookAt933">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint934">
+        <coordinates>103.85731,33.29886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11337">
+      <name>w086_九寨沟长海</name>
+      <LookAt id="khLookAt11338">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11346">
+        <coordinates>103.93181,33.04716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11347">
+      <name>w085</name>
+      <LookAt id="khLookAt11348">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11356">
+        <coordinates>103.92987,33.05153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11357">
+      <name>w084</name>
+      <LookAt id="khLookAt11358">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11366">
+        <coordinates>103.92562,33.05672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11367">
+      <name>w083</name>
+      <LookAt id="khLookAt11368">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11376">
+        <coordinates>103.87395,33.13072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11377">
+      <name>w082</name>
+      <LookAt id="khLookAt11378">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11386">
+        <coordinates>103.87373,33.13486,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11387">
+      <name>w081</name>
+      <LookAt id="khLookAt11388">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11396">
+        <coordinates>103.8722,33.14011,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11397">
+      <name>w080</name>
+      <LookAt id="khLookAt11398">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11406">
+        <coordinates>103.87458,33.14931,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11407">
+      <name>w079</name>
+      <LookAt id="khLookAt11408">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11416">
+        <coordinates>103.88111,33.16041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11417">
+      <name>w078</name>
+      <LookAt id="khLookAt11418">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11426">
+        <coordinates>103.89794,33.16014,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11427">
+      <name>w077</name>
+      <LookAt id="khLookAt11428">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11436">
+        <coordinates>103.90739,33.16292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11437">
+      <name>w076</name>
+      <LookAt id="khLookAt11438">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11446">
+        <coordinates>103.89981,33.17269,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11447">
+      <name>w075</name>
+      <LookAt id="khLookAt11448">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11456">
+        <coordinates>103.89131,33.19397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11457">
+      <name>w074</name>
+      <LookAt id="khLookAt11458">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11466">
+        <coordinates>103.89484,33.20092,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11467">
+      <name>w073</name>
+      <LookAt id="khLookAt11468">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11476">
+        <coordinates>103.89936,33.20906,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11477">
+      <name>w072</name>
+      <LookAt id="khLookAt11478">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11486">
+        <coordinates>103.91028,33.22403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11487">
+      <name>w071</name>
+      <LookAt id="khLookAt11488">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11496">
+        <coordinates>103.91639,33.26931,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="khPlacemark11497">
+      <name>w070</name>
+      <LookAt id="khLookAt11498">
+        <longitude>103.9386836405385</longitude>
+        <latitude>33.1646919027507</latitude>
+        <range>50261.24611601765</range>
+        <tilt>2.212704732536723e-012</tilt>
+        <heading>0.003934650664032424</heading>
+      </LookAt>
+      <styleUrl>#khStyle660</styleUrl>
+      <Point id="khPoint11506">
+        <coordinates>103.90903,33.27086,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

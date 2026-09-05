@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Library of Alexandria</name>
+	<open>1</open>
+	<Style id="default_myplaces_style">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>亚历山大图书馆</name>
+		<LookAt>
+			<longitude>29.90913443874606</longitude>
+			<latitude>31.20894109307817</latitude>
+			<altitude>0</altitude>
+			<range>391.7708045839787</range>
+			<tilt>0</tilt>
+			<heading>5.660729784516641e-006</heading>
+		</LookAt>
+		<styleUrl>C:\Documents and Settings\Administrator\Local Settings\Temp\Rar$DI00.735\亚历山大图书馆.kmz#default_myplaces_style_copy0</styleUrl>
+		<Point>
+			<coordinates>29.90913443874606,31.20894109307817,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

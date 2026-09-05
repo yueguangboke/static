@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>396_AirBus.kml</name>
+	<Style id="style_copy30">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>&lt;font size=&quot;+1&quot;&gt;&lt;b&gt;&lt;a href=&quot;http://maps.google.com/maps?q=Boeing&amp;sll=38.5585,-98.3111&amp;sspn=4.10902,7.64796&amp;v=2.1&amp;hl=en&amp;ip=59.39.211.149&amp;ie=UTF8&amp;latlng=37642334,-97244469,6534608380946317590&quot;&gt;$[name]&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;2800 S Rock Rd&lt;br/&gt;Wichita, KS 67210&lt;br/&gt;(316) 523-9924&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;$[geDirections]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon56_copy3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>空中客車</name>
+		<Placemark>
+			<name>圖盧茲</name>
+			<description>空中客车总部法国图卢兹</description>
+			<LookAt>
+				<longitude>1.369613465892586</longitude>
+				<latitude>43.63057191673674</latitude>
+				<altitude>0</altitude>
+				<range>1807.560980318818</range>
+				<tilt>-5.45387541155169e-012</tilt>
+				<heading>-1.278085652567909</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_icon56_copy3</styleUrl>
+			<Point>
+				<coordinates>1.373543638225655,43.63068237572393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>漢堡1</name>
+			<LookAt>
+				<longitude>9.995657166716393</longitude>
+				<latitude>53.62870954909536</latitude>
+				<altitude>0</altitude>
+				<range>2187.470627242477</range>
+				<tilt>0</tilt>
+				<heading>-1.928258603071622</heading>
+			</LookAt>
+			<styleUrl>#style_copy30</styleUrl>
+			<Point>
+				<coordinates>9.995657166716393,53.62870954909537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>漢堡2</name>
+			<LookAt>
+				<longitude>9.834757883867596</longitude>
+				<latitude>53.53880157759855</latitude>
+				<altitude>0</altitude>
+				<range>2563.217727107663</range>
+				<tilt>9.107697711626862e-012</tilt>
+				<heading>-0.00963092237136064</heading>
+			</LookAt>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+					</Icon>
+				</IconStyle>
+				<BalloonStyle>
+					<text>&lt;font size=&quot;+1&quot;&gt;&lt;b&gt;&lt;a href=&quot;http://maps.google.com/maps?q=Boeing&amp;sll=38.5585,-98.3111&amp;sspn=4.10902,7.64796&amp;v=2.1&amp;hl=en&amp;ip=59.39.211.149&amp;ie=UTF8&amp;latlng=37642334,-97244469,6534608380946317590&quot;&gt;$[name]&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;2800 S Rock Rd&lt;br/&gt;Wichita, KS 67210&lt;br/&gt;(316) 523-9924&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;$[geDirections]</text>
+					<textColor>ff000000</textColor>
+				</BalloonStyle>
+			</Style>
+			<Point>
+				<coordinates>9.834757883867596,53.53880157759855,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

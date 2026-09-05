@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>ayersrock</name>
+	<open>1</open>
+	<Style id="khStyle565">
+		<IconStyle id="khIconStyle569">
+			<color>ffffff</color>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle568">
+			<color>ffffff</color>
+		</LineStyle>
+		<PolyStyle id="khPolyStyle567">
+			<color>ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Ayers Rock</name>
+		<description>艾雅斯岩(Ayers Rock)，也叫做乌奴奴(Uluru)，位于澳大利亚北领地，是全世界最大的独立岩石。其为圆形红色沙岩，周长约为9.4公里，高出周围平地约384米。
+
+欲知详情,请访问维基百科 : http://en.wikipedia.org/wiki/Uluru</description>
+		<LookAt>
+			<longitude>131.0340765839876</longitude>
+			<latitude>-25.34735860135249</latitude>
+			<altitude>0</altitude>
+			<range>10711.78780223772</range>
+			<tilt>9.742051099591507e-012</tilt>
+			<heading>2.567561382728217</heading>
+		</LookAt>
+		<styleUrl>C:\WINNT\Temp\TEMPOR~1\Content.IE5\3V1R7L0W\039_AY~1.KMZ#khStyle565_copy0</styleUrl>
+		<Point>
+			<coordinates>131.0340765839876,-25.34735860135249,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

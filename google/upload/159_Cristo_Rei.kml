@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Cristo_Rei.kml</name>
+	<StyleMap id="default+nicon=0x307+hicon=0x3171244254">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default+icon=0x307</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default+icon=0x317</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default+icon=0x317">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon34.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default+icon=0x307">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon34.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>里斯本太加斯河的基督像</name>
+		<LookAt id="khLookAt539_copy0">
+			<longitude>-9.171437077656082</longitude>
+			<latitude>38.67875097974272</latitude>
+			<altitude>0</altitude>
+			<range>136.8330315974768</range>
+			<tilt>3.874143214246816e-010</tilt>
+			<heading>1.596207671356254</heading>
+		</LookAt>
+		<Style>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<Point id="khPoint540_copy0">
+			<coordinates>-9.171428689770835,38.6785357064913,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

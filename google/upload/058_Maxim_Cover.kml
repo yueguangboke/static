@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Folder>
+  <name>Maxim Cover</name>
+  <open>1</open>
+  <LookAt>
+    <longitude>-115.3829811832588</longitude>
+    <latitude>35.62000012441331</latitude>
+    <range>60.83465853476389</range>
+    <tilt>-3.743328418621198e-009</tilt>
+    <heading>-0.0006229266229549453</heading>
+  </LookAt>
+  <Placemark>
+    <name>MAXIM U.S.A.</name>
+    <Snippet maxLines="2" id="khSnippet2796">
+    </Snippet>
+    <description><![CDATA[<img src="http://www.maximonline.com/maximusa/maxim_logo.jpg">
+<br><br>
+<center>
+<table border=0 width=224>
+<tr>
+<td>
+To celebrate the 100th issue of America's Favorite Magazine, <i>Maxim</i> pulled out the stops and built the largest cover on earth, stretching 110 feet on the desert floor, outside of Las Vegas.
+<br><br>
+ The cover features "TV's Sexiest Earthling" Eva Longoria, who is one of the most beloved women in America. For more of Eva, and thousands more women we love, log onto <a href="http://www.maximonline.com/index.aspx?src=earth" target="new"><b>www.maximonline.com</b></a>. And for the best travel information on Las Vegas go to <a href="http://www.visitlasvegas.com" target="new"><b>www.VisitLasVegas.com</b></a>. 
+</td>
+</tr>
+</table>
+</center>]]></description>
+    <LookAt id="khLookAt2797">
+      <longitude>-115.3830033465736</longitude>
+      <latitude>35.62002853062204</latitude>
+      <range>61.21214210269499</range>
+      <tilt>-3.854789560029352e-009</tilt>
+      <heading>-0.000635834886343918</heading>
+    </LookAt>
+    <styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+    <Style id="khStyle2798">
+      <IconStyle id="khIconStyle2799">
+        <scale>1.5</scale>
+        <Icon>
+          <href>http://www.maximonline.com/maximusa/maxim_logo.gif</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Point id="khPoint2805">
+      <coordinates>-115.383210922948,35.62017662848145,0</coordinates>
+    </Point>
+  </Placemark>
+  <GroundOverlay>
+    <name>Cover - All</name>
+    <LookAt id="khLookAt1660">
+      <longitude>-115.3822498501697</longitude>
+      <latitude>35.61999736012827</latitude>
+      <range>571.6632243550048</range>
+      <tilt>-9.606357217937053e-011</tilt>
+      <heading>-0.0002344356667075148</heading>
+    </LookAt>
+    <Icon>
+      <href>http://www.maximonline.com/maximusa/maximunder.jpg</href>
+      <viewBoundScale>0.75</viewBoundScale>
+    </Icon>
+    <LatLonBox id="khLatLonBox1662">
+      <north>35.62626538294985</north>
+      <south>35.61653585696267</south>
+      <east>-115.3773306457407</east>
+      <west>-115.3863571812421</west>
+    </LatLonBox>
+  </GroundOverlay>
+  <GroundOverlay>
+    <name>Cover</name>
+    <LookAt id="khLookAt851">
+      <longitude>-115.3829911810035</longitude>
+      <latitude>35.62003473488972</latitude>
+      <range>59.01373511662234</range>
+      <tilt>-1.003951465304952e-009</tilt>
+      <heading>-6.309709999726102e-006</heading>
+    </LookAt>
+    <Icon>
+      <href>http://www.maximonline.com/maximusa/maximcover.png</href>
+      <viewBoundScale>0.75</viewBoundScale>
+    </Icon>
+    <LatLonBox id="khLatLonBox853">
+      <north>35.62038978276947</north>
+      <south>35.61963697951028</south>
+      <east>-115.3825889712735</east>
+      <west>-115.3833781929092</west>
+    </LatLonBox>
+  </GroundOverlay>
+</Folder>
+</kml>

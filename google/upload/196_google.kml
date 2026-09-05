@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Google.kml</name>
+	<Style id="default3_copy3">
+	</Style>
+	<Placemark>
+		<name>游泳池里的Google</name>
+		<LookAt>
+			<longitude>-122.0849997385769</longitude>
+			<latitude>37.42232104734499</latitude>
+			<altitude>0</altitude>
+			<range>5.75112037102743</range>
+			<tilt>0.001218322831833893</tilt>
+			<heading>-171.1410979959237</heading>
+		</LookAt>
+		<styleUrl>#default3_copy3</styleUrl>
+		<Point>
+			<coordinates>-122.084997051452,37.42232155210066,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>236_zhonglie.kml</name>
+	<Style id="sn_ylw-pushpin_copy0">
+	</Style>
+	<Placemark>
+		<name>台北忠烈祠</name>
+		<LookAt>
+			<longitude>121.5328684236183</longitude>
+			<latitude>25.07992627025857</latitude>
+			<altitude>0</altitude>
+			<range>326.9025184583292</range>
+			<tilt>2.991321146241506e-005</tilt>
+			<heading>-10.35440546371886</heading>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>121.5325337220847,25.08025588647978,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

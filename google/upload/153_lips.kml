@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>153_lips.kml</name>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>最美的嘴唇</name>
+		<LookAt>
+			<longitude>23.32153681031397</longitude>
+			<latitude>12.36998947765433</latitude>
+			<altitude>0</altitude>
+			<range>1625.371553507536</range>
+			<tilt>3.073024210605408e-014</tilt>
+			<heading>3.575583401655654</heading>
+		</LookAt>
+		<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		<Point>
+			<coordinates>23.32166407117164,12.37063330247214,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

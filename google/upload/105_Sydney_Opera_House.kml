@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>093_Sydney_Opera_House.kml</name>
+	<Style id="khStyle792">
+		<IconStyle id="khIconStyle793">
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>悉尼歌剧院</name>
+		<LookAt>
+			<longitude>151.2154645447727</longitude>
+			<latitude>-33.85692004989126</latitude>
+			<altitude>0</altitude>
+			<range>345.5542723984704</range>
+			<tilt>5.626004261638931e-010</tilt>
+			<heading>1.106327772140467</heading>
+		</LookAt>
+		<styleUrl>#khStyle792</styleUrl>
+		<Point>
+			<coordinates>151.215280051665,-33.8569316610307,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

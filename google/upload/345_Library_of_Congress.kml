@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>345_Library_of_Congress.kml</name>
+	<Style id="sh_icon55">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_icon63">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon63">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon55</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>国会图书馆</name>
+		<LookAt>
+			<longitude>-77.00478981310404</longitude>
+			<latitude>38.88872739939955</latitude>
+			<altitude>0</altitude>
+			<range>337.4981655084914</range>
+			<tilt>0</tilt>
+			<heading>-1.434682251936368e-014</heading>
+		</LookAt>
+		<styleUrl>#msn_icon63</styleUrl>
+		<Point>
+			<coordinates>-77.00478981310404,38.88872739939955,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.google.com/earth/kml/2">
+<Document>
+  <name>SedanCrater.kml</name>
+  <Style id="cloned0">
+    <LineStyle>
+      <color>ff23d7ff</color>
+      <width>0.4799999892711639</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ff23d7ff</color>
+      <outline>0</outline>
+    </PolyStyle>
+    <IconStyle>
+      <color>ff23d7ff</color>
+      <icon>
+        <href>root://icons/palette-4.png</href>
+        <x>128</x>
+        <w>32</w>
+        <h>32</h>
+      </icon>
+      <scale x="0.4799999892711639" y="0.4799999892711639" xunits="fraction" yunits="fraction">5.417386231916599e-038</scale>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <description><![CDATA[<a href="http://www.nv.doe.gov/nts/tours.htm">Sedan Crater</a> is the site of the largest cratering shot in the Plowshare Program. It was as created at the Nevada Test Site on July 6, 1962. A simple 104 kiloton explosive, buried under 635 feet of desert alluvium, displaced 12 million tons of earth and formed a crater 320 feet deep and 1,280 feet in diameter. Follow the link above for information about tours of the area.]]></description>
+    <name>Sedan Crater, Nevada</name>
+    <View>
+      <longitude>-116.0464092930096</longitude>
+      <latitude>37.18447123691448</latitude>
+      <range>2064.374420479865</range>
+      <tilt>33.91333732303375</tilt>
+      <heading>7.00061129116651e-015</heading>
+    </View>
+    <styleUrl>#cloned0</styleUrl>
+    <Point>
+      <coordinates>-116.0464092930096,37.17684598927644,1232.378286965519</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

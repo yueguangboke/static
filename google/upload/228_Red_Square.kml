@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Red_Square.kml</name>
+	<Style id="default4_copy5">
+	</Style>
+	<Placemark>
+		<name>莫斯科红场</name>
+		<LookAt>
+			<longitude>37.6202985761169</longitude>
+			<latitude>55.75413614175561</latitude>
+			<altitude>0</altitude>
+			<range>200.2072544199219</range>
+			<tilt>0.5708203322779736</tilt>
+			<heading>-37.14672075940933</heading>
+		</LookAt>
+		<styleUrl>#default4_copy5</styleUrl>
+		<Point>
+			<coordinates>37.62009594138446,55.75381446423254,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

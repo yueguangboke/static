@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>340_Andrews.kml</name>
+	<Style id="sn_ylw-pushpin_copy33">
+	</Style>
+	<Placemark>
+		<name>美国安德鲁斯空军基地</name>
+		<LookAt>
+			<longitude>-76.87578279516684</longitude>
+			<latitude>38.80585423775256</latitude>
+			<altitude>0</altitude>
+			<range>1616.125329285452</range>
+			<tilt>1.36421892437295e-010</tilt>
+			<heading>-0.3850033779005061</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy33</styleUrl>
+		<Point>
+			<coordinates>-76.87673318242955,38.80916621696869,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

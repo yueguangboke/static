@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Canadas_Wonderland.kml</name>
+	<Style id="s_ylw-pushpin_copy5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl_copy5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>加拿大的奇幻乐园</name>
+		<LookAt>
+			<longitude>-79.54197019952375</longitude>
+			<latitude>43.84171252463349</latitude>
+			<altitude>0</altitude>
+			<range>317.1664069784133</range>
+			<tilt>-1.338034949979258e-010</tilt>
+			<heading>0.0005976307243733419</heading>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin_copy5</styleUrl>
+		<Point>
+			<coordinates>-79.54237958437047,43.84205322686556,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

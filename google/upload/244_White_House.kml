@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>244_White_House.kml</name>
+	<Style id="sn_ylw-pushpin_copy0">
+	</Style>
+	<Placemark>
+		<name>美国白宫</name>
+		<LookAt>
+			<longitude>-77.03663692835754</longitude>
+			<latitude>38.89768457291367</latitude>
+			<altitude>0</altitude>
+			<range>105.3271922603359</range>
+			<tilt>0.4085083503518204</tilt>
+			<heading>0.01346897957373651</heading>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>-77.03656722122592,38.89766753212938,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

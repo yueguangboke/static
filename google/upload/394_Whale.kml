@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>whale-spotting-in-google-earth[1].kml</name>
+	<open>1</open>
+	<StyleMap id="ggssStyleMap">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normalPlacemark</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#highlightPlacemark</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+	</Style>
+	<Style id="normalPlacemark">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="highlightPlacemark">
+		<IconStyle>
+			<Icon>
+				<href>http://googlesightseeing.com/gearth/pinover.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Whale Spotting in Google Earth (1 of 7)</name>
+		<description><![CDATA[<a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/"><img src="http://googlesightseeing.com/wp-content/jgss122.jpg" width="160" height="120" alt="" /></a><br /><p>&ldquo;There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, it&#8217;s just a matter of finding them&#8230;
+
+To start with, there&#8217;s definitely a blue whale in &hellip;&rdquo;</p><a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/">Read the full text at GoogleSightseeing.com</a>]]></description>
+		<LookAt>
+			<longitude>141.0347852853567</longitude>
+			<latitude>37.48846810465899</latitude>
+			<altitude>0</altitude>
+			<range>243.1680582510202</range>
+			<tilt>0</tilt>
+			<heading>4.399264051357253e-005</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>141.0347831559439,37.48840390080555,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Whale Spotting in Google Earth (2 of 7)</name>
+		<Snippet maxLines="2">There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in</Snippet>
+		<description><![CDATA[<a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/"><img src="http://googlesightseeing.com/wp-content/ggssalex297.jpg" width="160" height="120" alt="" /></a><br /><p>&ldquo;There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in &rdquo;</p><a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/">Read the full text at GoogleSightseeing.com</a>]]></description>
+		<styleUrl>#ggssStyleMap</styleUrl>
+		<Point>
+			<coordinates>-95.732889,36.193771,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Whale Spotting in Google Earth (3 of 7)</name>
+		<Snippet maxLines="2">There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in</Snippet>
+		<description><![CDATA[<a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/"><img src="http://googlesightseeing.com/wp-content/jgss124.jpg" width="160" height="120" alt="" /></a><br /><p>&ldquo;There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in &rdquo;</p><a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/">Read the full text at GoogleSightseeing.com</a>]]></description>
+		<styleUrl>#ggssStyleMap</styleUrl>
+		<Point>
+			<coordinates>-122.065296,36.949268,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Whale Spotting in Google Earth (4 of 7)</name>
+		<Snippet maxLines="2">There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in</Snippet>
+		<description><![CDATA[<a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/"><img src="http://googlesightseeing.com/wp-content/jgss125.jpg" width="160" height="120" alt="" /></a><br /><p>&ldquo;There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in &rdquo;</p><a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/">Read the full text at GoogleSightseeing.com</a>]]></description>
+		<styleUrl>#ggssStyleMap</styleUrl>
+		<Point>
+			<coordinates>-121.55827,35.986237,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Whale Spotting in Google Earth (5 of 7)</name>
+		<Snippet maxLines="2">There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in</Snippet>
+		<description><![CDATA[<a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/"><img src="http://googlesightseeing.com/wp-content/jgss126.jpg" width="160" height="120" alt="" /></a><br /><p>&ldquo;There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in &rdquo;</p><a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/">Read the full text at GoogleSightseeing.com</a>]]></description>
+		<styleUrl>#ggssStyleMap</styleUrl>
+		<Point>
+			<coordinates>-73.143106,44.445463,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Whale Spotting in Google Earth (6 of 7)</name>
+		<Snippet maxLines="2">There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in</Snippet>
+		<description><![CDATA[<a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/"><img src="http://googlesightseeing.com/wp-content/jgss121.jpg" width="160" height="120" alt="" /></a><br /><p>&ldquo;There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in &rdquo;</p><a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/">Read the full text at GoogleSightseeing.com</a>]]></description>
+		<styleUrl>#ggssStyleMap</styleUrl>
+		<Point>
+			<coordinates>139.776537,35.71682,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Whale Spotting in Google Earth (7 of 7)</name>
+		<Snippet maxLines="2">There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in</Snippet>
+		<description><![CDATA[<a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/"><img src="http://googlesightseeing.com/wp-content/jgss127.jpg" width="160" height="120" alt="" /></a><br /><p>&ldquo;There are about 80 known whale species around the globe, the largest of which is of course the Blue Whale, which can measure up to a massive 30m long.
+
+Such a giant beast should easily be visible on the aerial and satellite photographs of Google Earth, its just a matter of finding them
+
+To start with, theres definitely a blue whale in &rdquo;</p><a href="http://googlesightseeing.com/2007/03/22/whale-spotting-in-google-earth/">Read the full text at GoogleSightseeing.com</a>]]></description>
+		<styleUrl>#ggssStyleMap</styleUrl>
+		<Point>
+			<coordinates>-64.821399,-42.59997,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

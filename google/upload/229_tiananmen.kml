@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>tiananmen.kml</name>
+	<Style id="default4_copy7">
+	</Style>
+	<Placemark>
+		<name>北京天安门广场</name>
+		<LookAt>
+			<longitude>116.3927998739145</longitude>
+			<latitude>39.90330346536581</latitude>
+			<altitude>0</altitude>
+			<range>928.7696313150502</range>
+			<tilt>0.5708299664805192</tilt>
+			<heading>-1.046738101900516</heading>
+		</LookAt>
+		<styleUrl>#default4_copy7</styleUrl>
+		<Point>
+			<coordinates>116.3916518454012,39.90417739873406,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>TopSightseeingUS.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon63">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+	</Style>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>美国十大最美景观</name>
+		<open>1</open>
+		<Placemark>
+			<name>美国草垛岩</name>
+			<LookAt>
+				<longitude>-123.9684737248297</longitude>
+				<latitude>45.88428906560178</latitude>
+				<altitude>0</altitude>
+				<range>893.7165871065174</range>
+				<tilt>0</tilt>
+				<heading>-0.004729392882131271</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-123.9683437117625,45.88448217868749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>美国火山湖国家公园</name>
+			<LookAt>
+				<longitude>-122.106798121909</longitude>
+				<latitude>42.94497696135885</latitude>
+				<altitude>0</altitude>
+				<range>9517.60538161347</range>
+				<tilt>0</tilt>
+				<heading>0.04065454116791408</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>-122.1058228230561,42.93949444816923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>科罗拉多大峡谷</name>
+			<LookAt id="khLookAt617_copy1">
+				<longitude>-112.3281223683081</longitude>
+				<latitude>36.22385437221043</latitude>
+				<altitude>0</altitude>
+				<range>41397.15175473856</range>
+				<tilt>8.436559392543462</tilt>
+				<heading>131.0855756174833</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Point id="khPoint618_copy1">
+				<coordinates>-112.3283024752253,36.22398105257263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>约塞米蒂瀑布</name>
+			<LookAt>
+				<longitude>-119.5980139203629</longitude>
+				<latitude>37.75690592847911</latitude>
+				<altitude>0</altitude>
+				<range>729.3197669130365</range>
+				<tilt>0</tilt>
+				<heading>-0.01357735034556077</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Point>
+				<coordinates>-119.5967961923344,37.75759903814821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>美国加州莫诺湖</name>
+			<LookAt>
+				<longitude>-119.0318602464854</longitude>
+				<latitude>38.01927889768413</latitude>
+				<altitude>0</altitude>
+				<range>7005.961874810506</range>
+				<tilt>0</tilt>
+				<heading>-0.006843123708222336</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>-119.0113243502959,38.01578484825524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>尼亚加拉瀑布</name>
+			<LookAt>
+				<longitude>-79.07654943937946</longitude>
+				<latitude>43.07820078059879</latitude>
+				<altitude>0</altitude>
+				<range>419.3650580632537</range>
+				<tilt>1.079779464584703e-010</tilt>
+				<heading>161.1206302315888</heading>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+			<Point>
+				<coordinates>-79.07525685307505,43.0776890917128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>黄石国家公园</name>
+			<LookAt>
+				<longitude>-110.4178096666031</longitude>
+				<latitude>44.51588214953797</latitude>
+				<altitude>0</altitude>
+				<range>26157.85759218101</range>
+				<tilt>0</tilt>
+				<heading>-0.03970966738094622</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-110.5733985759102,44.42049542142344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>大提顿国家公园</name>
+			<LookAt>
+				<longitude>-110.6837673866934</longitude>
+				<latitude>43.84381370540444</latitude>
+				<altitude>0</altitude>
+				<range>21263.67163696446</range>
+				<tilt>0</tilt>
+				<heading>0.0007989738661771383</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Point>
+				<coordinates>-110.6673889413491,43.80573224527932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>胡佛水坝</name>
+			<LookAt>
+				<longitude>-114.7396063326553</longitude>
+				<latitude>36.01443009923955</latitude>
+				<altitude>0</altitude>
+				<range>690.0455261597193</range>
+				<tilt>0</tilt>
+				<heading>28.62981061717942</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-114.7386064135574,36.01514186594114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>拉什莫尔山</name>
+			<LookAt>
+				<longitude>-103.4597452740023</longitude>
+				<latitude>43.87917637753464</latitude>
+				<altitude>0</altitude>
+				<range>110.621298626461</range>
+				<tilt>2.327629855749582e-005</tilt>
+				<heading>-1.104904445407045</heading>
+			</LookAt>
+			<styleUrl>#sn_icon63</styleUrl>
+			<Point>
+				<coordinates>-103.4595561586141,43.87907969651965,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

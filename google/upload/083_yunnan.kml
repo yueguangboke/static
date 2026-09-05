@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>yunnan</name>
+	<open>1</open>
+	<description>http://www.williamlong.info/google/</description>
+	<Style id="khStyle2677_copy0">
+		<IconStyle>
+			<scale>0.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+				<x>192</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle2584_copy0">
+		<IconStyle>
+			<scale>0.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+				<x>192</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default">
+		<IconStyle id="khIconStyle1796_copy0">
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+				<x>192</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default+icon=0x317">
+		<IconStyle>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+				<x>192</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="khStyle2677">
+		<IconStyle id="khIconStyle2681">
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+				<x>192</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default+icon=0x307">
+		<IconStyle>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+				<x>192</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle2475_copy0">
+		<IconStyle>
+			<scale>0.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+				<x>192</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="4124:50,000, - 200,000 (site)_copy0">
+		<IconStyle>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://kh.google.com:80/flatfile?lf-0-icons/773_v5.png</href>
+				<gx:w>32</gx:w>
+				<gx:h>32</gx:h>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="khStyle2744">
+		<IconStyle id="khIconStyle2748">
+			<scale>0.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+				<x>192</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="default+nicon=0x307+hicon=0x317">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default+icon=0x307</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default+icon=0x317</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="khStyle2482">
+		<IconStyle id="khIconStyle2486">
+			<scale>0.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+				<x>192</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder id="khFolder1752">
+		<name>昆明-大理-丽江-中甸-德钦_导游片</name>
+		<open>1</open>
+		<Placemark id="khPlacemark1753">
+			<name>昆明</name>
+			<LookAt id="khLookAt1754">
+				<longitude>102.8540588178477</longitude>
+				<latitude>24.84634481643689</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006165158615363757</heading>
+				<tilt>53.20849999917309</tilt>
+				<range>70240.94438294307</range>
+			</LookAt>
+			<styleUrl>#khStyle2744</styleUrl>
+			<Point id="khPoint1755">
+				<coordinates>102.7284209732008,24.92594416543234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1756">
+			<name>楚雄</name>
+			<LookAt id="khLookAt1757">
+				<longitude>101.5914653524188</longitude>
+				<latitude>25.01933988184747</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5755130348604629</heading>
+				<tilt>0</tilt>
+				<range>25315.79017627766</range>
+			</LookAt>
+			<styleUrl>#khStyle2744</styleUrl>
+			<Point id="khPoint1758">
+				<coordinates>101.5550423611497,25.02329695865846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1759">
+			<name>大理下关</name>
+			<LookAt id="khLookAt1760">
+				<longitude>100.1991319981941</longitude>
+				<latitude>25.82141925966399</latitude>
+				<altitude>0</altitude>
+				<heading>-3.675884267914318</heading>
+				<tilt>59.37731245731543</tilt>
+				<range>62348.70354519321</range>
+			</LookAt>
+			<styleUrl>#khStyle2584_copy0</styleUrl>
+			<Point id="khPoint1769">
+				<coordinates>100.203412945558,25.60719261269691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1770">
+			<name>大理古城</name>
+			<LookAt id="khLookAt1771">
+				<longitude>100.142008168454</longitude>
+				<latitude>25.75571660361633</latitude>
+				<altitude>0</altitude>
+				<heading>-105.9048215418247</heading>
+				<tilt>65.07682729402596</tilt>
+				<range>45924.28528259505</range>
+			</LookAt>
+			<styleUrl>#khStyle2584_copy0</styleUrl>
+			<Point id="khPoint1780">
+				<coordinates>100.1675716596487,25.70462743127213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1781">
+			<name>丽江</name>
+			<LookAt id="khLookAt1782">
+				<longitude>100.235871773906</longitude>
+				<latitude>26.89507598961401</latitude>
+				<altitude>0</altitude>
+				<heading>1.052981367649971</heading>
+				<tilt>62.64338300275775</tilt>
+				<range>17114.37607272791</range>
+			</LookAt>
+			<styleUrl>#default+icon=0x307</styleUrl>
+			<Point id="khPoint1791">
+				<coordinates>100.2240738970269,26.92422132603126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1792">
+			<name>玉龙雪山1</name>
+			<LookAt id="khLookAt1793">
+				<longitude>100.1950380564039</longitude>
+				<latitude>27.16124733603441</latitude>
+				<altitude>0</altitude>
+				<heading>38.87467075633731</heading>
+				<tilt>73.65497477025112</tilt>
+				<range>46116.5913794575</range>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point id="khPoint1802">
+				<coordinates>100.171443658722,27.04537862404563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1803">
+			<name>玉龙雪山1</name>
+			<LookAt id="khLookAt1804">
+				<longitude>100.1948347598353</longitude>
+				<latitude>27.16124866799802</latitude>
+				<altitude>0</altitude>
+				<heading>-89.67258194051001</heading>
+				<tilt>54.47422724182017</tilt>
+				<range>27551.60956693199</range>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point id="khPoint1813">
+				<coordinates>100.1287355650295,27.13705076736226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1814">
+			<name>哈巴雪山</name>
+			<LookAt id="khLookAt1815">
+				<longitude>100.2436675176994</longitude>
+				<latitude>27.37320645626776</latitude>
+				<altitude>0</altitude>
+				<heading>70.1264157873355</heading>
+				<tilt>73.93414161528408</tilt>
+				<range>41543.14532816409</range>
+			</LookAt>
+			<styleUrl>#khStyle2677</styleUrl>
+			<Point id="khPoint1816">
+				<coordinates>100.0550281370325,27.29436766246966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1817">
+			<name>拉市海</name>
+			<LookAt id="khLookAt1818">
+				<longitude>100.1352969189443</longitude>
+				<latitude>26.881684683885</latitude>
+				<altitude>0</altitude>
+				<heading>-27.74181405713819</heading>
+				<tilt>57.62433967607223</tilt>
+				<range>15963.79966219265</range>
+			</LookAt>
+			<styleUrl>#khStyle2744</styleUrl>
+			<Point id="khPoint1819">
+				<coordinates>100.1352969189443,26.881684683885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1820">
+			<name>长江第一湾</name>
+			<LookAt id="khLookAt1821">
+				<longitude>100.0161285196045</longitude>
+				<latitude>26.94009630961849</latitude>
+				<altitude>0</altitude>
+				<heading>30.40692690891099</heading>
+				<tilt>75.88328725827493</tilt>
+				<range>19390.40509518215</range>
+			</LookAt>
+			<styleUrl>#khStyle2677_copy0</styleUrl>
+			<Point id="khPoint1830">
+				<coordinates>99.95665927288232,26.86461514254202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1831">
+			<name>金沙江铁桥</name>
+			<LookAt id="khLookAt1832">
+				<longitude>100.0869799018229</longitude>
+				<latitude>27.00733023187868</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0218136931193773</heading>
+				<tilt>42.06309101451381</tilt>
+				<range>11231.38672976288</range>
+			</LookAt>
+			<styleUrl>#khStyle2744</styleUrl>
+			<Point id="khPoint1833">
+				<coordinates>100.0748850951396,27.00306004953409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1834">
+			<name>桥头镇</name>
+			<LookAt id="khLookAt1835">
+				<longitude>100.0526792410478</longitude>
+				<latitude>27.18469296916815</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03746951911775255</heading>
+				<tilt>0</tilt>
+				<range>4254.560054913222</range>
+			</LookAt>
+			<styleUrl>#khStyle2744</styleUrl>
+			<Point id="khPoint1836">
+				<coordinates>100.0497734841307,27.18602317545031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1837">
+			<name>出山口的地方</name>
+			<LookAt id="khLookAt1838">
+				<longitude>99.9033750819157</longitude>
+				<latitude>27.45392168170142</latitude>
+				<altitude>0</altitude>
+				<heading>-18.00969185242399</heading>
+				<tilt>65.74789092303638</tilt>
+				<range>10690.38258187258</range>
+			</LookAt>
+			<styleUrl>#khStyle2744</styleUrl>
+			<Point id="khPoint1839">
+				<coordinates>99.89948756672054,27.43958801473919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1840">
+			<name>小中甸</name>
+			<LookAt id="khLookAt1841">
+				<longitude>99.75128989666409</longitude>
+				<latitude>27.64228321585733</latitude>
+				<altitude>0</altitude>
+				<heading>-17.43695062865968</heading>
+				<tilt>67.83624331729466</tilt>
+				<range>5196.930507976205</range>
+			</LookAt>
+			<styleUrl>#khStyle2744</styleUrl>
+			<Point id="khPoint1842">
+				<coordinates>99.75128989666409,27.64228321585733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1843">
+			<name>中甸</name>
+			<LookAt id="khLookAt1844">
+				<longitude>99.67313370026318</longitude>
+				<latitude>27.82962401947891</latitude>
+				<altitude>0</altitude>
+				<heading>0.8007050758137665</heading>
+				<tilt>56.23020684776319</tilt>
+				<range>20860.04254220435</range>
+			</LookAt>
+			<styleUrl>#default+icon=0x307</styleUrl>
+			<Point id="khPoint1853">
+				<coordinates>99.68428801671931,27.82331099361646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1854">
+			<name>纳泊海</name>
+			<LookAt id="khLookAt1855">
+				<longitude>99.67651818531715</longitude>
+				<latitude>27.87569621339474</latitude>
+				<altitude>0</altitude>
+				<heading>0.8022937118442336</heading>
+				<tilt>0</tilt>
+				<range>20692.03958343183</range>
+			</LookAt>
+			<styleUrl>#4124:50,000, - 200,000 (site)_copy0</styleUrl>
+			<Point id="khPoint1864">
+				<coordinates>99.65433179344745,27.86837308805243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1865">
+			<name>中甸-德钦1</name>
+			<LookAt id="khLookAt1866">
+				<longitude>99.17907956859054</longitude>
+				<latitude>28.27121574575384</latitude>
+				<altitude>0</altitude>
+				<heading>-133.1786746191949</heading>
+				<tilt>7.959860043606258</tilt>
+				<range>7713.636953152327</range>
+			</LookAt>
+			<styleUrl>#khStyle2482</styleUrl>
+			<Point id="khPoint1867">
+				<coordinates>99.19024131604716,28.27745924262446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1868">
+			<name>中甸-德钦2</name>
+			<LookAt id="khLookAt1869">
+				<longitude>99.11056699891934</longitude>
+				<latitude>28.34261590893803</latitude>
+				<altitude>0</altitude>
+				<heading>3.981190135066904</heading>
+				<tilt>44.6969725288353</tilt>
+				<range>13959.40939664214</range>
+			</LookAt>
+			<styleUrl>#khStyle2482</styleUrl>
+			<Point id="khPoint1870">
+				<coordinates>99.09199945625892,28.33801736937554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1871">
+			<name>中甸-德钦3</name>
+			<LookAt id="khLookAt1872">
+				<longitude>98.96446480685174</longitude>
+				<latitude>28.44066114556466</latitude>
+				<altitude>0</altitude>
+				<heading>-31.26984836528571</heading>
+				<tilt>60.88785609002241</tilt>
+				<range>13887.82039061814</range>
+			</LookAt>
+			<styleUrl>#khStyle2475_copy0</styleUrl>
+			<Point id="khPoint1881">
+				<coordinates>98.98985551994474,28.41246721318231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1882">
+			<name>德钦</name>
+			<LookAt id="khLookAt1883">
+				<longitude>98.89031238619393</longitude>
+				<latitude>28.48175376534755</latitude>
+				<altitude>0</altitude>
+				<heading>0.4311230618734076</heading>
+				<tilt>17.17585436070989</tilt>
+				<range>10338.74369606977</range>
+			</LookAt>
+			<styleUrl>#default+nicon=0x307+hicon=0x317</styleUrl>
+			<Point id="khPoint1892">
+				<coordinates>98.91599263641648,28.48507429615043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark1893">
+			<name>梅里</name>
+			<LookAt id="khLookAt1894">
+				<longitude>98.71338426148873</longitude>
+				<latitude>28.45344971222536</latitude>
+				<altitude>0</altitude>
+				<heading>-100.5087475472165</heading>
+				<tilt>69.26410502874123</tilt>
+				<range>5719.180056225456</range>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point id="khPoint1903">
+				<coordinates>98.6930218416142,28.45646742416541,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

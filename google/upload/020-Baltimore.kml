@@ -1,0 +1,1995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+  <name>Baltimore.kml</name>
+  <visibility>1</visibility>
+  <Style id="cloned2">
+    <icon>root://icons/bitmap-2.png?x=160&amp;y=96&amp;w=32&amp;h=32</icon>
+    <labelColor>ffffaa55</labelColor>
+    <labelScale>0.7599999904632568</labelScale>
+    <geomScale>0.5199999809265137</geomScale>
+  </Style>
+  <Style id="cloned4">
+    <icon>root://icons/bitmap-4.png?x=160&amp;y=0&amp;w=32&amp;h=32</icon>
+    <labelColor>ffffaa55</labelColor>
+    <geomColor>ffff0055</geomColor>
+    <labelScale>0.7599999904632568</labelScale>
+    <geomScale>0.7599999904632568</geomScale>
+    <polyMode>fill</polyMode>
+    <falseColorGeom>1</falseColorGeom>
+  </Style>
+  <Style id="cloned0">
+    <icon>root://icons/bitmap-4.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+  </Style>
+  <Style id="cloned3">
+    <icon>root://icons/bitmap-3.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+    <labelColor>ffffaa55</labelColor>
+    <labelScale>0.7599999904632568</labelScale>
+    <geomScale>0.4799999892711639</geomScale>
+  </Style>
+  <Style id="cloned9">
+    <icon>root://icons/bitmap-4.png?x=32&amp;y=0&amp;w=32&amp;h=32</icon>
+    <labelColor>ffffaa55</labelColor>
+    <geomColor>ffff0055</geomColor>
+    <labelScale>0.7599999904632568</labelScale>
+    <geomScale>0.7599999904632568</geomScale>
+  </Style>
+  <Style id="cloned6">
+    <icon>root://icons/bitmap-4.png?x=32&amp;y=0&amp;w=32&amp;h=32</icon>
+    <labelColor>ffffaa55</labelColor>
+    <geomColor>ffff0055</geomColor>
+    <labelScale>0.7599999904632568</labelScale>
+    <geomScale>0.7599999904632568</geomScale>
+  </Style>
+  <Style id="cloned1">
+    <icon>root://icons/bitmap-3.png?x=32&amp;y=96&amp;w=32&amp;h=32</icon>
+  </Style>
+  <Style id="cloned8">
+    <icon>root://icons/bitmap-4.png?x=32&amp;y=0&amp;w=32&amp;h=32</icon>
+    <labelColor>ffffaa55</labelColor>
+    <geomColor>ffff0055</geomColor>
+    <labelScale>0.7599999904632568</labelScale>
+    <geomScale>0.7599999904632568</geomScale>
+  </Style>
+  <Style id="cloned7">
+    <icon>root://icons/bitmap-4.png?x=32&amp;y=0&amp;w=32&amp;h=32</icon>
+    <labelColor>ffffaa55</labelColor>
+    <geomColor>ffff0055</geomColor>
+    <labelScale>0.7599999904632568</labelScale>
+    <geomScale>0.7599999904632568</geomScale>
+  </Style>
+  <Folder>
+    <name>Baltimore</name>
+    <visibility>1</visibility>
+    <Folder>
+      <name>Family Fun</name>
+      <visibility>1</visibility>
+      <Folder>
+        <description>http://www.baltomaritimemuseum.org/</description>
+        <name>Maritime Museum</name>
+        <visibility>1</visibility>
+        <Placemark>
+          <description>http://www.baltomaritimemuseum.org/ches/chesframe.html</description>
+          <name>Lightship Chesapeake</name>
+          <View>
+            <longitude>-76.60898888036864</longitude>
+            <latitude>39.28559575896707</latitude>
+            <range>333.163135217917</range>
+            <tilt>6.315279309787316e-010</tilt>
+            <heading>0.03623409490325655</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned8</styleUrl>
+          <Point>
+            <coordinates>-76.60876193417488,39.28586279158927,28.77383338144666</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://www.us-aircraft.com/usstaney.htm
+http://www.baltomaritimemuseum.org</description>
+          <name>USS Taney</name>
+          <View>
+            <longitude>-76.60781480483787</longitude>
+            <latitude>39.2854497147582</latitude>
+            <range>333.163135213673</range>
+            <tilt>6.035852747787482e-010</tilt>
+            <heading>0.0369775020924863</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned8</styleUrl>
+          <Point>
+            <coordinates>-76.6062716885157,39.28565554364292,28.47264633172147</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://www.usstorsk.org/
+http://www.baltomaritimemuseum.org/torsk/subframe.html</description>
+          <name>USS Torsk</name>
+          <View>
+            <longitude>-76.60898888036864</longitude>
+            <latitude>39.28559575896707</latitude>
+            <range>333.163135217917</range>
+            <tilt>6.315279309787316e-010</tilt>
+            <heading>0.03623409490325655</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned8</styleUrl>
+          <Point>
+            <coordinates>-76.60868410141326,39.28531213162191,28.11752049650277</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://www.baltomaritimemuseum.org/lh/sevenframe.html</description>
+          <name>Seven Foot Knoll Lighthouse</name>
+          <View>
+            <longitude>-76.60575851011073</longitude>
+            <latitude>39.28400094926344</latitude>
+            <range>333.1631352193316</range>
+            <tilt>1.098577933971854e-009</tilt>
+            <heading>0.03827946888670724</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned8</styleUrl>
+          <Point>
+            <coordinates>-76.60531855840428,39.28358578772817,25.99123265234834</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <description>http://www.aqua.org/
+
+Plan on spending at least a couple of hours or more, especially if you include the dolphin show - high recommended.  In the summer, the lines to buy tickets get long (try buying online) and may not provide immediate entry.  On the busiest days (weekends usually), you may have to wait several hours after your ticket purchase before you can enter.  Plan on going early and be prepared to find something else to do for a while until your time to enter.  It still well worth it if you&apos;re prepared.</description>
+        <name>National Aquarium at Baltimore</name>
+        <View>
+          <longitude>-76.60786099605816</longitude>
+          <latitude>39.28492634228216</latitude>
+          <range>333.1631352165023</range>
+          <tilt>1.02814324728673e-009</tilt>
+          <heading>0.03694824360656396</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.60815282644298,39.28479903804354,27.49588277066488</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Several types of paddle (and electric) boats for rent at the floating docks on either side of the World Trade Center building.  You&apos;re generally restricted to the part of the harbor between the USS Constellation pier and the National Aquarium pier - so don&apos;t plan on using these as your means of transportation to points around the harbor.</description>
+        <name>Paddleboats</name>
+        <View>
+          <longitude>-76.60849831193912</longitude>
+          <latitude>39.28570111871262</latitude>
+          <range>331.2029992173509</range>
+          <tilt>2.034894433362465e-010</tilt>
+          <heading>-0.001970631918239769</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.60930391666626,39.28498434549724,27.74150786657946</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.portdiscovery.org/</description>
+        <name>Port Discovery Children&apos;s Museum</name>
+        <View>
+          <longitude>-76.60639134446379</longitude>
+          <latitude>39.28893549493393</latitude>
+          <range>306.5196016314886</range>
+          <tilt>7.229942225927534e-010</tilt>
+          <heading>0.001804852128181589</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.60628552669519,39.28916466788316,3.388105330732997</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.baltimorezoo.org/</description>
+        <name>Baltimore Zoo</name>
+        <View>
+          <longitude>-76.64924035897849</longitude>
+          <latitude>39.32303409752822</latitude>
+          <range>406.5853674396438</range>
+          <tilt>3.632751371312925e-010</tilt>
+          <heading>0.002651501353246938</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.64940146957149,39.32283018088866,79.41607317743238</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Part of the National Aquarium at Baltimore.  The dolphin show is spectacular and for most (kids especially) it&apos;s the highlight of the visit.  See the comment in the placemark for the aquarium about ticket lines and planning ahead for your visit.</description>
+        <name>National Aquarium Dolphin Center</name>
+        <View>
+          <longitude>-76.60689338771252</longitude>
+          <latitude>39.28483706594118</latitude>
+          <range>378.9997023593647</range>
+          <tilt>5.859173400601013e-010</tilt>
+          <heading>0.03035290374873533</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.60696020225687,39.28428656693342,26.86042610059546</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.borail.org/</description>
+        <name>B&amp;O Railroad Museum</name>
+        <View>
+          <longitude>-76.63257390878228</longitude>
+          <latitude>39.28516826858073</latitude>
+          <range>418.5867338260065</range>
+          <tilt>5.813632288738042e-010</tilt>
+          <heading>0.8445170043673248</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.63205850382957,39.28564274793407,29.02510494382016</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.mdsci.org/
+
+The other big family oriented attraction in the Inner Harbor area along with the National Aquarium.  Plan on spending at least a couple of hours (more likely half a day) seeing the exhibits, science shows, and perhaps catching an IMAX film.  Lots of hands on activities as well.  There is plenty to enjoy for adults and kids of all ages.  I took a 4, 6, and 8 year old and after three hours, I still had to drag each one of them out.  And this was before the renovation was completed in 2004.</description>
+        <name>Maryland Science Center</name>
+        <View>
+          <longitude>-76.61149196517023</longitude>
+          <latitude>39.28150688346345</latitude>
+          <range>331.2029992244241</range>
+          <tilt>1.075795270990729e-009</tilt>
+          <heading>-0.003866312663329817</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.61164603441337,39.28124618757209,23.34931530638293</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carousel</name>
+        <View>
+          <longitude>-76.61037849022821</longitude>
+          <latitude>39.28201803075929</latitude>
+          <range>379.6051003892807</range>
+          <tilt>1.034161016323947e-009</tilt>
+          <heading>0.02779707498346199</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.61084879804459,39.28135665657756,23.46308550801975</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>A handy place to go when your 4 year old asks where it all goes when they flush the potty.  Easily done in an hour or so.
+http://www.ci.baltimore.md.us/government/dpw/museum/index.html</description>
+        <name>Public Works Museum</name>
+        <View>
+          <longitude>-76.60252355793929</longitude>
+          <latitude>39.28446663983715</latitude>
+          <range>280.1165577029245</range>
+          <tilt>7.965811889738893e-010</tilt>
+          <heading>0.03311974654520745</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.60353526166276,39.28461497184214,27.17542243416384</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.nps.gov/fomc/</description>
+        <name>Fort McHenry</name>
+        <View>
+          <longitude>-76.57969946638754</longitude>
+          <latitude>39.26271093939175</latitude>
+          <range>355.2656024999121</range>
+          <tilt>1.55658709782116e-009</tilt>
+          <heading>0.01627902473666023</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned8</styleUrl>
+        <Point>
+          <coordinates>-76.57997845920444,39.26362223574243,23.14860525739043</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Museums &amp; The Arts</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>Baltimore Street Car Museum</name>
+        <View>
+          <longitude>-76.61986346484829</longitude>
+          <latitude>39.31161088853088</latitude>
+          <range>265.1564032326541</range>
+          <tilt>2.836856084614018e-009</tilt>
+          <heading>0.02214061021280961</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.62045591288414,39.31188785455193,35.00738058895964</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hippodrome Performing Arts Center</name>
+        <View>
+          <longitude>-76.62054330336051</longitude>
+          <latitude>39.28927506501439</latitude>
+          <range>566.6811180768219</range>
+          <tilt>2.828177941867289e-009</tilt>
+          <heading>0.02170948966835687</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.62132951323586,39.28986457888461,16.47213404016902</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mechanic Theater</name>
+        <View>
+          <longitude>-76.61540336409095</longitude>
+          <latitude>39.28932558316544</latitude>
+          <range>185.3101396679782</range>
+          <tilt>2.26270925890583e-009</tilt>
+          <heading>0.02496423492579446</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.61550581885227,39.28923796902581,10.48674686113964</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Star Spangled Banner House</name>
+        <View>
+          <longitude>-76.60309064974595</longitude>
+          <latitude>39.28736887451606</latitude>
+          <range>217.2172628682289</range>
+          <tilt>1.212608821505668e-009</tilt>
+          <heading>0.03276102064447203</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.60328701191303,39.28744638580513,2.943422056816802</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baltimore Civil War Museum</name>
+        <View>
+          <longitude>-76.60230351694887</longitude>
+          <latitude>39.28393437678543</latitude>
+          <range>308.6874169342799</range>
+          <tilt>1.372436693838969e-009</tilt>
+          <heading>0.03325939808296833</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.60251978297494,39.28403373490039,26.46211974821507</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Historic Seaport</name>
+        <View>
+          <longitude>-76.6056421912035</longitude>
+          <latitude>39.28441656674749</latitude>
+          <range>308.6874169342799</range>
+          <tilt>1.258819970355494e-009</tilt>
+          <heading>0.03114547721599316</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.60561859032507,39.28397831318929,26.46445392193715</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.baberuthmuseum.com/</description>
+        <name>Babe Ruth Birthplace &amp; Museum</name>
+        <View>
+          <longitude>-76.62466000000002</longitude>
+          <latitude>39.28562200000001</latitude>
+          <range>159.6082862947819</range>
+          <tilt>5.078324732995426e-010</tilt>
+          <heading>-3.245406045614304e-014</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.62465960511233,39.28562088308379,28.83623404697328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.eubieblake.org/</description>
+        <name>Eubie Blake Center</name>
+        <View>
+          <longitude>-76.61762477209157</longitude>
+          <latitude>39.2991102882605</latitude>
+          <range>666.4220981315118</range>
+          <tilt>1.067818448665843e-009</tilt>
+          <heading>-0.007749044197018037</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.61980895867136,39.30030094815187,21.61475662846882</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.mdhs.org/</description>
+        <name>Maryland Historical Society</name>
+        <View>
+          <longitude>-76.61875853412259</longitude>
+          <latitude>39.29673399529637</latitude>
+          <range>250.7586023557167</range>
+          <tilt>3.112392297267176e-009</tilt>
+          <heading>-0.008467031706233613</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.61892807827373,39.29672288168307,17.81434734250687</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.contemporary.org/</description>
+        <name>Contemporary Museum</name>
+        <View>
+          <longitude>-76.61794975596942</longitude>
+          <latitude>39.29649038934111</latitude>
+          <range>250.758602354302</range>
+          <tilt>2.698215543626801e-009</tilt>
+          <heading>-0.00795480798593997</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.61798859162288,39.29639163475707,25.23615871830253</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.centerstage.org/index.php</description>
+        <name>Center Stage</name>
+        <View>
+          <longitude>-76.61287665730224</longitude>
+          <latitude>39.2981509643006</latitude>
+          <range>213.8027043672883</range>
+          <tilt>1.656664460012343e-009</tilt>
+          <heading>-0.004741802648709602</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.61325461685451,39.29812025052449,21.40453146231879</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.thewalters.org/</description>
+        <name>The Walters Art Museum</name>
+        <View>
+          <longitude>-76.61593786869025</longitude>
+          <latitude>39.29655491952759</latitude>
+          <range>234.0495951290985</range>
+          <tilt>-3.379367003334137e-010</tilt>
+          <heading>-0.006680630227976996</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.61653427915576,39.29651447441734,23.39270456846337</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.lyricoperahouse.com/
+http://www.baltimoreopera.com/</description>
+        <name>Lyric Opera House</name>
+        <View>
+          <longitude>-76.61689122312869</longitude>
+          <latitude>39.30575867233436</latitude>
+          <range>329.8993360786312</range>
+          <tilt>9.253803695757501e-010</tilt>
+          <heading>-0.007284441267445398</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.61802314182376,39.30586258389132,24.03232941498779</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.digitalcity.com/baltimore/entertainment/venue.adp?sbid=102367828
+
+Baltimore Symphony Orchestra
+http://www.baltimoresymphony.org/
+
+For tickets:
+http://www.ticketmaster.com/venue/172094</description>
+        <name>Meyerholl Symphony Hall</name>
+        <View>
+          <longitude>-76.61855434635831</longitude>
+          <latitude>39.30347445700146</latitude>
+          <range>329.8993360786312</range>
+          <tilt>8.414253890640034e-010</tilt>
+          <heading>-0.008337952365040645</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.61898190476981,39.30392861501188,22.96861104505305</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://artbma.org/home.html</description>
+        <name>Baltimore Museum of Art</name>
+        <View>
+          <longitude>-76.61978396737071</longitude>
+          <latitude>39.32548627635038</latitude>
+          <range>675.0064150464066</range>
+          <tilt>4.447509115334146e-010</tilt>
+          <heading>0.02131353664328432</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.61960477224677,39.32597060555631,71.24194036677243</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.avam.org/</description>
+        <name>American Visionary Art Museum</name>
+        <View>
+          <longitude>-76.60706874595212</longitude>
+          <latitude>39.28057502230284</latitude>
+          <range>308.6874169356946</range>
+          <tilt>8.605190955220142e-010</tilt>
+          <heading>0.03024180717360739</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.60684859007988,39.28043387900945,22.27806921750279</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.dentalmuseum.org/</description>
+        <name>National Museum of Dentistry</name>
+        <View>
+          <longitude>-76.62430406221532</longitude>
+          <latitude>39.28818041155504</latitude>
+          <range>347.0191136165786</range>
+          <tilt>3.651562102070698e-010</tilt>
+          <heading>0.0184576299770966</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned1</styleUrl>
+        <Point>
+          <coordinates>-76.62321610027877,39.28832676238756,15.77254764727226</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Government Buildings</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>Mitchell Courthouse</name>
+        <View>
+          <longitude>-76.61267027480518</longitude>
+          <latitude>39.2904710861393</latitude>
+          <range>291.3605205748011</range>
+          <tilt>2.489393437570228e-009</tilt>
+          <heading>0.0266950264774188</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned2</styleUrl>
+        <Point>
+          <coordinates>-76.61329999652344,39.29063260447159,10.28372622658745</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fallon Federal Building</name>
+        <View>
+          <longitude>-76.61643622716596</longitude>
+          <latitude>39.28834757029344</latitude>
+          <range>429.2305151163334</range>
+          <tilt>2.461501447972154e-009</tilt>
+          <heading>0.02431019061844345</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned2</styleUrl>
+        <Point>
+          <coordinates>-76.61673933058873,39.28791490319168,10.0741494972741</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>U. S. Courthouse</name>
+        <View>
+          <longitude>-76.61645312096431</longitude>
+          <latitude>39.28730564325969</latitude>
+          <range>429.2305151149187</range>
+          <tilt>2.613900113506351e-009</tilt>
+          <heading>0.02429948355251667</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned2</styleUrl>
+        <Point>
+          <coordinates>-76.61713429639853,39.28687661292672,30.16332672570733</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Hall</name>
+        <View>
+          <longitude>-76.60994648233162</longitude>
+          <latitude>39.29010146803766</latitude>
+          <range>377.9879175044259</range>
+          <tilt>1.916505010606346e-009</tilt>
+          <heading>0.02841978950499419</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned2</styleUrl>
+        <Point>
+          <coordinates>-76.61089074818705,39.29090429458442,8.84970127050725</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Other Buildings &amp; Structures</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <description>http://www.menckenhouse.org/
+http://www.mencken.org/
+http://www.cr.nps.gov/nr/travel/baltimore/b4.htm</description>
+        <name>H. L. Mencken House</name>
+        <View>
+          <longitude>-76.64128199999998</longitude>
+          <latitude>39.28743299979777</latitude>
+          <range>200.3738424868349</range>
+          <tilt>2.723935683962059e-011</tilt>
+          <heading>-3.722483547674949e-014</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned7</styleUrl>
+        <Point>
+          <coordinates>-76.64130282081958,39.28762667648482,28.04263901952623</coordinates>
+        </Point>
+      </Placemark>
+      <Folder>
+        <name>City Markets</name>
+        <visibility>1</visibility>
+        <Placemark>
+          <description>http://www.baltimoremd.com/arabber/baltmars.html
+http://www.baltimoresun.com/entertainment/visitor/64349,1,5705081.location?ctrack=1&amp;cset=true</description>
+          <name>Hollins Street Market</name>
+          <View>
+            <longitude>-76.63280844999191</longitude>
+            <latitude>39.28744450732048</latitude>
+            <range>199.998166417984</range>
+            <tilt>3.50790772574917e-011</tilt>
+            <heading>-5.718739754972731e-010</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.6330409752329,39.28735871033774,21.76233856828316</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Lexington Market</name>
+          <View>
+            <longitude>-76.62148552701673</longitude>
+            <latitude>39.29164998004204</latitude>
+            <range>266.3180968302816</range>
+            <tilt>2.513999900798574e-009</tilt>
+            <heading>0.0211128461980197</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.62197437148292,39.29168073428706,18.68844834371928</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://postcardsfrom.com/t1/000126.html
+http://www.baltimoremd.com/arabber/baltmars.html
+http://www.wcities.com/en/record/,192386/357/record.html</description>
+          <name>Broadway Market</name>
+          <View>
+            <longitude>-76.59305161995262</longitude>
+            <latitude>39.28321938072919</latitude>
+            <range>231.6212582544364</range>
+            <tilt>1.888420246506266e-009</tilt>
+            <heading>0.01025026409006218</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.59329756157686,39.28326905667787,25.35008763269241</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://www.southbaltimore.com/shop/crossmkt.html</description>
+          <name>Cross Street Market</name>
+          <View>
+            <longitude>-76.61272813611029</longitude>
+            <latitude>39.27714079990593</latitude>
+            <range>308.6874169399385</range>
+            <tilt>1.198853944522207e-009</tilt>
+            <heading>0.02665888969490925</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.61309454227363,39.27684057836435,18.14401519340253</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Parks &amp; Recreation</name>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Druid Hill Park</name>
+          <View>
+            <longitude>-76.64141756227346</longitude>
+            <latitude>39.32208404285479</latitude>
+            <range>1505.565969262709</range>
+            <tilt>1.240580727643306e-009</tilt>
+            <heading>-0.02283107079470485</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.64361781962769,39.32174941523378,71.2349966796429</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Patterson Park</name>
+          <View>
+            <longitude>-76.58168538843695</longitude>
+            <latitude>39.28421235701941</latitude>
+            <range>3739.570058000072</range>
+            <tilt>1.958422359503527e-010</tilt>
+            <heading>0.04544444171152158</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.57979577738746,39.28889598711698,10.06624680740556</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://www.baltimoresun.com/entertainment/visitor/64970,1,6688121.location?ctrack=2&amp;cset=true</description>
+          <name>Union Square Park</name>
+          <View>
+            <longitude>-76.63930454376936</longitude>
+            <latitude>39.28653920967054</latitude>
+            <range>779.8179147106295</range>
+            <tilt>8.409256114736572e-011</tilt>
+            <heading>-0.004113426623847828</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.64163454194826,39.28695151081466,27.467088955819</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>A little bit of a hike up from the Inner Harbor, but a very nice panoramic view of the entire harbor area.  A nice place to go to get away from the tourists and visitors in the harbor area.  The park has a fenced in area (to insure a kid friendly area free of land mines left by neighborhood dogs) with playground equipment for the kids to burn off any energy they have left after climbing the hill.  A nice place to bring a take-out lunch in pretty weather if you&apos;re looking to get away from the crowds down below (see comments under Federal Hill neighborhood placemark).</description>
+          <name>Federal Hill Park</name>
+          <View>
+            <longitude>-76.60804618164195</longitude>
+            <latitude>39.27983480685765</latitude>
+            <range>308.6874169356946</range>
+            <tilt>1.402966597428532e-009</tilt>
+            <heading>0.0296229764557208</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.60854217002887,39.27989967418503,21.68031324101407</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>Jogging, biking, roller-blading.  Miscellaneous field events.  Ice rink in the winter.</description>
+          <name>Rash Field</name>
+          <View>
+            <longitude>-76.60887485136644</longitude>
+            <latitude>39.28171991529233</latitude>
+            <range>308.6874169349873</range>
+            <tilt>1.162033523164092e-009</tilt>
+            <heading>0.0290982874087244</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.60959190462341,39.28152342944131,23.63366830525255</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <description>Sites in Baltimore associated with the life and death of Edgar Allen Poe.</description>
+        <name>Edgar Allan Poe</name>
+        <visibility>1</visibility>
+        <Placemark>
+          <description>http://www.eapoe.org/balt/poestat.htm
+http://www.eapoe.org</description>
+          <name>Edgar Allan Poe Statue</name>
+          <View>
+            <longitude>-76.61685775564254</longitude>
+            <latitude>39.3053920925851</latitude>
+            <range>305.4646034991162</range>
+            <tilt>9.208196246208676e-010</tilt>
+            <heading>-0.007263211494521377</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.61720337524876,39.30575832356107,22.9324494123574</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>Site of Death
+
+http://www.eapoe.org/balt/poechh.htm
+http://www.eapoe.org</description>
+          <name>Church Hospital</name>
+          <View>
+            <longitude>-76.59558152323375</longitude>
+            <latitude>39.29230447533014</latitude>
+            <range>432.4798031921287</range>
+            <tilt>1.810080918340187e-009</tilt>
+            <heading>0.02378344696610757</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.59450292516995,39.29293540257506,22.24579379933082</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://asylumeclectica.com/sightseer/us/md/poe/poe20.jpg
+
+and evidence that his remains are still here:
+http://www.usna.edu/EnglishDept/poeperplex/gravep.htm
+
+see also
+http://www.eapoe.org/</description>
+          <name>Original Poe Burial Site</name>
+          <View>
+            <longitude>-76.62350169042985</longitude>
+            <latitude>39.28998404974566</latitude>
+            <range>162.603874278455</range>
+            <tilt>7.545481706748976e-010</tilt>
+            <heading>0.006103480972538438</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.62349526271973,39.28969869756221,17.91440539027828</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>Image:
+http://asylumeclectica.com/sightseer/us/md/poe/poe2.jpg
+
+Sites:
+http://www.eapoe.org/balt/poegrave.htm
+http://www.eapoe.org/</description>
+          <name>Edgar Allan Poe Burial Monument</name>
+          <View>
+            <longitude>-76.62350169042985</longitude>
+            <latitude>39.28998404956909</latitude>
+            <range>162.603874280577</range>
+            <tilt>1.520002450407602e-009</tilt>
+            <heading>0.00610348097257377</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.62344534720559,39.29020927276836,18.59639135892159</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://www.eapoe.org/balt/poehse.htm
+http://www.eapoe.org/</description>
+          <name>Baltimore Poe House and Museum</name>
+          <View>
+            <longitude>-76.6331399970634</longitude>
+            <latitude>39.29138299800505</latitude>
+            <range>341.4635549418375</range>
+            <tilt>-4.637215580727432e-010</tilt>
+            <heading>1.486248484789002e-013</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.63313992692169,39.29138230462655,27.50522040944961</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Ships</name>
+        <visibility>1</visibility>
+        <Placemark>
+          <description>Memorial to the reproduction Baltimore Clipper ship &quot;Pride of Baltimore&quot; that was lost at sea in 1986.
+http://www.intandem.com/NewPrideSite/Pride1/P1Tragedy.html</description>
+          <name>Pride of Baltimore Memorial</name>
+          <View>
+            <longitude>-76.60887485136644</longitude>
+            <latitude>39.28171991529233</latitude>
+            <range>308.6874169349873</range>
+            <tilt>1.162033523164092e-009</tilt>
+            <heading>0.0290982874087244</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.60830265712011,39.28132824575091,23.37326140222327</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>Reproduction Baltimore Clipper ship launched in 1988 after the loss of the original Pride of Baltimore.  She still sails all over the world on behalf of the citizens of Maryland.
+http://www.intandem.com/NewPrideSite/index.html</description>
+          <name>Pride of Baltimore II</name>
+          <View>
+            <longitude>-76.61024258388279</longitude>
+            <latitude>39.28280484166653</latitude>
+            <range>308.6874169356946</range>
+            <tilt>1.044560151516682e-009</tilt>
+            <heading>0.02823233837755948</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.6111660171113,39.28266953729116,25.03076152323975</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>The last all-sailing ship built by the U.S. Navy.  Fully renovated in 1999, it is open for tours year round.
+http://www.constellation.org.</description>
+          <name>USS Constellation</name>
+          <View>
+            <longitude>-76.61086849551971</longitude>
+            <latitude>39.28584444852341</latitude>
+            <range>331.2029992180582</range>
+            <tilt>5.888314613482965e-010</tilt>
+            <heading>-0.003471393218969954</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.61117719637035,39.28537812407146,28.25085217214536</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Water Taxi Landings</name>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Water Taxi Landing - Canton Waterfront Park</name>
+          <View>
+            <longitude>-76.57392707083054</longitude>
+            <latitude>39.27883156377069</latitude>
+            <range>857.8908306508959</range>
+            <tilt>9.541070182364239e-010</tilt>
+            <heading>0.01991409908747367</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.5736952329397,39.27685384756791,27.00826684841037</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Captain James Landing</name>
+          <View>
+            <longitude>-76.58584533564081</longitude>
+            <latitude>39.28326018462708</latitude>
+            <range>197.8409470201894</range>
+            <tilt>6.58934442167404e-010</tilt>
+            <heading>0.01236867065250637</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.5860222430093,39.28321553869847,25.12630942498549</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Fell&apos;s Point</name>
+          <View>
+            <longitude>-76.59253034671255</longitude>
+            <latitude>39.28141415826333</latitude>
+            <range>159.3678584640288</range>
+            <tilt>7.760085971782254e-010</tilt>
+            <heading>0.008136263863231215</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.59284875336013,39.28165703304811,23.42390735253248</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Fort McHenry</name>
+          <View>
+            <longitude>-76.5782648417003</longitude>
+            <latitude>39.26620873889971</latitude>
+            <range>149.9947508066979</range>
+            <tilt>6.587155965375366e-010</tilt>
+            <heading>0.01716789445596701</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.57814538075927,39.26619135395907,23.89209588605672</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Tide Point</name>
+          <View>
+            <longitude>-76.5893636037881</longitude>
+            <latitude>39.27550803818575</latitude>
+            <range>322.6965986790655</range>
+            <tilt>6.610808938134674e-010</tilt>
+            <heading>0.01014254085604439</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.59024221145604,39.27582625021497,20.12783846154182</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Harborview</name>
+          <View>
+            <longitude>-76.60292640427579</longitude>
+            <latitude>39.27530773243621</latitude>
+            <range>127.3416233330178</range>
+            <tilt>8.335970357890024e-010</tilt>
+            <heading>0.001556989509659959</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.60337331834583,39.27530041389228,16.09913534408497</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Harbor East</name>
+          <View>
+            <longitude>-76.60295810155618</longitude>
+            <latitude>39.28301712242988</latitude>
+            <range>142.0168388605025</range>
+            <tilt>4.22818592946385e-010</tilt>
+            <heading>0.001537006387618687</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.60333944966271,39.28295943508541,25.20308517643937</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Little Italy</name>
+          <View>
+            <longitude>-76.60434106817641</longitude>
+            <latitude>39.28437781187085</latitude>
+            <range>331.202999208863</range>
+            <tilt>1.06406144145384e-009</tilt>
+            <heading>0.0006614130113622945</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.60493857035014,39.28440737075246,26.95952808007379</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Rusty Scupper</name>
+          <View>
+            <longitude>-76.60745420922017</longitude>
+            <latitude>39.28227179211586</latitude>
+            <range>331.2029992060337</range>
+            <tilt>7.575602839080646e-010</tilt>
+            <heading>-0.001309705250221964</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.6073516144146,39.28239360608883,24.61877702638719</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Science Center</name>
+          <View>
+            <longitude>-76.61059970376412</longitude>
+            <latitude>39.2822690820924</latitude>
+            <range>331.2029992060337</range>
+            <tilt>3.816670193091532e-010</tilt>
+            <heading>-0.003301221700408004</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.61155308854832,39.28205608891442,24.31004301420537</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Harborplace</name>
+          <View>
+            <longitude>-76.61105725189296</longitude>
+            <latitude>39.28547608611837</latitude>
+            <range>331.202999208863</range>
+            <tilt>5.335961244562992e-010</tilt>
+            <heading>-0.003590918281473877</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.61159233993837,39.28571677339673,28.66256200789355</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Water Taxi Landing - Aquarium</name>
+          <View>
+            <longitude>-76.60849831193912</longitude>
+            <latitude>39.28570111884915</latitude>
+            <range>331.2029992131069</range>
+            <tilt>2.992740501281382e-011</tilt>
+            <heading>-0.001970631918280834</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned7</styleUrl>
+          <Point>
+            <coordinates>-76.60891726550892,39.28541346864809,28.24311819774841</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>Washington Monument</name>
+        <View>
+          <longitude>-76.61471027009851</longitude>
+          <latitude>39.29766320238781</latitude>
+          <range>666.4220981308044</range>
+          <tilt>1.249256238548327e-009</tilt>
+          <heading>-0.005903114198859215</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned7</styleUrl>
+        <Point>
+          <coordinates>-76.61566279094907,39.29761922409438,24.01318448431563</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.baltimore.to/ShotTower/</description>
+        <name>Shot Tower</name>
+        <View>
+          <longitude>-76.60445741247844</longitude>
+          <latitude>39.29008293998508</latitude>
+          <range>331.2029992237167</range>
+          <tilt>5.726966007472837e-010</tilt>
+          <heading>0.0005880652465478928</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned7</styleUrl>
+        <Point>
+          <coordinates>-76.60547056999668,39.29075552920831,4.379014582080018</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.spearsvotta.com/photos/bromo_seltzer2.html
+http://www.cr.nps.gov/nr/travel/baltimore/b17.htm</description>
+        <name>Bromo-Seltzer Tower</name>
+        <View>
+          <longitude>-76.62071374702755</longitude>
+          <latitude>39.28771850668818</latitude>
+          <range>314.5397307122062</range>
+          <tilt>1.008302696455253e-009</tilt>
+          <heading>-0.007263847772502522</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned7</styleUrl>
+        <Point>
+          <coordinates>-76.62063208914256,39.28766922733876,12.91208237786823</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Police Station filiming location in Homicide:  Life on the Streets.</description>
+        <name>Fell&apos;s Point Recreational Pier</name>
+        <View>
+          <longitude>-76.59181124951886</longitude>
+          <latitude>39.28197696551995</latitude>
+          <range>844.7581676092868</range>
+          <tilt>1.08267953591747e-009</tilt>
+          <heading>0.01103555493901974</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned7</styleUrl>
+        <Point>
+          <coordinates>-76.59197633002299,39.28103082183577,22.66029051573723</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Domino Sugar Sign</name>
+        <View>
+          <longitude>-76.59616554399371</longitude>
+          <latitude>39.27479156203687</latitude>
+          <range>431.0718685624528</range>
+          <tilt>-8.196372770712238e-011</tilt>
+          <heading>146.1424822758143</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+        <Style>
+          <icon>root://icons/bitmap-4.png?x=32&amp;y=0&amp;w=32&amp;h=32</icon>
+          <geomColor>ff00ffff</geomColor>
+          <geomScale>0.5</geomScale>
+        </Style>
+        <Point>
+          <coordinates>-76.59609004928808,39.27453014597162,18.39452316945815</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Center Plaza</name>
+        <View>
+          <longitude>-76.61607516141153</longitude>
+          <latitude>39.29126828876613</latitude>
+          <range>441.0545476143651</range>
+          <tilt>1.719216244814343e-009</tilt>
+          <heading>0.02453883229138823</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.61642037034119,39.29087001437881,13.78868769886222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maryland National Bank Building</name>
+        <View>
+          <longitude>-76.60976483899027</longitude>
+          <latitude>39.28909829111083</latitude>
+          <range>377.9879175072551</range>
+          <tilt>1.558756616120425e-009</tilt>
+          <heading>0.0285348173306925</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.61057675774885,39.28936585054692,7.138351964823682</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abel Wolman Building</name>
+        <View>
+          <longitude>-76.60946580305222</longitude>
+          <latitude>39.29090204802071</latitude>
+          <range>377.9879175086698</range>
+          <tilt>1.735032795542558e-009</tilt>
+          <heading>0.02872419383256384</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.61087019733492,39.29180566677388,9.708306717322186</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benton Building</name>
+        <View>
+          <longitude>-76.60940755598239</longitude>
+          <latitude>39.28981899938169</latitude>
+          <range>377.9879175072551</range>
+          <tilt>1.711678544087863e-009</tilt>
+          <heading>0.02876106074907637</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.60930548032154,39.29018626066844,7.037465638923003</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>War Memorial</name>
+        <View>
+          <longitude>-76.60994648233161</longitude>
+          <latitude>39.29010146798836</latitude>
+          <range>377.9879175072551</range>
+          <tilt>1.896902736655582e-009</tilt>
+          <heading>0.02841978950491907</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.60881154309693,39.29094073372295,7.420306750732487</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>War Memorial Plaza</name>
+        <View>
+          <longitude>-76.60994648233159</longitude>
+          <latitude>39.29010146806044</latitude>
+          <range>377.9879175072551</range>
+          <tilt>1.884735184041598e-009</tilt>
+          <heading>0.02841978950498556</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.60979270225519,39.29067918498741,7.858141506335894</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holocaust Memorial</name>
+        <View>
+          <longitude>-76.60828233942436</longitude>
+          <latitude>39.28828203955758</latitude>
+          <range>289.2164432513171</range>
+          <tilt>2.358233201862211e-009</tilt>
+          <heading>0.02947357891147719</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.60832746979349,39.28833165941063,4.552114742728238</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Power Plant Live</name>
+        <View>
+          <longitude>-76.60665776037558</longitude>
+          <latitude>39.28928316862579</latitude>
+          <range>289.2164432527318</range>
+          <tilt>1.73469005214616e-009</tilt>
+          <heading>0.03050232677066947</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.60780333610401,39.28954019826444,5.353498891646265</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Power Plant</name>
+        <View>
+          <longitude>-76.60656418022184</longitude>
+          <latitude>39.28603934738744</latitude>
+          <range>289.2164432484879</range>
+          <tilt>2.144534354313414e-009</tilt>
+          <heading>0.03056155473386571</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.60713566189868,39.28615508276405,29.08549514138456</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Royal Station</name>
+        <View>
+          <longitude>-76.61900244435402</longitude>
+          <latitude>39.30518895777964</latitude>
+          <range>305.4646035005308</range>
+          <tilt>1.02216191795626e-009</tilt>
+          <heading>-0.00862176734143242</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.61988556097198,39.30563797668612,25.48570811953217</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.baltimorebasilica.org/index2.html</description>
+        <name>Basilica of the Assumption</name>
+        <View>
+          <longitude>-76.61627026869523</longitude>
+          <latitude>39.29437526601897</latitude>
+          <range>307.1732479163924</range>
+          <tilt>2.329869222424664e-009</tilt>
+          <heading>-0.006891092849816267</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.6162698879136,39.29437551550915,19.44159447042544</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.pratt.lib.md.us/</description>
+        <name>Enoch Pratt Free Library</name>
+        <View>
+          <longitude>-76.61688047392148</longitude>
+          <latitude>39.2948518598157</latitude>
+          <range>307.1732479206364</range>
+          <tilt>2.465262301544531e-009</tilt>
+          <heading>-0.007277541527085316</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.61723881991431,39.29463554385156,21.2417607507658</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://wbal.com/
+http://wmar.com/
+http://www.wjz.com/
+http://www.foxbaltimore.com/baltimore_md/
+http://www.upn24.com/
+http://www.mpt.org/</description>
+        <name>TV Tower</name>
+        <View>
+          <longitude>-76.64959365058775</longitude>
+          <latitude>39.3354846444818</latitude>
+          <range>473.7968031950679</range>
+          <tilt>9.582800841278493e-010</tilt>
+          <heading>0.002421702039467657</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.65040534372474,39.33487277288463,60.27992929888923</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.umbi.umd.edu/~comb/</description>
+        <name>Columbus Center - Center of Marine Biotechnology</name>
+        <View>
+          <longitude>-76.60471185783946</longitude>
+          <latitude>39.28611784183924</latitude>
+          <range>451.6604638782089</range>
+          <tilt>8.5932897433852e-010</tilt>
+          <heading>0.03894223689196725</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.60549808882982,39.2862638847464,29.17878453489828</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.baltimore.to/TopOfWorld/
+http://en.wikipedia.org/wiki/Baltimore_World_Trade_Center</description>
+        <name>World Trade Center</name>
+        <View>
+          <longitude>-76.61086849551973</longitude>
+          <latitude>39.28584444863521</latitude>
+          <range>331.2029992173509</range>
+          <tilt>5.611274613017537e-010</tilt>
+          <heading>-0.003471393219029005</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned6</styleUrl>
+        <Point>
+          <coordinates>-76.60966439841042,39.28612667983555,29.10739850394092</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hospitals</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <description>http://www.chestpain.org/</description>
+        <name>St. Agnes</name>
+        <View>
+          <longitude>-76.67115300000003</longitude>
+          <latitude>39.27338399990459</latitude>
+          <range>637.0999999999299</range>
+          <tilt>-3.180236181329192e-011</tilt>
+          <heading>-3.722226327445461e-014</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+        <Style>
+          <icon>root://icons/bitmap-3.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+          <geomScale>0.5</geomScale>
+        </Style>
+        <Point>
+          <coordinates>-76.67208306215744,39.2727137982076,49.70770957531097</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.lifebridgehealth.org/sinaibody.cfm?id=50</description>
+        <name>Harbor Hospital Center</name>
+        <View>
+          <longitude>-76.61618126426708</longitude>
+          <latitude>39.25180397655283</latitude>
+          <range>439.7545212657228</range>
+          <tilt>-2.02929727041663e-010</tilt>
+          <heading>9.974247405456688e-005</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+        <Style>
+          <icon>root://icons/bitmap-3.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+          <geomScale>0.5</geomScale>
+        </Style>
+        <Point>
+          <coordinates>-76.6141925608722,39.25213861141218,22.11655502034199</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Franklin Square</name>
+        <View>
+          <longitude>-76.4862604824546</longitude>
+          <latitude>39.35021081619234</latitude>
+          <range>234.5931706333815</range>
+          <tilt>-6.0197806967545e-010</tilt>
+          <heading>3.459182388575694e-005</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+        <Style>
+          <icon>root://icons/bitmap-3.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+          <geomScale>0.5</geomScale>
+        </Style>
+        <Point>
+          <coordinates>-76.48626035198689,39.35021038031103,43.73326597295323</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Children&apos;s Hospital and Center</name>
+        <View>
+          <longitude>-76.65456370390564</longitude>
+          <latitude>39.33403822627367</latitude>
+          <range>470.9540124338207</range>
+          <tilt>-2.720949499358525e-010</tilt>
+          <heading>0.0008211201573053777</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+        <Style>
+          <icon>root://icons/bitmap-3.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+          <geomScale>0.5</geomScale>
+        </Style>
+        <Point>
+          <coordinates>-76.65456398188205,39.3340376097174,81.50052405789616</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bon Secours</name>
+        <View>
+          <longitude>-76.64864948850168</longitude>
+          <latitude>39.28936514864259</latitude>
+          <range>337.8611388383781</range>
+          <tilt>-2.616886914652881e-010</tilt>
+          <heading>0.0002453329691038529</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+        <Style>
+          <icon>root://icons/bitmap-3.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+          <geomScale>0.5</geomScale>
+        </Style>
+        <Point>
+          <coordinates>-76.64945515521065,39.28899935617687,44.33382072553161</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.lifebridgehealth.org/sinaibody.cfm?id=50</description>
+        <name>Sinai</name>
+        <View>
+          <longitude>-76.66071679192648</longitude>
+          <latitude>39.35257096588859</latitude>
+          <range>685.6950530991692</range>
+          <tilt>-3.689791136145332e-010</tilt>
+          <heading>0.007443077077207491</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+        <Style>
+          <icon>root://icons/bitmap-3.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+          <geomScale>0.5</geomScale>
+        </Style>
+        <Point>
+          <coordinates>-76.6623579086467,39.35313430380813,121.7770426111069</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Union Memorial</name>
+        <View>
+          <longitude>-76.61576413575104</longitude>
+          <latitude>39.32948116135836</latitude>
+          <range>438.7828714535003</range>
+          <tilt>3.384451172719587e-011</tilt>
+          <heading>0.03595518229243092</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+        <Style>
+          <icon>root://icons/bitmap-3.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+          <geomScale>0.5</geomScale>
+        </Style>
+        <Point>
+          <coordinates>-76.61570533252566,39.32960483410164,66.74118120840487</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.gbmc.org</description>
+        <name>Greater Baltimore Medical Center</name>
+        <View>
+          <longitude>-76.62583877290599</longitude>
+          <latitude>39.39018563491527</latitude>
+          <range>1341.301481574752</range>
+          <tilt>1.578946069342274e-010</tilt>
+          <heading>146.0865829044746</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+        <Style>
+          <icon>root://icons/bitmap-3.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+          <geomScale>0.5</geomScale>
+        </Style>
+        <Point>
+          <coordinates>-76.62457639135604,39.39111925611361,105.6663952785879</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.umm.edu/</description>
+        <name>University of Maryland Medical Center</name>
+        <View>
+          <longitude>-76.62470212768379</longitude>
+          <latitude>39.28847295512804</latitude>
+          <range>347.0191136151639</range>
+          <tilt>4.605715997539785e-010</tilt>
+          <heading>0.01820556343739711</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned3</styleUrl>
+        <Point>
+          <coordinates>-76.62466924242411,39.28850235424573,17.10757867236682</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.hopkinsmedicine.org/
+http://www.hopkinshospital.org/</description>
+        <name>Johns Hopkins University Hospital</name>
+        <View>
+          <longitude>-76.59322153111471</longitude>
+          <latitude>39.29686300863615</latitude>
+          <range>550.0261542563089</range>
+          <tilt>2.014238205643229e-010</tilt>
+          <heading>0.03813812349426734</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned3</styleUrl>
+        <Point>
+          <coordinates>-76.59297741292951,39.29723840158464,26.56846376843828</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercy Medical Center</name>
+        <View>
+          <longitude>-76.61266650321419</longitude>
+          <latitude>39.29236327238535</latitude>
+          <range>391.3217776268359</range>
+          <tilt>1.852591269307755e-009</tilt>
+          <heading>0.02669743322677162</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned3</styleUrl>
+        <Point>
+          <coordinates>-76.61333680398242,39.29262128824437,12.37425839230248</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.umm.edu/news/releases/documentaries.html</description>
+        <name>R Adams Cowley Shock Trauma Center</name>
+        <View>
+          <longitude>-76.62445142575206</longitude>
+          <latitude>39.28776209514404</latitude>
+          <range>347.0191136137493</range>
+          <tilt>2.560889931175633e-010</tilt>
+          <heading>0.0183643088870361</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned3</styleUrl>
+        <Point>
+          <coordinates>-76.62584035736209,39.28806775961786,17.37183111671121</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Colleges &amp; Universities</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <description>http://www.bsfa.org/index2.html</description>
+        <name>Baltimore School for the Arts</name>
+        <View>
+          <longitude>-76.61715071713095</longitude>
+          <latitude>39.29753107779676</latitude>
+          <range>327.5216389013451</range>
+          <tilt>2.674842145555604e-009</tilt>
+          <heading>-0.007448724973060875</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned4</styleUrl>
+        <Point>
+          <coordinates>-76.61747896349566,39.29821296599877,27.30720439560722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maryland Institude College of Art</name>
+        <View>
+          <longitude>-76.62077746713703</longitude>
+          <latitude>39.30747696250156</latitude>
+          <range>822.3645535195614</range>
+          <tilt>2.698736695866517e-009</tilt>
+          <heading>0.02156160904954256</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned4</styleUrl>
+        <Point>
+          <coordinates>-76.62177564749052,39.30762521772267,29.63176304781153</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.peabody.jhu.edu/home.php</description>
+        <name>Peabody Institute</name>
+        <View>
+          <longitude>-76.61461779508554</longitude>
+          <latitude>39.29688074769515</latitude>
+          <range>296.11871033388</range>
+          <tilt>1.540383553893376e-009</tilt>
+          <heading>-0.005844547699316314</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned4</styleUrl>
+        <Point>
+          <coordinates>-76.61483432183404,39.29688530406985,21.61806541187026</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.jhu.edu/</description>
+        <name>Johns Hopkins University - Homewood Campus</name>
+        <View>
+          <longitude>-76.62044234732414</longitude>
+          <latitude>39.32889993623106</latitude>
+          <range>494.6056230750156</range>
+          <tilt>1.040889857117744e-010</tilt>
+          <heading>0.02089630910539824</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned4</styleUrl>
+        <Point>
+          <coordinates>-76.62108855303468,39.32901239301675,72.38352605168851</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baltimore International College</name>
+        <View>
+          <longitude>-76.60976483899027</longitude>
+          <latitude>39.28909829111083</latitude>
+          <range>377.9879175072551</range>
+          <tilt>1.558756616120425e-009</tilt>
+          <heading>0.0285348173306925</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned4</styleUrl>
+        <Point>
+          <coordinates>-76.60989494774859,39.28888399176966,6.191317344413205</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.ubalt.edu/</description>
+        <name>University of Baltimore</name>
+        <View>
+          <longitude>-76.61685775564253</longitude>
+          <latitude>39.30539209250241</latitude>
+          <range>305.4646034977016</range>
+          <tilt>1.065143101301914e-009</tilt>
+          <heading>-0.007263211494478747</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned4</styleUrl>
+        <Point>
+          <coordinates>-76.61698693918712,39.30596360032506,22.51905888134244</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baltimore City Community College</name>
+        <View>
+          <longitude>-76.60739204408779</longitude>
+          <latitude>39.2884181015588</latitude>
+          <range>289.2164432499025</range>
+          <tilt>1.153630571675485e-009</tilt>
+          <heading>0.03003735172985956</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned4</styleUrl>
+        <Point>
+          <coordinates>-76.60765978916507,39.28823339157557,2.334016424853139</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Shopping &amp; Dining</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <description>http://www.selectrestaurants.com/rusty/</description>
+        <name>Rusty Scupper</name>
+        <View>
+          <longitude>-76.60731399270493</longitude>
+          <latitude>39.28194784421739</latitude>
+          <range>308.6874169328653</range>
+          <tilt>6.446135731550788e-010</tilt>
+          <heading>0.03008652291639465</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned9</styleUrl>
+        <Point>
+          <coordinates>-76.60736765909574,39.28215980239117,24.34119505047934</coordinates>
+        </Point>
+      </Placemark>
+      <Folder>
+        <description>Shopping and Dining.
+http://www.harborplace.com/</description>
+        <name>Harborplace</name>
+        <visibility>1</visibility>
+        <Placemark>
+          <description>Shopping and Dining.
+http://www.harborplace.com/</description>
+          <name>The Galleria at Harborplace</name>
+          <View>
+            <longitude>-76.61152942357067</longitude>
+            <latitude>39.28677439473409</latitude>
+            <range>217.1755319348663</range>
+            <tilt>9.125569748571317e-010</tilt>
+            <heading>0.02741768276619704</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned9</styleUrl>
+          <Point>
+            <coordinates>-76.61187809792219,39.28677168128267,29.92287909737771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://www.harborplace.com/
+
+Shopping and Dining including Capital City Brewing Company, City Lights Seafood Restaurant, Harborside Seafood, Hooters, Phillips Restaurant, J. Paul&apos;s, Paolo&apos;s Ristorante, Johnny Rocket&apos;s and a bunch of others.</description>
+          <name>Harborplace - Light Street Pavilion</name>
+          <View>
+            <longitude>-76.61135154203291</longitude>
+            <latitude>39.28529636236216</latitude>
+            <range>331.2029992173509</range>
+            <tilt>5.17119580138342e-010</tilt>
+            <heading>-0.003777240920336719</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned9</styleUrl>
+          <Point>
+            <coordinates>-76.61232375775235,39.2848483400145,27.64630936522327</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <description>http://www.harborplace.com/
+
+Shopping and Dining, including the Cheescake Factory, Tex Mex Grill, and Wayne&apos;s Barbecue.</description>
+          <name>Harborplace - Pratt Street Pavilion</name>
+          <View>
+            <longitude>-76.61135154203294</longitude>
+            <latitude>39.285296362476</latitude>
+            <range>331.2029992187655</range>
+            <tilt>3.20487651166266e-010</tilt>
+            <heading>-0.003777240920380082</heading>
+          </View>
+          <visibility>1</visibility>
+          <styleUrl>#cloned9</styleUrl>
+          <Point>
+            <coordinates>-76.61072153880919,39.28622147018537,29.24335278471878</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Folder>
+    <Folder>
+      <name>Big Events</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <description>http://www.preakness.com</description>
+        <name>Pimlico Racetrack</name>
+        <View>
+          <longitude>-76.67001044883973</longitude>
+          <latitude>39.35287801274771</latitude>
+          <range>1647.277363173924</range>
+          <tilt>1.044133921798535e-009</tilt>
+          <heading>-0.04091858365372716</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned0</styleUrl>
+        <Point>
+          <coordinates>-76.67308166142112,39.35350336047178,122.1398508693175</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.ballparks.com/baseball/american/oriole.htm
+http://baltimore.orioles.mlb.com/NASApp/mlb/index.jsp?c_id=bal</description>
+        <name>Oriole Park at Camden Yards</name>
+        <View>
+          <longitude>-76.61991471852402</longitude>
+          <latitude>39.2837896826888</latitude>
+          <range>784.9445002444937</range>
+          <tilt>3.025260840124604e-010</tilt>
+          <heading>-0.009199073671472989</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned0</styleUrl>
+        <Point>
+          <coordinates>-76.62157221475017,39.2842514502747,27.14034907524783</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.piersixpavilion.com/main.html</description>
+        <name>Pier 6 Concert Pavilion</name>
+        <View>
+          <longitude>-76.60372562290121</longitude>
+          <latitude>39.28420270251706</latitude>
+          <range>451.6604638782089</range>
+          <tilt>8.725153301148777e-010</tilt>
+          <heading>0.03956670392677785</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned0</styleUrl>
+        <Point>
+          <coordinates>-76.60414829454419,39.28328988261871,25.61371201517812</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.baltimoreravens.com/</description>
+        <name>M&amp;T Bank Stadium - Baltimore Ravens</name>
+        <View>
+          <longitude>-76.6207450150219</longitude>
+          <latitude>39.27861676711591</latitude>
+          <range>784.9445002388351</range>
+          <tilt>4.846013359024363e-010</tilt>
+          <heading>-0.007283776429150746</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned0</styleUrl>
+        <Point>
+          <coordinates>-76.6225783625553,39.27796521027776,19.68970267936538</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.bccenter.org/</description>
+        <name>Baltimore Convention Center</name>
+        <View>
+          <longitude>-76.61724407285308</longitude>
+          <latitude>39.28523603130498</latitude>
+          <range>784.9445002473229</range>
+          <tilt>5.672058053020644e-010</tilt>
+          <heading>-0.007508072272326138</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned0</styleUrl>
+        <Point>
+          <coordinates>-76.61849922552068,39.28532333608133,28.34690946244037</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>http://www.baltimorearena.com/</description>
+        <name>1st Mariner Arena</name>
+        <View>
+          <longitude>-76.61882024627792</longitude>
+          <latitude>39.28852532626706</latitude>
+          <range>395.5265388504898</range>
+          <tilt>2.961671831681884e-010</tilt>
+          <heading>-0.006064950672296469</heading>
+        </View>
+        <visibility>1</visibility>
+        <styleUrl>#cloned0</styleUrl>
+        <Point>
+          <coordinates>-76.61882083637163,39.28852307708195,11.88220457795632</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Folder>
+</Document>

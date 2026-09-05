@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>埃菲尔铁塔</name>
+	<LookAt>
+		<longitude>2.29449722222268</longitude>
+		<latitude>48.85820555555061</latitude>
+		<altitude>0</altitude>
+		<range>439.1283413138849</range>
+		<tilt>1.259163961603258e-010</tilt>
+		<heading>-1.17035782198336e-013</heading>
+	</LookAt>
+	<styleUrl>root://styles#default+icon=0x307</styleUrl>
+	<Point>
+		<coordinates>2.294497222222681,48.85820555555062,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

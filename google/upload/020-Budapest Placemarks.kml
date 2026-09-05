@@ -1,0 +1,2313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Folder>
+  <name>Budapest</name>
+  <visibility>0</visibility>
+  <Placemark>
+    <name>Budapest Airport Ferihegy</name>
+    <View>
+      <longitude>19.26634943562907</longitude>
+      <latitude>47.43381165977737</latitude>
+      <range>11729.62177033398</range>
+      <tilt>-4.961585835282694e-010</tilt>
+      <heading>0.1512588354219803</heading>
+    </View>
+    <visibility>0</visibility>
+    <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+    <Style>
+      <icon>root://icons/bitmap-2.png?x=0&amp;y=0&amp;w=32&amp;h=32</icon>
+    </Style>
+    <Point>
+      <coordinates>19.24788947880906,47.44162418697471,132.6555725480944</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Terminal 1</name>
+    <View>
+      <longitude>19.22318055555556</longitude>
+      <latitude>47.43991666666666</latitude>
+      <range>1523.2</range>
+      <tilt>3.882963701872838e-010</tilt>
+      <heading>0.007554992178443156</heading>
+    </View>
+    <visibility>0</visibility>
+    <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+    <Style>
+      <icon>root://icons/bitmap-3.png?x=160&amp;y=0&amp;w=32&amp;h=32</icon>
+    </Style>
+    <Point>
+      <coordinates>19.22318055555556,47.43991666666666,120.039393404638</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Terminal 2</name>
+    <View>
+      <longitude>19.2624</longitude>
+      <latitude>47.43283055555555</latitude>
+      <range>1523.200000000649</range>
+      <tilt>3.522076471563226e-010</tilt>
+      <heading>0.007554992178430309</heading>
+    </View>
+    <visibility>0</visibility>
+    <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+    <Style>
+      <icon>root://icons/bitmap-3.png?x=160&amp;y=0&amp;w=32&amp;h=32</icon>
+    </Style>
+    <Point>
+      <coordinates>19.2624,47.43283055555555,122.1910868605877</coordinates>
+    </Point>
+  </Placemark>
+  <Folder>
+    <name>Buda Side</name>
+    <visibility>0</visibility>
+    <Placemark>
+      <name>Budapest Hotel</name>
+      <View>
+        <longitude>19.02470207427105</longitude>
+        <latitude>47.51229769110625</latitude>
+        <range>396.6618147993364</range>
+        <tilt>2.787047054533965e-010</tilt>
+        <heading>-0.006621705343190895</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.02459892657112,47.5121417018123,97.86561974145509</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>I warmly welcome you in this &quot;story-telling&quot; old house, where, at the beginning of the century the hard-working and hospitable Kéhli family opened its small restaurant, and ran it with such a care, that mother Kéhli&apos;s name became famous alredy in her life. The former &quot;Old-Buda&quot; with its rickety houses, workshops, stores, little pubs inviting bohemians, artists, students disappeared more than twenty-five years ago. Citizens of swabian and jewish origin used to live here together with their Hungarian neighbours in mutual appreciation.
+
+The Restaurant Kéhli, sorrunded by some similary old houses keeps a little island of the past arnong the monotonous rows of cubical houses. Thanks to the former well-known regular guest, Gyula Krúdy, the great Hungarian writer, it survived the annihilation and it is still open.
+
+The poet of fragnances, tastes colours and of the fairs laides lulls and enchantes you among these walls. It reminds you of the athmosphere of simple human joys - the absolving power of everyday celebration of friendship and love, and it is very joyful to be a part of this at the end of our century.
+
+Dear Guests! I ask you to visit our house often, and bring with yourselves everyone who, apart from the joy of food - the benefit of the Hungarian citizens&apos; cuisin and the wine cellars - wishes to enjoy dance and music - through the good and bad spirits of their souls on the music of violin and accordian.</description>
+      <name>Kéhli Vendéglő</name>
+      <View>
+        <longitude>19.04402972922406</longitude>
+        <latitude>47.53713167387211</latitude>
+        <range>646.4000262321874</range>
+        <tilt>1.747213462801148e-010</tilt>
+        <heading>0.007632264158948385</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=0&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04341513394951,47.53705919315282,80.79201188329617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Restaurant Name:
+Aranyszarvas Vendéglö
+
+Type:
+Local
+
+Description:
+This building from the beginning of the 18th century has been a restaurant and a pub for centuries. The menu still propose typical game-dishes...
+At walking distance from Castle hill, this is a very authentic restaurant with quality food...Even better, the prices there are far from the over-priced restaurant of the touristic area...
+A definite must-do...
+
+Favorite Dish:
+I had venison, totally unusual for me but delicious...
+
+Prices:
+US$21-30
+
+&gt; Currency Converter
+Comparative Price:
+less expensive than average
+
+Customer Satisfaction:
+ A Great Experience.
+
+Address:
+Szarvas tér, 1 at the beginning of Atilla út
+
+Directions:
+At the foot of Caste Hill, south-east side of the Royal Palace, far from the touristic area
+
+Phone:
+(+36-1) 375-6451</description>
+      <name>Aranyszarvas Vendéglö</name>
+      <View>
+        <longitude>19.04293606247473</longitude>
+        <latitude>47.49270611665423</latitude>
+        <range>316.1275709381344</range>
+        <tilt>1.210527618058475e-010</tilt>
+        <heading>-0.01370225010710203</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=0&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04269019616037,47.4926438635548,86.59657036516913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batthyány Square</name>
+      <View>
+        <longitude>19.03921799773788</longitude>
+        <latitude>47.50620122245462</latitude>
+        <range>443.4356991715918</range>
+        <tilt>1.28744990426412e-010</tilt>
+        <heading>0.004082496977548815</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03861006317777,47.50622648317606,84.78901531664637</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Belgian Brasserie
+I. Bem rakpart 12, Tel: 201 5082, Open: noon-12am daily, No credit cards, Metro: M2 Batthyány tér, Tram 19, Show Map 
+With draught Hoegaarden and bottled Chimay on offer, fans of Belgian beer will have reason enough to visit this likeable restaurant in Buda. Of course, the food here is none too bad either, with traditional Belgian staples (such as moules marinière) cooked with some aplomb. Not too pricey and well-worth considering if you&apos;re in the vicinity of Batthyány Square.</description>
+      <name>Belgian Brasserie Henri</name>
+      <View>
+        <longitude>19.03966372977102</longitude>
+        <latitude>47.50622486036119</latitude>
+        <range>2167.254155976045</range>
+        <tilt>-7.212922914342228e-011</tilt>
+        <heading>0.003720428385165502</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03993389922044,47.50079551437723,84.27713841664142</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://www.bcc.hu/</description>
+      <name>Budapest Congress Center</name>
+      <View>
+        <longitude>19.02236493906037</longitude>
+        <latitude>47.48851946197462</latitude>
+        <range>363.9233966005877</range>
+        <tilt>-6.807160585289252e-010</tilt>
+        <heading>-0.02888401638928343</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.02218419963964,47.48859207627846,120.5731591544795</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>I. Batthyány tér 7
+
+The Angelika Cukrászda is housed in a historic building next to St. Anne&apos;s Church on Buda&apos;s Batthyány tér. The sunken rooms of this cavernous cafe provide the perfect retreat on a hot summer day. The place was recently extended to include a grill restaurant outside and a complex of terraces on three levels. Now you will find a perfect view of the Parliament building and the Chain Bridge. The stained-glass windows and marble floors contrast beautifully with the off-white canvas upholstery and cast-iron furniture. You can choose from among a selection of excellent pastries, coffees, and teas (a rarity in Budapest, a city of serious coffee addicts). There is a small gallery inside the coffeehouse, where artworks are displayed.</description>
+      <name>Angelika Cukrászda</name>
+      <View>
+        <longitude>19.03840789069407</longitude>
+        <latitude>47.50560879216892</latitude>
+        <range>443.4356991730064</range>
+        <tilt>3.680778555087485e-011</tilt>
+        <heading>0.003485168527134742</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03791285373998,47.50568694821226,84.36360318836286</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Danubis Thermal Hotel Margitsziget</name>
+      <View>
+        <longitude>19.05374752266737</longitude>
+        <latitude>47.53386781818205</latitude>
+        <range>833.8733172064601</range>
+        <tilt>-3.353686157548239e-010</tilt>
+        <heading>-0.00573330523832918</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=0&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05287935652508,47.53364794229805,87.06374780123558</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Elisabeth Bridge
+The bridge bears the name of Queen Elisabeth. (A statue on the Buda side of the bridge stands in memory of Elisabeth, the queen very much liked by the Hungarians.) Originally built in Eclectic style, the bridge was blown up by retreating German troops in 1945 and was so badly damaged that reconstruction was out of the question. A new bridge was thus constructed in its place with the same span as the original.</description>
+      <name>Elisabeth Bridge</name>
+      <View>
+        <longitude>19.04955667673768</longitude>
+        <latitude>47.49091598437198</latitude>
+        <range>545.1609422020244</range>
+        <tilt>-1.347335844335375e-010</tilt>
+        <heading>-0.008825033769585482</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04911850953027,47.4905893296505,87.79860294348963</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gellert Spa Hotel</name>
+      <View>
+        <longitude>19.05359986467836</longitude>
+        <latitude>47.48426288595966</latitude>
+        <range>523.1994395382087</range>
+        <tilt>2.406537902728058e-010</tilt>
+        <heading>0.00755499217845718</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05167651512589,47.4842170683192,84.48395123306516</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moscow Square</name>
+      <View>
+        <longitude>19.0245880623519</longitude>
+        <latitude>47.50723936643284</latitude>
+        <range>617.8420970515101</range>
+        <tilt>-4.0604835618063e-010</tilt>
+        <heading>-0.02724486645175453</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0245880623519,47.50723936643284,98.32504376815017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Chain Bridge
+The first permanent bridge over the Danube. Budapest owes its construction to Count István Széchenyi who had to wait a week before he could cross the river to bury his father. This is when he decided to build a permanent crossing for the city. Architect William Clark and namesake Adam Clark supervised construction works; the bridge was finally completed in 1849. It has since rightly become a symbol of Budapest city, a magnificent sight when illuminated at night. In 1999 a monumental ceremony and the installation of new floodlights marked the 150th anniversary of the bridge.</description>
+      <name>Chain Bridge</name>
+      <View>
+        <longitude>19.04353373013284</longitude>
+        <latitude>47.49920790030221</latitude>
+        <range>540.3597156461593</range>
+        <tilt>-2.480239932639824e-011</tilt>
+        <heading>-0.01326575755554837</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04352750240733,47.49873740901061,88.48286617697335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Millenaris Park</name>
+      <View>
+        <longitude>19.0252404236725</longitude>
+        <latitude>47.51104993810699</latitude>
+        <range>551.395250492394</range>
+        <tilt>-3.786520048379721e-010</tilt>
+        <heading>-0.02676382396926967</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0247057906771,47.51092644001982,97.69974064930386</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palatinus Strand Baths</name>
+      <View>
+        <longitude>19.0475256477273</longitude>
+        <latitude>47.52924491490485</latitude>
+        <range>601.2304925112334</range>
+        <tilt>-3.064227897449221e-010</tilt>
+        <heading>-0.01032284857519373</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04683572047058,47.52919199960119,83.8638417527788</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Anne&apos;s Church</name>
+      <View>
+        <longitude>19.03931637066583</longitude>
+        <latitude>47.5056511204878</latitude>
+        <range>443.4356991744211</range>
+        <tilt>1.969513105733086e-011</tilt>
+        <heading>0.004155028292434734</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03840713621638,47.50550526734119,83.77096667012259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Statue of Liberty</name>
+      <View>
+        <longitude>19.04964203802533</longitude>
+        <latitude>47.48694320756145</latitude>
+        <range>355.343418848305</range>
+        <tilt>3.346662129049248e-010</tilt>
+        <heading>0.004638074981420396</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04818023493107,47.48656575621708,84.19680556792</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varkert Casino</name>
+      <View>
+        <longitude>19.04374799594707</longitude>
+        <latitude>47.49384226559887</latitude>
+        <range>249.4533729292367</range>
+        <tilt>-2.77709017271479e-010</tilt>
+        <heading>0.007425334150829143</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0436300150277,47.49376256997476,87.89693185706746</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Geocache</name>
+    <visibility>0</visibility>
+    <Placemark>
+      <name>Graveyard</name>
+      <View>
+        <longitude>19.09695</longitude>
+        <latitude>47.4961</latitude>
+        <range>2000.000000000982</range>
+        <tilt>-5.063705218708101e-012</tilt>
+        <heading>-3.418852617201419e-014</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=96&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.09695,47.4961,101.9634504472144</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meridian of Gellerteghy</name>
+      <View>
+        <longitude>19.04738800000004</longitude>
+        <latitude>47.48647200000001</latitude>
+        <range>2000.000000000982</range>
+        <tilt>5.066623607570688e-012</tilt>
+        <heading>-1.520039849639166e-014</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=96&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04738800000004,47.48647200000001,83.77369840965477</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orkzy Garden II</name>
+      <View>
+        <longitude>19.08788800000002</longitude>
+        <latitude>47.482972</latitude>
+        <range>2000.000000000274</range>
+        <tilt>-2.27998062340681e-011</tilt>
+        <heading>-1.284717556707473e-014</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=96&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.08788800000002,47.482972,101.4271901423036</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pop girlies</name>
+      <View>
+        <longitude>19.0607</longitude>
+        <latitude>47.55976666666666</latitude>
+        <range>1999.999999993201</range>
+        <tilt>1.246151097772947e-011</tilt>
+        <heading>-5.823071204871401e-014</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=96&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0607,47.55976666666666,75.38548441405736</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>View From Gellert Hill</name>
+      <View>
+        <longitude>19.044055</longitude>
+        <latitude>47.487611</latitude>
+        <range>1999.99999999886</range>
+        <tilt>-2.533311803787135e-011</tilt>
+        <heading>-1.284707087486136e-014</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=96&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.044055,47.487611,83.61496502743331</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zero Kilometer Mark</name>
+      <View>
+        <longitude>19.040194</longitude>
+        <latitude>47.49791600000003</latitude>
+        <range>2000.000000000274</range>
+        <tilt>1.266655901892672e-011</tilt>
+        <heading>-1.402374561261183e-014</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=96&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.040194,47.49791600000003,85.54330734856036</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Castle District</name>
+    <visibility>0</visibility>
+    <Placemark>
+      <description>House of Hungarian Wines (Magyar Borok Háza) - I. Szentháromság tér 6.
+A several-hundred-metre-long cellar labyrinth holds 450 different types of quality wine from 22 historical wine regions in Hungary. Visitors get a tasting cup at the entrance and are allowed to wander around and taste up to 70-80 different wines.
+Open: daily 12.00-20.00</description>
+      <name>House of Hungarian Wines</name>
+      <View>
+        <longitude>19.03339635600781</longitude>
+        <latitude>47.50198145298344</latitude>
+        <range>430.4448722713549</range>
+        <tilt>1.758962616386665e-010</tilt>
+        <heading>-0.0002100298538351985</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0331679307873,47.50176223792424,87.11291082159747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(Royal Palace, Castle District, Trinity Square, Matthias Church, Fishermen&apos;s Bastion, Mary Magdalene Tower, Cave system.) The name Buda Castle covers more than a castle or the Royal Palace in the capital city; it extends to the historical quarter full of sites. On bright spring days people invite friends for a &quot;walk in the Castle&quot;, i.e. to wander around the Castle Hill quarter. The most exciting way of getting to the Castle is by taking the Funicular, a little cable car up the Castle Hill.</description>
+      <name>Buda Castle</name>
+      <View>
+        <longitude>19.04064377254537</longitude>
+        <latitude>47.4952751240665</latitude>
+        <range>642.5677319221147</range>
+        <tilt>1.560160354551012e-010</tilt>
+        <heading>0.005136850832171653</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03974736158492,47.4955010211366,85.96129843473749</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Budapest History Museum - Castle Museum</name>
+      <View>
+        <longitude>19.0415918413057</longitude>
+        <latitude>47.49472487334854</latitude>
+        <range>724.2594960113275</range>
+        <tilt>1.71762541490417e-010</tilt>
+        <heading>0.005835794856305208</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04017902211587,47.49488695399415,86.5956996540139</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Castle District
+The Castle District is one of the most romantic pedestrian sections in Budapest. A medieval little town with atmospheric streets, picturesque houses, gas lamps and beautiful monuments. The main street of the district - Tárnok Street - ranges from Dísz Square to today&apos;s district centre, Matthias Church. Colourful little houses border the square and the neighbouring streets. The winding streets and narrow houses date back to the Middle Ages, occasionally decorated with valuable Gothic window and door frames. Elegant Baroque and Louis XVI-style palaces are relics of the restoration work after the Turkish occupation. Castle District houses are famous for their medieval doorway sedilia. During reconstruction work after the Turks were driven from Hungary these sedilia were walled up and quickly forgotten, only to be rediscovered during the bombing of the Second World War. Sedilia ornamented with Romanesque, Gothic and Renaissance stone arches were probably used as a rest place for visitors&apos; escorts. Today, they serve as a &quot;speciality&quot; of Buda that distinguish it from other cities of the world. 
+The Szechenyi Lanchid (Charles Bridge) being the central point of Budapest, is Budapest’s oldest and most famous bridge. From here go west towards Buda or east towards Pest. Most of Buda’s attractions are on Varhegy (Castle Hill), take the nineteenth century funicular Siklo. A UNESCO world heritage site awaits you, with the beautiful Szentharomsag ter (Trinity Square), and the nearby Budavari Palota (Buda Castle Palace) which contains several museums including the Hungarian National Gallery. Other sights include Matyas Templom (Matthias Church) and the charming Halaszbastya (Fisherman’s Bastion) which offers some breathtaking views, in particular of the Orszaghaz (Houses of Parliament). Inspired by London’s Houses of Parliament the similarities are striking, the edifice stretches for over 250m (820ft) along the river Danube.</description>
+      <name>Castle District</name>
+      <View>
+        <longitude>19.03564652555497</longitude>
+        <latitude>47.50036200512605</latitude>
+        <range>2005.626290553862</range>
+        <tilt>-4.839643751935424e-011</tilt>
+        <heading>-0.01908081228290708</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.034911560173,47.50000937417149,86.6555522657234</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fishermen&apos;s Bastion</name>
+      <View>
+        <longitude>19.03476084167558</longitude>
+        <latitude>47.50243849262436</latitude>
+        <range>473.2794007677541</range>
+        <tilt>6.759123798831049e-011</tilt>
+        <heading>0.0007998119607722858</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03466175260937,47.50265046442427,85.87927833435037</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Funicular</name>
+      <View>
+        <longitude>19.0394721326433</longitude>
+        <latitude>47.49779652271006</latitude>
+        <range>383.2124137997577</range>
+        <tilt>1.746259778644784e-010</tilt>
+        <heading>0.004273348585017802</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03958992905402,47.49774753876366,85.0175315398138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hilton Hotel</name>
+      <View>
+        <longitude>19.03365481696675</longitude>
+        <latitude>47.50317982592416</latitude>
+        <range>473.279400771998</range>
+        <tilt>1.55951042084014e-010</tilt>
+        <heading>-1.565859261190447e-005</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03340674865795,47.50282434427119,86.59160716476202</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://www.fsz.bme.hu/hungary/budapest/bpmuz/bpmuz13.htm</description>
+      <name>Hungarian National Gallery</name>
+      <View>
+        <longitude>19.03926885930204</longitude>
+        <latitude>47.49650195647296</latitude>
+        <range>204.3433225124838</range>
+        <tilt>-1.03071304135747e-012</tilt>
+        <heading>0.004123241090015745</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03948142307527,47.49613467688948,85.48051837268785</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kiraly Restaurant</name>
+      <View>
+        <longitude>19.0311941481598</longitude>
+        <latitude>47.50477836450232</latitude>
+        <range>473.2794007727053</range>
+        <tilt>3.660722770418298e-010</tilt>
+        <heading>-0.001829947186351814</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03108753693017,47.50466401098166,87.37317557535781</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ludvig Museum</name>
+      <View>
+        <longitude>19.03894168848048</longitude>
+        <latitude>47.49695249341605</latitude>
+        <range>267.08039347575</range>
+        <tilt>-1.319433292694574e-010</tilt>
+        <heading>0.003882038133314973</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03832908122162,47.49686291474944,85.65727833674544</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Magdalena Tower</name>
+      <View>
+        <longitude>19.02895328943393</longitude>
+        <latitude>47.50361028252603</latitude>
+        <range>305.9621620429494</range>
+        <tilt>8.680713088683227e-011</tilt>
+        <heading>-0.00348207568963527</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.02872896644185,47.50375691567229,90.53594170741197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mathias Church</name>
+      <View>
+        <longitude>19.03444638890428</longitude>
+        <latitude>47.5019788863957</latitude>
+        <range>289.4402323532399</range>
+        <tilt>-3.010035421325289e-010</tilt>
+        <heading>0.0005680674173484981</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03417944176683,47.50213148415811,86.35936733148515</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Royal Palace
+The Royal Palace is situated on the southern part of Castle Hill. The medieval palace that stood here was destroyed during the battles against Turkish invaders, leaving only the fortified walls as a memento. The site was then filled in to lay the foundations of the new grandiose Baroque palace started by Maria-Theresa and expanded on Hungarian initiative in the 19th century. The Palace itself was gutted during the Second World War. Unfortunately there is no place in the Palace today that would allow the visitor a glimpse of the lavish suites and interiors of past royals. Today, it functions as home to important cultural institutions and museums: Hungarian National Gallery, the National Széchényi Library, the Museum of Contemporary Art, and the Budapest History Museum.</description>
+      <name>Royal Castle</name>
+      <View>
+        <longitude>19.03950221756526</longitude>
+        <latitude>47.49566397607065</latitude>
+        <range>404.7123159628578</range>
+        <tilt>-3.155654319369467e-011</tilt>
+        <heading>-0.01623801868554182</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03954056539834,47.49549910731459,85.76166678429524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Szentharomsag ter (Trinity Square)</name>
+      <View>
+        <longitude>19.03361930093485</longitude>
+        <latitude>47.50171296089243</latitude>
+        <range>189.9902858787075</range>
+        <tilt>1.385512265315951e-010</tilt>
+        <heading>-0.02057508668847975</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0333317460999,47.50172199669204,87.02611040491343</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Overlay Maps</name>
+    <visibility>0</visibility>
+    <GroundOverlay>
+      <name>Castle Hill Map Overlay</name>
+      <visibility>0</visibility>
+      <icon>C:/Documents and Settings/Arne/My Documents/Keyhole/Castle Hill.jpg</icon>
+      <refreshPeriod>0</refreshPeriod>
+      <opacity>1</opacity>
+      <drawOrder>0</drawOrder>
+      <LatLonBox>
+        <north>47.51043937982554</north>
+        <south>47.49083693467393</south>
+        <east>19.04346216934043</east>
+        <west>19.02389019820494</west>
+        <rotation>20.65344190853367</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Citymap Overlay</name>
+      <visibility>0</visibility>
+      <icon>C:/Documents and Settings/Arne/My Documents/Keyhole/Budapest-bykart.jpg</icon>
+      <refreshPeriod>0</refreshPeriod>
+      <opacity>1</opacity>
+      <drawOrder>0</drawOrder>
+      <LatLonBox>
+        <north>47.53996770945356</north>
+        <south>47.47368815174208</south>
+        <east>19.10508432136582</east>
+        <west>19.01521413374099</west>
+        <rotation>-0.4197232887077759</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Districts Overlay</name>
+      <visibility>0</visibility>
+      <icon>C:/Documents and Settings/Arne/My Documents/Keyhole/districts-Budapest.jpg</icon>
+      <refreshPeriod>0</refreshPeriod>
+      <opacity>1</opacity>
+      <drawOrder>0</drawOrder>
+      <LatLonBox>
+        <north>47.59901504226657</north>
+        <south>47.36548517567909</south>
+        <east>19.328302106233</east>
+        <west>18.93149317834996</west>
+        <rotation>0.3614356549500771</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+    <GroundOverlay>
+      <name>Downtown Overlay</name>
+      <visibility>0</visibility>
+      <icon>C:/Documents and Settings/Arne/My Documents/Keyhole/Downtown Budapest.jpg</icon>
+      <refreshPeriod>0</refreshPeriod>
+      <opacity>1</opacity>
+      <drawOrder>0</drawOrder>
+      <LatLonBox>
+        <north>47.50736008383195</north>
+        <south>47.48051447099938</south>
+        <east>19.065191881351</east>
+        <west>19.0448551304939</west>
+        <rotation>0</rotation>
+      </LatLonBox>
+    </GroundOverlay>
+  </Folder>
+  <Folder>
+    <name>Metro</name>
+    <visibility>0</visibility>
+    <Placemark>
+      <name>Moszkva</name>
+      <View>
+        <longitude>19.02400000474211</longitude>
+        <latitude>47.50789113054029</latitude>
+        <range>818.7834326197554</range>
+        <tilt>-12.17137041443629</tilt>
+        <heading>-0.02767248359237028</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.02346194672296,47.50783203145933,101.1485282474979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batthyani</name>
+      <View>
+        <longitude>19.0392559714652</longitude>
+        <latitude>47.50659056245812</latitude>
+        <range>818.7834326169261</range>
+        <tilt>-12.17137041443629</tilt>
+        <heading>-0.01642346077734915</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.03810958205789,47.50635685855723,85.30415314266834</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nepstadion</name>
+      <View>
+        <longitude>19.10071285967491</longitude>
+        <latitude>47.50978639502115</latitude>
+        <range>5127.125132625537</range>
+        <tilt>-12.17137041441346</tilt>
+        <heading>0.02886616090375272</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.10774066887473,47.49965477744059,101.2459516140352</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Keleti</name>
+      <View>
+        <longitude>19.08425043277997</longitude>
+        <latitude>47.49977092860841</latitude>
+        <range>1500.358630526888</range>
+        <tilt>-12.1713704144158</tilt>
+        <heading>0.01672822340771123</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.08132568124067,47.49943744569517,97.3314781202803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Astoria</name>
+      <View>
+        <longitude>19.05994289088102</longitude>
+        <latitude>47.49428885153284</latitude>
+        <range>1500.358629084657</range>
+        <tilt>-12.17137041438067</tilt>
+        <heading>-0.001192181394025084</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05994357803459,47.49427257484773,91.81953127753596</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blaha</name>
+      <View>
+        <longitude>19.07106422868079</longitude>
+        <latitude>47.49688779468772</latitude>
+        <range>1500.358629888883</range>
+        <tilt>-12.1713704144152</tilt>
+        <heading>0.007006640345310435</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.07036493338137,47.49693034358619,94.03701329393951</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kossuth</name>
+      <View>
+        <longitude>19.04699357735411</longitude>
+        <latitude>47.50570337646252</latitude>
+        <range>818.7834320284333</range>
+        <tilt>-12.17137041441098</tilt>
+        <heading>-0.01071820339619756</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04644731606098,47.50556302319098,89.14648610663254</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hösök</name>
+      <View>
+        <longitude>19.07356755102596</longitude>
+        <latitude>47.50963349285456</latitude>
+        <range>3470.033522075245</range>
+        <tilt>-12.17137041425245</tilt>
+        <heading>0.008876077411588471</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.07659538727356,47.51373223740961,95.38061864517231</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kodaly</name>
+      <View>
+        <longitude>19.07356755102599</longitude>
+        <latitude>47.50963349287388</latitude>
+        <range>1101.950218566535</range>
+        <tilt>-12.17137041418471</tilt>
+        <heading>0.008876077411481427</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06921011424279,47.50964241028991,93.98890726281915</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Octogon</name>
+      <View>
+        <longitude>19.06834030655145</longitude>
+        <latitude>47.50760992171021</latitude>
+        <range>3470.033522498932</range>
+        <tilt>-12.17137041426453</tilt>
+        <heading>0.005021904754292782</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06359306870694,47.50535283638836,93.11657045300427</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Opera</name>
+      <View>
+        <longitude>19.06197404039946</longitude>
+        <latitude>47.50357685348455</latitude>
+        <range>3470.033522561884</range>
+        <tilt>-12.17137041424998</tilt>
+        <heading>0.0003278552887342761</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05878723796391,47.50222175329815,92.41767909932412</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lehel</name>
+      <View>
+        <longitude>19.06183198681507</longitude>
+        <latitude>47.51691461500461</latitude>
+        <range>1336.201581518264</range>
+        <tilt>-12.17137041440171</tilt>
+        <heading>0.0002050084639139795</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06050182968913,47.51669781368369,94.45494199307909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nepliget</name>
+      <View>
+        <longitude>19.10312619415042</longitude>
+        <latitude>47.47587944841604</latitude>
+        <range>2174.328985341137</range>
+        <tilt>1.493462444083527e-010</tilt>
+        <heading>0.05119258459789429</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.09837359014665,47.47591811660773,100.7233159034818</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nagyvarad</name>
+      <View>
+        <longitude>19.0899757774569</longitude>
+        <latitude>47.47876823424359</latitude>
+        <range>1923.338704913157</range>
+        <tilt>-12.17137041434923</tilt>
+        <heading>0.02095820808135541</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.08925011656505,47.47935116577816,101.0402958078174</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Klinikak</name>
+      <View>
+        <longitude>19.07945313962823</longitude>
+        <latitude>47.48244242800942</latitude>
+        <range>1923.3387047724</range>
+        <tilt>-12.1713704144281</tilt>
+        <heading>0.01320263502975062</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.07872554329548,47.48318019758806,98.21926685722441</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arany</name>
+      <View>
+        <longitude>19.0551547162999</longitude>
+        <latitude>47.50291625330861</latitude>
+        <range>1188.908689692815</range>
+        <tilt>-12.17137041449339</tilt>
+        <heading>-0.004700093773952399</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05424371179778,47.50275291433939,92.49634113336667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferenc</name>
+      <View>
+        <longitude>19.07191460736938</longitude>
+        <latitude>47.48571665138915</latitude>
+        <range>1923.338705022085</range>
+        <tilt>-12.17137041439673</tilt>
+        <heading>0.007646162528372445</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06990513584765,47.48580912928588,94.18269818976566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalvin</name>
+      <View>
+        <longitude>19.06269065830453</longitude>
+        <latitude>47.48914248878878</latitude>
+        <range>1408.849885731475</range>
+        <tilt>-12.17137041434006</tilt>
+        <heading>0.0008551370478822089</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0613834822008,47.48925629353051,91.9315543562028</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferenciek</name>
+      <View>
+        <longitude>19.05555189546429</longitude>
+        <latitude>47.49261174929197</latitude>
+        <range>990.1524990439215</range>
+        <tilt>-12.17137041433605</tilt>
+        <heading>-0.004407212514060711</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05482619244528,47.49308003596851,91.33579965360221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEAK</name>
+      <View>
+        <longitude>19.05496561377279</longitude>
+        <latitude>47.49688901872812</latitude>
+        <range>990.1524992928992</range>
+        <tilt>-12.17137041426466</tilt>
+        <heading>-0.004839416454515186</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05449454965302,47.49762197513731,91.63464715405448</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nyugati</name>
+      <View>
+        <longitude>19.05580624419562</longitude>
+        <latitude>47.51027307625327</latitude>
+        <range>990.1524963447765</range>
+        <tilt>-12.1713704142823</tilt>
+        <heading>-0.004219444144315042</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-4.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05580663213088,47.5104556452479,92.88908105254012</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>City Park</name>
+    <visibility>0</visibility>
+    <Placemark>
+      <description>Inside the park you will find amongst other things the city’s zoo and an outdoor swimming pool, which belongs to the Sxechenyi mineral baths. There are several of these throughout the city, an experience not to be missed!</description>
+      <name>City Park</name>
+      <View>
+        <longitude>19.09356137118454</longitude>
+        <latitude>47.51538071006021</latitude>
+        <range>4944.99307340334</range>
+        <tilt>-9.789783758559719e-012</tilt>
+        <heading>0.02361840370197648</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.08490525228903,47.51502728403187,97.10638172787253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://www.petoficsarnok.hu/angol/angolnyito.htm</description>
+      <name>Petofi Hall</name>
+      <View>
+        <longitude>19.08861516746033</longitude>
+        <latitude>47.51453836163385</latitude>
+        <range>429.7497775657106</range>
+        <tilt>1.984900134959802e-010</tilt>
+        <heading>0.04049651629944354</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.08771055754741,47.5146452088417,97.6340745423972</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transport Museum</name>
+      <View>
+        <longitude>19.09198914348151</longitude>
+        <latitude>47.51435820154499</latitude>
+        <range>317.890176796209</range>
+        <tilt>1.725456986216929e-011</tilt>
+        <heading>0.04298460277299255</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.09169573508559,47.51422122627302,98.37324763207899</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Circus</name>
+      <View>
+        <longitude>19.08120564672603</longitude>
+        <latitude>47.5194781919833</latitude>
+        <range>281.4348172464947</range>
+        <tilt>-1.258654601152732e-010</tilt>
+        <heading>0.01451274092660942</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.08074638437472,47.51981099115952,95.25851601514071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://www.fsz.bme.hu/hungary/budapest/bpmuz/bpmuz22.htm</description>
+      <name>Museum of Fine Arts</name>
+      <View>
+        <longitude>19.07669950444823</longitude>
+        <latitude>47.51626517973043</latitude>
+        <range>350.1855161072327</range>
+        <tilt>9.117000956390967e-011</tilt>
+        <heading>0.01118948146035802</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.07642611936277,47.51617570181569,95.4579914722427</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palace of Arts</name>
+      <View>
+        <longitude>19.07927937804539</longitude>
+        <latitude>47.51401679056531</latitude>
+        <range>486.2826786954242</range>
+        <tilt>-1.637564405215806e-010</tilt>
+        <heading>0.01309180262353013</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.07882500849294,47.51395470853205,95.79287116765376</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Set amidst the tranquil surroundings of the Városliget (City Park), the Széchenyi Baths is a grand old building to which Budapest families flock during the summer. The unisex outdoor pool has a extremely convivial atmosphere - old timers play chess on floating boards while everyone else just lazes around. The Széchenyi&apos;s Turkish baths are housed away from the main pool, while outside there&apos;s a statue of Zsigmond Vilmos who discovered the thermal springs here.</description>
+      <name>Szechenyi Spa Baths</name>
+      <View>
+        <longitude>19.08260066688371</longitude>
+        <latitude>47.5186521968574</latitude>
+        <range>350.5995685674523</range>
+        <tilt>-1.436308438036073e-010</tilt>
+        <heading>0.01554155407057936</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0822688219114,47.51841700596842,95.8948808477253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>The much more commercial Pest extends out from the Belvaros (inner city). One of its main sights is Hosoek ter (Heroes’ Square), which can be reached by following Budapest’s grandest avenue, Andrassy ut. At its centres stands the 120-foot bronze Millennium Emlekmu (Millennium Monument) and just behind, Varosliget (City Park) Budapest’s largest park.</description>
+      <name>Hero&apos;s Square</name>
+      <View>
+        <longitude>19.07817318346649</longitude>
+        <latitude>47.51519508622435</latitude>
+        <range>257.7322267520063</range>
+        <tilt>-1.102312126256898e-010</tilt>
+        <heading>0.01227044943312567</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.07790488184558,47.51502012844259,95.72464222246271</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://www.fsz.bme.hu/hungary/budapest/bpmuz/bpmuz12.htm</description>
+      <name>Hungarian Agricultural Museum</name>
+      <View>
+        <longitude>19.08306702445647</longitude>
+        <latitude>47.5149555510684</latitude>
+        <range>199.2354529272142</range>
+        <tilt>4.40933700361684e-010</tilt>
+        <heading>0.03640508133181689</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.08283865233622,47.51516731895645,96.63190444436758</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Pest Side</name>
+    <visibility>0</visibility>
+    <Placemark>
+      <description>This was my favorite place to eat in Budapest. It has a beautiful, artistic, imaginative atmosphere. English menu, and English is spoken. Choice of 2 specials of day or salad bar (which is excellent and hearty). Wine is available. They also have yoga and other classes.</description>
+      <name>Ghandi&apos;s</name>
+      <View>
+        <longitude>19.04891316640671</longitude>
+        <latitude>47.50049501174994</latitude>
+        <range>2807.608593712568</range>
+        <tilt>-4.060521306112543e-011</tilt>
+        <heading>0.01123161615581467</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=0&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04788644188245,47.50106003128915,91.13866000106638</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Nightlife Spot:
+Fat Mo&apos;s
+
+Type:
+Live Music
+
+Description:
+If you&apos;re looking for a fun, laid-back, yet still hoppin&apos; place to hear live music, Fat Mo&apos;s is a good choice. A favorite of tourists and locals alike, Fat Mo&apos;s is a typical Budapest cellar-type bar, but with good live acts (usually jazz and blues) almost every night. The bar staff is friendly, and if you have the munchies, there is a good selection on the menu. Good selection of beer on tap. You can usually find a few places at one of the bars, but if you&apos;re planning an evening there, call ahead and reserve a table.
+
+Dress Code:
+Come as you are!
+
+Address:
+V. Nyary Pal u. 11
+
+Directions:
+Just off of Vaci utca
+
+Nov. 29  Monday Muddy Shoes Concert 
+Nov. 30 Thuesday Gerendás Péter Band Concert</description>
+      <name>Fat Mo&apos;s</name>
+      <View>
+        <longitude>19.05616067485315</longitude>
+        <latitude>47.48937332008066</latitude>
+        <range>1601.634867806432</range>
+        <tilt>-1.140150921333917e-010</tilt>
+        <heading>-0.00395395421433119</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=0&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05521413312927,47.4906041461547,91.36996002400103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Type:
+Eating and Drinking
+
+Description:
+Multiroomed pub-restaurant with some rather handsome brown murals partly covering the interior walls. Quite posh, but with charmingly obstinate staff, who have their own ideas of what you should be ordering and show their disapproval when they think you get it wrong.
+Good food at a very good price. If you&apos;re into wine, they also sell a very nice tokay. Open:
+Mon - Sun: 11:00-23:00
+Regular draught beers: 
+
+Dreher Pils 
+Dreher Bak
+
+Address:
+Petõfi Sándor utca</description>
+      <name>Corso</name>
+      <View>
+        <longitude>19.05557182170749</longitude>
+        <latitude>47.49422339684991</latitude>
+        <range>752.9196530850924</range>
+        <tilt>-2.115918720527101e-010</tilt>
+        <heading>-0.00438796836250965</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=0&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05404791709962,47.49434711306572,91.30694851332611</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>This was once the office of an insurance company. There has been protective wooden scaffolding around it for years to protect pedestrians against falling masonry. It is an imposing building, which seems to be lying in wait for an understanding (and rich) benefactor. The interior has been fully renovated and is a riot of gold and cherubs, velvet and marble.
+
+The operators of the coffee house - once a hang-out for authors, journalists, playwrights, students and dissidents - got fed up with tourists coming in just to look around so there is now an entrance fee of a few hundred forints. As this is deductible from your bill, you may as well treat yourself to a coffee and a Danish while you are there.
+
+ 9am -11 pm daily</description>
+      <name>New York Coffee House</name>
+      <View>
+        <longitude>19.07049739801657</longitude>
+        <latitude>47.4992949390933</latitude>
+        <range>447.7955681705914</range>
+        <tilt>-2.33570683062142e-010</tilt>
+        <heading>0.006080994645219606</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=192&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.07025829814792,47.49898069532883,93.82829866989239</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Andrassy Street</name>
+      <View>
+        <longitude>19.06803368176878</longitude>
+        <latitude>47.50897917855249</latitude>
+        <range>394.1932305286364</range>
+        <tilt>-1.144394242631372e-011</tilt>
+        <heading>0.004796742041072877</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0680103042028,47.50841868641772,93.77550076790757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hermes Well</name>
+      <View>
+        <longitude>19.05460377613747</longitude>
+        <latitude>47.49184831677153</latitude>
+        <range>310.3568241875983</range>
+        <tilt>-1.546941274282963e-010</tilt>
+        <heading>-0.005101673813800512</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05390387754663,47.49168099474199,91.25458461258582</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>A great success off the Inner Ring, Old Amsterdam is a favorite of everyone from international business types to young, hip travelers. The establishment has a genuine Dutch cafe quality, with an extensive selection of the best beers in Europe, including Belgian fruit beers of all kinds, and a menu offering an assortment of Dutch cheeses.
+
+Address Király Pál u. 14</description>
+      <name>Old Amsterdam</name>
+      <View>
+        <longitude>19.06013111670257</longitude>
+        <latitude>47.48974912451165</latitude>
+        <range>2166.586066033419</range>
+        <tilt>6.37969210769743e-011</tilt>
+        <heading>0.01950330686192431</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05971419107642,47.489467381673,91.76621556675562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>This has long been our favorite little eatery in this neighborhood. Formerly known as Kiskacsa Vendéglo (Little Duck), this cozy restaurant with rustic furnishings and red-and-white-checked tablecloths has been acquired by new ownership, renovated, and renamed Three Drums. The place has succeeded in maintaining its local charm, while at the same time taking on a brighter, cheerier atmosphere. The food is exceptional for the price range, and the menu incredibly deep. Try the csirkemell szatmári módra, chicken breast with dumplings wrapped in bacon and dressed with a creamed carrot sauce. Vegetarians might like the kertész palacsinta, a crepe stuffed with steamed veggies, served in a cheese sauce. Despite the new ownership, the service can still be a bit lackadaisical.</description>
+      <name>Három Dob Vendéglo</name>
+      <View>
+        <longitude>19.06222055956485</longitude>
+        <latitude>47.49858372937967</latitude>
+        <range>1009.695820381351</range>
+        <tilt>4.482432983516298e-011</tilt>
+        <heading>0.02104182535248689</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06161304177731,47.49871709211642,92.35790204623237</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Vegetarians will jump for joy here. This little place turns out an amazing assortment of exceptional dishes from a variety of different cuisines. The restaurant employs an eclectic mix of eight cooks from areas around the world (Russia, Bangladesh, Hungary, China, Italy, and the Caucasus Mountains). The sophisticated yet earthy offerings reflect this diversity. Located on the edge of Pest&apos;s theater district, it is a favorite luncheon spot of Hungarian actors. In fact, the owner of this eatery, an Azeri woman, is married to Péter Halász, an outstanding member of the ELTE University Theater (whose radical initiatives forced him to leave Hungary in the 1960s, before returning again in 1989 to become a central figure in Budapest&apos;s alternative theater scene). A nonsmoking area is available. Tablecloths and other tapestries are for sale.
+
+Address VI. Hajós u. 43
+
+Walk north from Arany Janos utca metro station (M3) and turn right at the second corner (Hajos u.). Also accessible from trolley-bus stops at Podmaniczky utca/Bajcsy-Zsilinszky ut (#70 72 73 78)</description>
+      <name>Marquis de Salade (vegetar)</name>
+      <View>
+        <longitude>19.05679292439707</longitude>
+        <latitude>47.5061791856996</latitude>
+        <range>2422.08138468924</range>
+        <tilt>-7.051588374569566e-011</tilt>
+        <heading>0.01704141655357382</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=224&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05571830754225,47.50537946641548,92.87144028166949</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hungarian Science Academy</name>
+      <View>
+        <longitude>19.04728892119765</longitude>
+        <latitude>47.50111156213405</latitude>
+        <range>1001.723174684019</range>
+        <tilt>2.096934979480698e-010</tilt>
+        <heading>-0.0007834928234593258</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04604054876413,47.50144625195863,89.96292163525443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://www.hnm.hu/english/ottlap1.html</description>
+      <name>Hungarian National Museum</name>
+      <View>
+        <longitude>19.0634171475632</longitude>
+        <latitude>47.49120583908756</latitude>
+        <range>395.5584192644148</range>
+        <tilt>-1.2869807755652e-010</tilt>
+        <heading>0.001395071197262224</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06268297918348,47.49119320984627,92.27483920918209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fontana Shopping Center</name>
+      <View>
+        <longitude>19.05460377613747</longitude>
+        <latitude>47.49184831677153</latitude>
+        <range>310.3568241875983</range>
+        <tilt>-1.546941274282963e-010</tilt>
+        <heading>-0.005101673813800512</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05451296755732,47.49186400639676,91.30821843144017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hungarian Television (MTV) Building</name>
+      <View>
+        <longitude>19.04942970154214</longitude>
+        <latitude>47.50375092532563</latitude>
+        <range>453.5769011959204</range>
+        <tilt>-4.277754314953237e-010</tilt>
+        <heading>-0.008920324995547556</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04893095535043,47.50354434947649,92.39585584996263</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jewish Museum</name>
+      <View>
+        <longitude>19.06161706106755</longitude>
+        <latitude>47.49644432950142</latitude>
+        <range>403.7733689478962</range>
+        <tilt>5.039115221350896e-011</tilt>
+        <heading>6.808501666335853e-005</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06153113234105,47.4967249362491,92.17526882758571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hungarian Railway Museum</name>
+      <View>
+        <longitude>19.09967430282331</longitude>
+        <latitude>47.54158814869872</latitude>
+        <range>1188.908688268267</range>
+        <tilt>-12.17137041426193</tilt>
+        <heading>0.0281299730889292</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.09794167217591,47.54195048493899,88.80457165709463</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kieleti Railwaystation</name>
+      <View>
+        <longitude>19.08709592196111</longitude>
+        <latitude>47.50085274703685</latitude>
+        <range>2139.926801297148</range>
+        <tilt>2.784700164963491e-010</tilt>
+        <heading>-0.1215973759845543</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=96&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.08533352848403,47.50088194848743,98.34787101022664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Market 2</name>
+      <View>
+        <longitude>19.06201461841971</longitude>
+        <latitude>47.51826387885988</latitude>
+        <range>551.9736180282922</range>
+        <tilt>1.288942155223483e-010</tilt>
+        <heading>0.02085250398122101</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=160&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.0613386416578,47.51841218798935,94.35840194279875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Market</name>
+      <View>
+        <longitude>19.0591324881528</longitude>
+        <latitude>47.48687326371575</latitude>
+        <range>431.4449224770997</range>
+        <tilt>-3.971977187479222e-010</tilt>
+        <heading>-0.001767804557352444</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=160&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05885199235571,47.48673540127852,91.69029409506588</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kossuth Square</name>
+      <View>
+        <longitude>19.04875146421837</longitude>
+        <latitude>47.50903012937818</latitude>
+        <range>1403.447740373839</range>
+        <tilt>-1.826548367057691e-010</tilt>
+        <heading>0.003995626634080387</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04693748046948,47.50708186759079,89.62126636047822</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>XIII district next to Vigszinhaz (theatre) at the main ring-road (Szent Istvan krt.) 
+at the corner of Pannonia str and Katona József str</description>
+      <name>Mosselen Belgian Beer</name>
+      <View>
+        <longitude>19.05203016680002</longitude>
+        <latitude>47.51343111670533</latitude>
+        <range>436.7353246042322</range>
+        <tilt>-2.652212401227915e-010</tilt>
+        <heading>-0.007003910106161421</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=32&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05177861901485,47.51378569473408,92.87144028166949</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>National Bank</name>
+      <View>
+        <longitude>19.05213824042953</longitude>
+        <latitude>47.50364248187583</latitude>
+        <range>453.5769011923838</range>
+        <tilt>-1.098067867356578e-010</tilt>
+        <heading>-0.006923263198216687</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05163945121198,47.50361345449407,92.64789198451628</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Also in Pest is Europe’s largest Synagogue Nagy Zsinagoga known as Central Synagogue. Take public transport to Deak ter.</description>
+      <name>Nagy Synagogen</name>
+      <View>
+        <longitude>19.06103721291655</longitude>
+        <latitude>47.4963681081347</latitude>
+        <range>308.480217129206</range>
+        <tilt>1.773244785355186e-010</tilt>
+        <heading>-0.0003583759035553825</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06040625811579,47.49615372193194,92.02591850998084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Parliament</description>
+      <name>Parliament Budapest</name>
+      <View>
+        <longitude>19.04602540998927</longitude>
+        <latitude>47.50707234171878</latitude>
+        <range>326.2514868314192</range>
+        <tilt>-6.773745491709575e-011</tilt>
+        <heading>0.001986320811786673</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04555471602541,47.50681955851859,88.2819009508728</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Retro is provided in the cellar-club Nincs Pardon, VIII Almássy tér 2.</description>
+      <name>Nincs Pardon</name>
+      <View>
+        <longitude>19.07220933308476</longitude>
+        <latitude>47.5018261151377</latitude>
+        <range>404.681480030304</range>
+        <tilt>-2.423942398831219e-010</tilt>
+        <heading>0.0212895227969833</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=32&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.07154728748246,47.50159526157817,93.93858040448909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Octogon</name>
+      <View>
+        <longitude>19.0637540349725</longitude>
+        <latitude>47.50532498500719</latitude>
+        <range>290.5745073055242</range>
+        <tilt>-2.613391565392134e-010</tilt>
+        <heading>0.001641108471196564</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06338294176065,47.50532731271446,93.09581997285147</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Laser Theater 19:30 Monday 29/11
+J.M. Jarre
+
+Cobwebs woven of emerald laser light are into transparent veils by ruby flashes of light where plusating polygons dance madly amid thousands of vivid lightwaves. suddenly, a fireless fireworks explodes in the midst of a cavaroting vortex of light to crown this enrapturing celebration. This is the birt of light- music. 
+
+Oxigene, Magnetic Fields and Equinoxe have given birt to the Jarre universe. Zoolook, a joint production with Laurie Anderson, sort of populate this planet. The LaserTheater gives you is own interpretation of the Jarre message. The show uses is special, exclusively laser-brush, drawing to inhabit the starlit cupola of the Planetarium. 
+
+This visit to the realm of breathtaking lights will endow the visitor with the feeling strolling through a diferent dimension of the universe.</description>
+      <name>Planetarium</name>
+      <View>
+        <longitude>19.1020526610086</longitude>
+        <latitude>47.4769233414178</latitude>
+        <range>364.0211860950483</range>
+        <tilt>3.9771882164991e-010</tilt>
+        <heading>-0.110571204050368</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.10205379111443,47.47692451868721,101.4600602976732</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(XIII. Váci út 19.)
+Central Europe&apos;s first interactive, scientific playhouse with more than 100 spectacular, hands-on scientific games and experiments over an area of 1000 m2. The interactive playhouse offers practical science for both younger and older kids, who may try out the &quot;miracle bicycle&quot;, and numerous visual effects.
+
+Open:
+
+7. Sept. - 20. Aug.
+Monday -Friday 9.00-17.00,
+Saturday, Sunday 10.00-18.00;</description>
+      <name>Palace of Miracles</name>
+      <View>
+        <longitude>19.05323079469355</longitude>
+        <latitude>47.49482444459606</latitude>
+        <range>1728.708262597836</range>
+        <tilt>3.315498504146083e-011</tilt>
+        <heading>-0.00611379697593405</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05245567899753,47.49408819322964,91.14394359158298</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>VI. Lovag u. 5, Tel: 268 0801, 268 0802, E-mail: juliska@neworleans.hu, Website: www.neworleans.hu, Open: 6pm-2am daily (for gig details Tel: 451 7525), Metro: Metro: M3 Arany János u./M3 Nyugati pu., Show Map
+Large restaurant/club venue that not only draws top-notch music acts from the US (and around the world) but also offers a tempting array of Louisiana signature dishes  - such as chicken jambalaya - together with Tex-Mex style hamburgers, steaks and burritos (including vegetarian options). Lots of cocktails and spirits, with Budweiser on tap too.</description>
+      <name>New Orleans Music Club &amp; Restaurant</name>
+      <View>
+        <longitude>19.06173000841582</longitude>
+        <latitude>47.50378358385284</latitude>
+        <range>2383.627956636683</range>
+        <tilt>1.529821917188676e-010</tilt>
+        <heading>0.0001486218084011651</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-2.png?x=192&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05802008371261,47.50669147985641,92.87144028166949</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>The exhibition aims at presenting the rich material of the Museum of Ethnography – the largest collection of folk instruments in Central Europe – collected in the last 100-150 years in an attractive, exciting, expressive and interactive manner for the Hungarian and foreign visitors.</description>
+      <name>Museum of Ethnography</name>
+      <View>
+        <longitude>19.04875146421837</longitude>
+        <latitude>47.50903012937818</latitude>
+        <range>1403.447740373839</range>
+        <tilt>-1.826548367057691e-010</tilt>
+        <heading>0.003995626634080387</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04844033362781,47.50797001986815,91.07695141559813</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>http://www.fsz.bme.hu/hungary/budapest/bpmuz/bpmuz06.htm</description>
+      <name>Museum of Applied Arts</name>
+      <View>
+        <longitude>19.06861861268165</longitude>
+        <latitude>47.4859738893046</latitude>
+        <range>356.4173562248054</range>
+        <tilt>-8.820966926777861e-011</tilt>
+        <heading>0.005229067338449176</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06810040017173,47.48595399052069,93.70594570058587</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Puskas Ferenc Stadium</name>
+      <View>
+        <longitude>19.09897423695719</longitude>
+        <latitude>47.50333127366216</latitude>
+        <range>567.4056572683319</range>
+        <tilt>1.570418710074755e-010</tilt>
+        <heading>0.0481449432483755</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.09802805489396,47.50319583270222,100.0889658927476</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soviet Army Memorial</name>
+      <View>
+        <longitude>19.05072202187962</longitude>
+        <latitude>47.5050119316634</latitude>
+        <range>453.5769011980424</range>
+        <tilt>-2.177393493202102e-010</tilt>
+        <heading>-0.007967469715851657</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05029833375988,47.5048705863595,92.86928712008957</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Stephan Basilica</name>
+      <View>
+        <longitude>19.05414304933608</longitude>
+        <latitude>47.5007989285394</latitude>
+        <range>313.1741792597331</range>
+        <tilt>-1.167127939282418e-010</tilt>
+        <heading>-0.005445172181976776</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05380976353298,47.50092398931196,92.17424675684316</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Szabadság Square</name>
+      <View>
+        <longitude>19.05049151218464</longitude>
+        <latitude>47.50442494805353</latitude>
+        <range>453.5769011980424</range>
+        <tilt>-6.869921301706855e-011</tilt>
+        <heading>-0.008137432956011022</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05042184542187,47.50414957831188,92.74230945064895</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Opera</name>
+      <View>
+        <longitude>19.05843736894576</longitude>
+        <latitude>47.502744689609</latitude>
+        <range>241.9306103923291</range>
+        <tilt>-2.092489916340735e-010</tilt>
+        <heading>-0.002278990699893345</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05812268614852,47.50284517360559,92.51258903329784</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>The Old Man’s Music Pub, VII Akácfa utca 13, although crowded, is one of the city’s most fun night-time hotspots, with live music from 2100 to 2300.</description>
+      <name>The Old Man’s Music Pub</name>
+      <View>
+        <longitude>19.06861216549469</longitude>
+        <latitude>47.49854282907766</latitude>
+        <range>702.8230279409082</range>
+        <tilt>-1.587644697332361e-010</tilt>
+        <heading>0.01863761200166489</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=96&amp;y=0&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.06753665218282,47.49863974362665,93.13935101822743</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tourist Info</name>
+      <View>
+        <longitude>19.05360286404864</longitude>
+        <latitude>47.49609524454164</latitude>
+        <range>366.4374677751317</range>
+        <tilt>-9.19270002481879e-011</tilt>
+        <heading>-0.005843362160869716</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=128&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05360286404864,47.49609524454165,91.42169193543151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Town Hall</name>
+      <View>
+        <longitude>19.05595275203504</longitude>
+        <latitude>47.49582663800774</latitude>
+        <range>1592.270316312555</range>
+        <tilt>1.651632659121509e-010</tilt>
+        <heading>0.01638263257639848</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05526017583837,47.4959934839362,91.55866701131991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tourist Info 2</name>
+      <View>
+        <longitude>19.04992611101918</longitude>
+        <latitude>47.49666752525963</latitude>
+        <range>330.0699951831929</range>
+        <tilt>-3.298347049499562e-010</tilt>
+        <heading>-0.008553937441215229</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=128&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.04974267859812,47.4967466051345,91.19628050552501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Lastly, for some exclusive boutiques and plenty of souvenir shops go to Vaci utca (Vaci Street).
+
+On the list are:
+- City Center Club and restaurant (same owner as Mephisto Café) at Váci utca
+- Mephisto Café at Váci utca
+- Nirvana (formerly known as Lola Club) at Szent István körút
+- The Black and White Club (formerly know as Tropical Bar) at Galamb utca
+- Fontana Cabaret at Vaci utca
+- La Dolce Vita at Október 6 utca
+- Flashdance at Váci utca
+- Piccolo (espresso/drink bar) at Párizsi udvar.</description>
+      <name>Vaci Street</name>
+      <View>
+        <longitude>19.05530085134103</longitude>
+        <latitude>47.49102978978466</latitude>
+        <range>1728.708262587226</range>
+        <tilt>-4.389815032392917e-011</tilt>
+        <heading>-0.004587819742241077</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05177695258553,47.49505815136396,91.16958819117541</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vigszinhaz Theater</name>
+      <View>
+        <longitude>19.05162762947276</longitude>
+        <latitude>47.51265637953532</latitude>
+        <range>436.7353245999883</range>
+        <tilt>-2.692905332875617e-011</tilt>
+        <heading>-0.007300756379714325</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05138808405765,47.51266407188253,92.87144028166949</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westend City Center</name>
+      <View>
+        <longitude>19.0599936320758</longitude>
+        <latitude>47.51336866200928</latitude>
+        <range>618.0007006050021</range>
+        <tilt>8.851879978523813e-011</tilt>
+        <heading>0.01940072675507941</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05914625484684,47.51433149622481,94.15981135896196</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Budapest Christmas Fair
+(Vörösmarty square) 
+         Programme selection             
+ Cultural life 
+ Important programmes and festivals during the year 
+ Calendar packed with programmes 
+ Ticket Offices 
+ Sightseeing programmes 
+ 
+
+Description:
+
+
+The traditional Budapest Christmas Fair is the greatest event during the weeks of advent which provides a special holiday atmosphere to the heart of the city. 
+Visiting this event on one of Budapest’s most beautiful squares, the Vörösmarty square, can be an excellent programme -not only for residents, but the foreign tourists as well-, since the event offers a variety of interesting programmes, including a special fair with products and gifts made of natural raw materials with traditional handicraft techniques, the Advent Calendar, exhibitions and other cultural and musik programmes. Performers from all over Hungary are showing traditional folk dances, folk music and songs. It is a good opportunity to learn a little more about the people and customs of Hungary. There are over 100 wooden stands, festively decorated and offering specialities, crafts, paintings, glass manufacturing, holiday dishes. Only unique products of natural ingredients are sold on the fair, and the quality of goods is controlled by the jury of the Association of Hungarian Folk Arts. The spirit of Christmas is ensured by stage plays, musicians and dancers. Children can enjoy the live Bethlehem games, the dancehouse- and handcraft programmes, others can try the typical Hungarian Christmas cuisine offering a wide range of pancakes, sausages and glowing wine. The Gerbeaud Advent Calendar is the highlight of these days since the facade of the most beautiful patisserie, the Gerbeaud-House is transformed into an advent calendar, and pictures of 24 contemporary artists will be exhibited in the windows. The opening ceremony of a new window, along with a light and sound show, starts each day, at 5 pm. The fair is held from november 26th till december 24th 2004. Opening hours: 10am till 7pm every day.</description>
+      <name>Vörösmarty Ter (pedestrian)</name>
+      <View>
+        <longitude>19.05075622321657</longitude>
+        <latitude>47.49633273797814</latitude>
+        <range>376.7222246920847</range>
+        <tilt>-12.17137041478482</tilt>
+        <heading>-0.007970887457749562</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.05075537448276,47.4965110093977,91.39707109749681</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zoltan Kodaly Museum</name>
+      <View>
+        <longitude>19.07153264532334</longitude>
+        <latitude>47.50981081628858</latitude>
+        <range>458.4526645535296</range>
+        <tilt>-12.17137041407847</tilt>
+        <heading>0.007375562047694508</heading>
+      </View>
+      <visibility>0</visibility>
+      <styleUrl>root://styleMaps#default?iconId=0x307</styleUrl>
+      <Style>
+        <icon>root://icons/bitmap-3.png?x=64&amp;y=96&amp;w=32&amp;h=32</icon>
+      </Style>
+      <Point>
+        <coordinates>19.07102440953505,47.50993541428727,94.174467835512</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Folder>

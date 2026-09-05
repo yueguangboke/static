@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>247_Abu_Simbel.kml</name>
+	<Style id="sn_ylw-pushpin_copy0">
+	</Style>
+	<Placemark>
+		<name>埃及阿布辛伯勒神庙</name>
+		<LookAt>
+			<longitude>31.62554628441866</longitude>
+			<latitude>22.33688352321657</latitude>
+			<altitude>0</altitude>
+			<range>89.1211007895778</range>
+			<tilt>-3.322484200977774e-011</tilt>
+			<heading>0.0001453790236662401</heading>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		<Point>
+			<coordinates>31.6255551412651,22.33685894581015,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

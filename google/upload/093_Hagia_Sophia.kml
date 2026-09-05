@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>093_Hagia_Sophia.kml</name>
+	<Style id="default+icon=0x317">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<x>128</x>
+				<y>128</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default+icon=0x307">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://www.maximonline.com/maximusa/maxim_logo.gif</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="default+nicon=0x307+hicon=0x3171244266">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>default+icon=0x307</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>default+icon=0x317</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>索菲亚教堂</name>
+		<description>http://en.wikipedia.org/wiki/Hagia_Sophia
+
+The Church of the Holy Wisdom, variously known as Hagia Sophia (Άγια Σοφία) in Greek, Sancta Sophia in Latin or Ayasofya in Turkish, is a former Greek Orthodox church and mosque now a museum, in Istanbul, formerly Constantinople. It is universally acknowledged as one of the great buildings of the world.</description>
+		<LookAt>
+			<longitude>28.98017813945869</longitude>
+			<latitude>41.00851042365706</latitude>
+			<altitude>0</altitude>
+			<range>196.4949790296893</range>
+			<tilt>-1.011718917311166e-009</tilt>
+			<heading>-26.30144286811947</heading>
+		</LookAt>
+		<Style>
+			<IconStyle>
+				<scale>0.5</scale>
+				<Icon>
+					<href>root://icons/palette-3.png</href>
+					<x>224</x>
+					<w>32</w>
+					<h>32</h>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.7</scale>
+			</LabelStyle>
+		</Style>
+		<Point id="khPoint1166_copy1">
+			<coordinates>28.97986264971438,41.00856523416047,72.54988169786792</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

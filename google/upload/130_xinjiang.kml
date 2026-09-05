@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>新疆“麦田圈”揭秘</name>
+	<open>1</open>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png_copy0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>新疆“麦田圈”揭秘</name>
+		<description><![CDATA[<b>在新疆伊犁哈萨克自治州察布查尔锡伯自治县南山坡<p>“麦田圈”现场拍摄的照片</b>
+
+<img  src="http://www.godeyes.cn/bbs/Upload/2006/09/22/155242.jpg"）";width="450"height="300"/>
+
+<p>http://www.godeyes.cn/bbs/Announce/Announce.asp?BoardID=201&ID=110253]]></description>
+		<LookAt>
+			<longitude>81.19354661768617</longitude>
+			<latitude>43.70085197867972</latitude>
+			<altitude>0</altitude>
+			<range>50.36032707054305</range>
+			<tilt>8.370285226539126e-011</tilt>
+			<heading>-0.004109793058311877</heading>
+		</LookAt>
+		<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png_copy0</styleUrl>
+		<Point>
+			<coordinates>81.19362912380251,43.70076657781404,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

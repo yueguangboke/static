@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>558_TopSkyTower.kml</name>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy16">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin_copy00">
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy01">
+	</Style>
+	<Style id="sn_ylw-pushpin_copy02">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin_copy26">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin_copy00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin_copy26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin_copy2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>世界十大高塔</name>
+		<open>1</open>
+		<Placemark>
+			<name>加拿大多伦多电视塔</name>
+			<LookAt>
+				<longitude>-79.38692924719987</longitude>
+				<latitude>43.64182220734448</latitude>
+				<altitude>0</altitude>
+				<range>212.5936966295932</range>
+				<tilt>6.953717633725467e-011</tilt>
+				<heading>-0.001349446293895053</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy0</styleUrl>
+			<Point>
+				<coordinates>-79.38729040975937,43.64182220062033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>莫斯科电视塔</name>
+			<LookAt>
+				<longitude>37.61186388888891</longitude>
+				<latitude>55.81974722222223</latitude>
+				<altitude>0</altitude>
+				<range>988.1917137264182</range>
+				<tilt>2.646667620224117e-011</tilt>
+				<heading>1.500280068927505e-014</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.61165705891152,55.81972140036765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上海东方明珠电视塔</name>
+			<LookAt>
+				<longitude>121.4956248676828</longitude>
+				<latitude>31.24169405638376</latitude>
+				<altitude>0</altitude>
+				<range>230.5393734586598</range>
+				<tilt>0.7276975987378985</tilt>
+				<heading>17.68988004650172</heading>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin_copy01</styleUrl>
+			<Point>
+				<coordinates>121.4949851906,31.24182165627668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>吉隆坡塔</name>
+			<LookAt>
+				<longitude>101.7036010980185</longitude>
+				<latitude>3.152864773683009</latitude>
+				<altitude>0</altitude>
+				<range>219.6621885226868</range>
+				<tilt>0</tilt>
+				<heading>0.0001320313787229198</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy2</styleUrl>
+			<Point>
+				<coordinates>101.7033321989622,3.15280193584124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>天津天塔</name>
+			<LookAt>
+				<longitude>117.1759118443232</longitude>
+				<latitude>39.09191847286616</latitude>
+				<altitude>0</altitude>
+				<range>470.7145634151486</range>
+				<tilt>4.732191367701129e-011</tilt>
+				<heading>-0.0001449905032446335</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy26</styleUrl>
+			<Point>
+				<coordinates>117.1751449143667,39.09180187518793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北京中央电视塔</name>
+			<LookAt>
+				<longitude>116.3004833659722</longitude>
+				<latitude>39.91794702497083</latitude>
+				<altitude>0</altitude>
+				<range>579.5146033120064</range>
+				<tilt>0</tilt>
+				<heading>0.001301167398012571</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>116.3003550357984,39.9181135983232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>乌兹别克斯坦塔什干塔</name>
+			<LookAt>
+				<longitude>69.28466666666671</longitude>
+				<latitude>41.34511666666669</latitude>
+				<altitude>0</altitude>
+				<range>486.2998384200514</range>
+				<tilt>2.131481338411894e-011</tilt>
+				<heading>5.986734951544496e-015</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy1</styleUrl>
+			<Point>
+				<coordinates>69.28443921633496,41.34545817873451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>柏林电视塔</name>
+			<LookAt>
+				<longitude>13.40897222222224</longitude>
+				<latitude>52.52102222222224</latitude>
+				<altitude>0</altitude>
+				<range>170.767979730772</range>
+				<tilt>9.489640940093544e-011</tilt>
+				<heading>3.989507233614791e-015</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy00</styleUrl>
+			<Point>
+				<coordinates>13.40943088332188,52.52077036566433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>澳门旅游观光电视塔</name>
+			<LookAt>
+				<longitude>113.53714255963</longitude>
+				<latitude>22.18029380689271</latitude>
+				<altitude>0</altitude>
+				<range>425.2725488492437</range>
+				<tilt>4.765103247828976e-011</tilt>
+				<heading>0.0002950016494554409</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin_copy00</styleUrl>
+			<Point>
+				<coordinates>113.5366440197267,22.17971814045112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新西兰奥克兰天空塔</name>
+			<LookAt>
+				<longitude>174.7625947649606</longitude>
+				<latitude>-36.84889785125023</latitude>
+				<altitude>0</altitude>
+				<range>313.7907895008143</range>
+				<tilt>1.006136157563597e-010</tilt>
+				<heading>0.3172059054602755</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>174.7622122317801,-36.84853315219234,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

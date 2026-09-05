@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>425_HongKongCenter.kml</name>
+	<Style id="sn_icon43">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fff55</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>香港中环广场大厦</name>
+		<LookAt>
+			<longitude>114.172999979279</longitude>
+			<latitude>22.28080231927078</latitude>
+			<altitude>0</altitude>
+			<range>358.193483327635</range>
+			<tilt>-6.873450035659691e-011</tilt>
+			<heading>-2.76902014193508</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_icon43</styleUrl>
+		<Point>
+			<coordinates>114.1734997381907,22.28057835057333,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

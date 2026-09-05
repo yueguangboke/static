@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Las Vegas hotel.kmz</name>
+	<open>1</open>
+	<Style id="8497:default select all (site)_copy0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<y>160</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="khStyle599">
+		<IconStyle id="khIconStyle600">
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<y>160</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="khLineStyle603">
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle id="khPolyStyle604">
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="khStyle540">
+		<IconStyle id="khIconStyle541">
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<y>160</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="8497">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#8497:default select all (site)</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#8497:default select all (site) (highlighted)</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="khStyle742">
+		<IconStyle id="khIconStyle743">
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<y>160</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle765">
+		<IconStyle id="khIconStyle766">
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<y>160</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<y>160</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default+icon=0x317">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<y>160</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="8497:default select all (site) (highlighted)">
+		<IconStyle>
+			<Icon>
+				<href>http://kh.google.com:80/flatfile?lf-0-icons/512_v5.png</href>
+				<y>32</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="default+nicon=0x307+hicon=0x317">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>default+icon=0x307</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>default+icon=0x317</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="8497_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>8497:default select all (site)_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#8497:default select all (site) (highlighted)</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="8497:default select all (site)">
+		<IconStyle>
+			<Icon>
+				<href>http://kh.google.com:80/flatfile?lf-0-icons/512_v5.png</href>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+		</LabelStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="default+icon=0x307">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<y>160</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle1014">
+		<IconStyle id="khIconStyle1015">
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<y>160</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Las Vegas hotel</name>
+		<open>1</open>
+		<description>http://www.chinesetraveler.com/gb/Nevada/lasvegasvisit.php
+http://www.usard.com/Cities/LV.html
+http://www.discoverychannel.com.cn/travel/american_casino/feature_1/
+自从1931年内华达州成为全美第一个将赌场式的赌博合法化的州以来，拉斯维加斯已经变得面目全非。早期的赌博与犯罪集团过从甚密，但自从霍华德.休斯 (Howard Hughes) 在上世纪60年代买下六家赌场后，情况发生了变化。如今，占该州经济来源43%的赌博产业受到税务监察人员和拉斯维加斯赌博监管机关的严密监控。 
+　　每年约有3,400万游客光临拉斯维加斯，虽然有65%的游客表示他们并不是来这里赌博，但是最终87%的人在其逗留期间的某个时刻会走向老虎机或者赌桌，平均每人花费480美元。然而，确保从赌场赚钱的唯一方式就是自己拥有一个赌场！赌博业每年为拉斯维加斯赚取近100亿美元的收入，而其中三分之二的收入来自老虎机。那得是多少赌币啊！ 
+　　尽管每家赌场都有自己的特色，但基本布局是一样的。一排排哗哗作响、花里胡哨的老虎机和一块相对较小和较安静的区域，里面摆放着牌桌和轮盘的区域。Strip 区里面一般是相对面向家庭的赌场，而真正的赌徒则会直奔市区。</description>
+		<Placemark>
+			<name>Harrah&apos;s Las Vegas哈樂斯大飯店</name>
+			<description><![CDATA[<img src="http://media.wwte.com/hotels/1000000/50000/41400/41307/41307_6_b.jpg"><br>
+哈樂斯大飯店(Harrah's)是在鹽湖城、丹佛巿、雷諾市、大西洋沿 海各市都設有連鎖店的大型飯店集團。拉斯維加斯的哈樂斯大飯店 約位於Strip區的中心位置，正前方是夢幻金殿、凱撒宮及Forum購 物城等，是拉斯維加斯的精華地區。
+哈樂斯是一個老牌飯店，過去最著名的便是飯店的外觀設計成密西 西比河上的遊船造型，但目前已經看不到大輪船，取而代之的是此 集團投資二億美金所建成的新館，共有1711間房間。
+
+飯店內部的裝璜採用紐奧爾良式的法國殖民風格，洋溢著熱鬧 ﹑歡愉的氣氛，每晚在大廳中亦可欣賞到法國皇室般的現場演奏。 客房以柔和的色系為主，給人舒適的感覺。酒店之中設有游泳池及 健身俱樂部，若您在賭場玩累了，不妨利用飯店中完善休閒設備消 除疲勞，恢復體力。另外，飯店以服務快速著稱於拉斯維加斯。]]></description>
+			<LookAt>
+				<longitude>-115.1713562938356</longitude>
+				<latitude>36.11933625328345</latitude>
+				<altitude>0</altitude>
+				<range>434.7478200169925</range>
+				<tilt>0</tilt>
+				<heading>4.372585484830923e-006</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>-115.1717759818845,36.11916521431902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stardust星塵大飯店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://www.ticketstovegas.com/Banners/Stardust.jpg"><br>
+
+星塵大飯店屬於拉斯維加斯Strip區， 她是拉斯維加斯的老牌飯店，歷經４０年的變遷，經過多次改建， 但始終歷久不衰。星塵飯店是拉斯維加斯巴黎式上空秀表演的始作甬者， 到今天其表演節目還是相當有名的。]]></description>
+			<LookAt>
+				<longitude>-115.1662595357723</longitude>
+				<latitude>36.13290935821205</latitude>
+				<altitude>0</altitude>
+				<range>210.2470313381128</range>
+				<tilt>0</tilt>
+				<heading>0.0002430579307145574</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.1662595357723,36.13290935821205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rio Suite里約套房大飯店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://www.lasvegasnevadahotels.com/images/new/riosui_ext.jpg"><br>
+這是一個新的飯店，經營上非常有特色，餐廳評價一流。旅館房 間是全拉斯維加斯最特別的，所有房間全是套房(也就是 沒有一般房) ，共有 2563 個房間，這是拉斯維加斯唯一榮獲美 國餐飲飯店學院頒發五顆星的度假大飯店(Resort)。很貴嗎？ 不不不！套裝行程最低只要 29.95 元一天，還送自助式早餐。 事實上，里約大飯店無論是吃喝玩樂在拉斯維加斯都是最為物美價廉的。]]></description>
+			<LookAt>
+				<longitude>-115.1901009595293</longitude>
+				<latitude>36.11462222894914</latitude>
+				<altitude>0</altitude>
+				<range>680.3735063566137</range>
+				<tilt>0</tilt>
+				<heading>0.0001532754378523486</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.1910625658162,36.11474613679005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Imperial Palace帝國皇宮大飯店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://www.urbanphotos.net/images/LVCD/images/imperial_palace06a.jpg"><br>
+帝國皇宮大飯店位於Strip區的中心，凱撒宮大飯店的對面，大門為五重塔 式，有一點像教堂，又有一點像日本的神宮 建築，是拉斯維加斯城中少數具有東方情調的旅 館。共有2700個全新裝潢的房間。 設有一座奧運標準的游泳池及超音波按摩浴池]]></description>
+			<LookAt>
+				<longitude>-115.1721107454976</longitude>
+				<latitude>36.11780044054963</latitude>
+				<altitude>0</altitude>
+				<range>434.5745130449106</range>
+				<tilt>0</tilt>
+				<heading>-0.000440355031333935</heading>
+			</LookAt>
+			<styleUrl>#khStyle1014</styleUrl>
+			<Point>
+				<coordinates>-115.1721107454976,36.11780044054963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gold Coast黃金海岸酒店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://www.vegasgolfandtravel.com/images/gold-coast-hotel.jpg">
+<br>
+黃金海岸酒店(Gold Coast)在Strip區的西邊約一哩，共有 750個飯店房間，娛樂設施完善，較特別的是這裡設有免費的 保姆服務，可以讓家長到賭場去玩個痛快。
+黃金海岸酒店(Gold Coast)與奧爾良大飯店(The Orleans)與芭巴 拉海岸酒店(Barbary Coast) 同屬海岸集團。]]></description>
+			<LookAt>
+				<longitude>-115.1929705386467</longitude>
+				<latitude>36.1146673922324</latitude>
+				<altitude>0</altitude>
+				<range>230.8656400658662</range>
+				<tilt>1.270697569993273e-010</tilt>
+				<heading>-0.0104923305939936</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.1929705386467,36.1146673922324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flamingo Hilton弗朗明哥希爾頓</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://www.las-vegas-hotels-discounts-cheap.com/las-vegas-hotels-discounts-cheap-5p.jpg">
+<br>
+弗朗明哥希爾頓可以算是拉斯維加斯的發展史的一部份，也是使 拉斯維加斯繁華的代表性飯店之一。其創立於 1946年，當年由於芝加哥市掃黑，所以黑手黨決定朝外發展，派 黨徒席格(Bngscy Siegel)前往拉斯維加斯發展，席格在拉斯維 加斯大道建立了這個飯店，並且以他情婦"弗朗明哥"為名，並由她 經營，當年的飯店共有９８個房間。與眾不同的是，"弗朗明哥"將飯店鋪上地 毯，旅客必需穿上禮服，同時聘請好萊塢的明星來表演；在當年 的拉斯維加斯，"弗朗明哥"飯店除了吸引遊客的光臨之外，更帶動 了拉斯維加斯50年來的繁華與興盛。
+現在的遊客經過拉斯維加斯大道時 ，一定會 看見弗朗明哥希爾頓飯店粉紅色的霓虹大招牌，不停的閃爍。 今日的弗朗哥 希爾頓飯店共有3642個房間，並加入希爾頓集團經營，飯店的內部 裝潢皆以粉紅色為生。日式禮節、日式服務，也讓人覺得舒適受 尊重。同時，弗朗明哥希爾頓一直都保持她的傳統，以精彩的表 演節目吸引旅客。]]></description>
+			<LookAt>
+				<longitude>-115.172807820418</longitude>
+				<latitude>36.1164954876163</latitude>
+				<altitude>0</altitude>
+				<range>200.9447208950621</range>
+				<tilt>1.839004769135433e-010</tilt>
+				<heading>-0.0008512344559080799</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.1723831634666,36.11623009162474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caesars Palace凯萨宫大饭店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://wwp.las-vegas-us.com/hotel/the-strip/caesars-palace/caesars%20palace.jpg">
+<br>
+凯萨宫大饭店(Caesars Palace)是拉斯韦加斯主题饭店的始作俑 者。1966年凯萨宫开幕时，轰动了拉斯韦加斯，并造成这二十年 来主题饭店的风潮。饭店装潢采用古代罗马的风格，饭店前的大 理石西泽像﹑巨大的喷泉，以成为拉斯韦加斯最具代表性的地标 之一。除了古罗马式的装潢之外，凯萨宫大饭店的男生服务人员 装扮成罗马战士，而女服务人员穿着罗马式的短裙，服务来宾。 在固定时间，会有装扮成凯萨及埃及艳后造型的演员出巡的活动 。
+凯萨宫大饭店共1734个房间，并有健身院﹑美容院等设备。]]></description>
+			<LookAt>
+				<longitude>-115.1754118398939</longitude>
+				<latitude>36.11627805625518</latitude>
+				<altitude>0</altitude>
+				<range>375.894803903025</range>
+				<tilt>6.757843574573339e-011</tilt>
+				<heading>-0.0001401648248559257</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.1743154634627,36.11615643756782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bally貝里斯大飯店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://images.google.com/url?q=http://wwp.las-vegas-us.com/hotel/the-strip/ballys/ballys-las-vegas.jpg">
+<br>
+貝里斯大飯店是Strip區的老牌飯店，就是過去的米高梅廣場飯店。由 於是電影公司所開的飯店，所以飯店的各客房中，張貼有電影海 報。貝里斯飯店共有2820的房間，175000 平方呎的會議廳。其 賭場佔地50000平方呎，另有10座網球場、游泳池、購物城等等 ，提供給旅客充份的服務。]]></description>
+			<LookAt>
+				<longitude>-115.1721842438872</longitude>
+				<latitude>36.11098834973135</latitude>
+				<altitude>0</altitude>
+				<range>386.1561774174913</range>
+				<tilt>2.850667409246388e-010</tilt>
+				<heading>0.001761874203097671</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.1724902803516,36.11158068466369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tropicana熱帶天堂大飯店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://wwp.las-vegas-us.com/hotel/the-strip/tropicana/tropicana-hotel-las-vegas.jpg">
+<br>
+熱帶天堂大飯店是以熱帶風情為主題的旅館，最特別的地方，便是 擁有三個很大的游泳池，這是熱帶天堂大飯店最特別的地方，游 泳池包含兩個室外池及一個室內池，被認為是拉斯維加斯最佳游泳池 ，評價極高。]]></description>
+			<LookAt>
+				<longitude>-115.170963270013</longitude>
+				<latitude>36.09941136657891</latitude>
+				<altitude>0</altitude>
+				<range>930.0910073241504</range>
+				<tilt>0</tilt>
+				<heading>0.002483792245142281</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.170963270013,36.09941136657891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Monte Carlo蒙地卡羅大飯店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<br>
+<img src="http://www.djurvall.burken.nu/Usa/T/Las%20Vegas%20-%20Monte%20Carlo.JPG">
+<br><br>
+蒙地卡羅大飯店是由夢幻金殿及馬戲廣場集團所聯手投資興建，他 的原址是當年赫赫有名的Dunes大飯店，財團將此大飯店炸平之後 拆除重建，新的飯店擁有3014間房間﹑255間套房及16000平方呎的會議廳。
+飯店以歐洲摩納哥王國的蒙地卡羅賭場為範本，在拉斯維加斯重建，包 含水晶吊燈、大理石地板、瓦斯燈步道，氣勢磅勃，擁有歐洲王室的豪華 風格。]]></description>
+			<LookAt>
+				<longitude>-115.1738868290664</longitude>
+				<latitude>36.10643382557085</latitude>
+				<altitude>0</altitude>
+				<range>887.00131270738</range>
+				<tilt>0</tilt>
+				<heading>0.0007619343975442844</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.1751888119745,36.1049898005509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>拉斯维加斯希尔顿酒店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[http://www.lv-hilton.com/
+<br>
+<img src="http://freehostcp.t35.com/cp/index.php?ftpserver=ftp.t35.com&ftpserverport=21&username=0823.t35.com&password_encrypted=C5C85CCB39EC&language=zh&skin=1&ftpmode=binary&passivemode=&sslconnect=&viewmode=&sort=&sortorder=&state=manage&state2=viewimage&directory=/lltp/Las-Vegas&entry=hotel.jpg">
+<br><br>
+共有3174個普通房間及275間豪華套房。位於Strip區旁邊的國際 議會中心(Las Vegas Convensation Center) 附近，由於貓王普里司萊曾在此地演出 而聲名遠播。如今每晚此飯店所演出的娛樂節目水準也很高級， 常有大牌藝人的超級演出。另外較特別的是飯店設有托兒中心， 可以解決小孩不能進賭場的困擾，因此十分受到家中有小朋友的 賭客的歡迎。
+另一個比較特別的地方是由於拉斯維加斯會議中心常舉行大型商 展(Trade Show)，由於接洽生意的方便性，所以這裡也是最佳的 會議旅客的住宿場所，通常大型商展的會期中，在一年之前便要 訂房，否則絕對是無法住的到的。
+
+拉斯維加斯希爾頓飯店另外擁有220000平方呎的會議廳，因此 也常有大型會議或展覽在這裡舉行。]]></description>
+			<LookAt>
+				<longitude>-115.1511908212743</longitude>
+				<latitude>36.13644183995793</latitude>
+				<altitude>0</altitude>
+				<range>271.8581433424081</range>
+				<tilt>0</tilt>
+				<heading>0.01121208518739682</heading>
+			</LookAt>
+			<styleUrl>#8497:default select all (site)_copy0</styleUrl>
+			<Point>
+				<coordinates>-115.1511908212743,36.13644183995793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Venetian威尼斯人</name>
+			<visibility>0</visibility>
+			<description><![CDATA[http://www.venetian.com/casino/tours.cfm
+<br>
+<img src="http://freehostcp.t35.com/cp/index.php?ftpserver=ftp.t35.com&ftpserverport=21&username=0823.t35.com&password_encrypted=C5C85CCB39EC&language=zh&skin=1&ftpmode=binary&passivemode=&sslconnect=&viewmode=&sort=&sortorder=&state=manage&state2=viewimage&directory=/lltp/Las-Vegas&entry=v1.jpg">
+<br>]]></description>
+			<LookAt id="khLookAt984">
+				<longitude>-115.1702117919922</longitude>
+				<latitude>36.12197113041351</latitude>
+				<altitude>0</altitude>
+				<range>318.6362370806594</range>
+				<tilt>6.195668770108596e-011</tilt>
+				<heading>-4.977476874762504e-014</heading>
+			</LookAt>
+			<styleUrl>#khStyle765</styleUrl>
+			<Point id="khPoint985">
+				<coordinates>-115.1702117919922,36.12197113041351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Treasure Island金銀島酒店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[http://www.treasureisland.com/pages/index_flash.asp
+
+<br>
+<img src="http://freehostcp.t35.com/cp/index.php?ftpserver=ftp.t35.com&ftpserverport=21&username=0823.t35.com&password_encrypted=C5C85CCB39EC&language=zh&skin=1&ftpmode=binary&passivemode=&sslconnect=&viewmode=&sort=&sortorder=&state=manage&state2=viewimage&directory=/lltp/Las-Vegas&entry=meetings5.jpg">
+<br><br>
+位於夢幻金殿北鄰的金銀鳥飯店，它是夢幻金殿的關係企業，在 93年秋天才開幕，是個擁有2891客房的大型大飯店，其中包含 212 豪華套房。正如其名，飯店是以史蒂文生的小說"金銀島"為主題，而 建造的。飯店的佈置，以十八世紀的海盜戰船為主題，客房以外的空間 就放置著海盜們掠奪來的寶藏，非常有趣。呈丫字型排列的各區並 以紅﹑黑、灰褐三色區分，讓住宿的旅客不會迷路。旅館客房內採 用落地大窗戶，由此可以眺望拉斯維加斯的迷人夜色，十分美麗。]]></description>
+			<LookAt>
+				<longitude>-115.1702825590212</longitude>
+				<latitude>36.12352195976301</latitude>
+				<altitude>0</altitude>
+				<range>531.3520728494423</range>
+				<tilt>1.871864012952639e-010</tilt>
+				<heading>-4.168018042823052e-005</heading>
+			</LookAt>
+			<styleUrl>#khStyle765</styleUrl>
+			<Point>
+				<coordinates>-115.1706021807135,36.12456960418907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stratosphere Tower同溫層塔</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://p.vtourist.com/1504375-Stratosphere_Tower_in_Las_Vegas-Las_Vegas.jpg"><br>
+雲霄塔大飯店(Stratospere)擁有1500個套房與房間，最大的特色便是 雲霄塔飯店的門口，有一個非常高的尖塔，號稱為密西西比河以西 最高的人工建築物，其實際高度為1149呎，比巴黎的艾非爾 鐵塔及西雅圖的電視塔都還要高，若換算為一般樓房則超過100層樓高， 這已經是拉斯維加斯的地標建築。]]></description>
+			<LookAt>
+				<longitude>-115.1554223997367</longitude>
+				<latitude>36.14719103378567</latitude>
+				<altitude>0</altitude>
+				<range>220.2029380738861</range>
+				<tilt>0</tilt>
+				<heading>0.006390701598506059</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>-115.1556455533078,36.14700625636638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mandalay 海湾渡假胜地 &amp;赌场</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="http://www.lvhelicopters.com/gallery/MANDALAY%20BAY-02.JPG"><br>]]></description>
+			<LookAt id="khLookAt553">
+				<longitude>-115.174318216808</longitude>
+				<latitude>36.09042966565987</latitude>
+				<altitude>0</altitude>
+				<range>487.9511019901788</range>
+				<tilt>0</tilt>
+				<heading>-0.0008952245130848422</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point id="khPoint608">
+				<coordinates>-115.174318216808,36.09042966565987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Google Earth - New Placemark</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-115.1801588721611</longitude>
+				<latitude>36.06315622779612</latitude>
+				<altitude>0</altitude>
+				<range>1022.139354759813</range>
+				<tilt>33.74355235816011</tilt>
+				<heading>-47.25472617373574</heading>
+			</LookAt>
+			<styleUrl>#khStyle742</styleUrl>
+			<Point>
+				<coordinates>-115.1806020704077,36.06347731090533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fremont Street佛瑞蒙街</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-115.1730041503906</longitude>
+				<latitude>36.1023635864135</latitude>
+				<altitude>0</altitude>
+				<range>1000.000060496066</range>
+				<tilt>0</tilt>
+				<heading>-2.523947973741112e-014</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>-115.1730302353518,36.10279915611085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>亚瑟王的神剑旅馆-赌场</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<br>
+<img src="http://freehostcp.t35.com/cp/index.php?ftpserver=ftp.t35.com&ftpserverport=21&username=0823.t35.com&password_encrypted=C5C85CCB39EC&language=zh&skin=1&ftpmode=binary&passivemode=&sslconnect=&viewmode=&sort=&sortorder=&state=manage&state2=viewimage&directory=/lltp/Las-Vegas&entry=200511722223539382.jpg">
+<br><br>
+石中剑大饭店与米高梅大饭店﹑纽约纽约大饭店﹑热带天堂大饭店 分据热带街与拉斯韦加斯大道交叉口的四个街角。石中剑大饭店 1990年6月19日开幕时，曾以4032个房间成为全世界最大的饭店。 饭店外型采用白色古堡的型式的设计，在夜晚时，显得格外光芒四射。 
+由饭店以石中剑为名便知道，这家饭店是以欧洲中古世纪阿瑟王﹑ 圆桌武士故事为主题，在酒店的大门口，设有吊桥，将访客带回到 欧洲的中古世纪。
+
+石中剑大饭店外观之外，赌场的装潢、客房的家具摆设、演出的秀 (如阿瑟王)，甚至赌场里的庄家、服务人员的穿著等，也完全都是 中古世纪的风格，一切就像是的童话故事的世界一般。所以这儿也 是老少咸宜的休闲度假中心。 饭店　有拉斯韦加斯巿数一数二的大赌场，还有6家餐厅及游泳池 。石中剑大饭店的安全措施完整，在进入客房区之前，必须先出示 房门钥匙给警卫人员]]></description>
+			<LookAt>
+				<longitude>-115.1720462792905</longitude>
+				<latitude>36.09952303380851</latitude>
+				<altitude>0</altitude>
+				<range>844.7066227349926</range>
+				<tilt>0</tilt>
+				<heading>0.001844222940130212</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>-115.1747510542568,36.09942831094499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bellagio貝拉吉歐酒店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[http://china.bellagio.com/Bellagio-International/chinese/pages/main.asp
+<br>
+<img src="http://freehostcp.t35.com/cp/index.php?ftpserver=ftp.t35.com&ftpserverport=21&username=0823.t35.com&password_encrypted=C5C85CCB39EC&language=zh&skin=1&ftpmode=binary&passivemode=&sslconnect=&viewmode=&sort=&sortorder=&state=manage&state2=viewimage&directory=/lltp/Las-Vegas&entry=b1.jpg">
+<br>]]></description>
+			<LookAt id="khLookAt924">
+				<longitude>-115.173858668687</longitude>
+				<latitude>36.11264348992968</latitude>
+				<altitude>0</altitude>
+				<range>1028.010633957773</range>
+				<tilt>2.079450654805338e-011</tilt>
+				<heading>-0.0005621270544232917</heading>
+			</LookAt>
+			<styleUrl>#khStyle599</styleUrl>
+			<Point id="khPoint928">
+				<coordinates>-115.1748321646789,36.11287436066576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="khPlacemark559">
+			<name>马戏广场酒店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<br>
+<img src="http://www.travelbypictures.com/las_circus.jpg">
+<br><br>
+马戏广场大饭店在Strip区中历史悠久的赌场与饭店，也是第一个 将马戏表演与赌场结合经营的饭店，其经营风格老少皆宜，并以 家庭旅游者为目标市场。同时，也是一家物美价廉的赌场饭店。 设于饭店正门大的超大型电子屏幕广告牌是这家饭店最著名的标识 ，电影「007」中曾经以此饭店为背景，是拉斯韦加斯中颇具代 表性的老牌赌场与饭店。提供双人及四人套房。
+马戏广场大饭店共有3744个房间及126间套房。
+
+马戏广场目前是拉斯韦加斯数一数二的大财团了，在Strip区， 同时拥有 石中剑及金字 塔两家大型饭店，其集团所拥有的饭店房间总数可能算是拉 斯维加斯第一。1997年开始，马戏广场乐园在原先哈先达 (Hacienda)大饭店的原址(就在金字塔大饭店的隔壁)，重新以古代南 海风情为主题，建造新的天堂大饭店计划(Project Paradise) ， 预定1999年完成，新饭店楼高42层，将为马戏集团增加4000个豪 华房间。]]></description>
+			<styleUrl>#8497_copy0</styleUrl>
+			<Point id="khPoint1195">
+				<coordinates>-115.1664021339818,36.13782386755207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>米高梅大酒店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>The city wall</b>http://www.mgmgrand.com/lv/index-home.html
+<br>
+<img src="http://freehostcp.t35.com/cp/index.php?ftpserver=ftp.t35.com&ftpserverport=21&username=0823.t35.com&password_encrypted=C5C85CCB39EC&language=zh&skin=1&ftpmode=binary&passivemode=&sslconnect=&viewmode=&sort=&sortorder=&state=manage&state2=viewimage&directory=/lltp/Las-Vegas&entry=200511722213625048.jpg">
+<br><br><font-size: 10pt font-family: "宋体";>
+<HR>
+拉斯维加斯绝对是一个以大为美的城市，例如，米高梅大酒店拥有世界上最大的赌博和娱乐综合大楼。这里有3,700个老虎机、17个轮盘、76张二十一点牌桌以及15个骰子游戏桌，占地面积奇大无比，达171,500平方英尺（16,000平方米）。</font>]]></description>
+			<LookAt id="khLookAt898">
+				<longitude>-115.172246299342</longitude>
+				<latitude>36.10066131103316</latitude>
+				<altitude>0</altitude>
+				<range>595.1489401363288</range>
+				<tilt>7.432356934907932e-012</tilt>
+				<heading>0.001726386037673321</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point id="khPoint899">
+				<coordinates>-115.1712649248233,36.10180237069858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>阿拉丁赌场酒店</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>The city wall</b>
+<img src="http://www.allesamerika.com/images/Las-vegas-boulevard-Aladin.jpg">
+<br>
+阿拉丁飯店已經有30年以上的歷史了，他是以阿拉伯神話故事一 千零一夜為主題的飯店，所以佈置陳設也以阿拉伯風情為主，共 有 1058個房間，及30000平方呎的會議廳。]]></description>
+			<LookAt id="khLookAt772">
+				<longitude>-115.1726603479344</longitude>
+				<latitude>36.10920429297045</latitude>
+				<altitude>0</altitude>
+				<range>384.7576750812572</range>
+				<tilt>3.244616660408584e-010</tilt>
+				<heading>0.001481305025124852</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point id="khPoint773">
+				<coordinates>-115.1723215297961,36.1096216362364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>巴黎旅馆</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>The city wall</b>
+<br>
+<img src="http://media.wwte.com/hotels/1000000/210000/200800/200710/200710_11_b.jpg">
+<br><br><font-size: 14px font-family: "宋体";>
+巴黎拉斯维加斯酒店则为赌客们营造了优雅的法国风情。仿造的艾菲尔铁塔高达 540英尺（165米），是巴黎艾菲尔铁塔的一半，赌场的200个老虎机、录像机以及100张赌桌都具有巴黎的装饰风格。]]></description>
+			<LookAt>
+				<longitude>-115.1718941137257</longitude>
+				<latitude>36.11159856616592</latitude>
+				<altitude>0</altitude>
+				<range>329.816308840017</range>
+				<tilt>15.51405818727315</tilt>
+				<heading>27.8338449402121</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.1721146736327,36.11238716022078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mirage海市蜃楼</name>
+			<visibility>0</visibility>
+			<description><![CDATA[http://www.themirage.com/
+<br>
+<img src="http://freehostcp.t35.com/cp/index.php?ftpserver=ftp.t35.com&ftpserverport=21&username=0823.t35.com&password_encrypted=C5C85CCB39EC&language=zh&skin=1&ftpmode=binary&passivemode=&sslconnect=&viewmode=&sort=&sortorder=&state=manage&state2=viewimage&directory=/lltp/Las-Vegas&entry=mirage.jpg">
+<br><br>
+夢幻金殿大酒店(The Mirage)是老中最喜歡的飯店，共有3044間客 房，279 間豪華房間及12家餐廳。在金碧輝煌的飯店前，巨大的飛 瀑流泉讓人嘆為觀止，每隔十五分鐘便在流水之中，上演一次火山 爆發的奇景，這已經是拉斯維加斯遊客必到的遊覽之處。每隔15分 鐘演出的火山爆發奇景的製作費費用，每分鐘高達美金2000元，其 場面浩大，十分唬人。
+由夢幻金殿大酒店的商標即可以看出來，他是以沙漠中的海市蜃樓 為設計主題，夢幻金殿大酒店(The Mirage)擁有號稱拉斯維加斯最 酷的飯店大廳，大廳裡面是流水淙淙，到處是棕櫚、蘭花裝飾的熱 帶風情，在拉斯維加斯乾燥酷熱的沙漠氣候中，遊客一踏進飯店大 門，進入眼簾的竟是一遍茂密的熱帶叢林，除讓人大吃一驚外，更 是暑氣全消。電影賭城假期(Vegas Vecation)主角的一家人便是住 在這裡，其接待櫃臺後面的一面牆長53呎長，20萬加侖的海水的水 族箱，養了無數的熱帶魚，在珊瑚裡悠游，仔細一看，甚至可以看 到鯊魚呢。 
+
+電影賭城假期(Vegas Vecation)主角的一家人便是住在這裡，在電 影中可以清楚的看到這個接待櫃臺後面的大型水族箱，可得看仔細 了。
+
+夢幻金殿(Mirage的門口有電車系統可以通到金銀島飯店的二樓， 二個飯店事實上是同一個集團所經營的。
+
+夢幻金殿飯店以白老虎秀享譽拉斯維加斯，所以其動物表演是一大 特色。]]></description>
+			<LookAt id="khLookAt720">
+				<longitude>-115.1739377604753</longitude>
+				<latitude>36.12147109635752</latitude>
+				<altitude>0</altitude>
+				<range>460.5255973670967</range>
+				<tilt>1.17426375107728e-009</tilt>
+				<heading>-77.09849712538717</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point id="khPoint721">
+				<coordinates>-115.1741047446457,36.12120046934926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>纽约纽约赌场酒店（nyny)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>The city wall</b>
+<br>
+<img src="http://freehostcp.t35.com/cp/index.php?ftpserver=ftp.t35.com&ftpserverport=21&username=0823.t35.com&password_encrypted=C5C85CCB39EC&language=zh&skin=1&ftpmode=binary&passivemode=&sslconnect=&viewmode=&sort=&sortorder=&state=manage&state2=viewimage&directory=/lltp/Las-Vegas&entry=200511722213698549.jpg">
+<br><br>]]></description>
+			<LookAt>
+				<longitude>-115.172246299342</longitude>
+				<latitude>36.10066131103316</latitude>
+				<altitude>0</altitude>
+				<range>595.1489401363288</range>
+				<tilt>7.432356934907932e-012</tilt>
+				<heading>0.001726386037673321</heading>
+			</LookAt>
+			<styleUrl>#khStyle540</styleUrl>
+			<Point>
+				<coordinates>-115.1746071968931,36.10209724326377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Luxor金字塔</name>
+			<visibility>0</visibility>
+			<description><![CDATA[http://www.luxor.com/
+<br>
+<img src="http://static.virginexperiencedays.co.uk/images/originals/the-luxor-las-vegas-large-116.jpg">
+<br><br>
+<b>The city wall</b>
+金字塔大飯店擁有4474個房間，包含484個豪華套房，是目前是拉 斯維加斯僅次於MGM 的主題飯店，位於如中世紀城堡般的石中劍飯 店 (Excalibur hotel)的隔壁。
+金字塔大飯店是93年秋開幕的，以古埃及文明為主題設計。外觀設 計成大金字塔及人面獅身像，飯店房間就在金字塔裡面。飯店房間 的設計也以古埃及風格為主，住宿的旅客以專用小艇渡過小尼羅河 後，送到客房　。
+
+黑色金字塔內部，是一個中空的建築，房間建在金字塔的外壁之中 ，房間呈30度向上延伸至金字塔塔頂。由於造型太特殊了，在金字 塔的四個角落設置的電梯，其造型亦是前所末見的，電梯成30度斜 角上昇，稱之為Evalator，飯店的安全措施良好，要想上樓，需要 通過一樓安全人員的檢驗。
+
+它和馬戲廣場(Circus Circus)及石中劍大飯店 (Excalibur) 同屬 馬戲集團所經營，金字塔和石中劍之間兩邊用單軌電車連接。隔 壁是同一集團興建中的天堂樂園大飯店。在設計上，他不像 馬戲廣場及石中劍是以家庭為取向，金字塔則以成年人﹑商務旅 客為訴求目標。它的客房設計給人一種穩重舒適的感覺。]]></description>
+			<LookAt id="khLookAt618">
+				<longitude>-115.1718954536466</longitude>
+				<latitude>36.11159559136683</latitude>
+				<altitude>0</altitude>
+				<range>326.6486717706676</range>
+				<tilt>15.51405818735963</tilt>
+				<heading>27.83439008330063</heading>
+			</LookAt>
+			<styleUrl>#default+nicon=0x307+hicon=0x317</styleUrl>
+			<Point id="khPoint632">
+				<coordinates>-115.175895793525,36.09552502149677,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

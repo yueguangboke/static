@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>台湾台北101大厦</name>
+	<description>台北101 （Taipei 101），前名台北国际金融中心（Taipei Financial Center），设计师李祖原。位于台北市信义区的一幢摩天大楼，楼高508米，地上101层，地下5层，是目前全球最高的摩天大楼。其英文名称Taipei 101除代表台北，还有“Technology、 Art、 Innovation、 People、 Environment、Identity”之意义。
+台北101目前保持住的记录有：
+结构高度：508米（1667英尺），取代双峰塔的452米（1483英尺）。 
+楼顶高度: 448米（1470英尺），取代西尔斯大楼的的442米（1454英尺）。 
+楼板最高：438米（1437英尺），取代西尔斯大楼。
+但并没有突破此记录：
+顶端高度：西尔斯大楼的529米（1703英尺）。</description>
+	<LookAt>
+		<longitude>121.5652172803391</longitude>
+		<latitude>25.03388335166897</latitude>
+		<altitude>0</altitude>
+		<range>264.9177055269086</range>
+		<tilt>5.820142597441819e-010</tilt>
+		<heading>-86.87368531829921</heading>
+	</LookAt>
+	<styleUrl>root://styles#default+icon=0x307</styleUrl>
+	<Point>
+		<coordinates>121.5643773985505,25.03360242420186,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

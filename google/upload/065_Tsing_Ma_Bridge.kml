@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Tsing_Ma_Bridge.kml</name>
+	<Style id="default+icon=0x307">
+		<IconStyle>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>96</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffaa</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="default+nicon=0x307+hicon=0x317">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>default+icon=0x307</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>default+icon=0x317</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default+icon=0x317">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>96</x>
+				<y>96</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffaa</color>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>Tsing Ma Bridge</name>
+		<description>Located: Tsing Yi Island, New Territories, Hong Kong
+
+Info: World&apos;s Longest Road-and-Rail Suspension Bridge (2.2 km/1.4 miles), a vital link between Hong Kong International Airport and the city  - http://www.tsingma.com.hk
+
+Did You Know?: Tsing Ma Bridge has two levels; the top is just for vehicles, the enclosed bottom are for the HK MTR and Airport Express Trains, the bottom also has an enclosed highway, used as an alternate route if visibility is low and winds are strong.
+
+Travel Tip: Tsing Ma Bridge is easy to miss, if your not paying attention and especially if your arriving to Hong Kong without a tour guide, so if your arriving from HK International Airport make arrangements at the terminal to where and how your going to get there, there is a Visitor Centre and View Point Area open near the bridge itself, also make sure your transport makes stops there.
+
+青马大桥,最长的公路铁路两用桥,2.2千米</description>
+		<LookAt>
+			<longitude>114.0660062231682</longitude>
+			<latitude>22.3502371638203</latitude>
+			<altitude>0</altitude>
+			<range>746.8120133324841</range>
+			<tilt>-2.075449495446837e-011</tilt>
+			<heading>-0.03188703812281576</heading>
+		</LookAt>
+		<styleUrl>#default+nicon=0x307+hicon=0x317</styleUrl>
+		<Point>
+			<coordinates>114.0676919758986,22.34893672909407,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

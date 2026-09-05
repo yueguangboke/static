@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>中南海</name>
+	<Style id="style_copy0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon46.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style_copy2">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style_copy1">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal5/icon62.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon46.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff5500</color>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>中南海</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<description><![CDATA[<img src="http://www.godeyes.cn/bbs/Upload/2006/09/29/214434.jpg" alt="中南海" width="360" height="270" />
+
+<DIV>中南海位于北京市西城区。是中共中央和中华人民共和国国务院辦公所在地。佔地100公顷，其中水面约50公顷。</DIV>
+
+<DIV>历史</DIV>
+<DIV>狭义的“中南海”仅指北京故宫西侧的两个连通的湖——中海和南海。金朝时期，在今日中南海的北半部有太液池和大宁宫，“太液秋波”为形成于金朝的燕京八景之一。元朝修筑大都时，将太液池包入皇城之中，在其周围布置了三组宫殿，即大内、隆福宫和兴圣宫。元朝的太液池范围相当于今日的北海和中海。</DIV>
+
+<DIV>明朝明成祖定都北京后，从1406年起营建新的皇宫，明朝宫城在元朝宫殿的位置基础上向南移动，因此皇城城墙也随之南移，为丰富皇城园林景观，开挖了南海，挖出的土方和开凿筒子河的土方堆成万岁山（即景山）。北海、中海、南海统称“太液池”，属于皇城西苑。北海与中海以金鳌玉蝀桥为界，中海与南海以蜈蚣桥为界。</DIV>
+
+<DIV>清朝定都北京后，撤消皇城内诸内廷供奉衙署，将西苑大片土地改为民居，同时在北海、中海、南海三海周围设置“内红墙”，御苑范围退缩至内红墙之内。清帝喜园居，顺治、康熙、乾隆诸帝均在中南海内兴建殿宇馆轩，作为避暑听政之所。同治、光绪年间，慈禧太后及皇帝按礼制在十二月从颐和园移居紫禁城时，也多在中南海内居住，仅行礼时前往紫禁城。戊戌变法失败后，慈禧太后曾将光绪帝囚禁于南海中的瀛台。</DIV>
+
+ 
+<DIV>金鳌玉蝀桥1900年义和团运动时期，中南海成为俄军驻地，苑内文物陈设被掠一空，八国联军总司令瓦德西抵达北京后，居住于中南海仪鸾殿。溥仪即位后，曾在中海西岸集灵囿修建摄政王府。</DIV>
+
+<DIV>1911年清帝逊位后，中南海被袁世凯佔用，成为北洋政府总统府，袁世凯称帝时期，中南海曾改名“新华宫”。此后中南海又先后被用作北洋政府的总统和总理办公地，以及张作霖的“帅府”。国民政府迁都南京后，中南海作为公园对民众开放。</DIV>
+
+<DIV>1949年後，中南海成为中共中央和国务院的驻地和部分国家领导人居住的地方，如毛泽东、周恩来、邓小平等。因此，中南海成为了中華人民共和國政府高层的代称，有如以白宫代稱美国官方。</DIV>
+
+]]></description>
+		<Style>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Folder>
+			<name>大门</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>新华门</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://www.jsdj.com/luyou/tp/b733.jpg" alt="新华门" width="360" height="270" />
+
+
+<DIV>新华门：中南海正门，位於西长安大街上，为两层楼房，面阔七间，下层中央三间为门洞。卷棚歇山顶，绿剪边黄琉璃瓦。新华门原为乾隆时期建造的宝月楼，辛亥革命后，袁世凯改楼为门，并以“新中华民国”之意取名为“新华门”。同时在门内修建影壁，拆除门外清真寺，在长安街对面修筑花墙挡住破烂民居，并将义和团运动时被焚毁的端王府一对石狮移于门前。新華門兩旁八字影壁墙上有“偉大的中國共產黨萬歲”、“戰無不勝的毛澤東思想萬歲”的标语。门内影壁题字为毛泽东手书“為人民服務”。 </DIV>]]></description>
+				<LookAt>
+					<longitude>116.3799261289513</longitude>
+					<latitude>39.9061691100594</latitude>
+					<altitude>0</altitude>
+					<range>339.7405771088011</range>
+					<tilt>9.577761667409223e-011</tilt>
+					<heading>-0.1066817789603081</heading>
+				</LookAt>
+				<Style>
+					<IconStyle>
+						<scale>0.8</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal5/icon62.png</href>
+						</Icon>
+					</IconStyle>
+					<LabelStyle>
+						<scale>0.8</scale>
+					</LabelStyle>
+				</Style>
+				<Point>
+					<coordinates>116.3798736115926,39.90632197891935,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>北门</name>
+				<visibility>0</visibility>
+				<description>解放后新开，在原摄政王府东北侧。</description>
+				<LookAt>
+					<longitude>116.3792485117186</longitude>
+					<latitude>39.92050616048029</latitude>
+					<altitude>0</altitude>
+					<range>400.9580776875092</range>
+					<tilt>9.945556438290633e-009</tilt>
+					<heading>-3.76658464552412</heading>
+				</LookAt>
+				<styleUrl>#style_copy1</styleUrl>
+				<Point>
+					<coordinates>116.3786370516975,39.920907229176,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>西苑门</name>
+				<visibility>0</visibility>
+				<description>此门直通紫禁城西华门，清末慈禧居住于中南海时，由此门前往紫禁城议事。</description>
+				<LookAt>
+					<longitude>116.3834608600562</longitude>
+					<latitude>39.9132555697899</latitude>
+					<altitude>0</altitude>
+					<range>205.3955437990927</range>
+					<tilt>6.898223533914569e-010</tilt>
+					<heading>-0.1044132550855137</heading>
+				</LookAt>
+				<styleUrl>#style_copy1</styleUrl>
+				<Point>
+					<coordinates>116.3834094291887,39.91333815892748,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>椒园门</name>
+				<visibility>0</visibility>
+				<description>现已封闭。</description>
+				<LookAt>
+					<longitude>116.3834759411942</longitude>
+					<latitude>39.91969852108752</latitude>
+					<altitude>0</altitude>
+					<range>1086.951734470269</range>
+					<tilt>6.78341771414912e-010</tilt>
+					<heading>-0.1044037144730083</heading>
+				</LookAt>
+				<styleUrl>#style_copy1</styleUrl>
+				<Point>
+					<coordinates>116.3840625021545,39.92049449499301,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>福华门</name>
+				<visibility>0</visibility>
+				<description>原北大门，现已封闭。</description>
+				<LookAt>
+					<longitude>116.380030094495</longitude>
+					<latitude>39.9205774155546</latitude>
+					<altitude>0</altitude>
+					<range>404.1364728128443</range>
+					<tilt>1.018645041655022e-008</tilt>
+					<heading>-3.766083080708754</heading>
+				</LookAt>
+				<styleUrl>#style_copy1</styleUrl>
+				<Point>
+					<coordinates>116.3803203358052,39.92090022196119,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>西北门</name>
+				<visibility>0</visibility>
+				<description>解放后新开。</description>
+				<LookAt>
+					<longitude>116.3762363201736</longitude>
+					<latitude>39.91857782491152</latitude>
+					<altitude>0</altitude>
+					<range>278.3571430588694</range>
+					<tilt>5.239828044122241e-010</tilt>
+					<heading>-0.1090487360060885</heading>
+				</LookAt>
+				<styleUrl>#style_copy1</styleUrl>
+				<Point>
+					<coordinates>116.3760762534262,39.91843251283702,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>西门</name>
+				<visibility>0</visibility>
+				<description>解放后新开。</description>
+				<LookAt>
+					<longitude>116.3762228958947</longitude>
+					<latitude>39.91485692972421</latitude>
+					<altitude>0</altitude>
+					<range>216.624055355116</range>
+					<tilt>-1.463216793484575e-010</tilt>
+					<heading>-0.1090573202596742</heading>
+				</LookAt>
+				<styleUrl>#style_copy1</styleUrl>
+				<Point>
+					<coordinates>116.3759967469206,39.91485803270697,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>水域</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>中海</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>116.3818059047029</longitude>
+					<latitude>39.9151536651496</latitude>
+					<altitude>0</altitude>
+					<range>1455.491865637925</range>
+					<tilt>-6.154342192358521e-011</tilt>
+					<heading>-0.1054756428250013</heading>
+				</LookAt>
+				<Style>
+					<IconStyle>
+						<scale>0.8</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon46.png</href>
+						</Icon>
+					</IconStyle>
+					<LabelStyle>
+						<color>ffff5500</color>
+						<scale>0.8</scale>
+					</LabelStyle>
+				</Style>
+				<Point>
+					<coordinates>116.3818059047029,39.9151536651496,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>南海</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>116.3805454475175</longitude>
+					<latitude>39.90892037035126</latitude>
+					<altitude>0</altitude>
+					<range>1456.923954575864</range>
+					<tilt>-9.083544371206723e-012</tilt>
+					<heading>-0.106284558779138</heading>
+				</LookAt>
+				<Style>
+					<IconStyle>
+						<scale>0.8</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pal4/icon46.png</href>
+						</Icon>
+					</IconStyle>
+					<LabelStyle>
+						<color>ffff5500</color>
+						<scale>0.8</scale>
+					</LabelStyle>
+				</Style>
+				<Point>
+					<coordinates>116.378198685866,39.90852463933977,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>重要建筑</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>中共中央办公区</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://www.xfan.cn/ewebeditor/UploadFile/20051116103839697.jpg" alt="中共中央办公区" width="360" height="270" />
+
+<div>位于西门内大路南侧，建筑多为解放后新建。</div>]]></description>
+				<LookAt>
+					<longitude>116.3787188350036</longitude>
+					<latitude>39.91329416297059</latitude>
+					<altitude>0</altitude>
+					<range>1033.098794031851</range>
+					<tilt>4.468057507578238e-010</tilt>
+					<heading>-0.7936083404434391</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.376695661126,39.91345535040939,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>淑清院</name>
+				<visibility>0</visibility>
+				<description>淑清院：位于南海东北角，为乾隆时修建的小型园林，风格类似北海公园静心斋。园内有“流水音”亭、葆光室、蓬瀛在望殿、云绘楼、清音阁、日知阁、万字廊、双环万寿亭等建筑，1949年后将双环万寿亭移至天坛公园，并拆除部分古建，修建卫戍部队营房及办公人员宿舍。 </description>
+				<LookAt>
+					<longitude>116.3822214167431</longitude>
+					<latitude>39.91050479821907</latitude>
+					<altitude>0</altitude>
+					<range>449.97690312949</range>
+					<tilt>3.838614136686347e-010</tilt>
+					<heading>-0.7913614195478408</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3822214167431,39.91050479821907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>瀛台</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://www.huangcheng.com/hcfq/ylsx/yt.jpg" alt="瀛台" width="360" height="270" />
+
+<div>瀛台：明时称“南台”，清朝顺治康熙年间在岛上修筑大量殿宇并改为现名。瀛台岛北有石桥与岸上相连，桥南为仁曜门，门南为翔鸾阁，正殿七间，左右延楼19间。再南为涵元门，内为瀛台主体建筑涵元殿。由于岛上存在坡度，该殿北立面为单层建筑，南立面则为两层楼阁，称“蓬莱阁”。涵元殿北有配殿两座，东为庆云殿，西为景星殿；殿南两侧建筑，东为藻韵楼，西为绮思楼。藻韵楼之东有补桐书屋和随安室，乾隆时为书房，东北为待月轩和镜光亭。绮思楼向西为长春书屋和漱芳润，周围有长廊，名为“八音克谐”，及“怀抱爽”亭。戊戌变法失败后，光绪帝曾被囚禁于瀛台。袁世凯称帝后亦曾将副总统黎元洪软禁于此。瀛台现为举办宴会及招待活动的场所。 </div>
+]]></description>
+				<LookAt>
+					<longitude>116.3802168262053</longitude>
+					<latitude>39.90936777556011</latitude>
+					<altitude>0</altitude>
+					<range>1048.296220892428</range>
+					<tilt>3.243130377028394e-010</tilt>
+					<heading>-0.7926477119001767</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.379811476646,39.90937038184831,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>菊香书屋</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://www.qingdaonews.com/images/2006-06/07/LN0607F0B.JPG " alt="菊香书屋" width="236" height="300" />
+<div>位于颐年堂东侧，建国初年为毛泽东寓所。</div>]]></description>
+				<LookAt>
+					<longitude>116.3796256767245</longitude>
+					<latitude>39.91243624900741</latitude>
+					<altitude>0</altitude>
+					<range>392.4306939372972</range>
+					<tilt>5.137958266702922e-010</tilt>
+					<heading>-0.7930264672438058</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.37909526497,39.91244874809392,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>南船坞</name>
+				<visibility>0</visibility>
+				<description>南海东岸船坞。</description>
+				<LookAt>
+					<longitude>116.3830992235609</longitude>
+					<latitude>39.90884597605925</latitude>
+					<altitude>0</altitude>
+					<range>326.721352705164</range>
+					<tilt>5.025585154501647e-010</tilt>
+					<heading>-0.7907984670271602</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3830992235609,39.90884597605925,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>勤政殿 </name>
+				<visibility>0</visibility>
+				<description>勤政殿：位于中海与南海之间的堤岸上，正门德昌门即南海的北门。原建筑在中华民国初年已被拆除，仅存地名。 </description>
+				<LookAt>
+					<longitude>116.3810927468142</longitude>
+					<latitude>39.91126432301929</latitude>
+					<altitude>0</altitude>
+					<range>400.1083711383226</range>
+					<tilt>5.95741176239132e-010</tilt>
+					<heading>-0.7920851823163283</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3810927468142,39.91126432301929,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>丰泽园</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://218.90.174.171/mzd/photo/image/dcp-3704.JPG " alt="丰泽园" width="360" height="270" />
+
+<div>丰泽园：在瀛台之北，康熙年间建造，曾为养蚕之处。雍正年间皇帝在举行亲耕礼之前在此演礼。丰泽园内主体建筑为惇叙殿，光绪年间改名为颐年殿，民国时改名颐年堂，袁世凯曾在此办公。1949年后改为会议场所。颐年堂东为菊香书屋，为毛泽东居住地。丰泽园西有荷风蕙露亭、崇雅殿、静憩轩、怀远斋和纯一斋，荷风蕙露亭北为静谷，为一座幽静的小园林。静谷再北为春耦斋，民国时为总统办公处，1949年后改为会议及娱乐场所。 </div>
+]]></description>
+				<LookAt>
+					<longitude>116.3798253940993</longitude>
+					<latitude>39.91211212796979</latitude>
+					<altitude>0</altitude>
+					<range>392.2918609306132</range>
+					<tilt>5.903316085286156e-010</tilt>
+					<heading>-0.7928983185797682</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3792934060873,39.91193349150868,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>紫光阁</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://xinwen.8www.cn/UploadFiles_8013/200606/200663051427408.jpg " alt="紫光阁" width="360" height="270" />
+
+<DIV>紫光阁：位于中海西岸北部，阁高两层，面阔七间，单檐庑殿顶，黄剪边绿琉璃瓦，前有五间卷棚歇山顶抱厦。明武宗时为平台，台上有黄瓦顶小殿。明世宗时废台，修建紫光阁，清康熙时重修，成为皇帝检阅侍卫比武的地方。乾隆二十五年（1760年）和四十年（1775年）两次增建，悬挂功臣图像及各次战役挂图，并陈列缴获的武器。1949年后改建为国事活动场所。阁后有武成殿。面阔五间，单檐卷棚歇山顶。 
+</DIV>]]></description>
+				<LookAt>
+					<longitude>116.3799430083632</longitude>
+					<latitude>39.91882318605008</latitude>
+					<altitude>0</altitude>
+					<range>315.5584293659961</range>
+					<tilt>0</tilt>
+					<heading>-0.7928226926267687</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3798051174289,39.91910244327763,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>颐年堂</name>
+				<visibility>0</visibility>
+				<description>丰泽园内的主体建筑。
+</description>
+				<LookAt>
+					<longitude>116.3796250239548</longitude>
+					<latitude>39.91247246497258</latitude>
+					<altitude>0</altitude>
+					<range>392.5323591371843</range>
+					<tilt>4.318511864920863e-010</tilt>
+					<heading>-0.7930268850821257</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3784415046948,39.91269578826184,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>金鳌玉蝀桥</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://www.xfan.cn/ewebeditor/UploadFile/20051116103859130.jpg" alt="金鳌玉蝀桥" width="360" height="270" />
+
+<div>位于北海与中海之间，亦是普通民众得以一窥中南海内部的唯一地点。</div>]]></description>
+				<LookAt>
+					<longitude>116.3817132869565</longitude>
+					<latitude>39.92085631645504</latitude>
+					<altitude>0</altitude>
+					<range>249.3014704514205</range>
+					<tilt>5.431440648173796e-010</tilt>
+					<heading>-0.7916873360530813</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3816265344865,39.92102495747789,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>怀仁堂</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://www.tllighting.com/chinese/images/HRT4.jpg " alt="怀仁堂" width="360" height="270" />
+
+<div>怀仁堂：原址位于春耦斋北，清光绪时修建，取名仪鸾殿，为慈禧太后居所。八国联军统帅瓦德西曾在此居住，其间不慎失火，将殿烧毁。1901年后在原址修建海宴堂，风格仿照圆明园海宴堂，殿前亦有十二生肖兽首人身喷水铜像。民国时改名怀仁堂，后更名为居仁堂，1949年后拆毁。慈禧太后另在中海西岸修建新仪鸾殿，后改名佛照楼，袁世凯称帝前改名怀仁堂。1949年后拆除原建筑，修建中式屋顶的两层楼房。 1949年第一届全国政协会议在此召开，现为举行会议、重大活动的场所。</div>]]></description>
+				<LookAt>
+					<longitude>116.3784171088942</longitude>
+					<latitude>39.91490694893858</latitude>
+					<altitude>0</altitude>
+					<range>472.8558054085668</range>
+					<tilt>5.738084803711235e-010</tilt>
+					<heading>-0.7938017653527401</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3779276481486,39.91531500705082,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>国务院办公区</name>
+				<visibility>0</visibility>
+				<description>摄政王府：位于中南海西北角，北西两面临墙。原位于西苑墙外，光绪十一年扩建西苑时将此地圈入中南海，并将位于原址的蚕池口天主教堂迁往西什库。慈禧太后拟在此修建新园林“集灵囿”，但一直未开工。1909年将此地拨给摄政王载沣，修建摄政王府。摄政王府规制同旧醇王府（北府）相似，包括中路、东路、西一路、西二路、西花园，工程耗银206万两。1911年清朝覆灭时王府仍未竣工，后改为国务院办公地，1918年后先后成为徐世昌的总统府、陆军部和海军部、北平市政府。1949年后改为国务院办公区，1970年代末大规模翻修中南海建筑时曾计划将摄政王府落架大修，但发现建筑质量非常低劣，地基松散，木柱间裂缝用碎砖填充，已无法保留，只得拆除。现存正门和正殿，为会议室。周恩来曾居住于西花园内的西花厅，也加以保存。 </description>
+				<LookAt>
+					<longitude>116.3773697070633</longitude>
+					<latitude>39.91961927342568</latitude>
+					<altitude>0</altitude>
+					<range>468.7291238633258</range>
+					<tilt>4.433510969262716e-010</tilt>
+					<heading>-0.7944738433420232</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.378185337782,39.91930959146611,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>西花厅</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://www.people.com.cn/mediafile/200406/02/F2004060209222000000.bmp" alt="西花厅" width="360" height="270" />
+
+<div>　　西花厅周恩来故居，位于北京中南海北区。现址南北长约280米，东西宽约60米，是个长方形的四进庭院。水榭南大门为前院，即一进院，主要是一些服务设施。二进院前面有水榭，三面临水，夏季池中开着朵朵莲花；水榭东北侧是不染亭，亭榭之间以短廊相接。院内植有花草翠竹和苍郁松柏。沿林荫道往前，是二进院的正房和耳房，建在青砖砌筑的台基上，正房廊檐悬挂有“西花厅”匾额。西花厅中间的屋子是会客厅（前厅）。三进院内种有四季花木，栽有桃树、梨树，其中最多的是周恩来喜爱的海棠。院子中间的正房是会客厅（后厅）；东耳房第一、二间是周恩来和邓颖超的寝室，紧靠寝室的屋子是邓颖超办公室；西耳房是周恩来办公室。四进院是辅助设施。</div>]]></description>
+				<LookAt>
+					<longitude>116.3771834796908</longitude>
+					<latitude>39.91922172938681</latitude>
+					<altitude>0</altitude>
+					<range>468.4105997122621</range>
+					<tilt>9.057083884451944e-011</tilt>
+					<heading>-0.7945933489552441</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3770617788858,39.9194893156339,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>居仁堂</name>
+				<visibility>0</visibility>
+				<description>位于中海西侧，怀仁堂以南。当年袁世凯曾在此办公会客，袁称帝时亦曾在此会见百官。</description>
+				<LookAt>
+					<longitude>116.3783053364954</longitude>
+					<latitude>39.91398133779872</latitude>
+					<altitude>0</altitude>
+					<range>174.4755125982058</range>
+					<tilt>1.165104121149015e-009</tilt>
+					<heading>-0.7938736161643415</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3782416958453,39.91410584542551,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>春藕斋</name>
+				<visibility>0</visibility>
+				<description>民国时总统办公处。1949年后改为会议及娱乐场所。 
+</description>
+				<LookAt>
+					<longitude>116.3785665222333</longitude>
+					<latitude>39.91274476624809</latitude>
+					<altitude>0</altitude>
+					<range>412.9920578601807</range>
+					<tilt>7.807964917989945e-010</tilt>
+					<heading>-0.7937060319179059</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3778022206173,39.91333638799426,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>静谷</name>
+				<visibility>0</visibility>
+				<description>丰泽园西一幽静小园林。</description>
+				<LookAt>
+					<longitude>116.3784853574996</longitude>
+					<latitude>39.91252629669501</latitude>
+					<altitude>0</altitude>
+					<range>412.7429459253738</range>
+					<tilt>5.444366776945237e-010</tilt>
+					<heading>-0.7937581099186366</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3773955024265,39.91240899683162,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>游泳池</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://epaper.bjd.com.cn/wb/20060820/200608/W020060820477959376854.jpg" alt="游泳池" width="360" height="270" />
+
+<div>中南海游泳池初建于解放前，在民国时期，曾是北京市唯一的一个公共游泳池。1949年以后，经改造成为了长五十米、宽二十五米，南深北浅的标准泳池。解放后，在室外泳池旁边新建了室内游泳池。1966年至1976年，毛泽东居住于此。</div>]]></description>
+				<LookAt>
+					<longitude>116.3793899911747</longitude>
+					<latitude>39.91654554550638</latitude>
+					<altitude>0</altitude>
+					<range>178.4719380205389</range>
+					<tilt>5.244688808763199e-010</tilt>
+					<heading>-0.793177542058514</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3793438889233,39.91664241838794,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>水云榭</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://www.xfan.cn/ewebeditor/UploadFile/20051116103855856.jpg" alt="水云榭" width="360" height="270" />
+
+<div>水云榭：位于中海东岸水中，为一敞轩，燕京八景中的“太液秋风”即指此处。 </div>
+]]></description>
+				<LookAt>
+					<longitude>116.3819337433618</longitude>
+					<latitude>39.91740633584811</latitude>
+					<altitude>0</altitude>
+					<range>271.3941666633366</range>
+					<tilt>1.015606750792278e-008</tilt>
+					<heading>-3.764861550914502</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3819688648764,39.91751369241798,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>万善殿</name>
+				<visibility>0</visibility>
+				<description>万善殿：位于中海东岸，明代为椒园。原名崇智殿，清顺治时改为现名，殿内供奉三世佛像。万善殿后有千圣殿，上为圆顶，殿内供奉七层千佛塔。 </description>
+				<LookAt>
+					<longitude>116.3829659524739</longitude>
+					<latitude>39.91783842198385</latitude>
+					<altitude>0</altitude>
+					<range>232.38067866393</range>
+					<tilt>1.041057367528405e-008</tilt>
+					<heading>-3.764199209278655</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3830079212076,39.91793085711151,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>椒园</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>116.3828723418241</longitude>
+					<latitude>39.91705952252255</latitude>
+					<altitude>0</altitude>
+					<range>269.1723368238319</range>
+					<tilt>1.04104772576566e-008</tilt>
+					<heading>-3.764259282003105</heading>
+				</LookAt>
+				<styleUrl>#style_copy2</styleUrl>
+				<Point>
+					<coordinates>116.3830810591264,39.91718153686119,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

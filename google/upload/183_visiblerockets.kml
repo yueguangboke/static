@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>visiblerockets</name>
+	<open>1</open>
+	<Folder>
+		<name>Visible Rockets</name>
+		<open>1</open>
+		<Placemark>
+			<name>Saturn V Rocket</name>
+			<description>Johnson Space Center</description>
+			<LookAt>
+				<longitude>-95.09432518186971</longitude>
+				<latitude>29.5538932934307</latitude>
+				<altitude>0</altitude>
+				<range>192.7925978226559</range>
+				<tilt>3.277864408293022e-011</tilt>
+				<heading>67.80293574662622</heading>
+			</LookAt>
+			<Style>
+				<LabelStyle>
+					<scale>1.1</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>-95.09386804442487,29.55420484075935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saturn 1B Rocket - Standing</name>
+			<description><![CDATA[Alabama <a href="http://www.spacecamp.com/museum/">US Space and Rocket Center</a><br>
+<br>]]></description>
+			<LookAt>
+				<longitude>-86.65545918538602</longitude>
+				<latitude>34.71118060761501</latitude>
+				<altitude>0</altitude>
+				<range>398.3389193264131</range>
+				<tilt>1.558565650199001e-010</tilt>
+				<heading>19.81619522217963</heading>
+			</LookAt>
+			<Style>
+				<LabelStyle>
+					<scale>1.1</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>-86.65630154141232,34.71132657980379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saturn V Rocket</name>
+			<description><![CDATA[Alabama <a href="http://www.spacecamp.com/museum/">US Space and Rocket Center</a>]]></description>
+			<LookAt>
+				<longitude>-86.65474064226187</longitude>
+				<latitude>34.71002639245874</latitude>
+				<altitude>0</altitude>
+				<range>230.1563599383791</range>
+				<tilt>5.014082667612502e-011</tilt>
+				<heading>4.694373107025748</heading>
+			</LookAt>
+			<Style>
+				<LabelStyle>
+					<scale>1.1</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>-86.6548077900915,34.71014628529328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saturn V Rocket</name>
+			<description>Kennedy Space Center</description>
+			<LookAt>
+				<longitude>-80.68329107981714</longitude>
+				<latitude>28.52389516725462</latitude>
+				<altitude>0</altitude>
+				<range>222.5129403849606</range>
+				<tilt>1.149653562047047e-010</tilt>
+				<heading>90.97583890076869</heading>
+			</LookAt>
+			<Style>
+			</Style>
+			<Point>
+				<coordinates>-80.68323196957277,28.52402792869619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rocket in front of Air Force Museum</name>
+			<description>March AFB</description>
+			<LookAt>
+				<longitude>-117.2676224133025</longitude>
+				<latitude>33.88334611134733</latitude>
+				<altitude>0</altitude>
+				<range>229.09655879223</range>
+				<tilt>3.222024788938655e-011</tilt>
+				<heading>-0.0002138026243681729</heading>
+			</LookAt>
+			<Style>
+				<LabelStyle>
+					<scale>1.1</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>-117.2675181346966,33.88327495873962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rocket Collection - NASA MSFC</name>
+			<description>Several Rockets on display at the Redstone Arsenal/Marshall Space Flight Center, NASA</description>
+			<LookAt>
+				<longitude>-86.67160527954252</longitude>
+				<latitude>34.65242546110501</latitude>
+				<altitude>0</altitude>
+				<range>196.1601426911579</range>
+				<tilt>0</tilt>
+				<heading>130.39745898042</heading>
+			</LookAt>
+			<styleUrl>#style</styleUrl>
+			<Point>
+				<coordinates>-86.67158581173396,34.65238991986496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Space Shuttle - Full Scale Model</name>
+			<description><![CDATA[<a href="http://www.kennedyspacecenter.com/visitKSC/index.asp">Kennedy Space Center Visitor Complex</a>]]></description>
+			<LookAt>
+				<longitude>-80.68025685486704</longitude>
+				<latitude>28.52502696279452</latitude>
+				<altitude>0</altitude>
+				<range>221.5129627060033</range>
+				<tilt>1.695111798001742e-010</tilt>
+				<heading>-130.2919035383011</heading>
+			</LookAt>
+			<Style>
+			</Style>
+			<Point>
+				<coordinates>-80.6804240850484,28.52491628301657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Space Shuttle - Full Scale Model</name>
+			<description><![CDATA[<a href="http://www.spacecamp.com/museum/">US Space and Rocket Center</a>]]></description>
+			<LookAt>
+				<longitude>-86.65269365078318</longitude>
+				<latitude>34.71074536945211</latitude>
+				<altitude>0</altitude>
+				<range>233.1564162644948</range>
+				<tilt>2.062826959337522e-010</tilt>
+				<heading>5.80096349179614</heading>
+			</LookAt>
+			<Style>
+			</Style>
+			<Point>
+				<coordinates>-86.65303065350399,34.711009132245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arianne 4</name>
+			<LookAt>
+				<longitude>2.434205730676863</longitude>
+				<latitude>48.9473500798576</latitude>
+				<altitude>0</altitude>
+				<range>247.3061011981694</range>
+				<tilt>0</tilt>
+				<heading>0.1748740511367647</heading>
+			</LookAt>
+			<styleUrl>#style</styleUrl>
+			<Point>
+				<coordinates>2.433725643739622,48.94720562473355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arianne 5</name>
+			<LookAt>
+				<longitude>2.434205730676933</longitude>
+				<latitude>48.94735007985645</latitude>
+				<altitude>0</altitude>
+				<range>252.4088382532987</range>
+				<tilt>2.865489319527309e-011</tilt>
+				<heading>0.1748740511366922</heading>
+			</LookAt>
+			<styleUrl>#style</styleUrl>
+			<Point>
+				<coordinates>2.433662675447835,48.94769586526078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Soviet Space Shuttle Buran in Moscow</name>
+			<description><![CDATA[<a href="http://bbs.keyhole.com/ubb/showthreaded.php/Number/407685">See this post</a> from the Google Earth Community.]]></description>
+			<LookAt>
+				<longitude>37.5972460160089</longitude>
+				<latitude>55.72860805093726</latitude>
+				<altitude>0</altitude>
+				<range>221.7271598334678</range>
+				<tilt>1.888418548591871e-010</tilt>
+				<heading>-0.007830887869947928</heading>
+			</LookAt>
+			<styleUrl>#style0</styleUrl>
+			<Point>
+				<coordinates>37.59723994724658,55.72869997807591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Soviet Space Shuttle Buran</name>
+			<description><![CDATA[From the Google Earth Community - <a href="http://bbs.keyhole.com/ubb/showthreaded.php/Number/552336">see this post</a>]]></description>
+			<LookAt>
+				<longitude>63.31009284355964</longitude>
+				<latitude>45.91957801839812</latitude>
+				<altitude>0</altitude>
+				<range>332.8121021666561</range>
+				<tilt>7.615582754531978e-011</tilt>
+				<heading>-21.01068272391998</heading>
+			</LookAt>
+			<styleUrl>#style0</styleUrl>
+			<Point>
+				<coordinates>63.30977675260061,45.91987068018933,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

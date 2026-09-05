@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>341_Barksdale.kml</name>
+	<Style id="sn_ylw-pushpin_copy34">
+	</Style>
+	<Placemark>
+		<name>美国巴克斯代尔空军基地</name>
+		<LookAt>
+			<longitude>-93.66824724108339</longitude>
+			<latitude>32.4965766579461</latitude>
+			<altitude>0</altitude>
+			<range>1249.885132686268</range>
+			<tilt>0.001691605334277701</tilt>
+			<heading>-0.02202025638626165</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy34</styleUrl>
+		<Point>
+			<coordinates>-93.66802658535073,32.49598529206705,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

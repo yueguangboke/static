@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>080_Golden_Gate_Bridge.kml</name>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>金门大桥</name>
+		<description>金门大桥(Golden Gate Bridge)是世界著名大桥之一，被誉为近代桥梁工程的一项奇迹。大桥雄峙于美国加利福尼亚州宽1900多米的金门海峡之上。金门海峡为旧金山海湾入口处，两岸陡峻，航道水深，为1579年英国探险家弗朗西斯·德雷克发现，并由他命名。</description>
+		<LookAt>
+			<longitude>-122.4778477355405</longitude>
+			<latitude>37.81403498324828</latitude>
+			<altitude>0</altitude>
+			<range>309.6090253901772</range>
+			<tilt>0</tilt>
+			<heading>2.891620274019683e-005</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-122.4778782277886,37.81433281569859,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>350_Mission_Dolores.kml</name>
+	<Style id="sn_icon63_copy3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>多罗雷天主堂</name>
+		<LookAt>
+			<longitude>-122.4267880939783</longitude>
+			<latitude>37.76447341264587</latitude>
+			<altitude>0</altitude>
+			<range>126.54361393064</range>
+			<tilt>-2.466738167128701e-010</tilt>
+			<heading>-13.49461551394713</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_icon63_copy3</styleUrl>
+		<Point>
+			<coordinates>-122.4270591193689,37.76441499866144,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

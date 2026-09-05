@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Tivoli_Gardens.kml</name>
+	<Style id="s_ylw-pushpin_hl_copy3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_copy3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>蒂沃利公园</name>
+		<LookAt>
+			<longitude>12.56838899999996</longitude>
+			<latitude>55.67388874893202</latitude>
+			<altitude>0</altitude>
+			<range>181.82447256367</range>
+			<tilt>-1.716166065820319e-010</tilt>
+			<heading>-9.173267319333025e-016</heading>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin_copy3</styleUrl>
+		<Point>
+			<coordinates>12.56832161774827,55.67381750429315,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

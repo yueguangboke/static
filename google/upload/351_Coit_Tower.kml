@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>351_Coit_Tower.kml</name>
+	<Style id="sn_icon63">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>美国旧金山考依特塔</name>
+		<LookAt>
+			<longitude>-122.4058288638022</longitude>
+			<latitude>37.80232868959877</latitude>
+			<altitude>0</altitude>
+			<range>84.87215542955018</range>
+			<tilt>1.394048247842111e-009</tilt>
+			<heading>-90.01075551277499</heading>
+		</LookAt>
+		<styleUrl>#sn_icon63</styleUrl>
+		<Point>
+			<coordinates>-122.4058288638022,37.80232868959877,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

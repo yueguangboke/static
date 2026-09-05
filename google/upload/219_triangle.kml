@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>triangle.kml</name>
+	<Style id="default+icon=0x3071244256_copy2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>大三角图案</name>
+		<LookAt>
+			<longitude>-116.0256343169891</longitude>
+			<latitude>37.66517344476431</latitude>
+			<altitude>0</altitude>
+			<range>314.6715819830712</range>
+			<tilt>-2.509032769085011e-011</tilt>
+			<heading>-0.0002348092416804605</heading>
+		</LookAt>
+		<styleUrl>#default+icon=0x3071244256_copy2</styleUrl>
+		<Point>
+			<coordinates>-116.0255147732389,37.66511995800408,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

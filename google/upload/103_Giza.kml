@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>103_Giza.kml</name>
+	<Style id="khStyle792">
+		<IconStyle id="khIconStyle793">
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>埃及吉萨金字塔</name>
+		<LookAt>
+			<longitude>31.13109108423517</longitude>
+			<latitude>29.97616663151542</latitude>
+			<altitude>0</altitude>
+			<range>263.3761672390733</range>
+			<tilt>7.707393065295539e-010</tilt>
+			<heading>-0.003187113491738273</heading>
+		</LookAt>
+		<styleUrl>#khStyle792</styleUrl>
+		<Point>
+			<coordinates>31.13193064301058,29.97595571315068,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

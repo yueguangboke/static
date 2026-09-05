@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>326_Palace_of_Fine_Arts.kml</name>
+	<Style id="sn_icon63_copy3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>美国旧金山艺术宫</name>
+		<LookAt>
+			<longitude>-122.4483471292993</longitude>
+			<latitude>37.8028875697312</latitude>
+			<altitude>0</altitude>
+			<range>208.840239685963</range>
+			<tilt>-6.312649475534443e-011</tilt>
+			<heading>79.87196341082537</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_icon63_copy3</styleUrl>
+		<Point>
+			<coordinates>-122.4482937378919,37.80291260193346,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

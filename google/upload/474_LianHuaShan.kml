@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>474_LianHuaShan.kml</name>
+	<Style id="sn_ylw-pushpin">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>深圳莲花山公园</name>
+		<LookAt>
+			<longitude>114.0543836728256</longitude>
+			<latitude>22.55575520551429</latitude>
+			<altitude>0</altitude>
+			<range>219.1013300533232</range>
+			<tilt>0</tilt>
+			<heading>-2.653803628506491e-005</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>114.0542892987336,22.55579496044446,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

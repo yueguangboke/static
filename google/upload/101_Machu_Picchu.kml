@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Machu_Picchu.kml</name>
+	<Style id="khStyle741">
+		<IconStyle id="khIconStyle742">
+			<color>997faaaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-5.png</href>
+				<x>128</x>
+				<y>64</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle744">
+			<color>de7f55ff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>马丘比丘 Machu Picchu</name>
+		<description><![CDATA[<table width="350">
+  <tr>
+    <td>
+<img src="http://image2.sina.com.cn/book/longbook/1073011201_50places/U15P112T3D34812F48DT20040102161032.gif" border="0" width="350" height="250"><br><br>
+
+数百年前，印加帝国屈辱地沦为西班牙的殖民地，生活在这片古老土地上的居民也因为对西班牙人带来的传染病没有抵抗能力，人口在短时期内锐减百分之九十。在这样一个没有文字，仅靠口传来记载历史的民族，人的便消亡意味着历史的终结，好在精于石器建筑艺术的印加人留下了虽不能开口，但却能够永恒的马丘比丘古城遗迹，即便这世上再没有印加人，印加文明在地球上的痕迹也将无法磨灭。
+<h3><a href="http://book.sina.com.cn/nzt/1073011201_50places/index.shtml" title="Jump to World Wind">
+       http://book.sina.com.cn/nzt/1073011201_50places/index.shtml</a><br></h3>]]></description>
+		<LookAt id="khLookAt843">
+			<longitude>-72.54561666404108</longitude>
+			<latitude>-13.1631116745851</latitude>
+			<altitude>0</altitude>
+			<range>166.3805170713551</range>
+			<tilt>-2.916689050422138e-010</tilt>
+			<heading>0.006786379991188366</heading>
+		</LookAt>
+		<styleUrl>#khStyle741</styleUrl>
+		<Point id="khPoint847">
+			<coordinates>-72.54604768416178,-13.16332671976532,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

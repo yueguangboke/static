@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Folder>
+	<name>Hawaii</name>
+	<open>1</open>
+	<Placemark>
+		<name>Los Angeles-class SSN</name>
+		<LookAt>
+			<longitude>-157.9600040835812</longitude>
+			<latitude>21.35101472235583</latitude>
+			<altitude>0</altitude>
+			<range>261.4938112198835</range>
+			<tilt>0</tilt>
+			<heading>0.001163822577362393</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point>
+			<coordinates>-157.9604203130848,21.35051187671218,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="khPlacemark670">
+		<name>Los Angeles-class SSN</name>
+		<LookAt id="khLookAt671">
+			<longitude>-157.9600040835812</longitude>
+			<latitude>21.35101472234603</latitude>
+			<altitude>0</altitude>
+			<range>261.4938112198835</range>
+			<tilt>0</tilt>
+			<heading>0.001163822577374184</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point id="khPoint672">
+			<coordinates>-157.9595359110485,21.35187026639074,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="khPlacemark679">
+		<name>Los Angeles-class SSN</name>
+		<LookAt id="khLookAt680">
+			<longitude>-157.9582383107353</longitude>
+			<latitude>21.35188486535675</latitude>
+			<altitude>0</altitude>
+			<range>261.2053824482459</range>
+			<tilt>1.727638813898423e-010</tilt>
+			<heading>0.001806738248287989</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point id="khPoint681">
+			<coordinates>-157.9584344788559,21.35153592795713,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="khPlacemark688">
+		<name>Los Angeles-class SSN</name>
+		<LookAt id="khLookAt689">
+			<longitude>-157.9570090025431</longitude>
+			<latitude>21.3531065211195</latitude>
+			<altitude>0</altitude>
+			<range>261.4357744706195</range>
+			<tilt>8.321014127256651e-011</tilt>
+			<heading>0.002254335106406036</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point id="khPoint690">
+			<coordinates>-157.9570522185136,21.35294372205686,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="khPlacemark697">
+		<name>Los Angeles-class SSN</name>
+		<LookAt id="khLookAt698">
+			<longitude>-157.9560420739228</longitude>
+			<latitude>21.35434009073604</latitude>
+			<altitude>0</altitude>
+			<range>261.6603192171154</range>
+			<tilt>3.682509949972141e-011</tilt>
+			<heading>0.002606420946411253</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point id="khPoint699">
+			<coordinates>-157.9561128492287,21.35436389698561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="khPlacemark706">
+		<name>Los Angeles-class SSN</name>
+		<LookAt id="khLookAt707">
+			<longitude>-157.9554953639306</longitude>
+			<latitude>21.35512025457896</latitude>
+			<altitude>0</altitude>
+			<range>354.1782455330092</range>
+			<tilt>5.083118751217669e-010</tilt>
+			<heading>0.002805505615738714</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point id="khPoint708">
+			<coordinates>-157.9553888868265,21.35547470707019,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Perry-class FFG</name>
+		<LookAt>
+			<longitude>-157.9524845447599</longitude>
+			<latitude>21.35546380850466</latitude>
+			<altitude>0</altitude>
+			<range>353.692691851351</range>
+			<tilt>5.08311835673782e-010</tilt>
+			<heading>0.003901983908020417</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point>
+			<coordinates>-157.9526333739036,21.35529799392258,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Austin-class LPD</name>
+		<LookAt>
+			<longitude>-157.9429759299053</longitude>
+			<latitude>21.3514253045944</latitude>
+			<altitude>0</altitude>
+			<range>323.6100623426559</range>
+			<tilt>5.878188235971467e-010</tilt>
+			<heading>0.007364374287494781</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point>
+			<coordinates>-157.9434772850712,21.3512870993482,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Burke-class DDG</name>
+		<LookAt id="khLookAt728">
+			<longitude>-157.9429661297781</longitude>
+			<latitude>21.35175236350491</latitude>
+			<altitude>0</altitude>
+			<range>323.9583610087582</range>
+			<tilt>4.041328827173835e-010</tilt>
+			<heading>0.007367948165140695</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point id="khPoint729">
+			<coordinates>-157.9430196640325,21.35254494342271,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="khPlacemark715">
+		<name>Los Angeles-class SSN</name>
+		<LookAt id="khLookAt716">
+			<longitude>-157.9479665812937</longitude>
+			<latitude>21.35698796644667</latitude>
+			<altitude>0</altitude>
+			<range>335.9146989724446</range>
+			<tilt>3.637296381764534e-010</tilt>
+			<heading>0.00554694755089325</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point id="khPoint717">
+			<coordinates>-157.9483704995971,21.35696684219623,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Los Angeles-class SSN</name>
+		<LookAt>
+			<longitude>-157.9439210442152</longitude>
+			<latitude>21.35752527131562</latitude>
+			<altitude>0</altitude>
+			<range>285.6054594069399</range>
+			<tilt>6.519622923293275e-010</tilt>
+			<heading>0.007020205095713009</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point>
+			<coordinates>-157.9444839556843,21.35724321568963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="khPlacemark724">
+		<name>Spruance-class DD</name>
+		<LookAt id="khLookAt746">
+			<longitude>-157.9826315987019</longitude>
+			<latitude>21.37507145615282</latitude>
+			<altitude>0</altitude>
+			<range>434.9848378940608</range>
+			<tilt>1.104703749146886e-011</tilt>
+			<heading>30.14199834995534</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point id="khPoint747">
+			<coordinates>-157.9827054830624,21.37473468296818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="khPlacemark526">
+		<name>T-AGOS Ocean Surveillance Ship</name>
+		<LookAt id="khLookAt527">
+			<longitude>-157.9723289291387</longitude>
+			<latitude>21.37539957423392</latitude>
+			<altitude>0</altitude>
+			<range>2971.111230186821</range>
+			<tilt>3.385836705569173e-011</tilt>
+			<heading>-22.71855410486135</heading>
+		</LookAt>
+		<styleUrl>root://styles#default+icon=0x307</styleUrl>
+		<Point id="khPoint528">
+			<coordinates>-157.9660449751373,21.37800726363165,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

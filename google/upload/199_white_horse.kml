@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>white_horse.kml</name>
+	<Style id="default+icon=0x3071244256_copy3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>英国威尔特白马</name>
+		<LookAt>
+			<longitude>-1.848347700970947</longitude>
+			<latitude>51.37245330820997</latitude>
+			<altitude>0</altitude>
+			<range>92.58812527206129</range>
+			<tilt>-2.401980936690913e-010</tilt>
+			<heading>0.0002845988953042888</heading>
+		</LookAt>
+		<styleUrl>#default+icon=0x3071244256_copy3</styleUrl>
+		<Point>
+			<coordinates>-1.848398200207342,51.37269875714143,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>中国名桥泸定桥</name>
+	<LookAt>
+		<longitude>102.2302159472501</longitude>
+		<latitude>29.91445820243074</latitude>
+		<altitude>0</altitude>
+		<range>86.66414973157499</range>
+		<tilt>-5.841803985245761e-011</tilt>
+		<heading>-3.083549865572924e-005</heading>
+	</LookAt>
+	<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+	<Point>
+		<coordinates>102.2301315560779,29.91450354205398,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

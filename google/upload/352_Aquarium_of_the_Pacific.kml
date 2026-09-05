@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>352_Aquarium_of_the_Pacific.kml</name>
+	<Style id="sn_icon63_copy0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>太平洋水族館</name>
+		<LookAt>
+			<longitude>-118.1968802468658</longitude>
+			<latitude>33.76216186102079</latitude>
+			<altitude>0</altitude>
+			<range>149.1076907769888</range>
+			<tilt>0</tilt>
+			<heading>85.28955942184602</heading>
+		</LookAt>
+		<styleUrl>#sn_icon63_copy0</styleUrl>
+		<Point>
+			<coordinates>-118.1968802468658,33.76216186102079,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

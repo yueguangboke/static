@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Tokyo_Tower.kml</name>
+	<Style id="default4_copy1">
+	</Style>
+	<Placemark>
+		<name>东京塔</name>
+		<description>位于东京市内，建成于1958年，塔高333米，是日本最高的独立铁塔。 东京塔是东京的最高点。</description>
+		<LookAt>
+			<longitude>139.7458518442092</longitude>
+			<latitude>35.65809120326352</latitude>
+			<altitude>0</altitude>
+			<range>319.2038037512568</range>
+			<tilt>1.192593073149739e-010</tilt>
+			<heading>0.1505451115965067</heading>
+		</LookAt>
+		<styleUrl>#default4_copy1</styleUrl>
+		<Point>
+			<coordinates>139.7455387501205,35.65851400472299,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

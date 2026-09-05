@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>克里姆林宫</name>
+	<LookAt>
+		<longitude>37.61646238027306</longitude>
+		<latitude>55.75050263317779</latitude>
+		<altitude>0</altitude>
+		<range>108.2369494129161</range>
+		<tilt>3.885577924939686e-010</tilt>
+		<heading>-0.00178329337073016</heading>
+	</LookAt>
+	<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+	<Point>
+		<coordinates>37.61627455088893,55.75061365926194,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

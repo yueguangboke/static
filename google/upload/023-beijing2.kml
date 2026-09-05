@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Placemark>
+  <name>天坛</name>
+  <LookAt>
+    <longitude>116.4072318433732</longitude>
+    <latitude>39.88161478557635</latitude>
+    <range>706.9551847284726</range>
+    <tilt>-4.441642676451823e-012</tilt>
+    <heading>0.05866153085328047</heading>
+  </LookAt>
+  <visibility>0</visibility>
+  <styleUrl>root://styles#default+icon=0x307</styleUrl>
+  <Point>
+    <coordinates>116.4067556087079,39.88223353518815,0</coordinates>
+  </Point>
+</Placemark>
+</kml>

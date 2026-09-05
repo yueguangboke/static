@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Pisa_Tower.kml</name>
+	<Style id="style">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>比萨斜塔 </name>
+		<LookAt>
+			<longitude>10.39641080867412</longitude>
+			<latitude>43.72290713371332</latitude>
+			<altitude>0</altitude>
+			<range>102.7530203628031</range>
+			<tilt>8.857495155568272e-010</tilt>
+			<heading>2.090994663907761e-005</heading>
+		</LookAt>
+		<styleUrl>#style</styleUrl>
+		<Point>
+			<coordinates>10.39640894914447,43.72291519721895,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

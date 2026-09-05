@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Disneyland.kml</name>
+	<StyleMap id="default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_copy1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+	</Style>
+	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl_copy10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_copy2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl_copy2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>世界六大迪士尼乐园</name>
+		<open>1</open>
+		<Placemark>
+			<name>加州迪斯尼乐园</name>
+			<LookAt>
+				<longitude>-117.9185311046233</longitude>
+				<latitude>33.8119942791062</latitude>
+				<altitude>0</altitude>
+				<heading>0.001914236355742366</heading>
+				<tilt>0</tilt>
+				<range>454.9087334519887</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>-117.9189856118538,33.81211288827014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>奥兰多迪斯尼乐园</name>
+			<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+			<Point>
+				<coordinates>-81.54940061466034,28.37400149660168,0</coordinates>
+			</Point>
+			<View>
+				<longitude>-81.54955898602913</longitude>
+				<latitude>28.374367890495</latitude>
+				<range>302.4672737436536</range>
+				<tilt>7.129945535239453e-011</tilt>
+				<heading>-0.08100716271064347</heading>
+			</View>
+		</Placemark>
+		<Placemark>
+			<name>东京迪斯尼乐园</name>
+			<LookAt>
+				<longitude>139.8812828185064</longitude>
+				<latitude>35.63233269762225</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0007416775782733639</heading>
+				<tilt>7.669672739048036e-011</tilt>
+				<range>226.722905062041</range>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy0</styleUrl>
+			<Point>
+				<coordinates>139.8806148161466,35.63251663216676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>巴黎迪斯尼乐园</name>
+			<LookAt>
+				<longitude>2.776943134460077</longitude>
+				<latitude>48.87246984415901</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003759454155405132</heading>
+				<tilt>9.75937202537317e-010</tilt>
+				<range>77.42101092778198</range>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy10</styleUrl>
+			<Point>
+				<coordinates>2.776746468548168,48.8725966735041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>香港迪斯尼乐园</name>
+			<LookAt>
+				<longitude>114.0418244888632</longitude>
+				<latitude>22.31286216130102</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001925911932527017</heading>
+				<tilt>4.909750971500841e-011</tilt>
+				<range>773.9259596354544</range>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin_copy2</styleUrl>
+			<Point>
+				<coordinates>114.0416125955305,22.31255176170908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上海迪士尼乐园</name>
+			<LookAt>
+				<longitude>121.6567111402977</longitude>
+				<latitude>31.14470575583612</latitude>
+				<altitude>0</altitude>
+				<heading>8.5638557807555e-005</heading>
+				<tilt>22.05672807495979</tilt>
+				<range>1477.634378915171</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>121.656390965011,31.14464061148187,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

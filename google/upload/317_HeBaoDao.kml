@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>317_HeBaoDao.kml</name>
+	<StyleMap id="msn_ylw-pushpin_copy2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin_copy5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin_copy5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin_copy1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin_copy2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin_copy2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>珠海荷包岛</name>
+		<open>1</open>
+		<Placemark>
+			<name>荷包岛钓鱼台</name>
+			<description>荷包岛钓鱼台</description>
+			<LookAt>
+				<longitude>113.1660708879473</longitude>
+				<latitude>21.85819281526286</latitude>
+				<altitude>0</altitude>
+				<range>374.4189833966594</range>
+				<tilt>-3.823993014500107e-010</tilt>
+				<heading>-5.641652867079885</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy6</styleUrl>
+			<Point>
+				<coordinates>113.1653757208914,21.85790622840365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>荷包岛海滩</name>
+			<description>荷包岛海滩，景色不错</description>
+			<LookAt>
+				<longitude>113.1620763326605</longitude>
+				<latitude>21.85889060511275</latitude>
+				<altitude>0</altitude>
+				<range>371.8282189917381</range>
+				<tilt>-2.773407516123214e-010</tilt>
+				<heading>-5.643140068157749</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy1</styleUrl>
+			<Point>
+				<coordinates>113.1617729912638,21.85866165025405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>小木屋</name>
+			<description>非常小的木屋，可以睡觉</description>
+			<LookAt>
+				<longitude>113.1604889842285</longitude>
+				<latitude>21.85909054967899</latitude>
+				<altitude>0</altitude>
+				<range>132.7677203331687</range>
+				<tilt>-1.018272211017633e-009</tilt>
+				<heading>-5.643731009927575</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy4</styleUrl>
+			<Point>
+				<coordinates>113.1604388888889,21.85898333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>烧烤场</name>
+			<description>烧烤场，有不少鸽子</description>
+			<LookAt>
+				<longitude>113.1616908504759</longitude>
+				<latitude>21.85927428123656</latitude>
+				<altitude>0</altitude>
+				<range>143.0140971339897</range>
+				<tilt>-2.72049105852507e-010</tilt>
+				<heading>-5.643283543287837</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy0</styleUrl>
+			<Point>
+				<coordinates>113.1617044984863,21.85929805719962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>山顶候车亭</name>
+			<description>山顶候车亭</description>
+			<LookAt>
+				<longitude>113.1666882521922</longitude>
+				<latitude>21.85906902625629</latitude>
+				<altitude>0</altitude>
+				<range>80.02625095718497</range>
+				<tilt>-2.151839515528595e-011</tilt>
+				<heading>-5.641422922952296</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy2</styleUrl>
+			<Point>
+				<coordinates>113.1665677595182,21.85908527327139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>蝴蝶谷</name>
+			<description>蝴蝶谷生态保护区</description>
+			<LookAt>
+				<longitude>113.1419891549043</longitude>
+				<latitude>21.85766094940593</latitude>
+				<altitude>0</altitude>
+				<range>1866.902974770546</range>
+				<tilt>-3.947592977073159e-011</tilt>
+				<heading>-5.650616370745409</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>113.1434562237033,21.85675282256684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>荷包岛码头</name>
+			<description>荷包岛的码头，这里可以换车去海滩</description>
+			<LookAt>
+				<longitude>113.1577257708556</longitude>
+				<latitude>21.87441002904971</latitude>
+				<altitude>0</altitude>
+				<range>392.279629209411</range>
+				<tilt>4.870060178055494e-013</tilt>
+				<heading>-5.644757103985178</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy5</styleUrl>
+			<Point>
+				<coordinates>113.1568189034826,21.8745910455704,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

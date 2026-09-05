@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>arc_de_triomphe.kml</name>
+	<Style id="default+icon=0x3071244256_copy1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>凯旋门</name>
+		<LookAt>
+			<longitude>2.295191284310879</longitude>
+			<latitude>48.87366989919723</latitude>
+			<altitude>0</altitude>
+			<range>64.91298447883564</range>
+			<tilt>5.010938538651683e-010</tilt>
+			<heading>2.73337173854535e-006</heading>
+		</LookAt>
+		<styleUrl>#default+icon=0x3071244256_copy1</styleUrl>
+		<Point>
+			<coordinates>2.295050548551515,48.8736850461789,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

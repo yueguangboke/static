@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>337_Nellis.kml</name>
+	<Style id="sn_ylw-pushpin_copy31">
+	</Style>
+	<Placemark>
+		<name>美国内利斯空军基地</name>
+		<LookAt>
+			<longitude>-115.0330433562949</longitude>
+			<latitude>36.22869517708119</latitude>
+			<altitude>0</altitude>
+			<range>731.6284638920332</range>
+			<tilt>3.151677634575561e-011</tilt>
+			<heading>0.06083542259541023</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy31</styleUrl>
+		<Point>
+			<coordinates>-115.0319052757489,36.2294203692475,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

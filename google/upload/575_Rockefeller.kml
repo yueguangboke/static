@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>575_Rockefeller.kml</name>
+	<Style id="sn_ylw-pushpin">
+	</Style>
+	<Placemark>
+		<name>纽约洛克菲勒中心</name>
+		<LookAt>
+			<longitude>-73.98135058721047</longitude>
+			<latitude>40.75852186256302</latitude>
+			<altitude>0</altitude>
+			<range>429.8633754447443</range>
+			<tilt>-6.957435671679485e-005</tilt>
+			<heading>0.007987890926131539</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-73.98136513504522,40.75885754073779,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

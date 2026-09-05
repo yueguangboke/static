@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>310_HaiKou.kml</name>
+	<Style id="sn_ylw-pushpin_copy140">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>海口世紀大橋</name>
+		<LookAt>
+			<longitude>110.3155407674556</longitude>
+			<latitude>20.05255527572513</latitude>
+			<altitude>0</altitude>
+			<range>743.6059806863344</range>
+			<tilt>0</tilt>
+			<heading>89.64644927036021</heading>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy140</styleUrl>
+		<Point>
+			<coordinates>110.31549889589,20.05281897782347,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

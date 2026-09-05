@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>伦敦之眼（英国伦敦摩天轮）</name>
+	<LookAt>
+		<longitude>-0.1197812137582961</longitude>
+		<latitude>51.50324279771482</latitude>
+		<altitude>0</altitude>
+		<range>140.7919977775098</range>
+		<tilt>2.448937405607091e-010</tilt>
+		<heading>-6.194332008649377e-007</heading>
+	</LookAt>
+	<styleUrl>root://styles#default</styleUrl>
+	<Point>
+		<coordinates>-0.1197446766530561,51.50332981493953,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

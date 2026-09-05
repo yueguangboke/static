@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>科罗拉多大峡谷</name>
+	<description>Double-click on &quot;Colorado River View&quot; to enter the
+canyon.</description>
+	<LookAt id="khLookAt617_copy1">
+		<longitude>-112.3281223683081</longitude>
+		<latitude>36.22385437221043</latitude>
+		<altitude>0</altitude>
+		<range>41397.15175473856</range>
+		<tilt>8.436559392543462</tilt>
+		<heading>131.0855756174833</heading>
+	</LookAt>
+	<styleUrl>root://styles#default</styleUrl>
+	<Point id="khPoint618_copy1">
+		<coordinates>-112.3283024752253,36.22398105257263,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>科西嘉岛</name>
+	<open>1</open>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>韦基奥港</name>
+		<description>韦基奥港(Porto-Vecchio)</description>
+		<styleUrl>#msn_ylw-pushpin4</styleUrl>
+		<Point>
+			<coordinates>9.2731475830078,41.589769752047,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>卡尔维</name>
+		<description><![CDATA[卡尔维(法语:Calvi),法国科西嘉省阿雅克肖以北<br />
+人口5千,位于科西嘉岛西北沿岸,这座热那亚人创建的城市是法国科西嘉大区上科西嘉省的一个小镇。 据说克里斯托弗·哥伦布出生于当时属于热那亚帝国的卡尔维,但因为当时科西嘉岛动荡不堪,居民名声很差,所以哥伦布隐瞒了自己的真实出生地。]]></description>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>8.755073547363301,42.564207297135,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>巴斯蒂亚</name>
+		<description>巴斯蒂亚(Bastia) 法国科西嘉岛东北部商业城市, 1975 年成为上科西嘉省(Corse)的省会,至今仍保留着地中海式的风情。它的历史性建筑、开满各色鲜花的阳台、古老的街道、涂漆的百叶窗以及高耸的房屋都绝对值得前去游览观光。 城市按其古老的港口依次分为两个部分:北部下游地区为 Terra-Vecchia 市;南部上游地区为 Terra-Nova 市。晚上,灯光璀璨,老港口、罗密欧(Romieu)花园、市中心和 St-Jean-Baptiste 都是游客信步闲逛的好去处。</description>
+		<styleUrl>#msn_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>9.4489288330078,42.700604408081,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>阿雅克肖</name>
+		<description><![CDATA[阿雅克肖（Ajaccio）, 法国南科西嘉省首府。位于科西嘉岛西岸阿雅克肖湾内，滨地中海。人口连郊区5.4万（1982）。七世纪时古城，十五世纪末重建。商业中心。旅游胜地。有建于十六世纪的大教堂，拿破仑三世时建立的宫殿和帝国小教堂。<br />
+　　阿雅克肖位于法国地中海岛屿科西嘉岛西海岸的阿雅克肖湾内，人口连郊区5.4万（1982）。是一个古老的渔港，也是该岛的活动中心，南科西嘉省的省会，也是拿破仑·波拿巴的故乡，1769年拿破仑就诞生在这里。七世纪时古城，十五世纪末重建。商业中心。旅游胜地。有建于十六世纪的大教堂，拿破仑三世时建立的宫殿和帝国小教堂。站在这里，遥望美丽的海岸、16世纪的要塞以及浮现于港湾的圣基乃尔岛，不由自主的想到从这里走出去，足遍及全欧洲的拿破仑。令人产生参观他的纪念馆和出生地的愿望。在阿雅克肖的港口,渔民们正在出售刚打上来的新鲜海鱼。退休的老人们正坐在长凳上,在阳光下漫谈。晚上,您可一直散步到老城区防波堤的尽头：港口、地势较低的城市及其周围的山丘,随着夜幕的降临,开始闪闪发光。]]></description>
+		<styleUrl>#msn_ylw-pushpin2</styleUrl>
+		<Point>
+			<coordinates>8.7370491027832,41.924887439204,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>科西嘉岛</name>
+		<description>科西嘉岛是地中海第四大岛。位于法兰西共和国大陆东南，南隔博尼法乔海峡与意大利撒丁岛相望。岛长 185公里，最宽85公里，面积8，680平方公里。人口23万（1982）。山地为主，１／２以上面积在海拔３９６米以上，海拔１９８０米以上山峰有２０座，最高点钦托峰海拔２７１０米。山体为花岗岩结构，岩体呈绯红、玫瑰和绛红色。岛上气候属地中海气候，年平均气温１５．５℃，阿雅克修平均气温为２１．２℃。冬季温和，夏不酷热。山地从１２—４月积雪。森林覆盖面积占全岛２０％。岛上水资源丰富，多海湾、海岬和小岛。生产谷物、水果和橄榄油。有食品加工、酿酒、养羊和养鱼业。有铜、银、铅等矿产。主要出口产品有乳酪、葡萄酒等。科西嘉(Corse)以其独特的海上山脉, 湍急的水流, 为世人展现出了一系列世上难得一见的美丽景象。 南部干旱, 有着长长的白色的沙滩, 在此驻足的游客会惊喜地发现这里还有着世界闻名的文化遗产。也正是这个原因使得到此漫步的人络绎不绝。走在竖立着路标的小道上, 其中就有著名的GR20步行路,此路一直通向西北方的卡尔维(Calvi)附近, 途中会经过萨尔德奈(Sartenais)的巨石时期的费利杜萨(Filitosa)遗迹 , 以及今天的海滨休养地普劳普丽亚挪(Propriano)、波多博罗(Porto Pollo)以及康普莫罗(Campomoro)。</description>
+		<LookAt>
+			<longitude>9.15434198752002</longitude>
+			<latitude>41.38769510758167</latitude>
+			<altitude>0</altitude>
+			<range>411.00402323997</range>
+			<tilt>0</tilt>
+			<heading>-0.07465340505346671</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>9.154749792943591,41.38750122535519,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>巴西里约热内卢救世主耶稣雕像</name>
+	<LookAt>
+		<longitude>-43.21047037850354</longitude>
+		<latitude>-22.95188285748086</latitude>
+		<altitude>0</altitude>
+		<range>115.7551802757937</range>
+		<tilt>-2.514714530515623e-011</tilt>
+		<heading>1.028504809667908e-005</heading>
+	</LookAt>
+	<Style>
+		<IconStyle>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-43.21049775827911,-22.95159982912684,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

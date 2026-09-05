@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>Osama Bin Laden Compound</name>
+	<Camera>
+		<longitude>73.24246080437229</longitude>
+		<latitude>34.16927926715504</latitude>
+		<altitude>138.5727382815322</altitude>
+		<heading>-8.909877906829067</heading>
+		<tilt>2.680431694564107</tilt>
+		<roll>-0.5053696035798426</roll>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</Camera>
+	<styleUrl>#msn_ylw-pushpin</styleUrl>
+	<Point>
+		<coordinates>73.24254305691271,34.1693290455182,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

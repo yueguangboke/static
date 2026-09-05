@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>上海大型超市分布图</name>
+	<open>1</open>
+	<Placemark>
+		<name>世纪联华青浦店</name>
+		<description><![CDATA[地址:上海市青浦区青浦镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43352>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.1083245277405,31.1614212656249,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世纪联华体育场店</name>
+		<description><![CDATA[地址:上海市徐汇区徐家汇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43351>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.4392876625061,31.18268161945721,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世纪联华南汇店</name>
+		<description><![CDATA[地址:上海市南汇区惠南镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43350>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.7697143554688,31.13264426092507,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世纪联华高桥店</name>
+		<description><![CDATA[地址:上海市浦东新区高桥镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43349>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.5697717666626,31.34543648050775,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世纪联华东宝店</name>
+		<description><![CDATA[地址:上海市虹口区广中路<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43348>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.470245718956,31.26480028949781,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世纪联华福山路店</name>
+		<description><![CDATA[地址:上海市浦东新区潍坊新村<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43347>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.5239059925079,31.23198615310053,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世纪联华长宁店</name>
+		<description><![CDATA[地址:上海市长宁区新泾镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43346>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.3643896579742,31.21075522813503,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世纪联华铜川店</name>
+		<description><![CDATA[地址:上海市普陀区石泉路<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43345>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.41441822052,31.25539519494848,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世纪联华维多利广场店</name>
+		<description><![CDATA[地址:上海市普陀区长寿路<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43344>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.4365410804749,31.24466371343557,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>世纪联华莘庄店</name>
+		<description><![CDATA[地址:上海市闵行区莘庄镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43337>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.3706660270691,31.10885578054425,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>易初莲花船厂路店</name>
+		<description><![CDATA[地址:上海市徐汇区斜土路<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43313>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.4546084403992,31.18738101893162,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>易初莲花川沙店</name>
+		<description><![CDATA[地址:上海市浦东新区川沙镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43311>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.6911578178406,31.20235879761457,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>易初莲花杨高北路店</name>
+		<description><![CDATA[地址:上海市浦东新区金桥镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43309>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.6029345989227,31.28077900525233,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>易初莲花周家嘴路店</name>
+		<description><![CDATA[地址:上海市杨浦区长白新村<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43308>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.5493011474609,31.28848083387216,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>易初莲花保德路店</name>
+		<description><![CDATA[地址:上海市闸北区临汾路<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43305>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.4624190330505,31.32158236160648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>易初莲花汶水店</name>
+		<description><![CDATA[地址:上海市闸北区彭浦镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43296>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.4066290855408,31.28883840349005,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>易初莲花嘉定店</name>
+		<description><![CDATA[地址:上海市嘉定区曹安公路1558号<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43275>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.3653230667114,31.25434044526224,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>易初莲花天山店</name>
+		<description><![CDATA[地址:上海市长宁区北新泾<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43270>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.3548946380615,31.21959132201491,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福万里商场（南门）</name>
+		<description><![CDATA[地址:上海市普陀区新村路<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43087>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.4066505432129,31.26971110972109,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福万里商场（北门）</name>
+		<description><![CDATA[地址:上海市普陀区新村路<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43086>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.4057922363281,31.27020630429668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福南方商城店</name>
+		<description><![CDATA[地址:上海市闵行区梅陇镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43085>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.3951706886292,31.13312180641562,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福联洋店</name>
+		<description><![CDATA[地址:上海市浦东新区钦洋镇<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43081>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.5513825416565,31.23713260379459,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福金桥店（南店）</name>
+		<description><![CDATA[地址:上海市浦东新区碧云路555号<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43080>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.5625834465027,31.24629644484212,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福金桥店（北店）</name>
+		<description><![CDATA[地址:上海市浦东新区碧云路555号<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43079>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.5612959861755,31.24777321691321,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福金桥店</name>
+		<description><![CDATA[地址:上海市浦东新区碧云路２７９号<br />
+电话:02150306899<br /><br /><a href=http://www.eemap.org/id/43078>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.5621542930603,31.24679176227224,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福曲阳店</name>
+		<description><![CDATA[地址:上海市虹口区曲阳路５６０号<br />
+电话:02165558078<br /><br /><a href=http://www.eemap.org/id/43071>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.486086845398,31.27887637331579,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福宝山店</name>
+		<description><![CDATA[地址:上海市宝山区通和新村<br />
+电话:<br /><br /><a href=http://www.eemap.org/id/43066>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.4382362365723,31.33021562982382,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福七宝店</name>
+		<description><![CDATA[<br /><br /><a href=http://www.eemap.org/id/34481>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.3369452953339,31.16705811102013,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>家乐福</name>
+		<description><![CDATA[家乐福古北店<br /><br /><a href=http://www.eemap.org/id/30331>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.3890552520752,31.19815112560772,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>武宁路家乐福</name>
+		<description><![CDATA[<br /><br /><a href=http://www.eemap.org/id/30236>显示详细</a>]]></description>
+		<Point>
+			<coordinates>121.4227920770645,31.23776098364894,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

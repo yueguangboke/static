@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RioDeJaneiro.kml</name>
+	<StyleMap id="default">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default0">
+	</Style>
+	<Style id="default1">
+	</Style>
+	<Placemark>
+		<name>巴西里约热内卢港口</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>-43.16644721145431</longitude>
+			<latitude>-22.94566050685316</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0003538464491247704</heading>
+			<tilt>0</tilt>
+			<range>5152.006799746478</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#default</styleUrl>
+		<Point>
+			<coordinates>-43.16788366087087,-22.94418653483987,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

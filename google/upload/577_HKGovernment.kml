@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>577_HKGovernment.kml</name>
+	<Style id="sn_ylw-pushpin_copy4">
+	</Style>
+	<Placemark>
+		<name>香港总督府礼宾府</name>
+		<LookAt>
+			<longitude>114.1572181938933</longitude>
+			<latitude>22.278530714787</latitude>
+			<altitude>0</altitude>
+			<range>239.8852546234525</range>
+			<tilt>6.578266445372119e-011</tilt>
+			<heading>-1.016243614233939e-005</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy4</styleUrl>
+		<Point>
+			<coordinates>114.1573841895713,22.27853901769852,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

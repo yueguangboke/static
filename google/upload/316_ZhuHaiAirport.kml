@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>316_ZhuHaiAirport.kml</name>
+	<Style id="sh_ylw-pushpin_copy3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>珠海机场</name>
+		<LookAt>
+			<longitude>113.3777555683018</longitude>
+			<latitude>22.0069040112114</latitude>
+			<altitude>0</altitude>
+			<range>2061.779922249334</range>
+			<tilt>-4.091611653625534e-011</tilt>
+			<heading>-0.0774660381864665</heading>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin_copy3</styleUrl>
+		<Point>
+			<coordinates>113.3722666404152,22.00999091320756,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

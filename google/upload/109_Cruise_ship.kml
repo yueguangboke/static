@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>韩国釜山被台风掀翻的游轮</name>
+	<description>Cruise ship capsized in Pusan Korea
+Very strange. It really looks like this cruise ship has capsized in port. The bow really seems to disappear below the water. Can anyone confirm whether this fact or fiction?</description>
+	<LookAt>
+		<longitude>129.1473186052447</longitude>
+		<latitude>35.15502832187327</latitude>
+		<altitude>0</altitude>
+		<range>318.5628694882254</range>
+		<tilt>4.1870574189102e-010</tilt>
+		<heading>0.05332012650207657</heading>
+	</LookAt>
+	<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+	<Point>
+		<coordinates>129.1473186052447,35.15502832187327,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

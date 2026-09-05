@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Placemark>
+	<name>尼亚加拉瀑布</name>
+	<description>尼亚加拉瀑布（Niagara Falls），印第安语意为‘雷神之水’。瀑布位于北美洲五大湖区的尼亚加拉河（Niagara River）上，年均流量5,720立方米／秒，是世界第一大跨国瀑布，并号称世界七大奇景之一。接伊利湖和安大略湖的尼亚加拉河流经宽约350米的戈特岛（Coat Island）时跌入断崖，并一分为二分别流入美国纽约州和加拿大安大略省，形成两个瀑布。
+
+欲知详情,请访问维基百科 : http://en.wikipedia.org/wiki/Niagara_Falls</description>
+	<LookAt>
+		<longitude>-79.07654943937946</longitude>
+		<latitude>43.07820078059879</latitude>
+		<altitude>0</altitude>
+		<range>419.3650580632537</range>
+		<tilt>1.079779464584703e-010</tilt>
+		<heading>161.1206302315888</heading>
+	</LookAt>
+	<styleUrl>root://styles#default+icon=0x307</styleUrl>
+	<Point>
+		<coordinates>-79.07525685307505,43.0776890917128,0</coordinates>
+	</Point>
+</Placemark>
+</kml>

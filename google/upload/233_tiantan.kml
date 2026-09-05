@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>233_tiantan.kml</name>
+	<Style id="sn_ylw-pushpin">
+	</Style>
+	<Placemark>
+		<name>北京天坛</name>
+		<LookAt>
+			<longitude>116.4068223490089</longitude>
+			<latitude>39.88193631708582</latitude>
+			<altitude>0</altitude>
+			<range>177.3131317737611</range>
+			<tilt>1.998148516335461e-010</tilt>
+			<heading>-4.466640471243489</heading>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>116.4067138969629,39.88227523457937,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

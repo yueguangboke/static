@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>palacio.kml</name>
+	<StyleMap id="default_copy:0_copy:0_copy:0_copy:0_copy:0_copy8+nicon=http://maps.google.com/mapfiles/kml/pal3/icon63.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy:0_copy:0_copy:0_copy:0_copy:0_copy8+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy:0_copy:0_copy:0_copy:0_copy:0_copy8+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default_copy:0_copy:0_copy:0_copy:0_copy:0_copy8+icon=http://maps.google.com/mapfiles/kml/pal3/icon55.png">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon34.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default_copy:0_copy:0_copy:0_copy:0_copy:0_copy8+icon=http://maps.google.com/mapfiles/kml/pal3/icon63.png">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon34.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>葡萄牙佩纳宫</name>
+		<LookAt>
+			<longitude>-9.390030949171647</longitude>
+			<latitude>38.7877212177558</latitude>
+			<altitude>0</altitude>
+			<range>379.5639155630992</range>
+			<tilt>6.843027828387304e-011</tilt>
+			<heading>-0.1915331890846055</heading>
+		</LookAt>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal3/icon63.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-9.390513248702121,38.7875744070754,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

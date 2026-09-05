@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Acropolis.kml</name>
+	<Style id="khStyle741">
+		<IconStyle id="khIconStyle742">
+			<color>997faaaa</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-5.png</href>
+				<x>128</x>
+				<y>64</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle id="khLabelStyle744">
+			<color>de7f55ff</color>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>雅典卫城 Acropolis</name>
+		<description><![CDATA[<table width="350">
+  <tr>
+    <td>
+<img src="http://image2.sina.com.cn/book/longbook/1073011201_50places/U15P112T3D34810F48DT20040102161032.gif" border="0" width="350" height="250"><br><br>
+
+在人类历史上，希腊是一段飘动的神话，这里曾是整个世界思考的中心：西方哲学、民主政治、奥林匹克、《伊利亚特》、《荷马史诗》……每一个名词都牵动着人类的灵魂深处。雅典的卫城，希腊的眼睛，尘世间每一个旅行者精神与理想的栖息地。
+
+<h3><a href="http://book.sina.com.cn/nzt/1073011201_50places/index.shtml" title="Jump to World Wind">
+       http://book.sina.com.cn/nzt/1073011201_50places/index.shtml</a><br></h3>]]></description>
+		<LookAt id="khLookAt1135">
+			<longitude>23.72648032614077</longitude>
+			<latitude>37.9713803204229</latitude>
+			<altitude>0</altitude>
+			<range>189.7856121535571</range>
+			<tilt>-1.490023400962637e-010</tilt>
+			<heading>0.0004106418629510623</heading>
+		</LookAt>
+		<Style>
+			<IconStyle id="khIconStyle742_copy2">
+				<color>997faaaa</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>root://icons/palette-3.png</href>
+					<x>224</x>
+					<w>32</w>
+					<h>32</h>
+				</Icon>
+			</IconStyle>
+			<LabelStyle id="khLabelStyle744_copy2">
+				<color>de7f55ff</color>
+			</LabelStyle>
+		</Style>
+		<Point id="khPoint1136">
+			<coordinates>23.72613018617591,37.9714843301929,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

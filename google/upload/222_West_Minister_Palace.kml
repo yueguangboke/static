@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>West_Minister_Palace.kml</name>
+	<Style id="default4_copy4">
+	</Style>
+	<Placemark>
+		<name>英国议会大厦</name>
+		<LookAt>
+			<longitude>-0.1236825889665392</longitude>
+			<latitude>51.49996826490332</latitude>
+			<altitude>0</altitude>
+			<range>330.1225250501572</range>
+			<tilt>6.070567638890719e-011</tilt>
+			<heading>-86.31869429492318</heading>
+		</LookAt>
+		<styleUrl>#default4_copy4</styleUrl>
+		<Point>
+			<coordinates>-0.1243717171333145,51.49925530522032,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

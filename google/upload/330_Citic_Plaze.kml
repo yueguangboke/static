@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>330_Citic_Plaze.kml</name>
+	<Style id="sn_ylw-pushpin_copy23">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>廣州中信大廈</name>
+		<LookAt>
+			<longitude>113.3194191044709</longitude>
+			<latitude>23.14433477611781</latitude>
+			<altitude>0</altitude>
+			<range>189.9922871517772</range>
+			<tilt>9.394147955097338e-011</tilt>
+			<heading>40.09269837961804</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy23</styleUrl>
+		<Point>
+			<coordinates>113.3194383297028,23.14443673563828,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

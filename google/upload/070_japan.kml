@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Japan-1.kmz</name>
+	<open>1</open>
+	<description><![CDATA[<a href="http://www.williamlong.info/google/">Google Earth观察</a>]]></description>
+	<Style id="khStyle542_copy0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default+icon=0x307">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>root://icons/palette-4.png</href>
+				<x>160</x>
+				<y>128</y>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="khStyle542">
+		<IconStyle id="khIconStyle546">
+			<Icon>
+				<href>root://icons/palette-3.png</href>
+				<x>224</x>
+				<w>32</w>
+				<h>32</h>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default">
+		<IconStyle>
+			<scale>0.5</scale>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Japan</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>139.2442779541016</longitude>
+			<latitude>35.52926063537598</latitude>
+			<altitude>0</altitude>
+			<range>109990.4803402859</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+		</LookAt>
+		<Placemark>
+			<name>日本靖国神社</name>
+			<LookAt>
+				<longitude>139.7432113339082</longitude>
+				<latitude>35.69431223759377</latitude>
+				<altitude>0</altitude>
+				<range>107.3291699348895</range>
+				<tilt>-1.821379327698836e-010</tilt>
+				<heading>-0.0004253512214890278</heading>
+			</LookAt>
+			<styleUrl>#default+icon=0x307</styleUrl>
+			<Point>
+				<coordinates>139.7430729851887,35.69409505636747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>富士山</name>
+			<LookAt id="khLookAt682">
+				<longitude>138.7238518435476</longitude>
+				<latitude>35.35845436881639</latitude>
+				<altitude>0</altitude>
+				<range>11515.28866109559</range>
+				<tilt>73.32801804299493</tilt>
+				<heading>64.86680014733737</heading>
+			</LookAt>
+			<styleUrl>#khStyle542_copy0</styleUrl>
+			<Point id="khPoint691">
+				<coordinates>138.725084289857,35.36405333964026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>东京塔</name>
+			<description>位于东京市内，建成于1958年，塔高333米，是日本最高的独立铁塔。 东京塔是东京的最高点。</description>
+			<LookAt>
+				<longitude>139.7455763534709</longitude>
+				<latitude>35.65979714909454</latitude>
+				<altitude>0</altitude>
+				<range>973.2518074702623</range>
+				<tilt>0</tilt>
+				<heading>0.1503845311083591</heading>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<coordinates>139.7451871939895,35.65868786998251,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

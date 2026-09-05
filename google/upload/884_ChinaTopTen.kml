@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>884_ChinaTopTen.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default">
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="default0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default1">
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>中国当代十大建筑</name>
+		<open>1</open>
+		<Placemark>
+			<name>台湾台北101大厦</name>
+			<LookAt>
+				<longitude>121.5652172803391</longitude>
+				<latitude>25.03388335166897</latitude>
+				<altitude>0</altitude>
+				<heading>-86.87368531829921</heading>
+				<tilt>5.820142597441819e-010</tilt>
+				<range>264.9177055269086</range>
+			</LookAt>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>121.5643773985505,25.03360242420186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上海中心大厦</name>
+			<LookAt>
+				<longitude>121.5003386892556</longitude>
+				<latitude>31.23793858854783</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002159020794382646</heading>
+				<tilt>6.309178377566918</tilt>
+				<range>2269.731999714099</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>121.5011787995017,31.23522697823046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上海证大喜马拉雅中心</name>
+			<LookAt>
+				<longitude>121.555071296935</longitude>
+				<latitude>31.2104686174932</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002459401881682105</heading>
+				<tilt>0</tilt>
+				<range>1771.921395647771</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>121.5573766641855,31.21144334419987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上海金茂大厦</name>
+			<LookAt>
+				<longitude>121.5013487555219</longitude>
+				<latitude>31.23731031143334</latitude>
+				<altitude>0</altitude>
+				<heading>1.064694643020618</heading>
+				<tilt>9.578950172751881e-011</tilt>
+				<range>370.2436692059417</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>121.501079126476,31.23742120441698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中国美术学院象山校区</name>
+			<LookAt>
+				<longitude>120.0739115359958</longitude>
+				<latitude>30.15577610088645</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002744653368943491</heading>
+				<tilt>18.122011516031</tilt>
+				<range>1151.917749180638</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.0748687103058,30.15573748096823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>广州电视塔</name>
+			<LookAt>
+				<longitude>113.3193461759062</longitude>
+				<latitude>23.10890608972774</latitude>
+				<altitude>325.904430666674</altitude>
+				<heading>-4.007323968136551e-010</heading>
+				<tilt>28.10486996552843</tilt>
+				<range>401.4539209739651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>113.3192045672378,23.10881917140531,327.4191340661962</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北京骏豪中央公园广场</name>
+			<LookAt>
+				<longitude>116.467287643283</longitude>
+				<latitude>39.93177124715251</latitude>
+				<altitude>0</altitude>
+				<heading>0.05330750899482353</heading>
+				<tilt>0</tilt>
+				<range>1461.913893092504</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>116.4712215792944,39.93105570506013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北京国贸三期</name>
+			<LookAt>
+				<longitude>116.452482041201</longitude>
+				<latitude>39.91243310963208</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001052792686228784</heading>
+				<tilt>6.87079582753549</tilt>
+				<range>1052.334547384651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>116.4522984261983,39.91115685449567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北京鸟巢国家体育场</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>116.3904640059438</longitude>
+				<latitude>39.99152583164612</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002035987285425858</heading>
+				<tilt>4.125937292891945e-011</tilt>
+				<range>441.2736325678885</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>116.3902453648051,39.99126590438407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中国尊</name>
+			<LookAt>
+				<longitude>116.4591320269199</longitude>
+				<latitude>39.91140492098196</latitude>
+				<altitude>0</altitude>
+				<heading>0.004507261782091162</heading>
+				<tilt>20.25563967643902</tilt>
+				<range>993.5897061084013</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>116.4606730334869,39.91035200926702,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

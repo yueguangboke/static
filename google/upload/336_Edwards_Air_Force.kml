@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>336_Edwards_Air_Force.kml</name>
+	<Style id="sn_ylw-pushpin_copy29">
+	</Style>
+	<Placemark>
+		<name>美国爱德华兹基地</name>
+		<LookAt>
+			<longitude>-117.8688522158914</longitude>
+			<latitude>34.89991715214799</latitude>
+			<altitude>0</altitude>
+			<range>1038.639176168784</range>
+			<tilt>5.915320282178807e-011</tilt>
+			<heading>0.03896902178022006</heading>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#sn_ylw-pushpin_copy29</styleUrl>
+		<Point>
+			<coordinates>-117.8701608322867,34.89948325189752,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
